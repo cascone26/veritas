@@ -39,7 +39,7 @@ export default function OneLinersPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="One-Liner Arsenal"
         subtitle="Quick responses for common objections — click to copy"

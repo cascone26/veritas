@@ -110,7 +110,7 @@ export default function FlashcardsPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Flashcards"
         subtitle="Generate and review with spaced repetition"

@@ -28,7 +28,7 @@ export default function AnalogiesPage() {
     .filter((g) => g.analogies.length > 0);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Analogy Bank"
         subtitle="Analogies for every major doctrine — with heresy warnings"

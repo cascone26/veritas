@@ -19,7 +19,7 @@ export default function BioethicsPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Bioethics Reference"
         subtitle="Catholic moral theology applied to life issues"

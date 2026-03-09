@@ -8,7 +8,7 @@ export default function DenominationMap() {
   const [expanded, setExpanded] = useState<string | null>(null);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader title="Denominational Map" subtitle="What each denomination believes — and how to engage them" icon="🗂️" />
       <div className="flex-1 overflow-y-auto px-6 py-4">
         <div className="space-y-2">

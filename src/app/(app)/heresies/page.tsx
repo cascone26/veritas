@@ -15,7 +15,7 @@ export default function HeresyIndex() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader title="Heresy Index" subtitle="Every major heresy — what it claims, why it's wrong, where Aquinas refutes it" icon="🔥" />
       <div className="flex-1 overflow-y-auto">
         <div className="sticky top-0 z-10 border-b border-stone-800 bg-stone-950 px-6 py-3">

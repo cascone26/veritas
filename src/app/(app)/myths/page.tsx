@@ -31,7 +31,7 @@ export default function MythsPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Anti-Catholic Myth Buster"
         subtitle="Common myths demolished with facts and sources"

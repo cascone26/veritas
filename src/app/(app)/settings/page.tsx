@@ -36,7 +36,7 @@ export default function SettingsPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Settings"
         subtitle="Configuration and preferences"

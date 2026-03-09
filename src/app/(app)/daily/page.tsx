@@ -43,7 +43,7 @@ export default function DailyPage() {
   }, []);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Daily Question"
         subtitle="A new theology question every day to sharpen your mind"

@@ -101,7 +101,7 @@ export default function ReadingPage() {
   const completedItems = Object.values(completion).filter(Boolean).length;
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Reading Tracker"
         subtitle="Track your progress through the great works"

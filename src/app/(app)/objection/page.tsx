@@ -51,7 +51,7 @@ export default function ObjectionHandler() {
   ];
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Objection Handler"
         subtitle="Paste any anti-Catholic argument. Get a structured Thomistic response."

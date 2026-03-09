@@ -253,7 +253,7 @@ export default function PlansPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Reading Plans"
         subtitle="Structured study plans for systematic learning"

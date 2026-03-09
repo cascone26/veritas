@@ -3,7 +3,7 @@ import PageHeader from "@/components/PageHeader";
 
 export default function DebateSimulator() {
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Debate Simulator"
         subtitle="Practice defending the faith against AI opponents"

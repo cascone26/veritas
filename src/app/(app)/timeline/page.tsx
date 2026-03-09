@@ -178,7 +178,7 @@ export default function TimelinePage() {
   const matchSet = useMemo(() => new Set(matchIndices), [matchIndices]);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Historical Timeline"
         subtitle="Key events in Catholic intellectual history"

@@ -107,7 +107,7 @@ export default function WeaknessPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Weakness Tracker"
         subtitle="Track your weak areas and build confidence over time"

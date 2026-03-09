@@ -18,7 +18,7 @@ export default function MarianPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Marian Encyclopedia"
         subtitle="Dogmas, titles, and theology of the Blessed Virgin Mary"

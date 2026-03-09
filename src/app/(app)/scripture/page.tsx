@@ -24,7 +24,7 @@ export default function ScriptureIndex() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader title="Scripture Index" subtitle="Contested verses with Catholic interpretation and Thomistic defense" icon="📜" />
       <div className="flex-1 overflow-y-auto">
         <div className="sticky top-0 z-10 border-b border-stone-800 bg-stone-950 px-6 py-3">

@@ -39,7 +39,7 @@ export default function FathersPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Church Fathers"
         subtitle="The great theologians of the first millennium"

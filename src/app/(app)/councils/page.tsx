@@ -20,7 +20,7 @@ export default function CouncilsPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Ecumenical Councils"
         subtitle="All 21 ecumenical councils of the Catholic Church"

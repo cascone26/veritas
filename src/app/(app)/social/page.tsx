@@ -19,7 +19,7 @@ export default function SocialTeachingPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Catholic Social Teaching"
         subtitle="The Church's wisdom on justice, dignity, and the common good"

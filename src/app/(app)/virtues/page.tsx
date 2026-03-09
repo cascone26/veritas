@@ -50,7 +50,7 @@ export default function VirtuesPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Virtue & Vice Catalog"
         subtitle="Virtues, vices, gifts, fruits, and beatitudes"

@@ -280,7 +280,7 @@ export default function ArgumentsPage() {
   const [expanded, setExpanded] = useState<number | null>(null);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Argument Trees"
         subtitle="Pre-built logical structures for major proofs of the faith"

@@ -46,7 +46,7 @@ export default function ContributionsPage() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Catholic Contributions"
         subtitle="How the Church built Western civilization"

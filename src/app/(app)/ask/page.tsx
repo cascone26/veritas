@@ -3,7 +3,7 @@ import PageHeader from "@/components/PageHeader";
 
 export default function AskThomas() {
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Ask Aquinas"
         subtitle="AI chat grounded in the complete works of Aquinas"

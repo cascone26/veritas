@@ -25,3 +25,33 @@ body {
   background: var(--background);
   color: var(--foreground);
 }
+
+/* Full height accounting for mobile bottom nav */
+.h-app {
+  height: calc(100dvh - 3.5rem); /* subtract mobile bottom nav */
+}
+@media (min-width: 1024px) {
+  .h-app {
+    height: 100dvh;
+  }
+}
+
+/* Safe area for mobile bottom nav (iPhone notch/home indicator) */
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* Hide scrollbar on sidebar for cleaner look */
+aside::-webkit-scrollbar {
+  width: 4px;
+}
+aside::-webkit-scrollbar-track {
+  background: transparent;
+}
+aside::-webkit-scrollbar-thumb {
+  background: #44403c;
+  border-radius: 2px;
+}
+aside::-webkit-scrollbar-thumb:hover {
+  background: #57534e;
+}

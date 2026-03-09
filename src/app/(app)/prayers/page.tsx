@@ -29,7 +29,7 @@ export default function PrayersPage() {
     .filter((g) => g.prayers.length > 0);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Prayer Corner"
         subtitle="Prayers from Aquinas, the Saints, and the Catholic tradition"

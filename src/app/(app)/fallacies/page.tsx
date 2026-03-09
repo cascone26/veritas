@@ -32,7 +32,7 @@ export default function FallaciesPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Logical Fallacy Index"
         subtitle="Identify and counter bad reasoning"

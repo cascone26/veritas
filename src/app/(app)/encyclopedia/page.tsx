@@ -231,7 +231,7 @@ export default function EncyclopediaPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Encyclopedia"
         subtitle="Your complete Catholic reference library"

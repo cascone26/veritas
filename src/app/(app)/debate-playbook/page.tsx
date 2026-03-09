@@ -109,7 +109,7 @@ export default function DebatePlaybookPage() {
   const [expanded, setExpanded] = useState<string | null>(SECTIONS[0].id);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Debate Playbook"
         subtitle="Practical strategies for charitable, effective apologetics"

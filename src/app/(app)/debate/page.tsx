@@ -69,7 +69,7 @@ export default function DebatePrep() {
   };
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Debate Prep"
         subtitle="Get a full briefing on any topic against any opponent type"

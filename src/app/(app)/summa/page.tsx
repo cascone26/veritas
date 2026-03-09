@@ -19,7 +19,7 @@ export default function SummaBrowser() {
   );
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Summa Browser"
         subtitle="512 questions, 2,669 articles — searchable and cross-referenced"

@@ -8,7 +8,7 @@ export default function CovenantsPage() {
   const [expanded, setExpanded] = useState<string | null>(null);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Biblical Covenants Map"
         subtitle="The progressive unfolding of God's plan through covenant"

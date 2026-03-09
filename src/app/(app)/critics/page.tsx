@@ -35,7 +35,7 @@ export default function CriticsPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Modern Critics Index"
         subtitle="Know the opposition, answer with charity and precision"

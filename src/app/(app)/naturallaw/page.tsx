@@ -19,7 +19,7 @@ export default function NaturalLawPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Natural Law Toolkit"
         subtitle="Arguments, applications, objections, and responses"

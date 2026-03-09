@@ -20,7 +20,7 @@ export default function SaintsPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Doctors of the Church"
         subtitle="All 37 Doctors — their lives, works, and connection to Aquinas"

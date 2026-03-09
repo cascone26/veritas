@@ -19,7 +19,7 @@ export default function TypologyPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Typology Index"
         subtitle="Old Testament types fulfilled in the New Testament"

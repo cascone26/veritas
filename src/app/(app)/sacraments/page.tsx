@@ -8,7 +8,7 @@ export default function SacramentsPage() {
   const [expanded, setExpanded] = useState<string | null>(null);
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Sacrament Deep Dives"
         subtitle="The seven sacraments — matter, form, effects, and defense"

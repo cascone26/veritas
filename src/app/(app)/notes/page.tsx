@@ -99,7 +99,7 @@ export default function NotesPage() {
   });
 
   return (
-    <div className="flex h-screen flex-col">
+    <div className="flex h-app flex-col">
       <PageHeader
         title="Notes & Journal"
         subtitle="Your personal theological notebook"
