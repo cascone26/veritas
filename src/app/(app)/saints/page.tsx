@@ -83,7 +83,7 @@ export default function SaintsPage() {
                       Connection to Aquinas
                     </h4>
                     <p className="text-sm text-stone-300">
-                      {d.aquinasConnection}
+                      {d.connectionToAquinas}
                     </p>
                   </div>
                 </div>

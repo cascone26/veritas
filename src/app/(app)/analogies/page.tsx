@@ -16,7 +16,7 @@ export default function AnalogiesPage() {
     return (
       a.doctrine.toLowerCase().includes(s) ||
       a.analogy.toLowerCase().includes(s) ||
-      a.source.toLowerCase().includes(s)
+      a.source?.toLowerCase().includes(s)
     );
   });
 
@@ -88,31 +88,13 @@ export default function AnalogiesPage() {
                             <h4 className="mb-1 text-[10px] font-semibold uppercase tracking-wider text-emerald-500">
                               Strengths
                             </h4>
-                            <ul className="space-y-1">
-                              {a.strengths.map((s, j) => (
-                                <li
-                                  key={j}
-                                  className="text-sm text-stone-400"
-                                >
-                                  • {s}
-                                </li>
-                              ))}
-                            </ul>
+                            <p className="text-sm text-stone-400">{a.strengths}</p>
                           </div>
                           <div>
                             <h4 className="mb-1 text-[10px] font-semibold uppercase tracking-wider text-yellow-500">
                               Limitations
                             </h4>
-                            <ul className="space-y-1">
-                              {a.limitations.map((l, j) => (
-                                <li
-                                  key={j}
-                                  className="text-sm text-stone-400"
-                                >
-                                  • {l}
-                                </li>
-                              ))}
-                            </ul>
+                            <p className="text-sm text-stone-400">{a.limitations}</p>
                           </div>
                           {a.heresyWarning && (
                             <div className="rounded-lg border border-red-900/50 bg-red-950/30 p-3">
