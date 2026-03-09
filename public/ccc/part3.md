@@ -1,6 +1,10 @@
 # Part 3: Life in Christ
 
-PART THREE:LIFE IN CHRIST1691.** "Christian, recognize your dignity and, now that you share in God's own nature, do not return to your former base condition by sinning. Remember who is your head and of whose body you are a member. Never forget that you have been rescued from the power of darkness and brought into the light of the Kingdom of God."
+#### PART THREE:
+
+#### LIFE IN CHRIST
+
+**1691.** "Christian, recognize your dignity and, now that you share in God's own nature, do not return to your former base condition by sinning. Remember who is your head and of whose body you are a member. Never forget that you have been rescued from the power of darkness and brought into the light of the Kingdom of God."
 
 **1692.** The Symbol of the faith confesses the greatness of God's gifts to man in his work of creation, and even more in redemption and sanctification. What faith confesses, the sacraments communicate: by the sacraments of rebirth, Christians have become "children of God," "partakers of the divine nature." Coming to see in the faith their new dignity, Christians are called to lead henceforth a life "worthy of the gospel of Christ." They are made capable of doing so by the grace of Christ and the gifts of his Spirit, which they receive through the sacraments and through prayer.
 
@@ -12,50 +16,31 @@ PART THREE:LIFE IN CHRIST1691.** "Christian, recognize your dignity and, now tha
 
 **1696.** The way of Christ "leads to life"; a contrary way "leads to destruction." The Gospel parable of the two ways remains ever present in the catechesis of the Church; it shows the importance of moral decisions for our salvation: "There are two ways, the one of life, the other of death; but between the two, there is a great difference."
 
-**1697.** Catechesis has to reveal in all clarity the joy and the demands of the way of Christ. Catechesis for the "newness of life" in him should be: ** -a catechesis of the Holy Spirit, the interior Master of life according to Christ, a gentle guest and friend who inspires, guides, corrects, and strengthens this life;
-
--a catechesis of grace, for it is by grace that we are saved and again it is by
-grace that our works can bear fruit for eternal life;
-
--a catechesis of the beatitudes, for the way of Christ is summed up in the
-beatitudes, the only path that leads to the eternal beatitude for which the
-human heart longs;
-
--a catechesis of sin and forgiveness, for unless man acknowledges that he is a
-sinner he cannot know the truth about himself, which is a condition for acting
-justly; and without the offer of forgiveness he would not be able to bear this
-truth;
-
--a catechesis of the human virtues which causes one to grasp the beauty and
-attraction of right dispositions towards goodness;
-
--a catechesis of the Christian virtues of faith, hope, and charity, generously
-inspired by the example of the saints; -a catechesis of the twofold commandment
-of charity set forth in the Decalogue;
-
--an ecclesial catechesis, for it is through the manifold exchanges of
-"spiritual goods" in the "communion of saints" that
-Christian life can grow, develop, and be communicated.
+**1697.** Catechesis has to reveal in all clarity the joy and the demands of the way of Christ. Catechesis for the "newness of life" in him should be: -a catechesis of the Holy Spirit, the interior Master of life according to Christ, a gentle guest and friend who inspires, guides, corrects, and strengthens this life; -a catechesis of grace, for it is by grace that we are saved and again it is by grace that our works can bear fruit for eternal life; -a catechesis of the beatitudes, for the way of Christ is summed up in the beatitudes, the only path that leads to the eternal beatitude for which the human heart longs; -a catechesis of sin and forgiveness, for unless man acknowledges that he is a sinner he cannot know the truth about himself, which is a condition for acting justly; and without the offer of forgiveness he would not be able to bear this truth; -a catechesis of the human virtues which causes one to grasp the beauty and attraction of right dispositions towards goodness; -a catechesis of the Christian virtues of faith, hope, and charity, generously inspired by the example of the saints; -a catechesis of the twofold commandment of charity set forth in the Decalogue; -an ecclesial catechesis, for it is through the manifold exchanges of "spiritual goods" in the "communion of saints" that Christian life can grow, develop, and be communicated.
 
 **1698.** The first and last point of reference of this catechesis will always be Jesus Christ himself, who is "the way, and the truth, and the life." It is by looking to him in faith that Christ's faithful can hope that he himself fulfills his promises in them, and that, by loving him with the same love with which he has loved them, they may perform works in keeping with their dignity:
 
-I ask you to consider that our
-Lord Jesus Christ is your true head, and that you are one of his members. He
-belongs to you as the head belongs to its members; all that is his is yours:
-his spirit, his heart, his body and soul, and all his faculties. You must make
-use of all these as of your own, to serve, praise, love, and glorify God. You
-belong to him, as members belong to their head. and so he longs for you to use
-all that is in you, as if it were his own, for the service and glory of the
-Father.
+I ask you to consider that our Lord Jesus Christ is your true head, and that you are one of his members. He belongs to you as the head belongs to its members; all that is his is yours: his spirit, his heart, his body and soul, and all his faculties. You must make use of all these as of your own, to serve, praise, love, and glorify God. You belong to him, as members belong to their head. and so he longs for you to use all that is in you, as if it were his own, for the service and glory of the Father.
 
-For to me, to live is
-Christ.
+For to me, to live is Christ.
 
-SECTION ONEMAN'S VOCATION LIFE IN THE SPIRIT 1699.** Life in the Holy Spirit fulfills the vocation of man (chapter one). This life is made up of divine charity and human solidarity (chapter two). It is graciously offered as salvation (chapter three).
+#### SECTION ONE
 
-CHAPTER ONETHE DIGNITY OF THE HUMAN PERSON1700.** The dignity of the human person is rooted in his creation in the image and likeness of God (article 1); it is fulfilled in his vocation to divine beatitude (article 2). It is essential to a human being freely to direct himself to this fulfillment (article 3). By his deliberate actions (article 4), the human person does, or does not, conform to the good promised by God and attested by moral conscience (article 5). Human beings make their own contribution to their interior growth; they make their whole sentient and spiritual lives into means of this growth (article 6). With the help of grace they grow in virtue (article 7), avoid sin, and if they sin they entrust themselves as did the prodigal son to the mercy of our Father in heaven (article 8). In this way they attain to the perfection of charity.
+#### MAN'S VOCATION LIFE IN THE SPIRIT
 
-Article 1MAN: THE IMAGE OF GOD1701.** "Christ, . . . in the very revelation of the mystery of the Father and of his love, makes man fully manifest to himself and brings to light his exalted vocation." It is in Christ, "the image of the invisible God," that man has been created "in the image and likeness" of the Creator. It is in Christ, Redeemer and Savior, that the divine image, disfigured in man by the first sin, has been restored to its original beauty and ennobled by the grace of God.
+**1699.** Life in the Holy Spirit fulfills the vocation of man (chapter one). This life is made up of divine charity and human solidarity (chapter two). It is graciously offered as salvation (chapter three).
+
+#### CHAPTER ONE
+
+#### THE DIGNITY OF THE HUMAN PERSON
+
+**1700.** The dignity of the human person is rooted in his creation in the image and likeness of God (article 1); it is fulfilled in his vocation to divine beatitude (article 2). It is essential to a human being freely to direct himself to this fulfillment (article 3). By his deliberate actions (article 4), the human person does, or does not, conform to the good promised by God and attested by moral conscience (article 5). Human beings make their own contribution to their interior growth; they make their whole sentient and spiritual lives into means of this growth (article 6). With the help of grace they grow in virtue (article 7), avoid sin, and if they sin they entrust themselves as did the prodigal son to the mercy of our Father in heaven (article 8). In this way they attain to the perfection of charity.
+
+Article 1
+
+#### MAN: THE IMAGE OF GOD
+
+**1701.** "Christ, . . . in the very revelation of the mystery of the Father and of his love, makes man fully manifest to himself and brings to light his exalted vocation." It is in Christ, "the image of the invisible God," that man has been created "in the image and likeness" of the Creator. It is in Christ, Redeemer and Savior, that the divine image, disfigured in man by the first sin, has been restored to its original beauty and ennobled by the grace of God.
 
 **1702.** The divine image is present in every man. It shines forth in the communion of persons, in the likeness of the union of the divine persons among themselves (cf chapter two).
 
@@ -67,13 +52,15 @@ Article 1MAN: THE IMAGE OF GOD1701.** "Christ, . . . in the very revelation of t
 
 **1706.** By his reason, man recognizes the voice of God which urges him "to do what is good and avoid what is evil." Everyone is obliged to follow this law, which makes itself heard in conscience and is fulfilled in the love of God and of neighbor. Living a moral life bears witness to the dignity of the person.
 
-**1707.** "Man, enticed by the Evil One, abused his freedom at the very beginning of history." He succumbed to temptation and did what was evil. He still desires the good, but his nature bears the wound of original sin. He is now inclined to evil and subject to error: ** Man is divided in himself. As a result, the whole life of men, both individual and social, shows itself to be a struggle, and a dramatic one, between good and evil, between light and darkness.
+**1707.** "Man, enticed by the Evil One, abused his freedom at the very beginning of history." He succumbed to temptation and did what was evil. He still desires the good, but his nature bears the wound of original sin. He is now inclined to evil and subject to error: Man is divided in himself. As a result, the whole life of men, both individual and social, shows itself to be a struggle, and a dramatic one, between good and evil, between light and darkness.
 
 **1708.** By his Passion, Christ delivered us from Satan and from sin. He merited for us the new life in the Holy Spirit. His grace restores what sin had damaged in us.
 
 **1709.** He who believes in Christ becomes a son of God. This filial adoption transforms him by giving him the ability to follow the example of Christ. It makes him capable of acting rightly and doing good. In union with his Savior, the disciple attains the perfection of charity which is holiness. Having matured in grace, the moral life blossoms into eternal life in the glory of heaven.
 
-**IN BRIEF1710.** *"Christ . . . makes man fully manifest to man himself and brings to light his exalted vocation" (GS 22 # 1).*
+#### IN BRIEF
+
+**1710.** *"Christ . . . makes man fully manifest to man himself and brings to light his exalted vocation" (GS 22 # 1).*
 
 **1711.** *Endowed with a spiritual soul, with intellect and with free will, the human person is from his very conception ordered to God and destined for eternal beatitude. He pursues his perfection in "seeking and loving what is true and good" (GS 15 # 2).*
 
@@ -85,89 +72,53 @@ Article 1MAN: THE IMAGE OF GOD1701.** "Christ, . . . in the very revelation of t
 
 **1715.** *He who believes in Christ has new life in the Holy Spirit. the moral life, increased and brought to maturity in grace, is to reach its fulfillment in the glory of heaven.*
 
-Article 2OUR VOCATION TO BEATITUDEI. The Beatitudes1716.** The Beatitudes are at the heart of Jesus' preaching. They take up the promises made to the chosen people since Abraham. the Beatitudes fulfill the promises by ordering them no longer merely to the possession of a territory, but to the Kingdom of heaven:
+Article 2
 
-Blessed are the poor in spirit, for theirs is the kingdom of heaven. **
-Blessed are those who mourn, for they shall be comforted.
+#### OUR VOCATION TO BEATITUDE
 
-Blessed are the meek, for they shall inherit the earth.
+#### I. The Beatitudes
 
-Blessed are those who hunger and thirst for righteousness, for they shall be
-satisfied.
+**1716.** The Beatitudes are at the heart of Jesus' preaching. They take up the promises made to the chosen people since Abraham. the Beatitudes fulfill the promises by ordering them no longer merely to the possession of a territory, but to the Kingdom of heaven:
 
-Blessed are the merciful, for they shall obtain mercy.
-
-Blessed are the pure in heart, for they shall see God.
-
-Blessed are the peacemakers, for they shall be called sons of God.
-
-Blessed are those who are persecuted for righteousness' sake, for theirs is the
-kingdom of heaven.
-
-Blessed are you when men revile you and persecute you and utter all kinds of
-evil against you falsely on my account.
-
-Rejoice and be glad, for your reward is great in heaven.
+Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they shall be comforted. Blessed are the meek, for they shall inherit the earth. Blessed are those who hunger and thirst for righteousness, for they shall be satisfied. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure in heart, for they shall see God. Blessed are the peacemakers, for they shall be called sons of God. Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven. Blessed are you when men revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven.
 
 **1717.** The Beatitudes depict the countenance of Jesus Christ and portray his charity. They express the vocation of the faithful associated with the glory of his Passion and Resurrection; they shed light on the actions and attitudes characteristic of the Christian life; they are the paradoxical promises that sustain hope in the midst of tribulations; they proclaim the blessings and rewards already secured, however dimly, for Christ's disciples; they have begun in the lives of the Virgin Mary and all the saints.
 
-**II. The Desire for Happiness1718.** The Beatitudes respond to the natural desire for happiness. This desire is of divine origin: God has placed it in the human heart in order to draw man to the One who alone can fulfill it:
+#### II. The Desire for Happiness
 
-We all want to live happily;
-in the whole human race there is no one who does not assent to this
-proposition, even before it is fully articulated.
+**1718.** The Beatitudes respond to the natural desire for happiness. This desire is of divine origin: God has placed it in the human heart in order to draw man to the One who alone can fulfill it:
 
-How is it, then, that I seek
-you, Lord? Since in seeking you, my God, I seek a happy life, let me seek you
-so that my soul may live, for my body draws life from my soul and my soul draws
-life from you.
+We all want to live happily; in the whole human race there is no one who does not assent to this proposition, even before it is fully articulated.
+
+How is it, then, that I seek you, Lord? Since in seeking you, my God, I seek a happy life, let me seek you so that my soul may live, for my body draws life from my soul and my soul draws life from you.
 
 God alone satisfies.
 
 **1719.** The Beatitudes reveal the goal of human existence, the ultimate end of human acts: God calls us to his own beatitude. This vocation is addressed to each individual personally, but also to the Church as a whole, the new people made up of those who have accepted the promise and live from it in faith.
 
-**III. Christian Beatitude1720.** The New Testament uses several expressions to characterize the beatitude to which God calls man: ** - the coming of the Kingdom of God;
+#### III. Christian Beatitude
 
-- the vision of God: "Blessed are the pure in heart, for they shall see
-God"
+**1720.** The New Testament uses several expressions to characterize the beatitude to which God calls man: - the coming of the Kingdom of God; - the vision of God: "Blessed are the pure in heart, for they shall see God" - entering into the joy of the Lord; - entering into God's rest:
 
-- entering into the joy of the Lord;
-
-- entering into God's rest:
-
-There we shall rest and see,
-we shall see and love, we shall love and praise. Behold what will be at the end
-without end. For what other end do we have, if not to reach the kingdom which
-has no end?
+There we shall rest and see, we shall see and love, we shall love and praise. Behold what will be at the end without end. For what other end do we have, if not to reach the kingdom which has no end?
 
 **1721.** God put us in the world to know, to love, and to serve him, and so to come to paradise. Beatitude makes us "partakers of the divine nature" and of eternal life. With beatitude, man enters into the glory of Christ and into the joy of the Trinitarian life.
 
 **1722.** Such beatitude surpasses the understanding and powers of man. It comes from an entirely free gift of God: whence it is called supernatural, as is the grace that disposes man to enter into the divine joy.
 
-"Blessed are the pure in
-heart, for they shall see God."
+"Blessed are the pure in heart, for they shall see God."
 
-It is true, because of the
-greatness and inexpressible glory of God, that "man shall not see me and
-live," for the Father cannot be grasped. But because of God's love and
-goodness toward us, and because he can do all things, he goes so far as to
-grant those who love him the privilege of seeing him.... For "what is
-impossible for men is possible for God."
+It is true, because of the greatness and inexpressible glory of God, that "man shall not see me and live," for the Father cannot be grasped. But because of God's love and goodness toward us, and because he can do all things, he goes so far as to grant those who love him the privilege of seeing him.... For "what is impossible for men is possible for God."
 
 **1723.** The beatitude we are promised confronts us with decisive moral choices. It invites us to purify our hearts of bad instincts and to seek the love of God above all else. It teaches us that true happiness is not found in riches or well-being, in human fame or power, or in any human achievement - however beneficial it may be - such as science, technology, and art, or indeed in any creature, but in God alone, the source of every good and of all love:
 
-All bow down before wealth.
-Wealth is that to which the multitude of men pay an instinctive homage. They
-measure happiness by wealth; and by wealth they measure respectability.... It
-is a homage resulting from a profound faith ... that with wealth he may do all
-things. Wealth is one idol of the day and notoriety is a second.... Notoriety,
-or the making of a noise in the world - it may be called "newspaper
-fame" - has come to be considered a great good in itself, and a ground of
-veneration.
+All bow down before wealth. Wealth is that to which the multitude of men pay an instinctive homage. They measure happiness by wealth; and by wealth they measure respectability.... It is a homage resulting from a profound faith ... that with wealth he may do all things. Wealth is one idol of the day and notoriety is a second.... Notoriety, or the making of a noise in the world - it may be called "newspaper fame" - has come to be considered a great good in itself, and a ground of veneration.
 
 **1724.** The Decalogue, the Sermon on the Mount, and the apostolic catechesis describe for us the paths that lead to the Kingdom of heaven. Sustained by the grace of the Holy Spirit, we tread them, step by step, by everyday acts. By the working of the Word of Christ, we slowly bear fruit in the Church to the glory of God.
 
-**IN BRIEF1725.** *The Beatitudes take up and fulfill God's promises from Abraham on by ordering them to the Kingdom of heaven. They respond to the desire for happiness that God has placed in the human heart.*
+#### IN BRIEF
+
+**1725.** *The Beatitudes take up and fulfill God's promises from Abraham on by ordering them to the Kingdom of heaven. They respond to the desire for happiness that God has placed in the human heart.*
 
 **1726.** *The Beatitudes teach us the final end to which God calls us: the Kingdom, the vision of God, participation in the divine nature, eternal life, filiation, rest in God.*
 
@@ -177,13 +128,17 @@ veneration.
 
 **1729.** *The beatitude of heaven sets the standards for discernment in the use of earthly goods in keeping with the law of God.*
 
-Article 3MAN'S FREEDOM1730.** God created man a rational being, conferring on him the dignity of a person who can initiate and control his own actions. "God willed that man should be 'left in the hand of his own counsel,' so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him."
+Article 3
 
-Man is rational and therefore
-like God; he is created with free will and is master over his acts.
+#### MAN'S FREEDOM
 
-**I. Freedom and
-Responsibility1731.** Freedom is the power, rooted in reason and will, to act or not to act, to do this or that, and so to perform deliberate actions on one's own responsibility. By free will one shapes one's own life. Human freedom is a force for growth and maturity in truth and goodness; it attains its perfection when directed toward God, our beatitude.
+**1730.** God created man a rational being, conferring on him the dignity of a person who can initiate and control his own actions. "God willed that man should be 'left in the hand of his own counsel,' so that he might of his own accord seek his Creator and freely attain his full and blessed perfection by cleaving to him."
+
+Man is rational and therefore like God; he is created with free will and is master over his acts.
+
+#### I. Freedom and Responsibility
+
+**1731.** Freedom is the power, rooted in reason and will, to act or not to act, to do this or that, and so to perform deliberate actions on one's own responsibility. By free will one shapes one's own life. Human freedom is a force for growth and maturity in truth and goodness; it attains its perfection when directed toward God, our beatitude.
 
 **1732.** As long as freedom has not bound itself definitively to its ultimate good which is God, there is the possibility of choosing between good and evil, and thus of growing in perfection or of failing and sinning. This freedom characterizes properly human acts. It is the basis of praise or blame, merit or reproach.
 
@@ -195,21 +150,15 @@ Responsibility1731.** Freedom is the power, rooted in reason and will, to act or
 
 **1736.** Every act directly willed is imputable to its author:
 
-Thus the Lord asked Eve after
-the sin in the garden: "What is this that you have done?"
-He asked Cain the same question. The prophet Nathan questioned David
-in the same way after he committed adultery with the wife of Uriah and had him
-murdered. **
-An action can be indirectly voluntary when it results from negligence regarding
-something one should have known or done: for example, an accident arising from
-ignorance of traffic laws.
+Thus the Lord asked Eve after the sin in the garden: "What is this that you have done?" He asked Cain the same question. The prophet Nathan questioned David in the same way after he committed adultery with the wife of Uriah and had him murdered. An action can be indirectly voluntary when it results from negligence regarding something one should have known or done: for example, an accident arising from ignorance of traffic laws.
 
 **1737.** An effect can be tolerated without being willed by its agent; for instance, a mother's exhaustion from tending her sick child. A bad effect is not imputable if it was not willed either as an end or as a means of an action, e.g., a death a person incurs in aiding someone in danger. For a bad effect to be imputable it must be foreseeable and the agent must have the possibility of avoiding it, as in the case of manslaughter caused by a drunken driver.
 
 **1738.** Freedom is exercised in relationships between human beings. Every human person, created in the image of God, has the natural right to be recognized as a free and responsible being. All owe to each other this duty of respect. the right to the exercise of freedom, especially in moral and religious matters, is an inalienable requirement of the dignity of the human person. This right must be recognized and protected by civil authority within the limits of the common good and public order.
 
-**II. Human Freedom in the
-Economy of Salvation1739.** Freedom and sin. Man's freedom is limited and fallible. In fact, man failed. He freely sinned. By refusing God's plan of love, he deceived himself and became a slave to sin. This first alienation engendered a multitude of others. From its outset, human history attests the wretchedness and oppression born of the human heart in consequence of the abuse of freedom.
+#### II. Human Freedom in the Economy of Salvation
+
+**1739.** Freedom and sin. Man's freedom is limited and fallible. In fact, man failed. He freely sinned. By refusing God's plan of love, he deceived himself and became a slave to sin. This first alienation engendered a multitude of others. From its outset, human history attests the wretchedness and oppression born of the human heart in consequence of the abuse of freedom.
 
 **1740.** Threats to freedom. the exercise of freedom does not imply a right to say or do everything. It is false to maintain that man, "the subject of this freedom," is "an individual who is fully self-sufficient and whose finality is the satisfaction of his own interests in the enjoyment of earthly goods." Moreover, the economic, social, political, and cultural conditions that are needed for a just exercise of freedom are too often disregarded or violated. Such situations of blindness and injustice injure the moral life and involve the strong as well as the weak in the temptation to sin against charity. By deviating from the moral law man violates his own freedom, becomes imprisoned within himself, disrupts neighborly fellowship, and rebels against divine truth.
 
@@ -219,16 +168,15 @@ Economy of Salvation1739.** Freedom and sin. Man's freedom is limited and fallib
 
 Almighty and merciful God,
 
-in your goodness take away
-from us all that is harmful,
+in your goodness take away from us all that is harmful,
 
-so that, made ready both in
-mind and body,
+so that, made ready both in mind and body,
 
-we may freely accomplish your
-will.
+we may freely accomplish your will.
 
-**IN BRIEF1743.** *"God willed that man should be left in the hand of his own counsel (cf Sir 15:14), so that he might of his own accord seek his creator and freely attain his full and blessed perfection by cleaving to him" (GS 17 # 1).*
+#### IN BRIEF
+
+**1743.** *"God willed that man should be left in the hand of his own counsel (cf Sir 15:14), so that he might of his own accord seek his creator and freely attain his full and blessed perfection by cleaving to him" (GS 17 # 1).*
 
 **1744.** *Freedom is the power to act or not to act, and so to perform deliberate acts of one's own. Freedom attains perfection in its acts when directed toward God, the sovereign Good.*
 
@@ -240,16 +188,15 @@ will.
 
 **1748.** *"For freedom Christ has set us free" (Gal 5:1).*
 
-Article 4THE MORALITY OF HUMAN ACTS1749.** Freedom makes man a moral subject. When he acts deliberately, man is, so to speak, the father of his acts. Human acts, that is, acts that are freely chosen in consequence of a judgment of conscience, can be morally evaluated. They are either good or evil.
+Article 4
 
-**I. The Sources of Morality1750.** The morality of human acts depends on: ** - the object chosen;
+#### THE MORALITY OF HUMAN ACTS
 
-- the end in view or the intention;
+**1749.** Freedom makes man a moral subject. When he acts deliberately, man is, so to speak, the father of his acts. Human acts, that is, acts that are freely chosen in consequence of a judgment of conscience, can be morally evaluated. They are either good or evil.
 
-- the circumstances of the action.
+#### I. The Sources of Morality
 
-The object, the intention, and the circumstances make up the
-"sources," or constitutive elements, of the morality of human acts.
+**1750.** The morality of human acts depends on: - the object chosen; - the end in view or the intention; - the circumstances of the action. The object, the intention, and the circumstances make up the "sources," or constitutive elements, of the morality of human acts.
 
 **1751.** The object chosen is a good toward which the will deliberately directs itself. It is the matter of a human act. the object chosen morally specifies the act of the will, insofar as reason recognizes and judges it to be or not to be in conformity with the true good. Objective norms of morality express the rational order of good and evil, attested to by conscience.
 
@@ -259,12 +206,15 @@ The object, the intention, and the circumstances make up the
 
 **1754.** The circumstances, including the consequences, are secondary elements of a moral act. They contribute to increasing or diminishing the moral goodness or evil of human acts (for example, the amount of a theft). They can also diminish or increase the agent's responsibility (such as acting out of a fear of death). Circumstances of themselves cannot change the moral quality of acts themselves; they can make neither good nor right an action that is in itself evil.
 
-**II. Good Acts and Evil
-Acts1755.** A morally good act requires the goodness of the object, of the end, and of the circumstances together. An evil end corrupts the action, even if the object is good in itself (such as praying and fasting "in order to be seen by men"). ** The object of the choice can by itself vitiate an act in its entirety. There are some concrete acts - such as fornication - that it is always wrong to choose, because choosing them entails a disorder of the will, that is, a moral evil.
+#### II. Good Acts and Evil Acts
+
+**1755.** A morally good act requires the goodness of the object, of the end, and of the circumstances together. An evil end corrupts the action, even if the object is good in itself (such as praying and fasting "in order to be seen by men"). The object of the choice can by itself vitiate an act in its entirety. There are some concrete acts - such as fornication - that it is always wrong to choose, because choosing them entails a disorder of the will, that is, a moral evil.
 
 **1756.** It is therefore an error to judge the morality of human acts by considering only the intention that inspires them or the circumstances (environment, social pressure, duress or emergency, etc.) which supply their context. There are acts which, in and of themselves, independently of circumstances and intentions, are always gravely illicit by reason of their object; such as blasphemy and perjury, murder and adultery. One may not do evil so that good may result from it.
 
-**IN BRIEF1757.** *The object, the intention, and the circumstances make up the three "sources" of the morality of human acts.*
+#### IN BRIEF
+
+**1757.** *The object, the intention, and the circumstances make up the three "sources" of the morality of human acts.*
 
 **1758.** *The object chosen morally specifies the act of willing accordingly as reason recognizes and judges it good or evil.*
 
@@ -274,9 +224,15 @@ Acts1755.** A morally good act requires the goodness of the object, of the end, 
 
 **1761.** *There are concrete acts that it is always wrong to choose, because their choice entails a disorder of the will, i.e., a moral evil. One may not do evil so that good may result from it.*
 
-Article 5THE MORALITY OF THE PASSIONS1762.** The human person is ordered to beatitude by his deliberate acts: the passions or feelings he experiences can dispose him to it and contribute to it.
+Article 5
 
-**I. Passions1763.** The term "passions" belongs to the Christian patrimony. Feelings or passions are emotions or movements of the sensitive appetite that incline us to act or not to act in regard to something felt or imagined to be good or evil.
+#### THE MORALITY OF THE PASSIONS
+
+**1762.** The human person is ordered to beatitude by his deliberate acts: the passions or feelings he experiences can dispose him to it and contribute to it.
+
+#### I. Passions
+
+**1763.** The term "passions" belongs to the Christian patrimony. Feelings or passions are emotions or movements of the sensitive appetite that incline us to act or not to act in regard to something felt or imagined to be good or evil.
 
 **1764.** The passions are natural components of the human psyche; they form the passageway and ensure the connection between the life of the senses and the life of the mind. Our Lord called man's heart the source from which the passions spring.
 
@@ -284,8 +240,9 @@ Article 5THE MORALITY OF THE PASSIONS1762.** The human person is ordered to beat
 
 **1766.** "To love is to will the good of another." All other affections have their source in this first movement of the human heart toward the good. Only the good can be loved. Passions "are evil if love is evil and good if it is good."
 
-**II. Passions and Moral
-Life1767.** In themselves passions are neither good nor evil. They are morally qualified only to the extent that they effectively engage reason and will. Passions are said to be voluntary, "either because they are commanded by the will or because the will does not place obstacles in their way." It belongs to the perfection of the moral or human good that the passions be governed by reason.
+#### II. Passions and Moral Life
+
+**1767.** In themselves passions are neither good nor evil. They are morally qualified only to the extent that they effectively engage reason and will. Passions are said to be voluntary, "either because they are commanded by the will or because the will does not place obstacles in their way." It belongs to the perfection of the moral or human good that the passions be governed by reason.
 
 **1768.** Strong feelings are not decisive for the morality or the holiness of persons; they are simply the inexhaustible reservoir of images and affections in which the moral life is expressed. Passions are morally good when they contribute to a good action, evil in the opposite case. the upright will orders the movements of the senses it appropriates to the good and to beatitude; an evil will succumbs to disordered passions and exacerbates them. Emotions and feelings can be taken up into the virtues or perverted by the vices.
 
@@ -293,7 +250,9 @@ Life1767.** In themselves passions are neither good nor evil. They are morally q
 
 **1770.** Moral perfection consists in man's being moved to the good not by his will alone, but also by his sensitive appetite, as in the words of the psalm: "My heart and flesh sing for joy to the living God."
 
-**IN BRIEF1771.** *The term "passions" refers to the affections or the feelings. By his emotions man intuits the good and suspects evil.*
+#### IN BRIEF
+
+**1771.** *The term "passions" refers to the affections or the feelings. By his emotions man intuits the good and suspects evil.*
 
 **1772.** *The principal passions are love and hatred, desire and fear, joy, sadness, and anger.*
 
@@ -303,58 +262,53 @@ Life1767.** In themselves passions are neither good nor evil. They are morally q
 
 **1775.** *The perfection of the moral good consists in man's being moved to the good not only by his will but also by his "heart."*
 
-Article 6MORAL CONSCIENCE1776.** "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment.... For man has in his heart a law inscribed by God.... His conscience is man's most secret core and his sanctuary. There he is alone with God whose voice echoes in his depths."
+Article 6
 
-**I. The Judgment of Conscience1777.** Moral conscience, present at the heart of the person, enjoins him at the appropriate moment to do good and to avoid evil. It also judges particular choices, approving those that are good and denouncing those that are evil. It bears witness to the authority of truth in reference to the supreme Good to which the human person is drawn, and it welcomes the commandments. When he listens to his conscience, the prudent man can hear God speaking.
+#### MORAL CONSCIENCE
+
+**1776.** "Deep within his conscience man discovers a law which he has not laid upon himself but which he must obey. Its voice, ever calling him to love and to do what is good and to avoid evil, sounds in his heart at the right moment.... For man has in his heart a law inscribed by God.... His conscience is man's most secret core and his sanctuary. There he is alone with God whose voice echoes in his depths."
+
+#### I. The Judgment of Conscience
+
+**1777.** Moral conscience, present at the heart of the person, enjoins him at the appropriate moment to do good and to avoid evil. It also judges particular choices, approving those that are good and denouncing those that are evil. It bears witness to the authority of truth in reference to the supreme Good to which the human person is drawn, and it welcomes the commandments. When he listens to his conscience, the prudent man can hear God speaking.
 
 **1778.** Conscience is a judgment of reason whereby the human person recognizes the moral quality of a concrete act that he is going to perform, is in the process of performing, or has already completed. In all he says and does, man is obliged to follow faithfully what he knows to be just and right. It is by the judgment of his conscience that man perceives and recognizes the prescriptions of the divine law:
 
-Conscience is a law of the
-mind; yet [Christians] would not grant that it is nothing more; I mean that it
-was not a dictate, nor conveyed the notion of responsibility, of duty, of a
-threat and a promise.... [Conscience] is a messenger of him, who, both in
-nature and in grace, speaks to us behind a veil, and teaches and rules us by
-his representatives. Conscience is the aboriginal Vicar of Christ.
+Conscience is a law of the mind; yet [Christians] would not grant that it is nothing more; I mean that it was not a dictate, nor conveyed the notion of responsibility, of duty, of a threat and a promise.... [Conscience] is a messenger of him, who, both in nature and in grace, speaks to us behind a veil, and teaches and rules us by his representatives. Conscience is the aboriginal Vicar of Christ.
 
 **1779.** It is important for every person to be sufficiently present to himself in order to hear and follow the voice of his conscience. This requirement of interiority is all the more necessary as life often distracts us from any reflection, self-examination or introspection:
 
-Return to your conscience,
-question it.... Turn inward, brethren, and in everything you do, see God as
-your witness.
+Return to your conscience, question it.... Turn inward, brethren, and in everything you do, see God as your witness.
 
 **1780.** The dignity of the human person implies and requires uprightness of moral conscience. Conscience includes the perception of the principles of morality (synderesis); their application in the given circumstances by practical discernment of reasons and goods; and finally judgment about concrete acts yet to be performed or already performed. the truth about the moral good, stated in the law of reason, is recognized practically and concretely by the prudent judgment of conscience. We call that man prudent who chooses in conformity with this judgment.
 
 **1781.** Conscience enables one to assume responsibility for the acts performed. If man commits evil, the just judgment of conscience can remain within him as the witness to the universal truth of the good, at the same time as the evil of his particular choice. the verdict of the judgment of conscience remains a pledge of hope and mercy. In attesting to the fault committed, it calls to mind the forgiveness that must be asked, the good that must still be practiced, and the virtue that must be constantly cultivated with the grace of God:
 
-We shall . . . reassure our
-hearts before him whenever our hearts condemn us; for God is greater than our
-hearts, and he knows everything.
+We shall . . . reassure our hearts before him whenever our hearts condemn us; for God is greater than our hearts, and he knows everything.
 
 **1782.** Man has the right to act in conscience and in freedom so as personally to make moral decisions. "He must not be forced to act contrary to his conscience. Nor must he be prevented from acting according to his conscience, especially in religious matters."
 
-**II. The Formation of Conscience1783.** Conscience must be informed and moral judgment enlightened. A well-formed conscience is upright and truthful. It formulates its judgments according to reason, in conformity with the true good willed by the wisdom of the Creator. the education of conscience is indispensable for human beings who are subjected to negative influences and tempted by sin to prefer their own judgment and to reject authoritative teachings.
+#### II. The Formation of Conscience
+
+**1783.** Conscience must be informed and moral judgment enlightened. A well-formed conscience is upright and truthful. It formulates its judgments according to reason, in conformity with the true good willed by the wisdom of the Creator. the education of conscience is indispensable for human beings who are subjected to negative influences and tempted by sin to prefer their own judgment and to reject authoritative teachings.
 
 **1784.** The education of the conscience is a lifelong task. From the earliest years, it awakens the child to the knowledge and practice of the interior law recognized by conscience. Prudent education teaches virtue; it prevents or cures fear, selfishness and pride, resentment arising from guilt, and feelings of complacency, born of human weakness and faults. the education of the conscience guarantees freedom and engenders peace of heart.
 
 **1785.** In the formation of conscience the Word of God is the light for our path, we must assimilate it in faith and prayer and put it into practice. We must also examine our conscience before the Lord's Cross. We are assisted by the gifts of the Holy Spirit, aided by the witness or advice of others and guided by the authoritative teaching of the Church.
 
-**III. To Choose in Accord With Conscience1786.** Faced with a moral choice, conscience can make either a right judgment in accordance with reason and the divine law or, on the contrary, an erroneous judgment that departs from them.
+#### III. To Choose in Accord With Conscience
+
+**1786.** Faced with a moral choice, conscience can make either a right judgment in accordance with reason and the divine law or, on the contrary, an erroneous judgment that departs from them.
 
 **1787.** Man is sometimes confronted by situations that make moral judgments less assured and decision difficult. But he must always seriously seek what is right and good and discern the will of God expressed in divine law.
 
 **1788.** To this purpose, man strives to interpret the data of experience and the signs of the times assisted by the virtue of prudence, by the advice of competent people, and by the help of the Holy Spirit and his gifts.
 
-**1789.** Some rules apply in every case: ** - One may never do evil so that good may result from it;
+**1789.** Some rules apply in every case: - One may never do evil so that good may result from it; - the Golden Rule: "Whatever you wish that men would do to you, do so to them." - charity always proceeds by way of respect for one's neighbor and his conscience: "Thus sinning against your brethren and wounding their conscience . . . you sin against Christ." Therefore "it is right not to . . . do anything that makes your brother stumble."
 
-- the Golden Rule: "Whatever you wish that men would do to you, do so to
-them."
+#### IV. Erroneous Judgment
 
-- charity always proceeds by way of respect for one's neighbor and his
-conscience: "Thus sinning against your brethren and wounding their
-conscience . . . you sin against Christ." Therefore "it is
-right not to . . . do anything that makes your brother stumble."
-
-**IV. Erroneous Judgment1790.** A human being must always obey the certain judgment of his conscience. If he were deliberately to act against it, he would condemn himself. Yet it can happen that moral conscience remains in ignorance and makes erroneous judgments about acts to be performed or already committed.
+**1790.** A human being must always obey the certain judgment of his conscience. If he were deliberately to act against it, he would condemn himself. Yet it can happen that moral conscience remains in ignorance and makes erroneous judgments about acts to be performed or already committed.
 
 **1791.** This ignorance can often be imputed to personal responsibility. This is the case when a man "takes little trouble to find out what is true and good, or when conscience is by degrees almost blinded through the habit of committing sin." In such cases, the person is culpable for the evil he commits.
 
@@ -364,11 +318,11 @@ right not to . . . do anything that makes your brother stumble."
 
 **1794.** A good and pure conscience is enlightened by true faith, for charity proceeds at the same time "from a pure heart and a good conscience and sincere faith."
 
-The more a correct conscience
-prevails, the more do persons and groups turn aside from blind choice and try
-to be guided by objective standards of moral conduct.
+The more a correct conscience prevails, the more do persons and groups turn aside from blind choice and try to be guided by objective standards of moral conduct.
 
-**IN BRIEF1795.** *"Conscience is man's most secret core, and his sanctuary. There he is alone with God whose voice echoes in his depths" (GS 16).*
+#### IN BRIEF
+
+**1795.** *"Conscience is man's most secret core, and his sanctuary. There he is alone with God whose voice echoes in his depths" (GS 16).*
 
 **1796.** *Conscience is a judgment of reason by which the human person recognizes the moral quality of a concrete act.*
 
@@ -384,15 +338,19 @@ to be guided by objective standards of moral conduct.
 
 **1802.** *The Word of God is a light for our path. We must assimilate it in faith and prayer and put it into practice. This is how moral conscience is formed.*
 
-Article 7THE VIRTUES1803.** "Whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is gracious, if there is any excellence, if there is anything worthy of praise, think about these things." ** A virtue is an habitual and firm disposition to do the good. It allows the person not only to perform good acts, but to give the best of himself. the virtuous person tends toward the good with all his sensory and spiritual powers; he pursues the good and chooses it in concrete actions.
+Article 7
 
-The goal of a virtuous life is
-to become like God.
+#### THE VIRTUES
 
-**I. The Human Virtues1804.** Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will that govern our actions, order our passions, and guide our conduct according to reason and faith. They make possible ease, self-mastery, and joy in leading a morally good life. the virtuous man is he who freely practices the good. ** The moral virtues are acquired by human effort. They are the fruit and seed of morally good acts; they dispose all the powers of the human being for communion with divine love.
+**1803.** "Whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is gracious, if there is any excellence, if there is anything worthy of praise, think about these things." A virtue is an habitual and firm disposition to do the good. It allows the person not only to perform good acts, but to give the best of himself. the virtuous person tends toward the good with all his sensory and spiritual powers; he pursues the good and chooses it in concrete actions.
 
-The
-cardinal virtues
+The goal of a virtuous life is to become like God.
+
+#### I. The Human Virtues
+
+**1804.** Human virtues are firm attitudes, stable dispositions, habitual perfections of intellect and will that govern our actions, order our passions, and guide our conduct according to reason and faith. They make possible ease, self-mastery, and joy in leading a morally good life. the virtuous man is he who freely practices the good. The moral virtues are acquired by human effort. They are the fruit and seed of morally good acts; they dispose all the powers of the human being for communion with divine love.
+
+The cardinal virtues
 
 **1805.** Four virtues play a pivotal role and accordingly are called "cardinal"; all the others are grouped around them. They are: prudence, justice, fortitude, and temperance. "If anyone loves righteousness, [Wisdom's] labors are virtues; for she teaches temperance and prudence, justice, and courage." These virtues are praised under other names in many passages of Scripture.
 
@@ -404,21 +362,17 @@ cardinal virtues
 
 **1809.** Temperance is the moral virtue that moderates the attraction of pleasures and provides balance in the use of created goods. It ensures the will's mastery over instincts and keeps desires within the limits of what is honorable. the temperate person directs the sensitive appetites toward what is good and maintains a healthy discretion: "Do not follow your inclination and strength, walking according to the desires of your heart." Temperance is often praised in the Old Testament: "Do not follow your base desires, but restrain your appetites." In the New Testament it is called "moderation" or "sobriety." We ought "to live sober, upright, and godly lives in this world."
 
-To live well is nothing other
-than to love God with all one's heart, with all one's soul and with all one's
-efforts; from this it comes about that love is kept whole and uncorrupted
-(through temperance). No misfortune can disturb it (and this is fortitude). It
-obeys only (God) (and this is justice), and is careful in discerning things, so
-as not to be surprised by deceit or trickery (and this is prudence).
+To live well is nothing other than to love God with all one's heart, with all one's soul and with all one's efforts; from this it comes about that love is kept whole and uncorrupted (through temperance). No misfortune can disturb it (and this is fortitude). It obeys only (God) (and this is justice), and is careful in discerning things, so as not to be surprised by deceit or trickery (and this is prudence).
 
-The virtues
-and grace
+The virtues and grace
 
 **1810.** Human virtues acquired by education, by deliberate acts and by a perseverance ever-renewed in repeated efforts are purified and elevated by divine grace. With God's help, they forge character and give facility in the practice of the good. the virtuous man is happy to practice them.
 
 **1811.** It is not easy for man, wounded by sin, to maintain moral balance. Christ's gift of salvation offers us the grace necessary to persevere in the pursuit of the virtues. Everyone should always ask for this grace of light and strength, frequent the sacraments, cooperate with the Holy Spirit, and follow his calls to love what is good and shun evil.
 
-**II. The Theological Virtues1812.** The human virtues are rooted in the theological virtues, which adapt man's faculties for participation in the divine nature: for the theological virtues relate directly to God. They dispose Christians to live in a relationship with the Holy Trinity. They have the One and Triune God for their origin, motive, and object.
+#### II. The Theological Virtues
+
+**1812.** The human virtues are rooted in the theological virtues, which adapt man's faculties for participation in the divine nature: for the theological virtues relate directly to God. They dispose Christians to live in a relationship with the Holy Trinity. They have the One and Triune God for their origin, motive, and object.
 
 **1813.** The theological virtues are the foundation of Christian moral activity; they animate it and give it its special character. They inform and give life to all the moral virtues. They are infused by God into the souls of the faithful to make them capable of acting as his children and of meriting eternal life. They are the pledge of the presence and action of the Holy Spirit in the faculties of the human being. There are three theological virtues: faith, hope, and charity.
 
@@ -442,12 +396,7 @@ Hope
 
 **1821.** We can therefore hope in the glory of heaven promised by God to those who love him and do his will. In every circumstance, each one of us should hope, with the grace of God, to persevere "to the end" and to obtain the joy of heaven, as God's eternal reward for the good works accomplished with the grace of Christ. In hope, the Church prays for "all men to be saved." She longs to be united with Christ, her Bridegroom, in the glory of heaven:
 
-Hope, O my soul, hope. You
-know neither the day nor the hour. Watch carefully, for everything passes
-quickly, even though your impatience makes doubtful what is certain, and turns
-a very short time into a long one. Dream that the more you struggle, the more
-you prove the love that you bear your God, and the more you will rejoice one
-day with your Beloved, in a happiness and rapture that can never end.
+Hope, O my soul, hope. You know neither the day nor the hour. Watch carefully, for everything passes quickly, even though your impatience makes doubtful what is certain, and turns a very short time into a long one. Dream that the more you struggle, the more you prove the love that you bear your God, and the more you will rejoice one day with your Beloved, in a happiness and rapture that can never end.
 
 Charity
 
@@ -459,12 +408,7 @@ Charity
 
 **1825.** Christ died out of love for us, while we were still "enemies." The Lord asks us to love as he does, even our enemies, to make ourselves the neighbor of those farthest away, and to love children and the poor as Christ himself.
 
-The Apostle Paul has given an
-incomparable depiction of charity: "charity is patient and kind, charity
-is not jealous or boastful; it is not arrogant or rude. Charity does not insist
-on its own way; it is not irritable or resentful; it does not rejoice at wrong,
-but rejoices in the right. Charity bears all things, believes all things, hopes
-all things, endures all things."
+The Apostle Paul has given an incomparable depiction of charity: "charity is patient and kind, charity is not jealous or boastful; it is not arrogant or rude. Charity does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrong, but rejoices in the right. Charity bears all things, believes all things, hopes all things, endures all things."
 
 **1826.** "If I . . . have not charity," says the Apostle, "I am nothing." Whatever my privilege, service, or even virtue, "if I . . . have not charity, I gain nothing." Charity is superior to all the virtues. It is the first of the theological virtues: "So faith, hope, charity abide, these three. But the greatest of these is charity."
 
@@ -472,28 +416,25 @@ all things, endures all things."
 
 **1828.** The practice of the moral life animated by charity gives to the Christian the spiritual freedom of the children of God. He no longer stands before God as a slave, in servile fear, or as a mercenary looking for wages, but as a son responding to the love of him who "first loved us":
 
-If we turn away from evil out
-of fear of punishment, we are in the position of slaves. If we pursue the
-enticement of wages, . . . we resemble mercenaries. Finally if we obey for the
-sake of the good itself and out of love for him who commands . . . we are in
-the position of children.
+If we turn away from evil out of fear of punishment, we are in the position of slaves. If we pursue the enticement of wages, . . . we resemble mercenaries. Finally if we obey for the sake of the good itself and out of love for him who commands . . . we are in the position of children.
 
-**1829.** The fruits of charity are joy, peace, and mercy; charity demands beneficence and fraternal correction; it is benevolence; it fosters reciprocity and remains disinterested and generous; it is friendship and communion: ** Love is itself the fulfillment of all our works. There is the goal; that is why we run: we run toward it, and once we reach it, in it we shall find rest.
+**1829.** The fruits of charity are joy, peace, and mercy; charity demands beneficence and fraternal correction; it is benevolence; it fosters reciprocity and remains disinterested and generous; it is friendship and communion: Love is itself the fulfillment of all our works. There is the goal; that is why we run: we run toward it, and once we reach it, in it we shall find rest.
 
-**III. The Gifts and Fruits of the Holy Spirit1830.** The moral life of Christians is sustained by the gifts of the Holy Spirit. These are permanent dispositions which make man docile in following the promptings of the Holy Spirit.
+#### III. The Gifts and Fruits of the Holy Spirit
+
+**1830.** The moral life of Christians is sustained by the gifts of the Holy Spirit. These are permanent dispositions which make man docile in following the promptings of the Holy Spirit.
 
 **1831.** The seven gifts of the Holy Spirit are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord. They belong in their fullness to Christ, Son of David. They complete and perfect the virtues of those who receive them. They make the faithful docile in readily obeying divine inspirations.
 
-Let your good spirit lead me
-on a level path.
+Let your good spirit lead me on a level path.
 
-For all who are led by the
-Spirit of God are sons of God . . . If children, then heirs, heirs of God and
-fellow heirs with Christ.
+For all who are led by the Spirit of God are sons of God . . . If children, then heirs, heirs of God and fellow heirs with Christ.
 
 **1832.** The fruits of the Spirit are perfections that the Holy Spirit forms in us as the first fruits of eternal glory. the tradition of the Church lists twelve of them: "charity, joy, peace, patience, kindness, goodness, generosity, gentleness, faithfulness, modesty, self-control, chastity."
 
-**IN BRIEF1833.** *Virtue is a habitual and firm disposition to do good.*
+#### IN BRIEF
+
+**1833.** *Virtue is a habitual and firm disposition to do good.*
 
 **1834.** *The human virtues are stable dispositions of the intellect and the will that govern our acts, order our passions, and guide our conduct in accordance with reason and faith. They can be grouped around the four cardinal virtues: prudence, justice, fortitude, and temperance.*
 
@@ -519,45 +460,43 @@ fellow heirs with Christ.
 
 **1845.** *The seven gifts of the Holy Spirit bestowed upon Christians are wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord.*
 
-Article
-8SINI. Mercy and Sin1846.** The Gospel is the revelation in Jesus Christ of God's mercy to sinners. The angel announced to Joseph: "You shall call his name Jesus, for he will save his people from their sins." The same is true of the Eucharist, the sacrament of redemption: "This is my blood of the covenant, which is poured out for many for the forgiveness of sins."
+Article 8
+
+#### SIN
+
+#### I. Mercy and Sin
+
+**1846.** The Gospel is the revelation in Jesus Christ of God's mercy to sinners. The angel announced to Joseph: "You shall call his name Jesus, for he will save his people from their sins." The same is true of the Eucharist, the sacrament of redemption: "This is my blood of the covenant, which is poured out for many for the forgiveness of sins."
 
 **1847.** "God created us without us: but he did not will to save us without us." To receive his mercy, we must admit our faults. "If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just, and will forgive our sins and cleanse us from all unrighteousness."
 
 **1848.** As St. Paul affirms, "Where sin increased, grace abounded all the more." But to do its work grace must uncover sin so as to convert our hearts and bestow on us "righteousness to eternal life through Jesus Christ ourLord." Like a physician who probes the wound before treating it, God, by his Word and by his Spirit, casts a living light on sin:
 
-Conversion requires convincing
-of sin; it includes the interior judgment of conscience, and this, being a
-proof of the action of the Spirit of truth in man's inmost being, becomes at the
-same time the start of a new grant of grace and love: "Receive the Holy
-Spirit." Thus in this "convincing concerning sin" we discover a
-double gift: the gift of the truth of conscience and the gift of the certainty
-of redemption. the Spirit of truth is the Consoler.
+Conversion requires convincing of sin; it includes the interior judgment of conscience, and this, being a proof of the action of the Spirit of truth in man's inmost being, becomes at the same time the start of a new grant of grace and love: "Receive the Holy Spirit." Thus in this "convincing concerning sin" we discover a double gift: the gift of the truth of conscience and the gift of the certainty of redemption. the Spirit of truth is the Consoler.
 
-**II. The Definition of Sin1849.** Sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods. It wounds the nature of man and injures human solidarity. It has been defined as "an utterance, a deed, or a desire contrary to the eternal law."
+#### II. The Definition of Sin
+
+**1849.** Sin is an offense against reason, truth, and right conscience; it is failure in genuine love for God and neighbor caused by a perverse attachment to certain goods. It wounds the nature of man and injures human solidarity. It has been defined as "an utterance, a deed, or a desire contrary to the eternal law."
 
 **1850.** Sin is an offense against God: "Against you, you alone, have I sinned, and done that which is evil in your sight." Sin sets itself against God's love for us and turns our hearts away from it. Like the first sin, it is disobedience, a revolt against God through the will to become "like gods," knowing and determining good and evil. Sin is thus "love of oneself even to contempt of God." In this proud self-exaltation, sin is diametrically opposed to the obedience of Jesus, which achieves our salvation.
 
 **1851.** It is precisely in the Passion, when the mercy of Christ is about to vanquish it, that sin most clearly manifests its violence and its many forms: unbelief, murderous hatred, shunning and mockery by the leaders and the people, Pilate's cowardice and the cruelty of the soldiers, Judas' betrayal - so bitter to Jesus, Peter's denial and the disciples' flight. However, at the very hour of darkness, the hour of the prince of this world, The sacrifice of Christ secretly becomes the source from which the forgiveness of our sins will pour forth inexhaustibly.
 
-**III. The Different Kinds of Sins1852.** There are a great many kinds of sins. Scripture provides several lists of them. the Letter to the Galatians contrasts the works of the flesh with the fruit of the Spirit: "Now the works of the flesh are plain: fornication, impurity, licentiousness, idolatry, sorcery, enmity, strife, jealousy, anger, selfishness, dissension, factions, envy, drunkenness, carousing, and the like. I warn you, as I warned you before, that those who do such things shall not inherit the Kingdom of God."
+#### III. The Different Kinds of Sins
+
+**1852.** There are a great many kinds of sins. Scripture provides several lists of them. the Letter to the Galatians contrasts the works of the flesh with the fruit of the Spirit: "Now the works of the flesh are plain: fornication, impurity, licentiousness, idolatry, sorcery, enmity, strife, jealousy, anger, selfishness, dissension, factions, envy, drunkenness, carousing, and the like. I warn you, as I warned you before, that those who do such things shall not inherit the Kingdom of God."
 
 **1853.** Sins can be distinguished according to their objects, as can every human act; or according to the virtues they oppose, by excess or defect; or according to the commandments they violate. They can also be classed according to whether they concern God, neighbor, or oneself; they can be divided into spiritual and carnal sins, or again as sins in thought, word, deed, or omission. the root of sin is in the heart of man, in his free will, according to the teaching of the Lord: "For out of the heart come evil thoughts, murder, adultery, fornication, theft, false witness, slander. These are what defile a man." But in the heart also resides charity, the source of the good and pure works, which sin wounds.
 
-**IV. The Gravity of Sin: Mortal and Venial Sin1854.** Sins are rightly evaluated according to their gravity. the distinction between mortal and venial sin, already evident in Scripture, became part of the tradition of the Church. It is corroborated by human experience.
+#### IV. The Gravity of Sin: Mortal and Venial Sin
 
-**1855.** Mortal sin destroys charity in the heart of man by a grave violation of God's law; it turns man away from God, who is his ultimate end and his beatitude, by preferring an inferior good to him. ** Venial sin allows charity to subsist, even though it offends and wounds it.
+**1854.** Sins are rightly evaluated according to their gravity. the distinction between mortal and venial sin, already evident in Scripture, became part of the tradition of the Church. It is corroborated by human experience.
+
+**1855.** Mortal sin destroys charity in the heart of man by a grave violation of God's law; it turns man away from God, who is his ultimate end and his beatitude, by preferring an inferior good to him. Venial sin allows charity to subsist, even though it offends and wounds it.
 
 **1856.** Mortal sin, by attacking the vital principle within us - that is, charity - necessitates a new initiative of God's mercy and a conversion of heart which is normally accomplished within the setting of the sacrament of reconciliation:
 
-When the will sets itself upon
-something that is of its nature incompatible with the charity that orients man
-toward his ultimate end, then the sin is mortal by its very object . . .
-whether it contradicts the love of God, such as blasphemy or perjury, or the
-love of neighbor, such as homicide or adultery.... But when the sinner's will
-is set upon something that of its nature involves a disorder, but is not
-opposed to the love of God and neighbor, such as thoughtless chatter or
-immoderate laughter and the like, such sins are venial.
+When the will sets itself upon something that is of its nature incompatible with the charity that orients man toward his ultimate end, then the sin is mortal by its very object . . . whether it contradicts the love of God, such as blasphemy or perjury, or the love of neighbor, such as homicide or adultery.... But when the sinner's will is set upon something that of its nature involves a disorder, but is not opposed to the love of God and neighbor, such as thoughtless chatter or immoderate laughter and the like, such sins are venial.
 
 **1857.** For a sin to be mortal, three conditions must together be met: "Mortal sin is sin whose object is grave matter and which is also committed with full knowledge and deliberate consent."
 
@@ -573,32 +512,25 @@ immoderate laughter and the like, such sins are venial.
 
 **1863.** Venial sin weakens charity; it manifests a disordered affection for created goods; it impedes the soul's progress in the exercise of the virtues and the practice of the moral good; it merits temporal punishment. Deliberate and unrepented venial sin disposes us little by little to commit mortal sin. However venial sin does not set us in direct opposition to the will and friendship of God; it does not break the covenant with God. With God's grace it is humanly reparable. "Venial sin does not deprive the sinner of sanctifying grace, friendship with God, charity, and consequently eternal happiness."
 
-While he is in the flesh, man
-cannot help but have at least some light sins. But do not despise these sins
-which we call "light": if you take them for light when you weigh
-them, tremble when you count them. A number of light objects makes a great
-mass; a number of drops fills a river; a number of grains makes a heap. What
-then is our hope? Above all, confession.
+While he is in the flesh, man cannot help but have at least some light sins. But do not despise these sins which we call "light": if you take them for light when you weigh them, tremble when you count them. A number of light objects makes a great mass; a number of drops fills a river; a number of grains makes a heap. What then is our hope? Above all, confession.
 
 **1864.** "Whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin." There are no limits to the mercy of God, but anyone who deliberately refuses to accept his mercy by repenting, rejects the forgiveness of his sins and the salvation offered by the Holy Spirit. Such hardness of heart can lead to final impenitence and eternal loss.
 
-**V. The Proliferation of Sin1865.** Sin creates a proclivity to sin; it engenders vice by repetition of the same acts. This results in perverse inclinations which cloud conscience and corrupt the concrete judgment of good and evil. Thus sin tends to reproduce itself and reinforce itself, but it cannot destroy the moral sense at its root.
+#### V. The Proliferation of Sin
+
+**1865.** Sin creates a proclivity to sin; it engenders vice by repetition of the same acts. This results in perverse inclinations which cloud conscience and corrupt the concrete judgment of good and evil. Thus sin tends to reproduce itself and reinforce itself, but it cannot destroy the moral sense at its root.
 
 **1866.** Vices can be classified according to the virtues they oppose, or also be linked to the capital sins which Christian experience has distinguished, following St. John Cassian and St. Gregory the Great. They are called "capital" because they engender other sins, other vices. They are pride, avarice, envy, wrath, lust, gluttony, and sloth or acedia.
 
 **1867.** The catechetical tradition also recalls that there are "sins that cry to heaven": the blood of Abel, The sin of the Sodomites, The cry of the people oppressed in Egypt, The cry of the foreigner, the widow, and the orphan, injustice to the wage earner.
 
-**1868.** Sin is a personal act. Moreover, we have a responsibility for the sins committed by others when we cooperate in them: ** - by participating directly and voluntarily in them;
-
-- by ordering, advising, praising, or approving them;
-
-- by not disclosing or not hindering them when we have an obligation to do so;
-
-- by protecting evil-doers.
+**1868.** Sin is a personal act. Moreover, we have a responsibility for the sins committed by others when we cooperate in them: - by participating directly and voluntarily in them; - by ordering, advising, praising, or approving them; - by not disclosing or not hindering them when we have an obligation to do so; - by protecting evil-doers.
 
 **1869.** Thus sin makes men accomplices of one another and causes concupiscence, violence, and injustice to reign among them. Sins give rise to social situations and institutions that are contrary to the divine goodness. "Structures of sin" are the expression and effect of personal sins. They lead their victims to do evil in their turn. In an analogous sense, they constitute a "social sin."
 
-**IN BRIEF1870.** *"God has consigned all men to disobedience, that he may have mercy upon all" (Rom 11:32).*
+#### IN BRIEF
+
+**1870.** *"God has consigned all men to disobedience, that he may have mercy upon all" (Rom 11:32).*
 
 **1871.** *Sin is an utterance, a deed, or a desire contrary to the eternal law (St. Augustine, Faust 22: PL 42, 418). It is an offense against God. It rises up against God in a disobedience contrary to the obedience of Christ.*
 
@@ -612,9 +544,19 @@ then is our hope? Above all, confession.
 
 **1876.** *The repetition of sins - even venial ones - engenders vices, among which are the capital sins.*
 
-CHAPTER TWOTHE HUMAN COMMUNION1877.** The vocation of humanity is to show forth the image of God and to be transformed into the image of the Father's only Son. This vocation takes a personal form since each of us is called to enter into the divine beatitude; it also concerns the human community as a whole.
+#### CHAPTER TWO
 
-Article 1THE PERSON AND SOCIETYI. The Communal Character of the Human Vocation1878.** All men are called to the same end: God himself. There is a certain resemblance between the union of the divine persons and the fraternity that men are to establish among themselves in truth and love. Love of neighbor is inseparable from love for God.
+#### THE HUMAN COMMUNION
+
+**1877.** The vocation of humanity is to show forth the image of God and to be transformed into the image of the Father's only Son. This vocation takes a personal form since each of us is called to enter into the divine beatitude; it also concerns the human community as a whole.
+
+Article 1
+
+#### THE PERSON AND SOCIETY
+
+#### I. The Communal Character of the Human Vocation
+
+**1878.** All men are called to the same end: God himself. There is a certain resemblance between the union of the divine persons and the fraternity that men are to establish among themselves in truth and love. Love of neighbor is inseparable from love for God.
 
 **1879.** The human person needs to live in society. Society is not for him an extraneous addition but a requirement of his nature. Through the exchange with others, mutual service and dialogue with his brethren, man develops his potential; he thus responds to his vocation.
 
@@ -630,19 +572,11 @@ Article 1THE PERSON AND SOCIETYI. The Communal Character of the Human Vocation18
 
 **1885.** The principle of subsidiarity is opposed to all forms of collectivism. It sets limits for state intervention. It aims at harmonizing the relationships between individuals and societies. It tends toward the establishment of true international order.
 
-**II. Conversion and Society1886.** Society is essential to the fulfillment of the human vocation. To attain this aim, respect must be accorded to the just hierarchy of values, which "subordinates physical and instinctual dimensions to interior and spiritual ones:"
+#### II. Conversion and Society
 
-Human society must primarily
-be considered something pertaining to the spiritual. Through it, in the bright
-light of truth, men should share their knowledge, be able to exercise their
-rights and fulfill their obligations, be inspired to seek spiritual values;
-mutually derive genuine pleasure from the beautiful, of whatever order it be;
-always be readily disposed to pass on to others the best of their own cultural
-heritage; and eagerly strive to make their own the spiritual achievements of
-others. These benefits not only influence, but at the same time give aim and
-scope to all that has bearing on cultural expressions, economic, and social
-institutions, political movements and forms, laws, and all other structures by
-which society is outwardly established and constantly developed.
+**1886.** Society is essential to the fulfillment of the human vocation. To attain this aim, respect must be accorded to the just hierarchy of values, which "subordinates physical and instinctual dimensions to interior and spiritual ones:"
+
+Human society must primarily be considered something pertaining to the spiritual. Through it, in the bright light of truth, men should share their knowledge, be able to exercise their rights and fulfill their obligations, be inspired to seek spiritual values; mutually derive genuine pleasure from the beautiful, of whatever order it be; always be readily disposed to pass on to others the best of their own cultural heritage; and eagerly strive to make their own the spiritual achievements of others. These benefits not only influence, but at the same time give aim and scope to all that has bearing on cultural expressions, economic, and social institutions, political movements and forms, laws, and all other structures by which society is outwardly established and constantly developed.
 
 **1887.** The inversion of means and ends, which results in giving the value of ultimate end to what is only a means for attaining it, or in viewing persons as mere means to that end, engenders unjust structures which "make Christian conduct in keeping with the commandments of the divine Law-giver difficult and almost impossible."
 
@@ -650,7 +584,9 @@ which society is outwardly established and constantly developed.
 
 **1889.** Without the help of grace, men would not know how "to discern the often narrow path between the cowardice which gives in to evil, and the violence which under the illusion of fighting evil only makes it worse." This is the path of charity, that is, of the love of God and of neighbor. Charity is the greatest social commandment. It respects others and their rights. It requires the practice of justice, and it alone makes us capable of it. Charity inspires a life of self-giving: "Whoever seeks to gain his life will lose it, but whoever loses his life will preserve it."
 
-**IN BRIEF1890.** *There is a certain resemblance between the union of the divine persons and the fraternity that men ought to establish among themselves.*
+#### IN BRIEF
+
+**1890.** *There is a certain resemblance between the union of the divine persons and the fraternity that men ought to establish among themselves.*
 
 **1891.** *The human person needs life in society in order to develop in accordance with his nature. Certain societies, such as the family and the state, correspond more directly to the nature of man.*
 
@@ -664,7 +600,13 @@ which society is outwardly established and constantly developed.
 
 **1896.** *Where sin has perverted the social climate, it is necessary to call for the conversion of hearts and appeal to the grace of God. Charity urges just reforms. There is no solution to the social question apart from the Gospel (cf CA 3, 5).*
 
-Article 2PARTICIPATION IN SOCIAL LIFEI. Authority1897.** "Human society can be neither well-ordered nor prosperous unless it has some people invested with legitimate authority to preserve its institutions and to devote themselves as far as is necessary to work and care for the good of all." ** By "authority" one means the quality by virtue of which persons or institutions make laws and give orders to men and expect obedience from them.
+Article 2
+
+#### PARTICIPATION IN SOCIAL LIFE
+
+#### I. Authority
+
+**1897.** "Human society can be neither well-ordered nor prosperous unless it has some people invested with legitimate authority to preserve its institutions and to devote themselves as far as is necessary to work and care for the good of all." By "authority" one means the quality by virtue of which persons or institutions make laws and give orders to men and expect obedience from them.
 
 **1898.** Every human community needs an authority to govern it. The foundation of such authority lies in human nature. It is necessary for the unity of the state. Its role is to ensure as far as possible the common good of the society.
 
@@ -672,41 +614,23 @@ Article 2PARTICIPATION IN SOCIAL LIFEI. Authority1897.** "Human society can be n
 
 **1900.** The duty of obedience requires all to give due honor to authority and to treat those who are charged to exercise it with respect, and, insofar as it is deserved, with gratitude and good-will.
 
-Pope St. Clement of Rome
-provides the Church's most ancient prayer for political authorities:
-"Grant to them, Lord, health, peace, concord, and stability, so that they
-may exercise without offense the sovereignty that you have given them. Master,
-heavenly King of the ages, you give glory, honor, and power over the things of
-earth to the sons of men. Direct, Lord, their counsel, following what is
-pleasing and acceptable in your sight, so that by exercising with devotion and
-in peace and gentleness the power that you have given to them, they may find
-favor with you."
+Pope St. Clement of Rome provides the Church's most ancient prayer for political authorities: "Grant to them, Lord, health, peace, concord, and stability, so that they may exercise without offense the sovereignty that you have given them. Master, heavenly King of the ages, you give glory, honor, and power over the things of earth to the sons of men. Direct, Lord, their counsel, following what is pleasing and acceptable in your sight, so that by exercising with devotion and in peace and gentleness the power that you have given to them, they may find favor with you."
 
-**1901.** If authority belongs to the order established by God, "the choice of the political regime and the appointment of rulers are left to the free decision of the citizens."
-
-The diversity of political regimes is morally acceptable, provided they serve
-the legitimate good of the communities that adopt them. Regimes whose nature is
-contrary to the natural law, to the public order, and to the fundamental rights
-of persons cannot achieve the common good of the nations on which they have
-been imposed.
+**1901.** If authority belongs to the order established by God, "the choice of the political regime and the appointment of rulers are left to the free decision of the citizens." The diversity of political regimes is morally acceptable, provided they serve the legitimate good of the communities that adopt them. Regimes whose nature is contrary to the natural law, to the public order, and to the fundamental rights of persons cannot achieve the common good of the nations on which they have been imposed.
 
 **1902.** Authority does not derive its moral legitimacy from itself. It must not behave in a despotic manner, but must act for the common good as a "moral force based on freedom and a sense of responsibility":
 
-A human law has the character
-of law to the extent that it accords with right reason, and thus derives from
-the eternal law. Insofar as it falls short of right reason it is said to be an
-unjust law, and thus has not so much the nature of law as of a kind of
-violence.
+A human law has the character of law to the extent that it accords with right reason, and thus derives from the eternal law. Insofar as it falls short of right reason it is said to be an unjust law, and thus has not so much the nature of law as of a kind of violence.
 
 **1903.** Authority is exercised legitimately only when it seeks the common good of the group concerned and if it employs morally licit means to attain it. If rulers were to enact unjust laws or take measures contrary to the moral order, such arrangements would not be binding in conscience. In such a case, "authority breaks down completely and results in shameful abuse."
 
 **1904.** "It is preferable that each power be balanced by other powers and by other spheres of responsibility which keep it within proper bounds. This is the principle of the 'rule of law,' in which the law is sovereign and not the arbitrary will of men."
 
-**II. The Common Good1905.** In keeping with the social nature of man, the good of each individual is necessarily related to the common good, which in turn can be defined only in reference to the human person:
+#### II. The Common Good
 
-Do not live entirely isolated,
-having retreated into yourselves, as if you were already justified, but gather instead
-to seek the common good together.
+**1905.** In keeping with the social nature of man, the good of each individual is necessarily related to the common good, which in turn can be defined only in reference to the human person:
+
+Do not live entirely isolated, having retreated into yourselves, as if you were already justified, but gather instead to seek the common good together.
 
 **1906.** By common good is to be understood "the sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfillment more fully and more easily." The common good concerns the life of all. It calls for prudence from each, and even more from those who exercise the office of authority. It consists of three essential elements:
 
@@ -722,7 +646,9 @@ to seek the common good together.
 
 **1912.** The common good is always oriented towards the progress of persons: "The order of things must be subordinate to the order of persons, and not the other way around." This order is founded on truth, built up in justice, and animated by love.
 
-**III. Responsibility and Participation1913.** "Participation" is the voluntary and generous engagement of a person in social interchange. It is necessary that all participate, each according to his position and role, in promoting the common good. This obligation is inherent in the dignity of the human person.
+#### III. Responsibility and Participation
+
+**1913.** "Participation" is the voluntary and generous engagement of a person in social interchange. It is necessary that all participate, each according to his position and role, in promoting the common good. This obligation is inherent in the dignity of the human person.
 
 **1914.** Participation is achieved first of all by taking charge of the areas for which one assumes personal responsibility: by the care taken for the education of his family, by conscientious work, and so forth, man participates in the good of others and of society.
 
@@ -732,7 +658,9 @@ to seek the common good together.
 
 **1917.** It is incumbent on those who exercise authority to strengthen the values that inspire the confidence of the members of the group and encourage them to put themselves at the service of others. Participation begins with education and culture. "One is entitled to think that the future of humanity is in the hands of those who are capable of providing the generations to come with reasons for life and optimism."
 
-**IN BRIEF1918.** *"There is no authority except from God, and those authorities that exist have been instituted by God" (Rom 13:1).*
+#### IN BRIEF
+
+**1918.** *"There is no authority except from God, and those authorities that exist have been instituted by God" (Rom 13:1).*
 
 **1919.** *Every human community needs an authority in order to endure and develop.*
 
@@ -752,14 +680,17 @@ to seek the common good together.
 
 **1927.** *It is the role of the state to defend and promote the common good of civil society. the common good of the whole human family calls for an organization of society on the international level.*
 
-Article 3SOCIAL JUSTICE1928.** Society ensures social justice when it provides the conditions that allow associations or individuals to obtain what is their due, according to their nature and their vocation. Social justice is linked to the common good and the exercise of authority.
+Article 3
 
-**I. Respect For the Human Person1929.** Social justice can be obtained only in respecting the transcendent dignity of man. the person represents the ultimate end of society, which is ordered to him:
+#### SOCIAL JUSTICE
 
-What is at stake is the
-dignity of the human person, whose defense and promotion have been entrusted to
-us by the Creator, and to whom the men and women at every moment of history are
-strictly and responsibly in debt.
+**1928.** Society ensures social justice when it provides the conditions that allow associations or individuals to obtain what is their due, according to their nature and their vocation. Social justice is linked to the common good and the exercise of authority.
+
+#### I. Respect For the Human Person
+
+**1929.** Social justice can be obtained only in respecting the transcendent dignity of man. the person represents the ultimate end of society, which is ordered to him:
+
+What is at stake is the dignity of the human person, whose defense and promotion have been entrusted to us by the Creator, and to whom the men and women at every moment of history are strictly and responsibly in debt.
 
 **1930.** Respect for the human person entails respect for the rights that flow from his dignity as a creature. These rights are prior to society and must be recognized by it. They are the basis of the moral legitimacy of every authority: by flouting them, or refusing to recognize them in its positive legislation, a society undermines its own moral legitimacy. If it does not respect them, authority can rely only on force or violence to obtain obedience from its subjects. It is the Church's role to remind men of good will of these rights and to distinguish them from unwarranted or false claims.
 
@@ -769,45 +700,29 @@ strictly and responsibly in debt.
 
 **1933.** This same duty extends to those who think or act differently from us. the teaching of Christ goes so far as to require the forgiveness of offenses. He extends the commandment of love, which is that of the New Law, to all enemies. Liberation in the spirit of the Gospel is incompatible with hatred of one's enemy as a person, but not with hatred of the evil that he does as an enemy.
 
-**II. Equality and Differences Among Men1934.** Created in the image of the one God and equally endowed with rational souls, all men have the same nature and the same origin. Redeemed by the sacrifice of Christ, all are called to participate in the same divine beatitude: all therefore enjoy an equal dignity.
+#### II. Equality and Differences Among Men
+
+**1934.** Created in the image of the one God and equally endowed with rational souls, all men have the same nature and the same origin. Redeemed by the sacrifice of Christ, all are called to participate in the same divine beatitude: all therefore enjoy an equal dignity.
 
 **1935.** The equality of men rests essentially on their dignity as persons and the rights that flow from it:
 
-Every form of social or
-cultural discrimination in fundamental personal rights on the grounds of sex,
-race, color, social conditions, language, or religion must be curbed and
-eradicated as incompatible with God's design.
+Every form of social or cultural discrimination in fundamental personal rights on the grounds of sex, race, color, social conditions, language, or religion must be curbed and eradicated as incompatible with God's design.
 
 **1936.** On coming into the world, man is not equipped with everything he needs for developing his bodily and spiritual life. He needs others. Differences appear tied to age, physical abilities, intellectual or moral aptitudes, the benefits derived from social commerce, and the distribution of wealth. The "talents" are not distributed equally.
 
 **1937.** These differences belong to God's plan, who wills that each receive what he needs from others, and that those endowed with particular "talents" share the benefits with those who need them. These differences encourage and often oblige persons to practice generosity, kindness, and sharing of goods; they foster the mutual enrichment of cultures:
 
-I distribute the virtues quite
-diversely; I do not give all of them to each person, but some to one, some to
-others.... I shall give principally charity to one; justice to another;
-humility to this one, a living faith to that one.... and so I have given many
-gifts and graces, both spiritual and temporal, with such diversity that I have
-not given everything to one single person, so that you may be constrained to
-practice charity towards one another.... I have willed that one should need
-another and that all should be my ministers in distributing the graces and gifts
-they have received from me.
+I distribute the virtues quite diversely; I do not give all of them to each person, but some to one, some to others.... I shall give principally charity to one; justice to another; humility to this one, a living faith to that one.... and so I have given many gifts and graces, both spiritual and temporal, with such diversity that I have not given everything to one single person, so that you may be constrained to practice charity towards one another.... I have willed that one should need another and that all should be my ministers in distributing the graces and gifts they have received from me.
 
 **1938.** There exist also sinful inequalities that affect millions of men and women. These are in open contradiction of the Gospel:
 
-Their equal dignity as persons
-demands that we strive for fairer and more humane conditions. Excessive
-economic and social disparity between individuals and peoples of the one human
-race is a source of scandal and militates against social justice, equity, human
-dignity, as well as social and international peace.
+Their equal dignity as persons demands that we strive for fairer and more humane conditions. Excessive economic and social disparity between individuals and peoples of the one human race is a source of scandal and militates against social justice, equity, human dignity, as well as social and international peace.
 
-**III. Human Solidarity1939.** The principle of solidarity, also articulated in terms of "friendship" or "social charity," is a direct demand of human and Christian brotherhood.
+#### III. Human Solidarity
 
-An error, "today
-abundantly widespread, is disregard for the law of human solidarity and
-charity, dictated and imposed both by our common origin and by the equality in
-rational nature of all men, whatever nation they belong to. This law is sealed
-by the sacrifice of redemption offered by Jesus Christ on the altar of the
-Cross to his heavenly Father, on behalf of sinful humanity."
+**1939.** The principle of solidarity, also articulated in terms of "friendship" or "social charity," is a direct demand of human and Christian brotherhood.
+
+An error, "today abundantly widespread, is disregard for the law of human solidarity and charity, dictated and imposed both by our common origin and by the equality in rational nature of all men, whatever nation they belong to. This law is sealed by the sacrifice of redemption offered by Jesus Christ on the altar of the Cross to his heavenly Father, on behalf of sinful humanity."
 
 **1940.** Solidarity is manifested in the first place by the distribution of goods and remuneration for work. It also presupposes the effort for a more just social order where tensions are better able to be reduced and conflicts more readily settled by negotiation.
 
@@ -815,15 +730,11 @@ Cross to his heavenly Father, on behalf of sinful humanity."
 
 **1942.** The virtue of solidarity goes beyond material goods. In spreading the spiritual goods of the faith, the Church has promoted, and often opened new paths for, the development of temporal goods as well. and so throughout the centuries has the Lord's saying been verified: "Seek first his kingdom and his righteousness, and all these things shall be yours as well":
 
-For two thousand years this
-sentiment has lived and endured in the soul of the Church, impelling souls then
-and now to the heroic charity of monastic farmers, liberators of slaves,
-healers of the sick, and messengers of faith, civilization, and science to all
-generations and all peoples for the sake of creating the social conditions
-capable of offering to everyone possible a life worthy of man and of a
-Christian.
+For two thousand years this sentiment has lived and endured in the soul of the Church, impelling souls then and now to the heroic charity of monastic farmers, liberators of slaves, healers of the sick, and messengers of faith, civilization, and science to all generations and all peoples for the sake of creating the social conditions capable of offering to everyone possible a life worthy of man and of a Christian.
 
-**IN BRIEF1943.** *Society ensures social justice by providing the conditions that allow associations and individuals to obtain their due.*
+#### IN BRIEF
+
+**1943.** *Society ensures social justice by providing the conditions that allow associations and individuals to obtain their due.*
 
 **1944.** *Respect for the human person considers the other "another self." It presupposes respect for the fundamental rights that flow from the dignity intrinsic of the person.*
 
@@ -835,111 +746,77 @@ Christian.
 
 **1948.** *Solidarity is an eminently Christian virtue. It practices the sharing of spiritual goods even more than material ones.*
 
-CHAPTER THREEGOD'S SALVATION: LAW AND GRACE1949.** Called to beatitude but wounded by sin, man stands in need of salvation from God. Divine help comes to him in Christ through the law that guides him and the grace that sustains him:
+#### CHAPTER THREE
 
-Work out your own salvation
-with fear and trembling; for God is at work in you, both to will and to work
-for his good pleasure.
+#### GOD'S SALVATION: LAW AND GRACE
 
-Article 1THE MORAL LAW1950.** The moral law is the work of divine Wisdom. Its biblical meaning can be defined as fatherly instruction, God's pedagogy. It prescribes for man the ways, the rules of conduct that lead to the promised beatitude; it proscribes the ways of evil which turn him away from God and his love. It is at once firm in its precepts and, in its promises, worthy of love.
+**1949.** Called to beatitude but wounded by sin, man stands in need of salvation from God. Divine help comes to him in Christ through the law that guides him and the grace that sustains him:
+
+Work out your own salvation with fear and trembling; for God is at work in you, both to will and to work for his good pleasure.
+
+Article 1
+
+#### THE MORAL LAW
+
+**1950.** The moral law is the work of divine Wisdom. Its biblical meaning can be defined as fatherly instruction, God's pedagogy. It prescribes for man the ways, the rules of conduct that lead to the promised beatitude; it proscribes the ways of evil which turn him away from God and his love. It is at once firm in its precepts and, in its promises, worthy of love.
 
 **1951.** Law is a rule of conduct enacted by competent authority for the sake of the common good. the moral law presupposes the rational order, established among creatures for their good and to serve their final end, by the power, wisdom, and goodness of the Creator. All law finds its first and ultimate truth in the eternal law. Law is declared and established by reason as a participation in the providence of the living God, Creator and Redeemer of all. "Such an ordinance of reason is what one calls law."
 
-Alone among all animate
-beings, man can boast of having been counted worthy to receive a law from God:
-as an animal endowed with reason, capable of understanding and discernment, he
-is to govern his conduct by using his freedom and reason, in obedience to the
-One who has entrusted everything to him.
+Alone among all animate beings, man can boast of having been counted worthy to receive a law from God: as an animal endowed with reason, capable of understanding and discernment, he is to govern his conduct by using his freedom and reason, in obedience to the One who has entrusted everything to him.
 
 **1952.** There are different expressions of the moral law, all of them interrelated: eternal law - the source, in God, of all law; natural law; revealed law, comprising the Old Law and the New Law, or Law of the Gospel; finally, civil and ecclesiastical laws.
 
 **1953.** The moral law finds its fullness and its unity in Christ. Jesus Christ is in person the way of perfection. He is the end of the law, for only he teaches and bestows the justice of God: "For Christ is the end of the law, that every one who has faith may be justified."
 
-**I. The Natural Moral Law1954.** Man participates in the wisdom and goodness of the Creator who gives him mastery over his acts and the ability to govern himself with a view to the true and the good.
+#### I. The Natural Moral Law
 
-The natural
-law expresses the original moral sense which enables man to discern by reason
-the good and the evil, the truth and the lie:
+**1954.** Man participates in the wisdom and goodness of the Creator who gives him mastery over his acts and the ability to govern himself with a view to the true and the good.
 
-The natural law is written and
-engraved in the soul of each and every man, because it is human reason
-ordaining him to do good and forbidding him to sin . . . But this command of
-human reason would not have the force of law if it were not the voice and
-interpreter of a higher reason to which our spirit and our freedom must be
-submitted.
+The natural law expresses the original moral sense which enables man to discern by reason the good and the evil, the truth and the lie:
+
+The natural law is written and engraved in the soul of each and every man, because it is human reason ordaining him to do good and forbidding him to sin . . . But this command of human reason would not have the force of law if it were not the voice and interpreter of a higher reason to which our spirit and our freedom must be submitted.
 
 **1955.** The "divine and natural" law shows man the way to follow so as to practice the good and attain his end. the natural law states the first and essential precepts which govern the moral life. It hinges upon the desire for God and submission to him, who is the source and judge of all that is good, as well as upon the sense that the other is one's equal. Its principal precepts are expressed in the Decalogue. This law is called "natural," not in reference to the nature of irrational beings, but because reason which decrees it properly belongs to human nature:
 
-Where then are these rules
-written, if not in the book of that light we call the truth? In it is written
-every just law; from it the law passes into the heart of the man who does
-justice, not that it migrates into it, but that it places its imprint on it,
-like a seal on a ring that passes onto wax, without leaving the ring.
+Where then are these rules written, if not in the book of that light we call the truth? In it is written every just law; from it the law passes into the heart of the man who does justice, not that it migrates into it, but that it places its imprint on it, like a seal on a ring that passes onto wax, without leaving the ring.
 
-The natural law is nothing
-other than the light of understanding placed in us by God; through it we know
-what we must do and what we must avoid. God has given this light or law at the
-creation.
+The natural law is nothing other than the light of understanding placed in us by God; through it we know what we must do and what we must avoid. God has given this light or law at the creation.
 
 **1956.** The natural law, present in the heart of each man and established by reason, is universal in its precepts and its authority extends to all men. It expresses the dignity of the person and determines the basis for his fundamental rights and duties:
 
-For there is a true law: right
-reason. It is in conformity with nature, is diffused among all men, and is
-immutable and eternal; its orders summon to duty; its prohibitions turn away from
-offense .... To replace it with a contrary law is a sacrilege; failure to apply
-even one of its provisions is forbidden; no one can abrogate it
-entirely.
+For there is a true law: right reason. It is in conformity with nature, is diffused among all men, and is immutable and eternal; its orders summon to duty; its prohibitions turn away from offense .... To replace it with a contrary law is a sacrilege; failure to apply even one of its provisions is forbidden; no one can abrogate it entirely.
 
 **1957.** Application of the natural law varies greatly; it can demand reflection that takes account of various conditions of life according to places, times, and circumstances. Nevertheless, in the diversity of cultures, the natural law remains as a rule that binds men among themselves and imposes on them, beyond the inevitable differences, common principles.
 
 **1958.** The natural law is immutable and permanent throughout the variations of history; it subsists under the flux of ideas and customs and supports their progress. the rules that express it remain substantially valid. Even when it is rejected in its very principles, it cannot be destroyed or removed from the heart of man. It always rises again in the life of individuals and societies:
 
-Theft is surely punished by
-your law, O Lord, and by the law that is written in the human heart, the law
-that iniquity itself does not efface.
+Theft is surely punished by your law, O Lord, and by the law that is written in the human heart, the law that iniquity itself does not efface.
 
 **1959.** The natural law, the Creator's very good work, provides the solid foundation on which man can build the structure of moral rules to guide his choices. It also provides the indispensable moral foundation for building the human community. Finally, it provides the necessary basis for the civil law with which it is connected, whether by a reflection that draws conclusions from its principles, or by additions of a positive and juridical nature.
 
 **1960.** The precepts of natural law are not perceived by everyone clearly and immediately. In the present situation sinful man needs grace and revelation so moral and religious truths may be known "by everyone with facility, with firm certainty and with no admixture of error." The natural law provides revealed law and grace with a foundation prepared by God and in accordance with the work of the Spirit.
 
-**II. The Old Law1961.** God, our Creator and Redeemer, chose Israel for himself to be his people and revealed his Law to them, thus preparing for the coming of Christ. the Law of Moses expresses many truths naturally accessible to reason. These are stated and authenticated within the covenant of salvation.
+#### II. The Old Law
+
+**1961.** God, our Creator and Redeemer, chose Israel for himself to be his people and revealed his Law to them, thus preparing for the coming of Christ. the Law of Moses expresses many truths naturally accessible to reason. These are stated and authenticated within the covenant of salvation.
 
 **1962.** The Old Law is the first stage of revealed Law. Its moral prescriptions are summed up in the Ten Commandments. the precepts of the Decalogue lay the foundations for the vocation of man fashioned in the image of God; they prohibit what is contrary to the love of God and neighbor and prescribe what is essential to it. the Decalogue is a light offered to the conscience of every man to make God's call and ways known to him and to protect him against evil:
 
-God wrote on the tables of the
-Law what men did not read in their hearts.
+God wrote on the tables of the Law what men did not read in their hearts.
 
 **1963.** According to Christian tradition, the Law is holy, spiritual, and good, yet still imperfect. Like a tutor it shows what must be done, but does not of itself give the strength, the grace of the Spirit, to fulfill it. Because of sin, which it cannot remove, it remains a law of bondage. According to St. Paul, its special function is to denounce and disclose sin, which constitutes a "law of concupiscence" in the human heart. However, the Law remains the first stage on the way to the kingdom. It prepares and disposes the chosen people and each Christian for conversion and faith in the Savior God. It provides a teaching which endures for ever, like the Word of God.
 
 **1964.** The Old Law is a preparation for the Gospel. "The Law is a pedagogy and a prophecy of things to come." It prophesies and presages the work of liberation from sin which will be fulfilled in Christ: it provides the New Testament with images, "types," and symbols for expressing the life according to the Spirit. Finally, the Law is completed by the teaching of the sapiential books and the prophets which set its course toward the New Covenant and the Kingdom of heaven.
 
-There were . . . under the
-regimen of the Old Covenant, people who possessed the charity and grace of the
-Holy Spirit and longed above all for the spiritual and eternal promises by
-which they were associated with the New Law. Conversely, there exist carnal men
-under the New Covenant still distanced from the perfection of the New Law: the
-fear of punishment and certain temporal promises have been necessary, even
-under the New Covenant, to incite them to virtuous works. In any case, even
-though the Old Law prescribed charity, it did not give the Holy Spirit, through
-whom "God's charity has been poured into our hearts."
+There were . . . under the regimen of the Old Covenant, people who possessed the charity and grace of the Holy Spirit and longed above all for the spiritual and eternal promises by which they were associated with the New Law. Conversely, there exist carnal men under the New Covenant still distanced from the perfection of the New Law: the fear of punishment and certain temporal promises have been necessary, even under the New Covenant, to incite them to virtuous works. In any case, even though the Old Law prescribed charity, it did not give the Holy Spirit, through whom "God's charity has been poured into our hearts."
 
-**
+#### III. The New Law or the Law of the Gospel
 
-14, 16.**
-
-7.**
-
-5:5.
-
-**III. The New Law or the Law of the Gospel1965.** The New Law or the Law of the Gospel is the perfection here on earth of the divine law, natural and revealed. It is the work of Christ and is expressed particularly in the Sermon on the Mount. It is also the work of the Holy Spirit and through him it becomes the interior law of charity: "I will establish a New Covenant with the house of Israel. . . . I will put my laws into their hands, and write them on their hearts, and I will be their God, and they shall be my people."19
+**1965.** The New Law or the Law of the Gospel is the perfection here on earth of the divine law, natural and revealed. It is the work of Christ and is expressed particularly in the Sermon on the Mount. It is also the work of the Holy Spirit and through him it becomes the interior law of charity: "I will establish a New Covenant with the house of Israel. . . . I will put my laws into their hands, and write them on their hearts, and I will be their God, and they shall be my people."19
 
 **1966.** The New Law is the grace of the Holy Spirit given to the faithful through faith in Christ. It works through charity; it uses the Sermon on the Mount to teach us what must be done and makes use of the sacraments to give us the grace to do it:
 
-If anyone should meditate with
-devotion and perspicacity on the sermon our Lord gave on the mount, as we read
-in the Gospel of Saint Matthew, he will doubtless find there . . . the perfect
-way of the Christian life.... This sermon contains ... all the precepts needed
-to shape one's life.
+If anyone should meditate with devotion and perspicacity on the sermon our Lord gave on the mount, as we read in the Gospel of Saint Matthew, he will doubtless find there . . . the perfect way of the Christian life.... This sermon contains ... all the precepts needed to shape one's life.
 
 **1967.** The Law of the Gospel "fulfills," refines, surpasses, and leads the Old Law to its perfection. In the Beatitudes, the New Law fulfills the divine promises by elevating and orienting them toward the "kingdom of heaven." It is addressed to those open to accepting this new hope with faith - the poor, the humble, the afflicted, the pure of heart, those persecuted on account of Christ and so marks out the surprising ways of the Kingdom.
 
@@ -947,7 +824,7 @@ to shape one's life.
 
 **1969.** The New Law practices the acts of religion: almsgiving, prayer and fasting, directing them to the "Father who sees in secret," in contrast with the desire to "be seen by men." Its prayer is the Our Father.
 
-**1970.** The Law of the Gospel requires us to make the decisive choice between "the two ways" and to put into practice the words of the Lord. It is summed up in the Golden Rule, "Whatever you wish that men would do to you, do so to them; this is the law and the prophets." ** The entire Law of the Gospel is contained in the "new commandment" of Jesus, to love one another as he has loved us.
+**1970.** The Law of the Gospel requires us to make the decisive choice between "the two ways" and to put into practice the words of the Lord. It is summed up in the Golden Rule, "Whatever you wish that men would do to you, do so to them; this is the law and the prophets." The entire Law of the Gospel is contained in the "new commandment" of Jesus, to love one another as he has loved us.
 
 **1971.** To the Lord's Sermon on the Mount it is fitting to add the moral catechesis of the apostolic teachings, such as Romans 12-15, 1 Corinthians 12-13, Colossians 3-4, Ephesians 4-5, etc. This doctrine hands on the Lord's teaching with the authority of the apostles, particularly in the presentation of the virtues that flow from faith in Christ and are animated by charity, the principal gift of the Holy Spirit. "Let charity be genuine.... Love one another with brotherly affection.... Rejoice in your hope, be patient in tribulation, be constant in prayer. Contribute to the needs of the saints, practice hospitality." This catechesis also teaches us to deal with cases of conscience in the light of our relationship to Christ and to the Church.
 
@@ -957,14 +834,11 @@ to shape one's life.
 
 **1974.** The evangelical counsels manifest the living fullness of charity, which is never satisfied with not giving more. They attest its vitality and call forth our spiritual readiness. the perfection of the New Law consists essentially in the precepts of love of God and neighbor. the counsels point out the more direct ways, the readier means, and are to be practiced in keeping with the vocation of each:
 
-(God) does not want each
-person to keep all the counsels, but only those appropriate to the diversity of
-persons, times, opportunities, and strengths, as charity requires; for it is
-charity, as queen of all virtues, all commandments, all counsels, and, in
-short, of all laws and all Christian actions that gives to all of them their
-rank, order, time, and value.
+(God) does not want each person to keep all the counsels, but only those appropriate to the diversity of persons, times, opportunities, and strengths, as charity requires; for it is charity, as queen of all virtues, all commandments, all counsels, and, in short, of all laws and all Christian actions that gives to all of them their rank, order, time, and value.
 
-**IN BRIEF1975.** *According to Scripture the Law is a fatherly instruction by God which prescribes for man the ways that lead to the promised beatitude, and proscribes the ways of evil.*
+#### IN BRIEF
+
+**1975.** *According to Scripture the Law is a fatherly instruction by God which prescribes for man the ways that lead to the promised beatitude, and proscribes the ways of evil.*
 
 **1976.** *"Law is an ordinance of reason for the common good, promulgated by the one who is in charge of the community" (St. Thomas Aquinas, STh I-II, 90, 4).*
 
@@ -988,21 +862,19 @@ rank, order, time, and value.
 
 **1986.** *Besides its precepts the New Law includes the evangelical counsels. "The Church's holiness is fostered in a special way by the manifold counsels which the Lord proposes to his disciples in the Gospel" (LG 42 # 2).*
 
-Article 2GRACE AND JUSTIFICATIONI. Justification1987.** The grace of the Holy Spirit has the power to justify us, that is, to cleanse us from our sins and to communicate to us "the righteousness of God through faith in Jesus Christ" and through Baptism:
+Article 2
 
-But if we have died with
-Christ, we believe that we shall also live with him. For we know that Christ
-being raised from the dead will never die again; death no longer has dominion
-over him. the death he died he died to sin, once for all, but the life he lives
-he lives to God. So you also must consider yourselves as dead to sin and alive
-to God in Christ Jesus.
+#### GRACE AND JUSTIFICATION
+
+#### I. Justification
+
+**1987.** The grace of the Holy Spirit has the power to justify us, that is, to cleanse us from our sins and to communicate to us "the righteousness of God through faith in Jesus Christ" and through Baptism:
+
+But if we have died with Christ, we believe that we shall also live with him. For we know that Christ being raised from the dead will never die again; death no longer has dominion over him. the death he died he died to sin, once for all, but the life he lives he lives to God. So you also must consider yourselves as dead to sin and alive to God in Christ Jesus.
 
 **1988.** Through the power of the Holy Spirit we take part in Christ's Passion by dying to sin, and in his Resurrection by being born to a new life; we are members of his Body which is the Church, branches grafted onto the vine which is himself:
 
-(God) gave himself to us
-through his Spirit. By the participation of the Spirit, we become communicants
-in the divine nature.... For this reason, those in whom the Spirit dwells are
-divinized.
+(God) gave himself to us through his Spirit. By the participation of the Spirit, we become communicants in the divine nature.... For this reason, those in whom the Spirit dwells are divinized.
 
 **1989.** The first work of the grace of the Holy Spirit is conversion, effecting justification in accordance with Jesus' proclamation at the beginning of the Gospel: "Repent, for the kingdom of heaven is at hand." Moved by grace, man turns toward God and away from sin, thus accepting forgiveness and righteousness from on high. "Justification is not only the remission of sins, but also the sanctification and renewal of the interior man.
 
@@ -1012,36 +884,21 @@ divinized.
 
 **1992.** Justification has been merited for us by the Passion of Christ who offered himself on the cross as a living victim, holy and pleasing to God, and whose blood has become the instrument of atonement for the sins of all men. Justification is conferred in Baptism, the sacrament of faith. It conforms us to the righteousness of God, who makes us inwardly just by the power of his mercy. Its purpose is the glory of God and of Christ, and the gift of eternal life:
 
-But now the righteousness of
-God has been manifested apart from law, although the law and the prophets bear
-witness to it, the righteousness of God through faith in Jesus Christ for all
-who believe. For there is no distinction: since all have sinned and fall short
-of the glory of God, they are justified by his grace as a gift, through the
-redemption which is in Christ Jesus, whom God put forward as an expiation by
-his blood, to be received by faith. This was to show God's righteousness,
-because in his divine forbearance he had passed over former sins; it was to
-prove at the present time that he himself is righteous and that he justifies
-him who has faith in Jesus.
+But now the righteousness of God has been manifested apart from law, although the law and the prophets bear witness to it, the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: since all have sinned and fall short of the glory of God, they are justified by his grace as a gift, through the redemption which is in Christ Jesus, whom God put forward as an expiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins; it was to prove at the present time that he himself is righteous and that he justifies him who has faith in Jesus.
 
 **1993.** Justification establishes cooperation between God's grace and man's freedom. On man's part it is expressed by the assent of faith to the Word of God, which invites him to conversion, and in the cooperation of charity with the prompting of the Holy Spirit who precedes and preserves his assent:
 
-When God touches man's heart
-through the illumination of the Holy Spirit, man himself is not inactive while receiving
-that inspiration, since he could reject it; and yet, without God's grace, he
-cannot by his own free will move himself toward justice in God's
-sight.
+When God touches man's heart through the illumination of the Holy Spirit, man himself is not inactive while receiving that inspiration, since he could reject it; and yet, without God's grace, he cannot by his own free will move himself toward justice in God's sight.
 
 **1994.** Justification is the most excellent work of God's love made manifest in Christ Jesus and granted by the Holy Spirit. It is the opinion of St. Augustine that "the justification of the wicked is a greater work than the creation of heaven and earth," because "heaven and earth will pass away but the salvation and justification of the elect . . . will not pass away." He holds also that the justification of sinners surpasses the creation of the angels in justice, in that it bears witness to a greater mercy.
 
 **1995.** The Holy Spirit is the master of the interior life. By giving birth to the "inner man," justification entails the sanctification of his whole being:
 
-Just as you once yielded your
-members to impurity and to greater and greater iniquity, so now yield your
-members to righteousness for sanctification.... But now that you have been set
-free from sin and have become slaves of God, the return you get is
-sanctification and its end, eternal life.
+Just as you once yielded your members to impurity and to greater and greater iniquity, so now yield your members to righteousness for sanctification.... But now that you have been set free from sin and have become slaves of God, the return you get is sanctification and its end, eternal life.
 
-**II. Grace1996.** Our justification comes from the grace of God. Grace is favor, the free and undeserved help that God gives us to respond to his call to become children of God, adoptive sons, partakers of the divine nature and of eternal life.
+#### II. Grace
+
+**1996.** Our justification comes from the grace of God. Grace is favor, the free and undeserved help that God gives us to respond to his call to become children of God, adoptive sons, partakers of the divine nature and of eternal life.
 
 **1997.** Grace is a participation in the life of God. It introduces us into the intimacy of Trinitarian life: by Baptism the Christian participates in the grace of Christ, the Head of his Body. As an "adopted son" he can henceforth call God "Father," in union with the only Son. He receives the life of the Spirit who breathes charity into him and who forms the Church.
 
@@ -1049,54 +906,31 @@ sanctification and its end, eternal life.
 
 **1999.** The grace of Christ is the gratuitous gift that God makes to us of his own life, infused by the Holy Spirit into our soul to heal it of sin and to sanctify it. It is the sanctifying or deifying grace received in Baptism. It is in us the source of the work of sanctification:
 
-Therefore if any one is in
-Christ, he is a new creation; the old has passed away, behold, the new has
-come. All this is from God, who through Christ reconciled us to
-himself.
+Therefore if any one is in Christ, he is a new creation; the old has passed away, behold, the new has come. All this is from God, who through Christ reconciled us to himself.
 
 **2000.** Sanctifying grace is an habitual gift, a stable and supernatural disposition that perfects the soul itself to enable it to live with God, to act by his love. Habitual grace, the permanent disposition to live and act in keeping with God's call, is distinguished from actual graces which refer to God's interventions, whether at the beginning of conversion or in the course of the work of sanctification.
 
 **2001.** The preparation of man for the reception of grace is already a work of grace. This latter is needed to arouse and sustain our collaboration in justification through faith, and in sanctification through charity. God brings to completion in us what he has begun, "since he who completes his work by cooperating with our will began by working so that we might will it:"
 
-Indeed we also work, but we
-are only collaborating with God who works, for his mercy has gone before us. It
-has gone before us so that we may be healed, and follows us so that once
-healed, we may be given life; it goes before us so that we may be called, and
-follows us so that we may be glorified; it goes before us so that we may live
-devoutly, and follows us so that we may always live with God: for without him
-we can do nothing.
+Indeed we also work, but we are only collaborating with God who works, for his mercy has gone before us. It has gone before us so that we may be healed, and follows us so that once healed, we may be given life; it goes before us so that we may be called, and follows us so that we may be glorified; it goes before us so that we may live devoutly, and follows us so that we may always live with God: for without him we can do nothing.
 
 **2002.** God's free initiative demands man's free response, for God has created man in his image by conferring on him, along with freedom, the power to know him and love him. the soul only enters freely into the communion of love. God immediately touches and directly moves the heart of man. He has placed in man a longing for truth and goodness that only he can satisfy. the promises of "eternal life" respond, beyond all hope, to this desire:
 
-If at the end of your very
-good works . . ., you rested on the seventh day, it was to foretell by the
-voice of your book that at the end of our works, which are indeed "very
-good" since you have given them to us, we shall also rest in you on the
-sabbath of eternal life.
+If at the end of your very good works . . ., you rested on the seventh day, it was to foretell by the voice of your book that at the end of our works, which are indeed "very good" since you have given them to us, we shall also rest in you on the sabbath of eternal life.
 
 **2003.** Grace is first and foremost the gift of the Spirit who justifies and sanctifies us. But grace also includes the gifts that the Spirit grants us to associate us with his work, to enable us to collaborate in the salvation of others and in the growth of the Body of Christ, the Church. There are sacramental graces, gifts proper to the different sacraments. There are furthermore special graces, also called charisms after the Greek term used by St. Paul and meaning "favor," "gratuitous gift," "benefit." Whatever their character - sometimes it is extraordinary, such as the gift of miracles or of tongues - charisms are oriented toward sanctifying grace and are intended for the common good of the Church. They are at the service of charity which builds up the Church.
 
 **2004.** Among the special graces ought to be mentioned the graces of state that accompany the exercise of the responsibilities of the Christian life and of the ministries within the Church:
 
-Having gifts that differ
-according to the grace given to us, let us use them: if prophecy, in proportion
-to our faith; if service, in our serving; he who teaches, in his teaching; he
-who exhorts, in his exhortation; he who contributes, in liberality; he who
-gives aid, with zeal; he who does acts of mercy, with cheerfulness.
+Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith; if service, in our serving; he who teaches, in his teaching; he who exhorts, in his exhortation; he who contributes, in liberality; he who gives aid, with zeal; he who does acts of mercy, with cheerfulness.
 
 **2005.** Since it belongs to the supernatural order, grace escapes our experience and cannot be known except by faith. We cannot therefore rely on our feelings or our works to conclude that we are justified and saved. However, according to the Lord's words "Thus you will know them by their fruits" - reflection on God's blessings in our life and in the lives of the saints offers us a guarantee that grace is at work in us and spurs us on to an ever greater faith and an attitude of trustful poverty.
 
-A pleasing illustration of
-this attitude is found in the reply of St. Joan of Arc to a question posed as a
-trap by her ecclesiastical judges: "Asked if she knew that she was in
-God's grace, she replied: 'If I am not, may it please God to put me in it; if I
-am, may it please God to keep me there.'"
+A pleasing illustration of this attitude is found in the reply of St. Joan of Arc to a question posed as a trap by her ecclesiastical judges: "Asked if she knew that she was in God's grace, she replied: 'If I am not, may it please God to put me in it; if I am, may it please God to keep me there.'"
 
-**III. Merit**
+#### III. Merit
 
-You are glorified in the
-assembly of your Holy Ones, for in crowning their merits you are crowning your
-own gifts.
+You are glorified in the assembly of your Holy Ones, for in crowning their merits you are crowning your own gifts.
 
 **2006.** The term "merit" refers in general to the recompense owed by a community or a society for the action of one of its members, experienced either as beneficial or harmful, deserving reward or punishment. Merit is relative to the virtue of justice, in conformity with the principle of equality which governs it.
 
@@ -1110,37 +944,27 @@ own gifts.
 
 **2011.** The charity of Christ is the source in us of all our merits before God. Grace, by uniting us to Christ in active love, ensures the supernatural quality of our acts and consequently their merit before God and before men. the saints have always had a lively awareness that their merits were pure grace.
 
-After earth's exile, I hope to go and enjoy you
-in the fatherland, but I do not want to lay up merits for heaven. I want to
-work for your love alone.... In the evening of this life, I shall appear before
-you with empty hands, for I do not ask you, Lord, to count my works. All our
-justice is blemished in your eyes. I wish, then, to be clothed in your own
-justice and to receive from your love the eternal possession of
-yourself.
+After earth's exile, I hope to go and enjoy you in the fatherland, but I do not want to lay up merits for heaven. I want to work for your love alone.... In the evening of this life, I shall appear before you with empty hands, for I do not ask you, Lord, to count my works. All our justice is blemished in your eyes. I wish, then, to be clothed in your own justice and to receive from your love the eternal possession of yourself.
 
-**IV. Christian Holiness2012.** "We know that in everything God works for good with those who love him . . . For those whom he fore knew he also predestined to be conformed to the image of his Son, in order that he might be the first-born among many brethren. and those whom he predestined he also called; and those whom he called he also justified; and those whom he justified he also glorified."
+#### IV. Christian Holiness
+
+**2012.** "We know that in everything God works for good with those who love him . . . For those whom he fore knew he also predestined to be conformed to the image of his Son, in order that he might be the first-born among many brethren. and those whom he predestined he also called; and those whom he called he also justified; and those whom he justified he also glorified."
 
 **2013.** "All Christians in any state or walk of life are called to the fullness of Christian life and to the perfection of charity." All are called to holiness: "Be perfect, as your heavenly Father is perfect."
 
-In order to reach this
-perfection the faithful should use the strength dealt out to them by Christ's
-gift, so that . . . doing the will of the Father in everything, they may
-wholeheartedly devote themselves to the glory of God and to the service of
-their neighbor. Thus the holiness of the People of God will grow in fruitful
-abundance, as is clearly shown in the history of the Church through the lives
-of so many saints.
+In order to reach this perfection the faithful should use the strength dealt out to them by Christ's gift, so that . . . doing the will of the Father in everything, they may wholeheartedly devote themselves to the glory of God and to the service of their neighbor. Thus the holiness of the People of God will grow in fruitful abundance, as is clearly shown in the history of the Church through the lives of so many saints.
 
 **2014.** Spiritual progress tends toward ever more intimate union with Christ. This union is called "mystical" because it participates in the mystery of Christ through the sacraments - "the holy mysteries" - and, in him, in the mystery of the Holy Trinity. God calls us all to this intimate union with him, even if the special graces or extraordinary signs of this mystical life are granted only to some for the sake of manifesting the gratuitous gift given to all.
 
 **2015.** The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle. Spiritual progress entails the ascesis and mortification that gradually lead to living in the peace and joy of the Beatitudes:
 
-He who climbs never stops
-going from beginning to beginning, through beginnings that have no end. He
-never stops desiring what he already knows.
+He who climbs never stops going from beginning to beginning, through beginnings that have no end. He never stops desiring what he already knows.
 
 **2016.** The children of our holy mother the Church rightly hope for the grace of final perseverance and the recompense of God their Father for the good works accomplished with his grace in communion with Jesus. Keeping the same rule of life, believers share the "blessed hope" of those whom the divine mercy gathers into the "holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband."
 
-**IN BRIEF2017.** *The grace of the Holy Spirit confers upon us the righteousness of God. Uniting us by faith and Baptism to the Passion and Resurrection of Christ, the Spirit makes us sharers in his life.*
+#### IN BRIEF
+
+**2017.** *The grace of the Holy Spirit confers upon us the righteousness of God. Uniting us by faith and Baptism to the Passion and Resurrection of Christ, the Spirit makes us sharers in his life.*
 
 **2018.** *Like conversion, justification has two aspects. Moved by grace, man turns toward God and away from sin, and so accepts forgiveness and righteousness from on high.*
 
@@ -1166,11 +990,17 @@ never stops desiring what he already knows.
 
 **2029.** *"If any man would come after me, let him deny himself and take up his cross and follow me" (Mt 16:24).*
 
-Article 3THE CHURCH, MOTHER AND TEACHER2030.** It is in the Church, in communion with all the baptized, that the Christian fulfills his vocation. From the Church he receives the Word of God containing the teachings of "the law of Christ." From the Church he receives the grace of the sacraments that sustains him on the "way." From the Church he learns the example of holiness and recognizes its model and source in the all-holy Virgin Mary; he discerns it in the authentic witness of those who live it; he discovers it in the spiritual tradition and long history of the saints who have gone before him and whom the liturgy celebrates in the rhythms of the sanctoral cycle.
+Article 3
+
+#### THE CHURCH, MOTHER AND TEACHER
+
+**2030.** It is in the Church, in communion with all the baptized, that the Christian fulfills his vocation. From the Church he receives the Word of God containing the teachings of "the law of Christ." From the Church he receives the grace of the sacraments that sustains him on the "way." From the Church he learns the example of holiness and recognizes its model and source in the all-holy Virgin Mary; he discerns it in the authentic witness of those who live it; he discovers it in the spiritual tradition and long history of the saints who have gone before him and whom the liturgy celebrates in the rhythms of the sanctoral cycle.
 
 **2031.** The moral life is spiritual worship. We "present (our) bodies as a living sacrifice, holy and acceptable to God," within the Body of Christ that we form and in communion with the offering of his Eucharist. In the liturgy and the celebration of the sacraments, prayer and teaching are conjoined with the grace of Christ to enlighten and nourish Christian activity. As does the whole of the Christian life, the moral life finds its source and summit in the Eucharistic sacrifice.
 
-**I. Moral Life and the Magisterium of the Church2032.** The Church, the "pillar and bulwark of the truth," "has received this solemn command of Christ from the apostles to announce the saving truth." "To the Church belongs the right always and everywhere to announce moral principles, including those pertaining to the social order, and to make judgments on any human affairs to the extent that they are required by the fundamental rights of the human person or the salvation of souls."
+#### I. Moral Life and the Magisterium of the Church
+
+**2032.** The Church, the "pillar and bulwark of the truth," "has received this solemn command of Christ from the apostles to announce the saving truth." "To the Church belongs the right always and everywhere to announce moral principles, including those pertaining to the social order, and to make judgments on any human affairs to the extent that they are required by the fundamental rights of the human person or the salvation of souls."
 
 **2033.** The Magisterium of the Pastors of the Church in moral matters is ordinarily exercised in catechesis and preaching, with the help of the works of theologians and spiritual authors. Thus from generation to generation, under the aegis and vigilance of the pastors, the "deposit" of Christian moral teaching has been handed on, a deposit composed of a characteristic body of rules, commandments, and virtues proceeding from faith in Christ and animated by charity. Alongside the Creed and the Our Father, the basis for this catechesis has traditionally been the Decalogue which sets out the principles of moral life valid for all men.
 
@@ -1188,38 +1018,33 @@ Article 3THE CHURCH, MOTHER AND TEACHER2030.** It is in the Church, in communion
 
 **2040.** Thus a true filial spirit toward the Church can develop among Christians. It is the normal flowering of the baptismal grace which has begotten us in the womb of the Church and made us members of the Body of Christ. In her motherly care, the Church grants us the mercy of God which prevails over all our sins and is especially at work in the sacrament of reconciliation. With a mother's foresight, she also lavishes on us day after day in her liturgy the nourishment of the Word and Eucharist of the Lord.
 
-**II. The Precepts of the Church2041.** The precepts of the Church are set in the context of a moral life bound to and nourished by liturgical life. the obligatory character of these positive laws decreed by the pastoral authorities is meant to guarantee to the faithful the indispensable minimum in the spirit of prayer and moral effort, in the growth in love of God and neighbor:
+#### II. The Precepts of the Church
+
+**2041.** The precepts of the Church are set in the context of a moral life bound to and nourished by liturgical life. the obligatory character of these positive laws decreed by the pastoral authorities is meant to guarantee to the faithful the indispensable minimum in the spirit of prayer and moral effort, in the growth in love of God and neighbor:
 
 **2042.** The first precept (“You shall attend Mass on Sundays and holy days of obligation.") requires the faithful to participate in the Eucharistic celebration when the Christian community gathers together on the day commemorating the Resurrection of the Lord.
 
-The second precept (“You shall
-confess your sins at least once a year.") ensures preparation for the
-Eucharist by the reception of the sacrament of reconciliation, which continues
-Baptism's work of conversion and forgiveness.
+The second precept (“You shall confess your sins at least once a year.") ensures preparation for the Eucharist by the reception of the sacrament of reconciliation, which continues Baptism's work of conversion and forgiveness.
 
-The third precept (“You shall
-humbly receive your Creator in Holy Communion at least during the Easter
-season.") guarantees as a minimum the reception of the Lord's Body and
-Blood in connection with the Paschal feasts, the origin and center of the
-Christian liturgy.
+The third precept (“You shall humbly receive your Creator in Holy Communion at least during the Easter season.") guarantees as a minimum the reception of the Lord's Body and Blood in connection with the Paschal feasts, the origin and center of the Christian liturgy.
 
 **2043.** The fourth precept (“You shall keep holy the holy days of obligation.") completes the Sunday observance by participation in the principal liturgical feasts which honor the mysteries of the Lord, the Virgin Mary, and the saints.
 
-The fifth precept (“You shall observe the prescribed days of fasting and
-abstinence.") ensures the times of ascesis and penance which prepare us
-for the liturgical feasts; they help us acquire mastery over our instincts and
-freedom of heart.
+The fifth precept (“You shall observe the prescribed days of fasting and abstinence.") ensures the times of ascesis and penance which prepare us for the liturgical feasts; they help us acquire mastery over our instincts and freedom of heart.
 
-The faithful also have the duty of providing for the material needs of
-the Church, each according to his abilities.
+The faithful also have the duty of providing for the material needs of the Church, each according to his abilities.
 
-**III. Moral Life and Missionary Witness2044.** The fidelity of the baptized is a primordial condition for the proclamation of the Gospel and for the Church's mission in the world. In order that the message of salvation can show the power of its truth and radiance before men, it must be authenticated by the witness of the life of Christians. "The witness of a Christian life and good works done in a supernatural spirit have great power to draw men to the faith and to God."
+#### III. Moral Life and Missionary Witness
+
+**2044.** The fidelity of the baptized is a primordial condition for the proclamation of the Gospel and for the Church's mission in the world. In order that the message of salvation can show the power of its truth and radiance before men, it must be authenticated by the witness of the life of Christians. "The witness of a Christian life and good works done in a supernatural spirit have great power to draw men to the faith and to God."
 
 **2045.** Because they are members of the Body whose Head is Christ, Christians contribute to building up the Church by the constancy of their convictions and their moral lives. the Church increases, grows, and develops through the holiness of her faithful, until "we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ."
 
 **2046.** By living with the mind of Christ, Christians hasten the coming of the Reign of God, "a kingdom of justice, love, and peace." They do not, for all that, abandon their earthly tasks; faithful to their master, they fulfill them with uprightness, patience, and love.
 
-IN BRIEF2047.** *The moral life is a spiritual worship. Christian activity finds its nourishment in the liturgy and the celebration of the sacraments.*
+#### IN BRIEF
+
+**2047.** *The moral life is a spiritual worship. Christian activity finds its nourishment in the liturgy and the celebration of the sacraments.*
 
 **2048.** *The precepts of the Church concern the moral and Christian life united with the liturgy and nourished by it.*
 
@@ -1229,277 +1054,183 @@ IN BRIEF2047.** *The moral life is a spiritual worship. Christian activity finds
 
 **2051.** *The infallibility of the Magisterium of the Pastors extends to all the elements of doctrine, including moral doctrine, without which the saving truths of the faith cannot be preserved, expounded, or observed.*
 
-*The Ten Commandments
+*The Ten Commandments*
 
-Exodus 20 2-17
+*Exodus 20 2-17*
 
-I am the LORD your God, who
-brought you out of the land of Egypt, out of the house of bondage.
+*I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.*
 
-You shall have no other gods
-before me. You shall not make for yourself a graven image, or any likeness
+*You shall have no other gods before me. You shall not make for yourself a graven image, or any likeness*
 
-of anything that is in heaven
-above, or that is in the earth beneath, or that is in the water under the
+*of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the*
 
-earth; you shall not bow down
-to them or serve them; for I the LORD your God am a jealous God,
+*earth; you shall not bow down to them or serve them; for I the LORD your God am a jealous God,*
 
-visiting the iniquity of the
-fathers upon the children to the third and the fourth generation of those
+*visiting the iniquity of the fathers upon the children to the third and the fourth generation of those*
 
-who hate me, but showing
-steadfast love to thousands of those who love me and keep my
+*who hate me, but showing steadfast love to thousands of those who love me and keep my*
 
-commandments.
+*commandments.*
 
-You shall not take the name of
-the LORD your God in vain; for the LORD will not hold him guiltless
+*You shall not take the name of the LORD your God in vain; for the LORD will not hold him guiltless*
 
-who takes his name in vain.
+*who takes his name in vain.*
 
-Remember the sabbath day, to
-keep it holy. Six days you shall labor, and do all your work; but the
+*Remember the sabbath day, to keep it holy. Six days you shall labor, and do all your work; but the*
 
-seventh day is a sabbath to
-the LORD your God; in it you shall not do any work, you, or your son, or
+*seventh day is a sabbath to the LORD your God; in it you shall not do any work, you, or your son, or*
 
-your daughter, your manservant
-or your maidservant or your cattle, or the sojourner who is within your
+*your daughter, your manservant or your maidservant or your cattle, or the sojourner who is within your*
 
-gates; for in six days the
-LORD made heaven and earth, the sea, and all that is in them, and rested the
+*gates; for in six days the LORD made heaven and earth, the sea, and all that is in them, and rested the*
 
-seventh day; therefore the
-Lord blessed the sabbath day and hallowed it.
+*seventh day; therefore the Lord blessed the sabbath day and hallowed it.*
 
-Honor your father and your
-mother, that your days may be long in the land which the LORD your God
+*Honor your father and your mother, that your days may be long in the land which the LORD your God*
 
-gives you.
+*gives you.*
 
-You shall not kill.
+*You shall not kill.*
 
-You shall not commit adultery.
+*You shall not commit adultery.*
 
-You shall not steal.
+*You shall not steal.*
 
-You shall not bear false
-witness against your neighbor.
+*You shall not bear false witness against your neighbor.*
 
-You shall not covet your neighbor's
-house; you shall not covet your neighbor's wife, or his manservant
+*You shall not covet your neighbor's house; you shall not covet your neighbor's wife, or his manservant*
 
-or his maidservant or his ox,
-or his ass, or anything that is your neighbor's.
+*or his maidservant or his ox, or his ass, or anything that is your neighbor's.*
 
-Deuteronomy 5:6-21
+*Deuteronomy 5:6-21*
 
-I am the LORD your God, who
-brought you out of the land of Egypt out of the house of bondage.
+*I am the LORD your God, who brought you out of the land of Egypt out of the house of bondage.*
 
-You shall have no other gods
-before me . . .
+*You shall have no other gods before me . . .*
 
-You shall not take the name of
-the LORD your God in vain . . .
+*You shall not take the name of the LORD your God in vain . . .*
 
-Observe the sabbath day, to
-keep it holy. . .
+*Observe the sabbath day, to keep it holy. . .*
 
-Honor your father and your
-mother . . .
+*Honor your father and your mother . . .*
 
-You shall not kill.
+*You shall not kill.*
 
-Neither shall you commit adultery.
+*Neither shall you commit adultery.*
 
-Neither shall you steal.
+*Neither shall you steal.*
 
-Neither shall you bear false
-witness against your neighbor.
+*Neither shall you bear false witness against your neighbor.*
 
-Neither shall you covet your
-neighbor's wife .
+*Neither shall you covet your neighbor's wife .*
 
-You shall not desire . . .
-anything that is your neighbor's.
+*You shall not desire . . . anything that is your neighbor's.*
 
-A Traditional Catechetical
-Formula
+*A Traditional Catechetical Formula*
 
-1. I am the
-LORD your God: you shall not have strange Gods before me.
+*1. I am the LORD your God: you shall not have strange Gods before me.*
 
-2. You shall
-not take the name of the LORD your God in vain.
+*2. You shall not take the name of the LORD your God in vain.*
 
-3. Remember
-to keep holy the LORD'S Day.
+*3. Remember to keep holy the LORD'S Day.*
 
-4. Honor
-your father and your mother.
+*4. Honor your father and your mother.*
 
-5. You shall
-not kill.
+*5. You shall not kill.*
 
-6. You shall
-not commit adultery.
+*6. You shall not commit adultery.*
 
-7. You shall
-not steal.
+*7. You shall not steal.*
 
-8. You shall
-not bear false witness against your neighbor.
+*8. You shall not bear false witness against your neighbor.*
 
-9. You shall
-not covet your neighbor's wife.
+*9. You shall not covet your neighbor's wife.*
 
-10. You
-shall not covet your neighbor's goods.*
+*10. You shall not covet your neighbor's goods.*
 
-SECTION TWOTHE TEN COMMANDMENTS**
+#### SECTION TWO
 
-"Teacher,
-what must I do . . .?"
+#### THE TEN COMMANDMENTS
+
+"Teacher, what must I do . . .?"
 
 **2052.** "Teacher, what good deed must I do, to have eternal life?" To the young man who asked this question,
 
-Jesus
-answers first by invoking the necessity to recognize God as the "One there
-is who is good," as the
+Jesus answers first by invoking the necessity to recognize God as the "One there is who is good," as the
 
-supreme
-Good and the source of all good. Then Jesus tells him: "If you would enter
-life, keep the
+supreme Good and the source of all good. Then Jesus tells him: "If you would enter life, keep the
 
-commandments."
-and he cites for his questioner the precepts that concern love of neighbor:
-"You shall not
+commandments." and he cites for his questioner the precepts that concern love of neighbor: "You shall not
 
-kill, You
-shall not commit adultery, You shall not steal, You shall not bear false
-witness, Honor your father
+kill, You shall not commit adultery, You shall not steal, You shall not bear false witness, Honor your father
 
-and
-mother." Finally Jesus sums up these commandments positively: "You
-shall love your neighbor as
+and mother." Finally Jesus sums up these commandments positively: "You shall love your neighbor as
 
 yourself."
 
 **2053.** To this first reply Jesus adds a second: "If you would be perfect, go, sell what you possess and give to the
 
-poor, and
-you will have treasure in heaven; and come, follow me." This
-reply does not do away with the
+poor, and you will have treasure in heaven; and come, follow me." This reply does not do away with the
 
-first:
-following Jesus Christ involves keeping the Commandments. the Law has not been
-abolished, but
+first: following Jesus Christ involves keeping the Commandments. the Law has not been abolished, but
 
-rather man
-is invited to rediscover it in the person of his Master who is its perfect
-fulfillment. In the three
+rather man is invited to rediscover it in the person of his Master who is its perfect fulfillment. In the three
 
-synoptic
-Gospels, Jesus' call to the rich young man to follow him, in the obedience of a
-disciple and in the
+synoptic Gospels, Jesus' call to the rich young man to follow him, in the obedience of a disciple and in the
 
-observance
-of the Commandments, is joined to the call to poverty and chastity.
-The evangelical counsels
+observance of the Commandments, is joined to the call to poverty and chastity. The evangelical counsels
 
-are
-inseparable from the Commandments.
+are inseparable from the Commandments.
 
 **2054.** Jesus acknowledged the Ten Commandments, but he also showed the power of the Spirit at work in
 
-their
-letter. He preached a "righteousness [which] exceeds that of the scribes
-and Pharisees" as well as that
+their letter. He preached a "righteousness [which] exceeds that of the scribes and Pharisees" as well as that
 
-of the
-Gentiles. He unfolded all the demands of the Commandments. "You
-have heard that it was said to
+of the Gentiles. He unfolded all the demands of the Commandments. "You have heard that it was said to
 
-the men of
-old, 'You shall not kill.' . . . But I say to you that every one who is angry
-with his brother shall be
+the men of old, 'You shall not kill.' . . . But I say to you that every one who is angry with his brother shall be
 
-liable to
-judgment."
+liable to judgment."
 
 **2055.** When someone asks him, "Which commandment in the Law is the greatest?" Jesus replies: "You
 
-shall love
-the Lord your God with all your heart, and with all your soul, and with all
-your mind. This is the
+shall love the Lord your God with all your heart, and with all your soul, and with all your mind. This is the
 
-greatest
-and first commandment. and a second is like it: You shall love your neighbor as
-yourself. On these
+greatest and first commandment. and a second is like it: You shall love your neighbor as yourself. On these
 
-two
-commandments hang all the Law and the prophets." The Decalogue
-must be interpreted in light of
+two commandments hang all the Law and the prophets." The Decalogue must be interpreted in light of
 
-this
-twofold yet single commandment of love, the fullness of the Law:
+this twofold yet single commandment of love, the fullness of the Law:
 
-the commandments: "You
-shall not commit adultery, You shall not kill, You shall not steal, You shall
-not covet," and any other commandment, are summed up in this sentence:
-"You shall love your neighbor as yourself." Love does no wrong to a
-neighbor; therefore love is the fulfilling of the law.
+the commandments: "You shall not commit adultery, You shall not kill, You shall not steal, You shall not covet," and any other commandment, are summed up in this sentence: "You shall love your neighbor as yourself." Love does no wrong to a neighbor; therefore love is the fulfilling of the law.
 
-The
-Decalogue in Sacred Scripture
+The Decalogue in Sacred Scripture
 
 **2056.** The word "Decalogue" means literally "ten words." God revealed these "ten words" to his people
 
-on the holy
-mountain. They were written "with the finger of God,"
-unlike the other commandments
+on the holy mountain. They were written "with the finger of God," unlike the other commandments
 
-written by
-Moses. They are pre-eminently the words of God. They are handed on to
-us in the books of
+written by Moses. They are pre-eminently the words of God. They are handed on to us in the books of
 
-Exodus
-and Deuteronomy. Beginning with the Old Testament, the
-sacred books refer to the "ten
+Exodus and Deuteronomy. Beginning with the Old Testament, the sacred books refer to the "ten
 
-words,"
-but it is in the New Covenant in Jesus Christ that their full meaning will be
-revealed.
+words," but it is in the New Covenant in Jesus Christ that their full meaning will be revealed.
 
 **2057.** The Decalogue must first be understood in the context of the Exodus, God's great liberating event at
 
-the center
-of the Old Covenant. Whether formulated as negative commandments, prohibitions,
-or as
+the center of the Old Covenant. Whether formulated as negative commandments, prohibitions, or as
 
-positive
-precepts such as: "Honor your father and mother," the "ten
-words" point out the conditions of a life
+positive precepts such as: "Honor your father and mother," the "ten words" point out the conditions of a life
 
-freed from
-the slavery of sin. the Decalogue is a path of life:
+freed from the slavery of sin. the Decalogue is a path of life:
 
-If you love the LORD your God,
-by walking in his ways, and by keeping his commandments and his statutes and
-his ordinances, then you shall live andmultiply.
+If you love the LORD your God, by walking in his ways, and by keeping his commandments and his statutes and his ordinances, then you shall live andmultiply.
 
-This
-liberating power of the Decalogue appears, for example, in the commandment
-about the
+This liberating power of the Decalogue appears, for example, in the commandment about the
 
-sabbath
-rest, directed also to foreigners and slaves:
+sabbath rest, directed also to foreigners and slaves:
 
-You shall remember that you
-were a servant in the land of Egypt, and the LORD your God brought you out
-thence with a mighty hand and an outstretched arm.
+You shall remember that you were a servant in the land of Egypt, and the LORD your God brought you out thence with a mighty hand and an outstretched arm.
 
 **2058.** The "ten words" sum up and proclaim God's law: "These words the Lord spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. and he wrote them upon two tables of stone, and gave them to me." For this reason these two tables are called "the Testimony." In fact, they contain the terms of the covenant concluded between God and his people. These "tables of the Testimony" were to be deposited in "the ark."
 
@@ -1507,65 +1238,39 @@ thence with a mighty hand and an outstretched arm.
 
 **2060.** The gift of the commandments and of the Law is part of the covenant God sealed with his own. In Exodus, the revelation of the "ten words" is granted between the proposal of the covenant and its conclusion - after the people had committed themselves to "do" all that the Lord had said, and to "obey" it. The Decalogue is never handed on without first recalling the covenant (“The LORD our God made
 
-a covenant
-with us in Horeb.").
+a covenant with us in Horeb.").
 
 **2061.** The Commandments take on their full meaning within the covenant. According to Scripture, man's
 
-moral life
-has all its meaning in and through the covenant. the first of the "ten
-words" recalls that God loved
+moral life has all its meaning in and through the covenant. the first of the "ten words" recalls that God loved
 
-his people
-first:
+his people first:
 
-Since there was a passing from
-the paradise of freedom to the slavery of this world, in punishment for sin,
-the first phrase of the Decalogue, the first word of God's commandments, bears
-on freedom "I am the LORD your God, who brought you out of the land of
-Egypt, out of the house of slavery."
+Since there was a passing from the paradise of freedom to the slavery of this world, in punishment for sin, the first phrase of the Decalogue, the first word of God's commandments, bears on freedom "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery."
 
 **2062.** The Commandments properly so-called come in the second place: they express the implications of
 
-belonging
-to God through the establishment of the covenant. Moral existence is a response
-to the Lord's
+belonging to God through the establishment of the covenant. Moral existence is a response to the Lord's
 
-loving
-initiative. It is the acknowledgement and homage given to God and a worship of
-thanksgiving. It is
+loving initiative. It is the acknowledgement and homage given to God and a worship of thanksgiving. It is
 
-cooperation
-with the plan God pursues in history.
+cooperation with the plan God pursues in history.
 
 **2063.** The covenant and dialogue between God and man are also attested to by the fact that all the obligations
 
-are stated
-in the first person (“I am the Lord.") and addressed by God to another
-personal subject (“you"). In
+are stated in the first person (“I am the Lord.") and addressed by God to another personal subject (“you"). In
 
-all God's
-commandments, the singular personal pronoun designates the recipient. God makes
-his will known
+all God's commandments, the singular personal pronoun designates the recipient. God makes his will known
 
-to each person
-in particular, at the same time as he makes it known to the whole people:
+to each person in particular, at the same time as he makes it known to the whole people:
 
-The Lord prescribed love
-towards God and taught justice towards neighbor, so that man would be neither
-unjust, nor unworthy of God. Thus, through the Decalogue, God prepared man to
-become his friend and to live in harmony with his neighbor.... the words of the
-Decalogue remain likewise for us Christians. Far from being abolished, they
-have received amplification and development from the fact of the coming of the
-Lord in the flesh.
+The Lord prescribed love towards God and taught justice towards neighbor, so that man would be neither unjust, nor unworthy of God. Thus, through the Decalogue, God prepared man to become his friend and to live in harmony with his neighbor.... the words of the Decalogue remain likewise for us Christians. Far from being abolished, they have received amplification and development from the fact of the coming of the Lord in the flesh.
 
-The
-Decalogue in the Church's Tradition
+The Decalogue in the Church's Tradition
 
 **2064.** In fidelity to Scripture and in conformity with the example of Jesus, the tradition of the Church has
 
-acknowledged
-the primordial importance and significance of the Decalogue.
+acknowledged the primordial importance and significance of the Decalogue.
 
 **2065.** Ever since St. Augustine, the Ten Commandments have occupied a predominant place in the catechesis of baptismal candidates and the faithful. In the fifteenth century, the custom arose of expressing the commandments of the Decalogue in rhymed formulae, easy to memorize and in positive form. They are still in use today. the catechisms of the Church have often expounded Christian morality by following the order of the Ten Commandments.
 
@@ -1573,296 +1278,127 @@ the primordial importance and significance of the Decalogue.
 
 **2067.** The Ten Commandments state what is required in the love of God and love of neighbor. the first three concern love of God, and the other seven love of neighbor.
 
-As charity comprises the two commandments to which the Lord related the
-whole Law and the prophets . . . so the Ten Commandments were themselves given
-on two tablets. Three were written on one tablet and seven on the
-other.
+As charity comprises the two commandments to which the Lord related the whole Law and the prophets . . . so the Ten Commandments were themselves given on two tablets. Three were written on one tablet and seven on the other.
 
 **2068.** The Council of Trent teaches that the Ten Commandments are obligatory for Christians and that the
 
-justified
-man is still bound to keep them; The Second Vatican Council confirms:
-"The bishops, successors
+justified man is still bound to keep them; The Second Vatican Council confirms: "The bishops, successors
 
-of the
-apostles, receive from the Lord . . . the mission of teaching all peoples, and
-of preaching the Gospel to
+of the apostles, receive from the Lord . . . the mission of teaching all peoples, and of preaching the Gospel to
 
-every
-creature, so that all men may attain salvation through faith, Baptism and the
-observance of the
+every creature, so that all men may attain salvation through faith, Baptism and the observance of the
 
 Commandments."
 
-The unity
-of the Decalogue
+The unity of the Decalogue
 
 **2069.** The Decalogue forms a coherent whole. Each "word" refers to each of the others and to all of them; they
 
-reciprocally
-condition one another. the two tables shed light on one another; they form an
-organic unity.
+reciprocally condition one another. the two tables shed light on one another; they form an organic unity.
 
-To
-transgress one commandment is to infringe all the others. One cannot
-honor another person without
+To transgress one commandment is to infringe all the others. One cannot honor another person without
 
-blessing
-God his Creator. One cannot adore God without loving all men, his creatures.
-the Decalogue brings
+blessing God his Creator. One cannot adore God without loving all men, his creatures. the Decalogue brings
 
-man's
-religious and social life into unity.
+man's religious and social life into unity.
 
-The Decalogue
-ant the natural law
+The Decalogue ant the natural law
 
 **2070.** The Ten Commandments belong to God's revelation. At the same time they teach us the true humanity
 
-of man.
-They bring to light the essential duties, and therefore, indirectly, the
-fundamental rights inherent
+of man. They bring to light the essential duties, and therefore, indirectly, the fundamental rights inherent
 
-in the
-nature of the human person. the Decalogue contains a privileged expression of
-the natural law:
+in the nature of the human person. the Decalogue contains a privileged expression of the natural law:
 
-From the beginning, God had
-implanted in the heart of man the precepts of the natural law. Then he was
-content to remind him of them. This was the Decalogue.
+From the beginning, God had implanted in the heart of man the precepts of the natural law. Then he was content to remind him of them. This was the Decalogue.
 
 **2071.** The commandments of the Decalogue, although accessible to reason alone, have been revealed. To
 
-attain a
-complete and certain understanding of the requirements of the natural law,
-sinful humanity needed
+attain a complete and certain understanding of the requirements of the natural law, sinful humanity needed
 
 this revelation:
 
-A full explanation of the
-commandments of the Decalogue became necessary in the state of sin because the
-light of reason was obscured and the will had gone astray.
+A full explanation of the commandments of the Decalogue became necessary in the state of sin because the light of reason was obscured and the will had gone astray.
 
-We know
-God's commandments through the
+We know God's commandments through the
 
-divine
-revelation proposed to us in the Church, and through the voice of moral
-conscience. the obligation
+divine revelation proposed to us in the Church, and through the voice of moral conscience. the obligation
 
-of the
-Decalogue
+of the Decalogue
 
 **2072.** Since they express man's fundamental duties towards God and towards his neighbor, the Ten
 
-Commandments
-reveal, in their primordial content, grave obligations. They are fundamentally
-immutable,
+Commandments reveal, in their primordial content, grave obligations. They are fundamentally immutable,
 
-and they
-oblige always and everywhere. No one can dispense from them. the Ten
-Commandments are
+and they oblige always and everywhere. No one can dispense from them. the Ten Commandments are
 
-engraved by
-God in the human heart.
+engraved by God in the human heart.
 
 **2073.** Obedience to the Commandments also implies obligations in matter which is, in itself, light. Thus
 
-abusive
-language is forbidden by the fifth commandment, but would be a grave offense
-only as a result of
+abusive language is forbidden by the fifth commandment, but would be a grave offense only as a result of
 
-circumstances
-or the offender's intention. "Apart from me you can do nothing"
+circumstances or the offender's intention. "Apart from me you can do nothing"
 
 **2074.** Jesus says: "I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears
 
-much fruit,
-for apart from me you can do nothing." The fruit referred to in
-this saying is the holiness of
+much fruit, for apart from me you can do nothing." The fruit referred to in this saying is the holiness of
 
-a life made
-fruitful by union with Christ. When we believe in Jesus Christ, partake of his
-mysteries, and keep
+a life made fruitful by union with Christ. When we believe in Jesus Christ, partake of his mysteries, and keep
 
-his
-commandments, the Savior himself comes to love, in us, his Father and his
-brethren, our Father and our
+his commandments, the Savior himself comes to love, in us, his Father and his brethren, our Father and our
 
-brethren.
-His person becomes, through the Spirit, the living and interior rule of our
-activity. "This is my
+brethren. His person becomes, through the Spirit, the living and interior rule of our activity. "This is my
 
-commandment,
-that you love one another as I have loved you."
+commandment, that you love one another as I have loved you."
 
-**
-1**
-Mt 19:16-19.
+#### IN BRIEF
 
-2**
-Mt 19:21.
-
-3**
-Cf. Mt 5:17.
-
-4**
-Cf. Mt 19:6-12, 21,
-23-29.
-
-5**
-Mt 5:20.
-
-6**
-Cf. Mt 5:46-47.
-
-7**
-Mt 5:21-22.
-
-8**
-Mt 22:36.
-
-9**
-Mt 22:37-40; cf.
-Deut 6:5; Lev
-19:18.
-
-10**
-Rom 13:9-10.
-
-11**
-Rom Ex 34:28; Deut
-4:13; 10:4.
-
-12**
-Ex 31:18; Deut 5:22.
-
-13**
-Cf. Deut 31:9. 24.
-
-14**
-Cf. Ex 20:1-17.
-
-15**
-Cf. Deut 5:6-22.
-
-for example Hos 4:2; Jer
-7:9; Ezek 18:5-9.
-
-17**
-Deut 30:16.
-
-18**
-Deut 5:15.
-
-19**
-Deut 5:22.
-
-20**
-Ex 25:16;
-31:18;
-32:15;
-34:29; 40:1-2.
-
-21**
-Deut 5:4.
-
-22**
-Cf. Ex 19.
-
-23**
-Cf. Ex 24:7.
-
-24**
-Deut 5:2.
-
-25**
-Origen, Hom. in Ex. 8,1: PG 12, 350; cf. Ex
-20:2; Deut 5:6.
-
-26**
-St. Irenaeus, Adv. haeres., 4, 16, 3-4: PG 7/1, 1017-1018.
-
-27**
-St. Augustine, Sermo 33, 2, 2: PL 38, 208.
-
-28**
-Cf. DS 1569-1570.
-
-29**
-LG 24.
-
-30**
-Cf. Jas 2:10-11.
-
-31**
-St. Irenaeus, Adv. haeres. 4, 15, 1: PG 7/l, 1012.
-
-32**
-St. Bonaventure, Comm. sent. 4, 37, 1, 3.
-
-33**
-Jn 15:5.
-
-34**
-Jn 15:12.
-
-**IN BRIEF2075.** *"What good deed must I do, to have eternal life?" - "If you would enter into life, keep the commandments" (Mt 19:16-17).*
+**2075.** *"What good deed must I do, to have eternal life?" - "If you would enter into life, keep the commandments" (Mt 19:16-17).*
 
 **2076.** *By his life and by his preaching Jesus attested to the permanent validity of the Decalogue. 2077 The*
 
-gift of the Decalogue is bestowed from within
-the covenant concluded by God with his people. God's
+*gift of the Decalogue is bestowed from within the covenant concluded by God with his people. God's*
 
-commandments take on their true meaning in and
-through this covenant.
+*commandments take on their true meaning in and through this covenant.*
 
 **2078.** *In fidelity to Scripture and in conformity with Jesus' example, the tradition of the Church has always*
 
-acknowledged the primordial importance and
-significance of the Decalogue.
+*acknowledged the primordial importance and significance of the Decalogue.*
 
 **2079.** *The Decalogue forms an organic unity in which each "word" or "commandment" refers to all the others*
 
-taken together. To transgress one commandment is
-to infringe the whole Law (cf Jas 2:10-11).
+*taken together. To transgress one commandment is to infringe the whole Law (cf Jas 2:10-11).*
 
 **2080.** *The Decalogue contains a privileged expression of the natural law. It is made known to us by divine*
 
-revelation and by human reason.
+*revelation and by human reason.*
 
 **2081.** *The Ten Commandments, in their fundamental content, state grave obligations. However, obedience*
 
-to these precepts also implies obligations in
-matter which is, in itself, light.
+*to these precepts also implies obligations in matter which is, in itself, light.*
 
 **2082.** *What God commands he makes possible by his grace.*
 
-CHAPTER ONEYOU SHALL LOVE THE LORD YOUR GOD WITH ALL YOUR
-HEART, AND WITH ALL YOUR SOUL, AND WITH ALL YOUR MIND2083.** Jesus summed up man's duties toward God in this saying: "You shall love the Lord your God with all your heart, and with all your soul, and with all your mind." This immediately echoes the solemn call: "Hear, O Israel: the LORD our God is one LORD." ** God has loved us first. the love of the One God is recalled in the first of the "ten words." the commandments then make explicit the response of love that man is called to give to his God.
+#### CHAPTER ONE
 
-Article 1THE FIRST COMMANDMENT**
+#### YOU SHALL LOVE THE LORD YOUR GOD WITH ALL YOUR HEART, AND WITH ALL YOUR SOUL, AND WITH ALL YOUR MIND
 
-I am the LORD your God, who brought you out of the land of Egypt, out of
-the house of bondage. You shall have no other gods before me. You shall not
-make for yourself a graven image, or any likeness of anything that is in heaven
-above, or that is in the earth beneath, or that is in the water under the
-earth; you shall not bow down to them or serve them. **
-It is written: "You shall worship the Lord your God and him only shall you
-serve."
+**2083.** Jesus summed up man's duties toward God in this saying: "You shall love the Lord your God with all your heart, and with all your soul, and with all your mind." This immediately echoes the solemn call: "Hear, O Israel: the LORD our God is one LORD." God has loved us first. the love of the One God is recalled in the first of the "ten words." the commandments then make explicit the response of love that man is called to give to his God.
 
-**I. "You Shall
-Worship the Lord Your God and Him Only Shall You Serve"2084.** God makes himself known by recalling his all-powerful loving, and liberating action in the history of the one he addresses: "I brought you out of the land of Egypt, out of the house of bondage." the first word contains the first commandment of the Law: "You shall fear the LORD your God; you shall serve him.... You shall not go after other gods." God's first call and just demand is that man accept him and worship him.
+Article 1
+
+#### THE FIRST COMMANDMENT
+
+I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage. You shall have no other gods before me. You shall not make for yourself a graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; you shall not bow down to them or serve them. It is written: "You shall worship the Lord your God and him only shall you serve."
+
+#### I. &quot;You Shall Worship the Lord Your God and Him Only Shall You Serve&quot;
+
+**2084.** God makes himself known by recalling his all-powerful loving, and liberating action in the history of the one he addresses: "I brought you out of the land of Egypt, out of the house of bondage." the first word contains the first commandment of the Law: "You shall fear the LORD your God; you shall serve him.... You shall not go after other gods." God's first call and just demand is that man accept him and worship him.
 
 **2085.** The one and true God first reveals his glory to Israel. The revelation of the vocation and truth of man is linked to the revelation of God. Man's vocation is to make God manifest by acting in conformity with his creation "in the image and likeness of God":
 
-There will never be another
-God, Trypho, and there has been no other since the world began . . . than he
-who made and ordered the universe. We do not think that our God is different
-from yours. He is the same who brought your fathers out of Egypt "by his
-powerful hand and his outstretched arm." We do not place our hope in some
-other god, for there is none, but in the same God as you do: the God of
-Abraham, Isaac and Jacob.
+There will never be another God, Trypho, and there has been no other since the world began . . . than he who made and ordered the universe. We do not think that our God is different from yours. He is the same who brought your fathers out of Egypt "by his powerful hand and his outstretched arm." We do not place our hope in some other god, for there is none, but in the same God as you do: the God of Abraham, Isaac and Jacob.
 
 **2086.** "The first commandment embraces faith, hope, and charity. When we say 'God' we confess a constant, unchangeable being, always the same, faithful and just, without any evil. It follows that we must necessarily accept his words and have complete faith in him and acknowledge his authority. He is almighty, merciful, and infinitely beneficent. Who could not place all hope in him? Who could not love him when contemplating the treasures of goodness and love he has poured out on us? Hence the formula God employs in the Scripture at the beginning and end of his commandments: 'I am the LORD.'"
 
@@ -1870,7 +1406,7 @@ Faith
 
 **2087.** Our moral life has its source in faith in God who reveals his love to us. St. Paul speaks of the "obedience of faith" as our first obligation. He shows that "ignorance of God" is the principle and explanation of all moral deviations. Our duty toward God is to believe in him and to bear witness to him.
 
-**2088.** The first commandment requires us to nourish and protect our faith with prudence and vigilance, and to reject everything that is opposed to it. There are various ways of sinning against faith: ** Voluntary doubt about the faith disregards or refuses to hold as true what God has revealed and the Church proposes for belief. Involuntary doubt refers to hesitation in believing, difficulty in overcoming objections connected with the faith, or also anxiety aroused by its obscurity. If deliberately cultivated doubt can lead to spiritual blindness.
+**2088.** The first commandment requires us to nourish and protect our faith with prudence and vigilance, and to reject everything that is opposed to it. There are various ways of sinning against faith: Voluntary doubt about the faith disregards or refuses to hold as true what God has revealed and the Church proposes for belief. Involuntary doubt refers to hesitation in believing, difficulty in overcoming objections connected with the faith, or also anxiety aroused by its obscurity. If deliberately cultivated doubt can lead to spiritual blindness.
 
 **2089.** Incredulity is the neglect of revealed truth or the willful refusal to assent to it. "Heresy is the obstinate post-baptismal denial of some truth which must be believed with divine and catholic faith, or it is likewise an obstinate doubt concerning the same; apostasy is the total repudiation of the Christian faith; schism is the refusal of submission to the Roman Pontiff or of communion with the members of the Church subject to him."
 
@@ -1878,12 +1414,7 @@ Hope
 
 **2090.** When God reveals Himself and calls him, man cannot fully respond to the divine love by his own powers. He must hope that God will give him the capacity to love Him in return and to act in conformity with the commandments of charity. Hope is the confident expectation of divine blessing and the beatific vision of God; it is also the fear of offending God's love and of incurring punishment.
 
-**2091.** The first commandment is also concerned with sins against hope, namely, despair and presumption:
-
-By despair, man ceases to hope for his personal salvation from God, for help in
-attaining it or for the forgiveness of his sins. Despair is contrary to God's
-goodness, to his justice - for the Lord is faithful to his promises - and to
-his mercy.
+**2091.** The first commandment is also concerned with sins against hope, namely, despair and presumption: By despair, man ceases to hope for his personal salvation from God, for help in attaining it or for the forgiveness of his sins. Despair is contrary to God's goodness, to his justice - for the Lord is faithful to his promises - and to his mercy.
 
 **2092.** There are two kinds of presumption. Either man presumes upon his own capacities, (hoping to be able to save himself without help from on high), or he presumes upon God's almighty power or his mercy (hoping to obtain his forgiveness without conversion and glory without merit).
 
@@ -1891,26 +1422,11 @@ Charity
 
 **2093.** Faith in God's love encompasses the call and the obligation to respond with sincere love to divine charity. the first commandment enjoins us to love God above everything and all creatures for him and because of him.
 
-**2094.** One can sin against God's love in various ways:
+**2094.** One can sin against God's love in various ways: - indifference neglects or refuses to reflect on divine charity; it fails to consider its prevenient goodness and denies its power. - ingratitude fails or refuses to acknowledge divine charity and to return him love for love. - lukewarmness is hesitation or negligence in responding to divine love; it can imply refusal to give oneself over to the prompting of charity. - acedia or spiritual sloth goes so far as to refuse the joy that comes from God and to be repelled by divine goodness. - hatred of God comes from pride. It is contrary to love of God, whose goodness it denies, and whom it presumes to curse as the one who forbids sins and inflicts punishments.
 
-- indifference neglects or refuses to reflect on divine charity; it fails to
-consider its prevenient goodness and denies its power.
+#### II. &quot;Him Only Shall You Serve&quot;
 
-- ingratitude fails or refuses to acknowledge divine charity and to return him
-love for love.
-
-- lukewarmness is hesitation or negligence in responding to divine love; it can
-imply refusal to give oneself over to the prompting of charity.
-
-- acedia or spiritual sloth goes so far as to refuse the joy that comes from
-God and to be repelled by divine goodness.
-
-- hatred of God comes from pride. It is contrary to love of God, whose goodness
-it denies, and whom it presumes to curse as the one who forbids sins and
-inflicts punishments.
-
-**II. "Him Only Shall
-You Serve"2095.** The theological virtues of faith, hope, and charity inform and give life to the moral virtues. Thus charity leads us to render to God what we as creatures owe him in all justice. the virtue of religion disposes us to have this attitude.
+**2095.** The theological virtues of faith, hope, and charity inform and give life to the moral virtues. Thus charity leads us to render to God what we as creatures owe him in all justice. the virtue of religion disposes us to have this attitude.
 
 Adoration
 
@@ -1928,8 +1444,7 @@ Sacrifice
 
 **2100.** Outward sacrifice, to be genuine, must be the expression of spiritual sacrifice: "The sacrifice acceptable to God is a broken spirit...." The prophets of the Old Covenant often denounced sacrifices that were not from the heart or not coupled with love of neighbor. Jesus recalls the words of the prophet Hosea: "I desire mercy, and not sacrifice." The only perfect sacrifice is the one that Christ offered on the cross as a total offering to the Father's love and for our salvation. By uniting ourselves with his sacrifice we can make our lives a sacrifice to God.
 
-Promises
-and vows
+Promises and vows
 
 **2101.** In many circumstances, the Christian is called to make promises to God. Baptism and Confirmation, Matrimony and Holy Orders always entail promises. Out of personal devotion, the Christian may also promise to God this action, that prayer, this alms-giving, that pilgrimage, and so forth. Fidelity to promises made to God is a sign of the respect owed to the divine majesty and of love for a faithful God.
 
@@ -1937,16 +1452,7 @@ and vows
 
 **2103.** The Church recognizes an exemplary value in the vows to practice the evangelical counsels:
 
-Mother Church rejoices that she has within herself many men and women
-who pursue the Savior's self-emptying more closely and show it forth more
-clearly, by undertaking poverty with the freedom of the children of God, and
-renouncing their own will: they submit themselves to man for the sake of God,
-thus going beyond what is of precept in the matter of perfection, so as to
-conform themselves more fully to the obedient Christ. **
-The Church can, in certain cases and for proportionate reasons, dispense from
-vows and promises
-
-The social duty of religion and the right to religious freedom
+Mother Church rejoices that she has within herself many men and women who pursue the Savior's self-emptying more closely and show it forth more clearly, by undertaking poverty with the freedom of the children of God, and renouncing their own will: they submit themselves to man for the sake of God, thus going beyond what is of precept in the matter of perfection, so as to conform themselves more fully to the obedient Christ. The Church can, in certain cases and for proportionate reasons, dispense from vows and promises The social duty of religion and the right to religious freedom
 
 **2104.** "All men are bound to seek the truth, especially in what concerns God and his Church, and to embrace it and hold on to it as they come to know it." This duty derives from "the very dignity of the human person." It does not contradict a "sincere respect" for different religions which frequently "reflect a ray of that truth which enlightens all men," nor the requirement of charity, which urges Christians "to treat with love, prudence and patience those who are in error or ignorance with regard to the faith."
 
@@ -1960,8 +1466,9 @@ The social duty of religion and the right to religious freedom
 
 **2109.** The right to religious liberty can of itself be neither unlimited nor limited only by a "public order" conceived in a positivist or naturalist manner. The "due limits" which are inherent in it must be determined for each social situation by political prudence, according to the requirements of the common good, and ratified by the civil authority in accordance with "legal principles which are in conformity with the objective moral order."
 
-**III. "You Shall Have
-No Other Gods Before Me"2110.** The first commandment forbids honoring gods other than the one Lord who has revealed himself to his people. It proscribes superstition and irreligion. Superstition in some sense represents a perverse excess of religion; irreligion is the vice contrary by defect to the virtue of religion.
+#### III. &quot;You Shall Have No Other Gods Before Me&quot;
+
+**2110.** The first commandment forbids honoring gods other than the one Lord who has revealed himself to his people. It proscribes superstition and irreligion. Superstition in some sense represents a perverse excess of religion; irreligion is the vice contrary by defect to the virtue of religion.
 
 Superstition
 
@@ -1975,8 +1482,7 @@ Idolatry
 
 **2114.** Human life finds its unity in the adoration of the one God. the commandment to worship the Lord alone integrates man and saves him from an endless disintegration. Idolatry is a perversion of man's innate religious sense. An idolater is someone who "transfers his indestructible notion of God to anything other than God."
 
-Divination
-and magic
+Divination and magic
 
 **2115.** God can reveal the future to his prophets or to other saints. Still, a sound Christian attitude consists in putting oneself confidently into the hands of Providence for whatever concerns the future, and giving up all unhealthy curiosity about it. Improvidence, however, can constitute a lack of responsibility.
 
@@ -2012,8 +1518,9 @@ Agnosticism
 
 **2128.** Agnosticism can sometimes include a certain search for God, but it can equally express indifferentism, a flight from the ultimate question of existence, and a sluggish moral conscience. Agnosticism is all too often equivalent to practical atheism.
 
-**IV. "You Shall Not
-Make For Yourself a Graven Image . . ."2129.** The divine injunction included the prohibition of every representation of God by the hand of man. Deuteronomy explains: "Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, beware lest you act corruptly by making a graven image for yourselves, in the form of any figure...." It is the absolutely transcendent God who revealed himself to Israel. "He is the all," but at the same time "he is greater than all his works." He is "the author of beauty."
+#### IV. &quot;You Shall Not Make For Yourself a Graven Image . . .&quot;
+
+**2129.** The divine injunction included the prohibition of every representation of God by the hand of man. Deuteronomy explains: "Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, beware lest you act corruptly by making a graven image for yourselves, in the form of any figure...." It is the absolutely transcendent God who revealed himself to Israel. "He is the all," but at the same time "he is greater than all his works." He is "the author of beauty."
 
 **2130.** Nevertheless, already in the Old Testament, God ordained or permitted the making of images that pointed symbolically toward salvation by the incarnate Word: so it was with the bronze serpent, the ark of the covenant, and the cherubim.
 
@@ -2021,13 +1528,11 @@ Make For Yourself a Graven Image . . ."2129.** The divine injunction included th
 
 **2132.** The Christian veneration of images is not contrary to the first commandment which proscribes idols. Indeed, "the honor rendered to an image passes to its prototype," and "whoever venerates an image venerates the person portrayed in it." The honor paid to sacred images is a "respectful veneration," not the adoration due to God alone:
 
-Religious worship is not
-directed to images in themselves, considered as mere things, but under their
-distinctive aspect as images leading us on to God incarnate. the movement
-toward the image does not terminate in it as image, but tends toward that whose
-image it is.
+Religious worship is not directed to images in themselves, considered as mere things, but under their distinctive aspect as images leading us on to God incarnate. the movement toward the image does not terminate in it as image, but tends toward that whose image it is.
 
-**IN BRIEF2133.** *"You shall love the Lord your God with all your heart, and with all your soul and with all your strength" (Deut 6:5).*
+#### IN BRIEF
+
+**2133.** *"You shall love the Lord your God with all your heart, and with all your soul and with all your strength" (Deut 6:5).*
 
 **2134.** *The first commandment summons man to believe in God, to hope in him, and to love him above all else.*
 
@@ -2045,29 +1550,23 @@ image it is.
 
 **2141.** *The veneration of sacred images is based on the mystery of the Incarnation of the Word of God. It is not contrary to the first commandment.*
 
-Article 2THE SECOND COMMANDMENT**
+Article 2
 
-You shall not take the name of
-the Lord your God in vain.
+#### THE SECOND COMMANDMENT
 
-You have heard that it was
-said to the men of old, "You shall not swear falsely. . But I say to you,
-Do not swear at all.
+You shall not take the name of the Lord your God in vain.
 
-**I. The Name of the Lord is
-Holy2142.** The second commandment prescribes respect for the Lord's name. Like the first commandment, it belongs to the virtue of religion and more particularly it governs our use of speech in sacred matters.
+You have heard that it was said to the men of old, "You shall not swear falsely. . But I say to you, Do not swear at all.
+
+#### I. The Name of the Lord is Holy
+
+**2142.** The second commandment prescribes respect for the Lord's name. Like the first commandment, it belongs to the virtue of religion and more particularly it governs our use of speech in sacred matters.
 
 **2143.** Among all the words of Revelation, there is one which is unique: the revealed name of God. God confides his name to those who believe in him; he reveals himself to them in his personal mystery. the gift of a name belongs to the order of trust and intimacy. "The Lord's name is holy." For this reason man must not abuse it. He must keep it in mind in silent, loving adoration. He will not introduce it into his own speech except to bless, praise, and glorify it.
 
 **2144.** Respect for his name is an expression of the respect owed to the mystery of God himself and to the whole sacred reality it evokes. the sense of the sacred is part of the virtue of religion:
 
-Are these feelings of fear and
-awe Christian feelings or not? . . . I say this, then, which I think no one can
-reasonably dispute. They are the class of feelings we should have - yes, have
-to an intense degree - if we literally had the sight of Almighty God; therefore
-they are the class of feelings which we shall have, if we realize His presence.
-In proportion as we believe that He is present, we shall have them; and not to
-have them, is not to realize, not to believe that He is present.
+Are these feelings of fear and awe Christian feelings or not? . . . I say this, then, which I think no one can reasonably dispute. They are the class of feelings we should have - yes, have to an intense degree - if we literally had the sight of Almighty God; therefore they are the class of feelings which we shall have, if we realize His presence. In proportion as we believe that He is present, we shall have them; and not to have them, is not to realize, not to believe that He is present.
 
 **2145.** The faithful should bear witness to the Lord's name by confessing the faith without giving way to fear. Preaching and catechizing should be permeated with adoration and respect for the name of our Lord Jesus Christ.
 
@@ -2075,16 +1574,15 @@ have them, is not to realize, not to believe that He is present.
 
 **2147.** Promises made to others in God's name engage the divine honor, fidelity, truthfulness, and authority. They must be respected in justice. To be unfaithful to them is to misuse God's name and in some way to make God out to be a liar.
 
-**2148.** Blasphemy is directly opposed to the second commandment. It consists in uttering against God - inwardly or outwardly - words of hatred, reproach, or defiance; in speaking ill of God; in failing in respect toward him in one's speech; in misusing God's name. St. James condemns those "who blaspheme that honorable name [of Jesus] by which you are called." The prohibition of blasphemy extends to language against Christ's Church, the saints, and sacred things. It is also blasphemous to make use of God's name to cover up criminal practices, to reduce peoples to servitude, to torture persons or put them to death. the misuse of God's name to commit a crime can provoke others to repudiate religion. ** Blasphemy is contrary to the respect due God and his holy name. It is in itself a grave sin.
+**2148.** Blasphemy is directly opposed to the second commandment. It consists in uttering against God - inwardly or outwardly - words of hatred, reproach, or defiance; in speaking ill of God; in failing in respect toward him in one's speech; in misusing God's name. St. James condemns those "who blaspheme that honorable name [of Jesus] by which you are called." The prohibition of blasphemy extends to language against Christ's Church, the saints, and sacred things. It is also blasphemous to make use of God's name to cover up criminal practices, to reduce peoples to servitude, to torture persons or put them to death. the misuse of God's name to commit a crime can provoke others to repudiate religion. Blasphemy is contrary to the respect due God and his holy name. It is in itself a grave sin.
 
 **2149.** Oaths which misuse God's name, though without the intention of blasphemy, show lack of respect for the Lord. the second commandment also forbids magical use of the divine name.
 
-[God's] name is great when
-spoken with respect for the greatness of his majesty. God's name is holy when
-said with veneration and fear of offending him.
+[God's] name is great when spoken with respect for the greatness of his majesty. God's name is holy when said with veneration and fear of offending him.
 
-**II. Taking the Name of the
-Lord in Vain2150.** The second commandment forbids false oaths. Taking an oath or swearing is to take God as witness to what one affirms. It is to invoke the divine truthfulness as a pledge of one's own truthfulness. An oath engages the Lord's name. "You shall fear the LORD your God; you shall serve him, and swear by his name."
+#### II. Taking the Name of the Lord in Vain
+
+**2150.** The second commandment forbids false oaths. Taking an oath or swearing is to take God as witness to what one affirms. It is to invoke the divine truthfulness as a pledge of one's own truthfulness. An oath engages the Lord's name. "You shall fear the LORD your God; you shall serve him, and swear by his name."
 
 **2151.** Rejection of false oaths is a duty toward God. As Creator and Lord, God is the norm of all truth. Human speech is either in accord with or in opposition to God who is Truth itself. When it is truthful and legitimate, an oath highlights the relationship of human speech with God's truth. A false oath calls on God to be witness to a lie.
 
@@ -2096,7 +1594,9 @@ Lord in Vain2150.** The second commandment forbids false oaths. Taking an oath o
 
 **2155.** The holiness of the divine name demands that we neither use it for trivial matters, nor take an oath which on the basis of the circumstances could be interpreted as approval of an authority unjustly requiring it. When an oath is required by illegitimate civil authorities, it may be refused. It must be refused when it is required for purposes contrary to the dignity of persons or to ecclesial communion.
 
-**III. The Christian Name2156.** The sacrament of Baptism is conferred "in the name of the Father and of the Son and of the Holy Spirit." In Baptism, the Lord's name sanctifies man, and the Christian receives his name in the Church. This can be the name of a saint, that is, of a disciple who has lived a life of exemplary fidelity to the Lord. the patron saint provides a model of charity; we are assured of his intercession. the "baptismal name" can also express a Christian mystery or Christian virtue. "Parents, sponsors, and the pastor are to see that a name is not given which is foreign to Christian sentiment."
+#### III. The Christian Name
+
+**2156.** The sacrament of Baptism is conferred "in the name of the Father and of the Son and of the Holy Spirit." In Baptism, the Lord's name sanctifies man, and the Christian receives his name in the Church. This can be the name of a saint, that is, of a disciple who has lived a life of exemplary fidelity to the Lord. the patron saint provides a model of charity; we are assured of his intercession. the "baptismal name" can also express a Christian mystery or Christian virtue. "Parents, sponsors, and the pastor are to see that a name is not given which is foreign to Christian sentiment."
 
 **2157.** The Christian begins his day, his prayers, and his activities with the Sign of the Cross: "in the name of the Father and of the Son and of the Holy Spirit. Amen." the baptized person dedicates the day to the glory of God and calls on the Savior's grace which lets him act in the Spirit as a child of the Father. the sign of the cross strengthens us in temptations and difficulties.
 
@@ -2104,7 +1604,9 @@ Lord in Vain2150.** The second commandment forbids false oaths. Taking an oath o
 
 **2159.** The name one receives is a name for eternity. In the kingdom, the mysterious and unique character of each person marked with God's name will shine forth in splendor. "To him who conquers . . . I will give a white stone, with a new name written on the stone which no one knows except him who receives it." "Then I looked, and Lo, on Mount Zion stood the Lamb, and with him a hundred and forty-four thousand who had his name and his Father's name written on their foreheads."
 
-**IN BRIEF2160.** *"O Lord, our Lord, how majestic is your name in all the earth" (Ps 8:1)!*
+#### IN BRIEF
+
+**2160.** *"O Lord, our Lord, how majestic is your name in all the earth" (Ps 8:1)!*
 
 **2161.** *The second commandment enjoins respect for the Lord's name. the name of the Lord is holy.*
 
@@ -2120,18 +1622,17 @@ Lord in Vain2150.** The second commandment forbids false oaths. Taking an oath o
 
 **2167.** *God calls each one by name (cf Isa 43:1).*
 
-Article 3THE THIRD COMMANDMENT**
+Article 3
 
-Remember the sabbath day, to
-keep it holy. Six days you shall labor, and do all your work; but the seventh
-day is a sabbath to the Lord your God; in it you shall not do any
-work.
+#### THE THIRD COMMANDMENT
 
-The sabbath was made for man,
-not man for the sabbath; so the Son of Man is lord even of the
-sabbath.
+Remember the sabbath day, to keep it holy. Six days you shall labor, and do all your work; but the seventh day is a sabbath to the Lord your God; in it you shall not do any work.
 
-**I. The Sabbath Day2168.** The third commandment of the Decalogue recalls the holiness of the sabbath: "The seventh day is a sabbath of solemn rest, holy to the LORD."
+The sabbath was made for man, not man for the sabbath; so the Son of Man is lord even of the sabbath.
+
+#### I. The Sabbath Day
+
+**2168.** The third commandment of the Decalogue recalls the holiness of the sabbath: "The seventh day is a sabbath of solemn rest, holy to the LORD."
 
 **2169.** In speaking of the sabbath Scripture recalls creation: "For in six days the LORD made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore the Lord blessed the sabbath day and hallowed it."
 
@@ -2143,80 +1644,39 @@ sabbath.
 
 **2173.** The Gospel reports many incidents when Jesus was accused of violating the sabbath law. But Jesus never fails to respect the holiness of this day. He gives this law its authentic and authoritative interpretation: "The sabbath was made for man, not man for the sabbath." With compassion, Christ declares the sabbath for doing good rather than harm, for saving life rather than killing. The sabbath is the day of the Lord of mercies and a day to honor God. "The Son of Man is lord even of the sabbath."
 
-**II. The Lord's Day**
+#### II. The Lord's Day
 
-This is the day which the LORD
-has made; let us rejoice and be glad in it. **
+This is the day which the LORD has made; let us rejoice and be glad in it.
 
-The day of
-the Resurrection: the new creation
+The day of the Resurrection: the new creation
 
 **2174.** Jesus rose from the dead "on the first day of the week." Because it is the "first day," the day of Christ's Resurrection recalls the first creation. Because it is the "eighth day" following the sabbath, it symbolizes the new creation ushered in by Christ's Resurrection. For Christians it has become the first of all days, the first of all feasts, the Lord's Day (he kuriake hemera, dies dominica) Sunday:
 
-We all gather on the day of
-the sun, for it is the first day [after the Jewish sabbath, but also the first
-day] when God, separating matter from darkness, made the world; and on this
-same day Jesus Christ our Savior rose from the dead.
+We all gather on the day of the sun, for it is the first day [after the Jewish sabbath, but also the first day] when God, separating matter from darkness, made the world; and on this same day Jesus Christ our Savior rose from the dead.
 
-Sunday -
-fulfillment of the sabbath
+Sunday - fulfillment of the sabbath
 
 **2175.** Sunday is expressly distinguished from the sabbath which it follows chronologically every week; for Christians its ceremonial observance replaces that of the sabbath. In Christ's Passover, Sunday fulfills the spiritual truth of the Jewish sabbath and announces man's eternal rest in God. For worship under the Law prepared for the mystery of Christ, and what was done there prefigured some aspects of Christ:
 
-Those who lived according to
-the old order of things have come to a new hope, no longer keeping the sabbath,
-but the Lord's Day, in which our life is blessed by him and by his
-death.
+Those who lived according to the old order of things have come to a new hope, no longer keeping the sabbath, but the Lord's Day, in which our life is blessed by him and by his death.
 
 **2176.** The celebration of Sunday observes the moral commandment inscribed by nature in the human heart to render to God an outward, visible, public, and regular worship "as a sign of his universal beneficence to all." Sunday worship fulfills the moral command of the Old Covenant, taking up its rhythm and spirit in the weekly celebration of the Creator and Redeemer of his people.
 
-The Sunday
-Eucharist
+The Sunday Eucharist
 
-**2177.** The Sunday celebration of the Lord's Day and his Eucharist is at the heart of the Church's life.
+**2177.** The Sunday celebration of the Lord's Day and his Eucharist is at the heart of the Church's life. "Sunday is the day on which the paschal mystery is celebrated in light of the apostolic tradition and is to be observed as the foremost holy day of obligation in the universal Church."
 
-"Sunday is the day on which the paschal mystery is celebrated in light of
-the apostolic tradition and is to be observed as the foremost holy day of
-obligation in the universal Church."
-
-"Also to be observed are the day of the Nativity of Our Lord Jesus
-Christ,
-
-the Epiphany,
-
-the Ascension of Christ,
-
-the feast of the Body and Blood of Christi,
-
-the feast of Mary the Mother of God,
-
-her Immaculate Conception,
-
-her Assumption,
-
-the feast of Saint Joseph,
-
-the feast of the Apostles Saints Peter and Paul, and the feast of All Saints."
+"Also to be observed are the day of the Nativity of Our Lord Jesus Christ, the Epiphany, the Ascension of Christ, the feast of the Body and Blood of Christi, the feast of Mary the Mother of God, her Immaculate Conception, her Assumption, the feast of Saint Joseph, the feast of the Apostles Saints Peter and Paul, and the feast of All Saints."
 
 **2178.** This practice of the Christian assembly dates from the beginnings of the apostolic age. The Letter to the Hebrews reminds the faithful "not to neglect to meet together, as is the habit of some, but to encourage one another."
 
-Tradition preserves the memory
-of an ever-timely exhortation: Come to Church early, approach the Lord, and
-confess your sins, repent in prayer.... Be present at the sacred and divine
-liturgy, conclude its prayer and do not leave before the dismissal.... We have
-often said: "This day is given to you for prayer and rest. This is the day
-that the Lord has made, let us rejoice and be glad in it."
+Tradition preserves the memory of an ever-timely exhortation: Come to Church early, approach the Lord, and confess your sins, repent in prayer.... Be present at the sacred and divine liturgy, conclude its prayer and do not leave before the dismissal.... We have often said: "This day is given to you for prayer and rest. This is the day that the Lord has made, let us rejoice and be glad in it."
 
 **2179.** "A parish is a definite community of the Christian faithful established on a stable basis within a particular church; the pastoral care of the parish is entrusted to a pastor as its own shepherd under the authority of the diocesan bishop." It is the place where all the faithful can be gathered together for the Sunday celebration of the Eucharist. the parish initiates the Christian people into the ordinary expression of the liturgical life: it gathers them together in this celebration; it teaches Christ's saving doctrine; it practices the charity of the Lord in good works and brotherly love:
 
-You cannot pray at home as at
-church, where there is a great multitude, where exclamations are cried out to
-God as from one great heart, and where there is something more: the union of
-minds, the accord of souls, the bond of charity, the prayers of the
-priests.
+You cannot pray at home as at church, where there is a great multitude, where exclamations are cried out to God as from one great heart, and where there is something more: the union of minds, the accord of souls, the bond of charity, the prayers of the priests.
 
-The Sunday
-obligation
+The Sunday obligation
 
 **2180.** The precept of the Church specifies the law of the Lord more precisely: "On Sundays and other holy days of obligation the faithful are bound to participate in the Mass." "The precept of participating in the Mass is satisfied by assistance at a Mass which is celebrated anywhere in a Catholic rite either on the holy day or on the evening of the preceding day."
 
@@ -2226,15 +1686,13 @@ obligation
 
 **2183.** "If because of lack of a sacred minister or for other grave cause participation in the celebration of the Eucharist is impossible, it is specially recommended that the faithful take part in the Liturgy of the Word if it is celebrated in the parish church or in another sacred place according to the prescriptions of the diocesan bishop, or engage in prayer for an appropriate amount of time personally or in a family or, as occasion offers, in groups of families."
 
-A day of
-grace and rest from work
+A day of grace and rest from work
 
 **2184.** Just as God "rested on the seventh day from all his work which he had done," human life has a rhythm of work and rest. the institution of the Lord's Day helps everyone enjoy adequate rest and leisure to cultivate their familial, cultural, social, and religious lives.
 
 **2185.** On Sundays and other holy days of obligation, the faithful are to refrain from engaging in work or activities that hinder the worship owed to God, the joy proper to the Lord's Day, the performance of the works of mercy, and the appropriate relaxation of mind and body. Family needs or important social service can legitimately excuse from the obligation of Sunday rest. the faithful should see to it that legitimate excuses do not lead to habits prejudicial to religion, family life, and health.
 
-The charity of truth seeks
-holy leisure - the necessity of charity accepts just work.
+The charity of truth seeks holy leisure - the necessity of charity accepts just work.
 
 **2186.** Those Christians who have leisure should be mindful of their brethren who have the same needs and the same rights, yet cannot rest from work because of poverty and misery. Sunday is traditionally consecrated by Christian piety to good works and humble service of the sick, the infirm, and the elderly. Christians will also sanctify Sunday by devoting time and care to their families and relatives, often difficult to do on other days of the week. Sunday is a time for reflection, silence, cultivation of the mind, and meditation which furthers the growth of the Christian interior life.
 
@@ -2242,7 +1700,9 @@ holy leisure - the necessity of charity accepts just work.
 
 **2188.** In respecting religious liberty and the common good of all, Christians should seek recognition of Sundays and the Church's holy days as legal holidays. They have to give everyone a public example of prayer, respect, and joy and defend their traditions as a precious contribution to the spiritual life of society. If a country's legislation or other reasons require work on Sunday, the day should nevertheless be lived as the day of our deliverance which lets us share in this "festal gathering," this "assembly of the firstborn who are enrolled in heaven."
 
-**IN BRIEF2189.** *"Observe the sabbath day, to keep it holy" (Deut 5:12). "The seventh day is a sabbath of solemn rest, holy to the Lord" (Ex 31:15).*
+#### IN BRIEF
+
+**2189.** *"Observe the sabbath day, to keep it holy" (Deut 5:12). "The seventh day is a sabbath of solemn rest, holy to the Lord" (Ex 31:15).*
 
 **2190.** *The sabbath, which represented the completion of the first creation, has been replaced by Sunday which recalls the new creation inaugurated by the Resurrection of Christ.*
 
@@ -2256,29 +1716,23 @@ holy leisure - the necessity of charity accepts just work.
 
 **2195.** *Every Christian should avoid making unnecessary demands on others that would hinder them from observing the Lord's Day.*
 
-CHAPTER TWOYOU SHALL LOVE YOUR NEIGHBOR AS
-YOURSELF**
+#### CHAPTER TWO
 
-Jesus said to his disciples:
-"Love one another even as I have loved you."
+#### YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF
 
-**2196.** In response to the question about the first of the commandments, Jesus says: "The first is, 'Hear, O Israel: the Lord our God, the Lord is one; and you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.' the second is this, 'You shall love your neighbor as yourself.' There is no other commandment greater than these." ** The apostle St. Paul reminds us of this: "He who loves his neighbor has fulfilled the law. the commandments, 'You shall not commit adultery, You shall not kill, You shall not steal, You shall not covet,' and any other commandment, are summed up in this sentence, 'You shall love your neighbor as yourself.' Love does no wrong to a neighbor; therefore love is the fulfilling of the law."
+Jesus said to his disciples: "Love one another even as I have loved you."
 
-**ARTICLE 4THE FOURTH COMMANDMENT**
+**2196.** In response to the question about the first of the commandments, Jesus says: "The first is, 'Hear, O Israel: the Lord our God, the Lord is one; and you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.' the second is this, 'You shall love your neighbor as yourself.' There is no other commandment greater than these." The apostle St. Paul reminds us of this: "He who loves his neighbor has fulfilled the law. the commandments, 'You shall not commit adultery, You shall not kill, You shall not steal, You shall not covet,' and any other commandment, are summed up in this sentence, 'You shall love your neighbor as yourself.' Love does no wrong to a neighbor; therefore love is the fulfilling of the law."
 
-Honor your father and your
-mother, that your days may be long in the land which the Lord your God gives
-you.
+### ARTICLE 4
 
-He was obedient to
-them.
+#### THE FOURTH COMMANDMENT
 
-The Lord Jesus himself
-recalled the force of this "commandment of God." The Apostle
-teaches: "Children, obey your parents in the Lord, for this is right.
-'Honor your father and mother,' (This is the first commandment with a promise.)
-'that it may be well with you and that you may live long on the
-earth."'
+Honor your father and your mother, that your days may be long in the land which the Lord your God gives you.
+
+He was obedient to them.
+
+The Lord Jesus himself recalled the force of this "commandment of God." The Apostle teaches: "Children, obey your parents in the Lord, for this is right. 'Honor your father and mother,' (This is the first commandment with a promise.) 'that it may be well with you and that you may live long on the earth."'
 
 **2197.** The fourth commandment opens the second table of the Decalogue. It shows us the order of charity. God has willed that, after him, we should honor our parents to whom we owe life and who have handed on to us the knowledge of God. We are obliged to honor and respect all those whom God, for our good, has vested with his authority.
 
@@ -2288,10 +1742,9 @@ earth."'
 
 **2200.** Observing the fourth commandment brings its reward: "Honor your father and your mother, that your days may be long in the land which the LORD your God gives you." Respecting this commandment provides, along with spiritual fruits, temporal fruits of peace and prosperity. Conversely, failure to observe it brings great harm to communities and to individuals.
 
-**I. The Family in God's Plan**
+#### I. The Family in God's Plan
 
-The nature
-of the family
+The nature of the family
 
 **2201.** The conjugal community is established upon the consent of the spouses. Marriage and the family are ordered to the good of the spouses and to the procreation and education of children. the love of the spouses and the begetting of children create among members of the same family personal relationships and primordial responsibilities.
 
@@ -2299,8 +1752,7 @@ of the family
 
 **2203.** In creating man and woman, God instituted the human family and endowed it with its fundamental constitution. Its members are persons equal in dignity. For the common good of its members and of society, the family necessarily has manifold responsibilities, rights, and duties.
 
-The
-Christian family
+The Christian family
 
 **2204.** "The Christian family constitutes a specific revelation and realization of ecclesial communion, and for this reason it can and should be called a domestic church." It is a community of faith, hope, and charity; it assumes singular importance in the Church, as is evident in the New Testament.
 
@@ -2308,7 +1760,9 @@ Christian family
 
 **2206.** The relationships within the family bring an affinity of feelings, affections and interests, arising above all from the members' respect for one another. the family is a privileged community called to achieve a "sharing of thought and common deliberation by the spouses as well as their eager cooperation as parents in the children's upbringing."
 
-**II. The Family and Society2207.** The family is the original cell of social life. It is the natural society in which husband and wife are called to give themselves in love and in the gift of life. Authority, stability, and a life of relationships within the family constitute the foundations for freedom, security, and fraternity within society. the family is the community in which, from childhood, one can learn moral values, begin to honor God, and make good use of freedom. Family life is an initiation into life in society.
+#### II. The Family and Society
+
+**2207.** The family is the original cell of social life. It is the natural society in which husband and wife are called to give themselves in love and in the gift of life. Authority, stability, and a life of relationships within the family constitute the foundations for freedom, security, and fraternity within society. the family is the community in which, from childhood, one can learn moral values, begin to honor God, and make good use of freedom. Family life is an initiation into life in society.
 
 **2208.** The family should live in such a way that its members learn to care and take responsibility for the young, the old, the sick, the handicapped, and the poor. There are many families who are at times incapable of providing this help. It devolves then on other persons, other families, and, in a subsidiary way, society to provide for their needs: "Religion that is pure and undefiled before God and the Father is this: to visit orphans and widows in their affliction and to keep oneself unstained from the world."
 
@@ -2316,35 +1770,15 @@ Christian family
 
 **2210.** The importance of the family for the life and well-being of society entails a particular responsibility for society to support and strengthen marriage and the family. Civil authority should consider it a grave duty "to acknowledge the true nature of marriage and the family, to protect and foster them, to safeguard public morality, and promote domestic prosperity."
 
-**2211.** The political community has a duty to honor the family, to assist it, and to ensure especially: ** - the freedom to establish a family, have children, and bring them up in keeping with the family's own moral and religious convictions;
-
-- the protection of the stability of the marriage bond and the institution of
-the family;
-
-- the freedom to profess one's faith, to hand it on, and raise one's children
-in it, with the necessary means and institutions;
-
-- the right to private property, to free enterprise, to obtain work and
-housing, and the right to emigrate;
-
-- in keeping with the country's institutions, the right to medical care,
-assistance for the aged, and family benefits;
-
-- the protection of security and health, especially with respect to dangers
-like drugs, pornography, alcoholism, etc.;
-
-- the freedom to form associations with other families and so to have
-representation before civil authority.
+**2211.** The political community has a duty to honor the family, to assist it, and to ensure especially: - the freedom to establish a family, have children, and bring them up in keeping with the family's own moral and religious convictions; - the protection of the stability of the marriage bond and the institution of the family; - the freedom to profess one's faith, to hand it on, and raise one's children in it, with the necessary means and institutions; - the right to private property, to free enterprise, to obtain work and housing, and the right to emigrate; - in keeping with the country's institutions, the right to medical care, assistance for the aged, and family benefits; - the protection of security and health, especially with respect to dangers like drugs, pornography, alcoholism, etc.; - the freedom to form associations with other families and so to have representation before civil authority.
 
 **2212.** The fourth commandment illuminates other relationships in society. In our brothers and sisters we see the children of our parents; in our cousins, the descendants of our ancestors; in our fellow citizens, the children of our country; in the baptized, the children of our mother the Church; in every human person, a son or daughter of the One who wants to be called "our Father." In this way our relationships with our neighbors are recognized as personal in character. the neighbor is not a "unit" in the human collective; he is "someone" who by his known origins deserves particular attention and respect.
 
 **2213.** Human communities are made up of persons. Governing them well is not limited to guaranteeing rights and fulfilling duties such as honoring contracts. Right relations between employers and employees, between those who govern and citizens, presuppose a natural good will in keeping with the dignity of human persons concerned for justice and fraternity.
 
-**III. The Duties of Family
-Members**
+#### III. The Duties of Family Members
 
-The duties
-of children
+The duties of children
 
 **2214.** The divine fatherhood is the source of human fatherhood; this is the foundation of the honor owed to parents. the respect of children, whether minors or adults, for their father and mother is nourished by the natural affection born of the bond uniting them. It is required by God's commandment.
 
@@ -2352,29 +1786,17 @@ of children
 
 **2216.** Filial respect is shown by true docility and obedience. "My son, keep your father's commandment, and forsake not your mother's teaching.... When you walk, they will lead you; when you lie down, they will watch over you; and when you awake, they will talk with you." "A wise son hears his father's instruction, but a scoffer does not listen to rebuke."
 
-**2217.** As long as a child lives at home with his parents, the child should obey his parents in all that they ask of him when it is for his good or that of the family. "Children, obey your parents in everything, for this pleases the Lord." Children should also obey the reasonable directions of their teachers and all to whom their parents have entrusted them. But if a child is convinced in conscience that it would be morally wrong to obey a particular order, he must not do so. ** As they grow up, children should continue to respect their parents. They should anticipate their wishes, willingly seek their advice, and accept their just admonitions. Obedience toward parents ceases with the emancipation of the children; not so respect, which is always owed to them. This respect has its roots in the fear of God, one of the gifts of the Holy Spirit.
+**2217.** As long as a child lives at home with his parents, the child should obey his parents in all that they ask of him when it is for his good or that of the family. "Children, obey your parents in everything, for this pleases the Lord." Children should also obey the reasonable directions of their teachers and all to whom their parents have entrusted them. But if a child is convinced in conscience that it would be morally wrong to obey a particular order, he must not do so. As they grow up, children should continue to respect their parents. They should anticipate their wishes, willingly seek their advice, and accept their just admonitions. Obedience toward parents ceases with the emancipation of the children; not so respect, which is always owed to them. This respect has its roots in the fear of God, one of the gifts of the Holy Spirit.
 
 **2218.** The fourth commandment reminds grown children of their responsibilities toward their parents. As much as they can, they must give them material and moral support in old age and in times of illness, loneliness, or distress. Jesus recalls this duty of gratitude.
 
-For the Lord honored the
-father above the children, and he confirmed the right of the mother over her
-sons. Whoever honors his father atones for sins, and whoever glorifies his
-mother is like one who lays up treasure. Whoever honors his father will be
-gladdened by his own children, and when he prays he will be heard. Whoever
-glorifies his father will have long life, and whoever obeys the Lord will
-refresh his mother.
-
-O son, help your father in his old age, and do not grieve him as long as he
-lives; even if he is lacking in understanding, show forbearance; in all your
-strength do not despise him.... Whoever forsakes his father is like a
-blasphemer, and whoever angers his mother is cursed by the Lord.
+For the Lord honored the father above the children, and he confirmed the right of the mother over her sons. Whoever honors his father atones for sins, and whoever glorifies his mother is like one who lays up treasure. Whoever honors his father will be gladdened by his own children, and when he prays he will be heard. Whoever glorifies his father will have long life, and whoever obeys the Lord will refresh his mother. O son, help your father in his old age, and do not grieve him as long as he lives; even if he is lacking in understanding, show forbearance; in all your strength do not despise him.... Whoever forsakes his father is like a blasphemer, and whoever angers his mother is cursed by the Lord.
 
 **2219.** Filial respect promotes harmony in all of family life; it also concerns relationships between brothers and sisters. Respect toward parents fills the home with light and warmth. "Grandchildren are the crown of the aged." "With all humility and meekness, with patience, [support] one another in charity."
 
 **2220.** For Christians a special gratitude is due to those from whom they have received the gift of faith, the grace of Baptism, and life in the Church. These may include parents, grandparents, other members of the family, pastors, catechists, and other teachers or friends. "I am reminded of your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you."
 
-The duties
-of parents
+The duties of parents
 
 **2221.** The fecundity of conjugal love cannot be reduced solely to the procreation of children, but must extend to their moral education and their spiritual formation. "The role of parents in education is of such importance that it is almost impossible to provide an adequate substitute." The right and the duty of parents to educate their children are primordial and inalienable.
 
@@ -2382,11 +1804,7 @@ of parents
 
 **2223.** Parents have the first responsibility for the education of their children. They bear witness to this responsibility first by creating a home where tenderness, forgiveness, respect, fidelity, and disinterested service are the rule. the home is well suited for education in the virtues. This requires an apprenticeship in self-denial, sound judgment, and self-mastery - the preconditions of all true freedom. Parents should teach their children to subordinate the "material and instinctual dimensions to interior and spiritual ones." Parents have a grave responsibility to give good example to their children. By knowing how to acknowledge their own failings to their children, parents will be better able to guide and correct them:
 
-He who loves his son will not
-spare the rod.... He who disciplines his son will profit by him.
-
-Fathers, do not provoke your children to anger, but bring them up in the
-discipline and instruction of the Lord.
+He who loves his son will not spare the rod.... He who disciplines his son will profit by him. Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.
 
 **2224.** The home is the natural environment for initiating a human being into solidarity and communal responsibilities. Parents should teach children to avoid the compromising and degrading influences which threaten human societies.
 
@@ -2404,24 +1822,25 @@ discipline and instruction of the Lord.
 
 **2231.** Some forgo marriage in order to care for their parents or brothers and sisters, to give themselves more completely to a profession, or to serve other honorable ends. They can contribute greatly to the good of the human family.
 
-**IV. The Family and the Kingdom2232.** Family ties are important but not absolute. Just as the child grows to maturity and human and spiritual autonomy, so his unique vocation which comes from God asserts itself more clearly and forcefully. Parents should respect this call and encourage their children to follow it. They must be convinced that the first vocation of the Christian is to follow Jesus: "He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me is not worthy of me."
+#### IV. The Family and the Kingdom
 
-**2233.** Becoming a disciple of Jesus means accepting the invitation to belong to God's family, to live in conformity with His way of life: "For whoever does the will of my Father in heaven is my brother, and sister, and mother." ** Parents should welcome and respect with joy and thanksgiving the Lord's call to one of their children to follow him in virginity for the sake of the Kingdom in the consecrated life or in priestly ministry.
+**2232.** Family ties are important but not absolute. Just as the child grows to maturity and human and spiritual autonomy, so his unique vocation which comes from God asserts itself more clearly and forcefully. Parents should respect this call and encourage their children to follow it. They must be convinced that the first vocation of the Christian is to follow Jesus: "He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me is not worthy of me."
 
-**V. The Authorities In Civil
-Society2234.** God's fourth commandment also enjoins us to honor all who for our good have received authority in society from God. It clarifies the duties of those who exercise authority as well as those who benefit from it.
+**2233.** Becoming a disciple of Jesus means accepting the invitation to belong to God's family, to live in conformity with His way of life: "For whoever does the will of my Father in heaven is my brother, and sister, and mother." Parents should welcome and respect with joy and thanksgiving the Lord's call to one of their children to follow him in virginity for the sake of the Kingdom in the consecrated life or in priestly ministry.
 
-Duties of
-civil authorities
+#### V. The Authorities In Civil Society
+
+**2234.** God's fourth commandment also enjoins us to honor all who for our good have received authority in society from God. It clarifies the duties of those who exercise authority as well as those who benefit from it.
+
+Duties of civil authorities
 
 **2235.** Those who exercise authority should do so as a service. "Whoever would be great among you must be your servant." The exercise of authority is measured morally in terms of its divine origin, its reasonable nature and its specific object. No one can command or establish what is contrary to the dignity of persons and the natural law.
 
 **2236.** The exercise of authority is meant to give outward expression to a just hierarchy of values in order to facilitate the exercise of freedom and responsibility by all. Those in authority should practice distributive justice wisely, taking account of the needs and contribution of each, with a view to harmony and peace. They should take care that the regulations and measures they adopt are not a source of temptation by setting personal interest against that of the community.
 
-**2237.** Political authorities are obliged to respect the fundamental rights of the human person. They will dispense justice humanely by respecting the rights of everyone, especially of families and the disadvantaged. ** The political rights attached to citizenship can and should be granted according to the requirements of the common good. They cannot be suspended by public authorities without legitimate and proportionate reasons. Political rights are meant to be exercised for the common good of the nation and the human community.
+**2237.** Political authorities are obliged to respect the fundamental rights of the human person. They will dispense justice humanely by respecting the rights of everyone, especially of families and the disadvantaged. The political rights attached to citizenship can and should be granted according to the requirements of the common good. They cannot be suspended by public authorities without legitimate and proportionate reasons. Political rights are meant to be exercised for the common good of the nation and the human community.
 
-The duties
-of citizens
+The duties of citizens
 
 **2238.** Those subject to authority should regard those in authority as representatives of God, who has made them stewards of his gifts: "Be subject for the Lord's sake to every human institution.... Live as free men, yet without using your freedom as a pretext for evil; but live as servants of God." Their loyal collaboration includes the right, and at times the duty, to voice their just criticisms of that which seems harmful to the dignity of persons and to the good of the community.
 
@@ -2429,58 +1848,35 @@ of citizens
 
 **2240.** Submission to authority and co-responsibility for the common good make it morally obligatory to pay taxes, to exercise the right to vote, and to defend one's country:
 
-Pay to all of them their dues, taxes to whom taxes are due, revenue to
-whom revenue is due, respect to whom respect is due, honor to whom honor is
-due.
+Pay to all of them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due.
 
-[Christians] reside in their own nations, but as resident aliens. They
-participate in all things as citizens and endure all things as foreigners....
-They obey the established laws and their way of life surpasses the laws.... So
-noble is the position to which God has assigned them that they are not allowed
-to desert it.
+[Christians] reside in their own nations, but as resident aliens. They participate in all things as citizens and endure all things as foreigners.... They obey the established laws and their way of life surpasses the laws.... So noble is the position to which God has assigned them that they are not allowed to desert it.
 
-The Apostle
-exhorts us to offer prayers and thanksgiving for kings and all who exercise
-authority, "that we may lead a quiet and peaceable life, godly and
-respectful in every way."
+The Apostle exhorts us to offer prayers and thanksgiving for kings and all who exercise authority, "that we may lead a quiet and peaceable life, godly and respectful in every way."
 
 **2241.** The more prosperous nations are obliged, to the extent they are able, to welcome the foreigner in search of the security and the means of livelihood which he cannot find in his country of origin. Public authorities should see to it that the natural right is respected that places a guest under the protection of those who receive him.
 
-Political authorities, for the sake of the common good for which they
-are responsible, may make the exercise of the right to immigrate subject to
-various juridical conditions, especially with regard to the immigrants' duties
-toward their country of adoption. Immigrants are obliged to respect with
-gratitude the material and spiritual heritage of the country that receives
-them, to obey its laws and to assist in carrying civic burdens.
+Political authorities, for the sake of the common good for which they are responsible, may make the exercise of the right to immigrate subject to various juridical conditions, especially with regard to the immigrants' duties toward their country of adoption. Immigrants are obliged to respect with gratitude the material and spiritual heritage of the country that receives them, to obey its laws and to assist in carrying civic burdens.
 
 **2242.** The citizen is obliged in conscience not to follow the directives of civil authorities when they are contrary to the demands of the moral order, to the fundamental rights of persons or the teachings of the Gospel. Refusing obedience to civil authorities, when their demands are contrary to those of an upright conscience, finds its justification in the distinction between serving God and serving the political community. "Render therefore to Caesar the things that are Caesar's, and to God the things that are God's." "We must obey God rather than men":
 
-When citizens are under the
-oppression of a public authority which oversteps its competence, they should
-still not refuse to give or to do what is objectively demanded of them by the
-common good; but it is legitimate for them to defend their own rights and those
-of their fellow citizens against the abuse of this authority within the limits
-of the natural law and the Law of the Gospel.
+When citizens are under the oppression of a public authority which oversteps its competence, they should still not refuse to give or to do what is objectively demanded of them by the common good; but it is legitimate for them to defend their own rights and those of their fellow citizens against the abuse of this authority within the limits of the natural law and the Law of the Gospel.
 
 **2243.** Armed resistance to oppression by political authority is not legitimate, unless all the following conditions are met: 1) there is certain, grave, and prolonged violation of fundamental rights; 2) all other means of redress have been exhausted; 3) such resistance will not provoke worse disorders; 4) there is well-founded hope of success; and 5) it is impossible reasonably to foresee any better solution.
 
-The
-political community and the Church
+The political community and the Church
 
 **2244.** Every institution is inspired, at least implicitly, by a vision of man and his destiny, from which it derives the point of reference for its judgment, its hierarchy of values, its line of conduct. Most societies have formed their institutions in the recognition of a certain preeminence of man over things. Only the divinely revealed religion has clearly recognized man's origin and destiny in God, the Creator and Redeemer. the Church invites political authorities to measure their judgments and decisions against this inspired truth about God and man:
 
-Societies not recognizing this
-vision or rejecting it in the name of their independence from God are brought
-to seek their criteria and goal in themselves or to borrow them from some
-ideology. Since they do not admit that one can defend an objective criterion of
-good and evil, they arrogate to themselves an explicit or implicit totalitarian
-power over man and his destiny, as history shows.
+Societies not recognizing this vision or rejecting it in the name of their independence from God are brought to seek their criteria and goal in themselves or to borrow them from some ideology. Since they do not admit that one can defend an objective criterion of good and evil, they arrogate to themselves an explicit or implicit totalitarian power over man and his destiny, as history shows.
 
 **2245.** The Church, because of her commission and competence, is not to be confused in any way with the political community. She is both the sign and the safeguard of the transcendent character of the human person. "The Church respects and encourages the political freedom and responsibility of the citizen."
 
 **2246.** It is a part of the Church's mission "to pass moral judgments even in matters related to politics, whenever the fundamental rights of man or the salvation of souls requires it. the means, the only means, she may use are those which are in accord with the Gospel and the welfare of all men according to the diversity of times and circumstances."
 
-**IN BRIEF2247.** *"Honor your father and your mother" (Deut 5:16; Mk 7:10).*
+#### IN BRIEF
+
+**2247.** *"Honor your father and your mother" (Deut 5:16; Mk 7:10).*
 
 **2248.** *According to the fourth commandment, God has willed that, after him, we should honor our parents and those whom he has vested with authority for our good.*
 
@@ -2502,55 +1898,41 @@ power over man and his destiny, as history shows.
 
 **2257.** *Every society's judgments and conduct reflect a vision of man and his destiny. Without the light the Gospel sheds on God and man, societies easily become totalitarian.*
 
-Article 5THE FIFTH COMMANDMENT**
+Article 5
 
-You shall not kill. **
+#### THE FIFTH COMMANDMENT
 
-You have heard that it was said to the men of old, "You shall not kill:
-and whoever kills shall be liable to judgment." But I say to you that
-every one who is angry with his brother shall be liable to judgment.
+You shall not kill. You have heard that it was said to the men of old, "You shall not kill: and whoever kills shall be liable to judgment." But I say to you that every one who is angry with his brother shall be liable to judgment.
 
 **2258.** "Human life is sacred because from its beginning it involves the creative action of God and it remains for ever in a special relationship with the Creator, who is its sole end. God alone is the Lord of life from its beginning until its end: no one can under any circumstance claim for himself the right directly to destroy an innocent human being."
 
-**I. Respect for Human Life**
+#### I. Respect for Human Life
 
-The witness
-of sacred history
+The witness of sacred history
 
 **2259.** In the account of Abel's murder by his brother Cain, Scripture reveals the presence of anger and envy in man, consequences of original sin, from the beginning of human history. Man has become the enemy of his fellow man. God declares the wickedness of this fratricide: "What have you done? the voice of your brother's blood is crying to me from the ground. and now you are cursed from the ground, which has opened its mouth to receive your brother's blood from your hand."
 
 **2260.** The covenant between God and mankind is interwoven with reminders of God's gift of human life and man's murderous violence:
 
-For your lifeblood I will
-surely require a reckoning.... Whoever sheds the blood of man, by man shall his
-blood be shed; for God made man in his own image.
+For your lifeblood I will surely require a reckoning.... Whoever sheds the blood of man, by man shall his blood be shed; for God made man in his own image.
 
-The Old
-Testament always considered blood a sacred sign of life. This
-teaching remains necessary for all time.
+The Old Testament always considered blood a sacred sign of life. This teaching remains necessary for all time.
 
 **2261.** Scripture specifies the prohibition contained in the fifth commandment: "Do not slay the innocent and the righteous." The deliberate murder of an innocent person is gravely contrary to the dignity of the human being, to the golden rule, and to the holiness of the Creator. the law forbidding it is universally valid: it obliges each and everyone, always and everywhere.
 
 **2262.** In the Sermon on the Mount, the Lord recalls the commandment, "You shall not kill," and adds to it the proscription of anger, hatred, and vengeance. Going further, Christ asks his disciples to turn the other cheek, to love their enemies. He did not defend himself and told Peter to leave his sword in its sheath.
 
-Legitimate
-defense
+Legitimate defense
 
 **2263.** The legitimate defense of persons and societies is not an exception to the prohibition against the murder of the innocent that constitutes intentional killing. "The act of self-defense can have a double effect: the preservation of one's own life; and the killing of the aggressor.... the one is intended, the other is not."
 
 **2264.** Love toward oneself remains a fundamental principle of morality. Therefore it is legitimate to insist on respect for one's own right to life. Someone who defends his life is not guilty of murder even if he is forced to deal his aggressor a lethal blow:
 
-If a man in self-defense uses
-more than necessary violence, it will be unlawful: whereas if he repels force
-with moderation, his defense will be lawful.... Nor is it necessary for
-salvation that a man omit the act of moderate self-defense to avoid killing the
-other man, since one is bound to take more care of one's own life than of
-another's.
+If a man in self-defense uses more than necessary violence, it will be unlawful: whereas if he repels force with moderation, his defense will be lawful.... Nor is it necessary for salvation that a man omit the act of moderate self-defense to avoid killing the other man, since one is bound to take more care of one's own life than of another's.
 
 **2265.** Legitimate defense can be not only a right but a grave duty for someone responsible for another's life. Preserving the common good requires rendering the unjust aggressor unable to inflict harm. To this end, those holding legitimate authority have the right to repel by armed force aggressors against the civil community entrusted to their charge.
 
-Capital
-Punishment
+Capital Punishment
 
 **2266.** The State's effort to contain the spread of behaviors injurious to human rights and the fundamental rules of civil coexistence corresponds to the requirement of watching over the common good. Legitimate public authority has the right and duty to inflict penalties commensurate with the gravity of the crime. the primary scope of the penalty is to redress the disorder caused by the offense. When his punishment is voluntarily accepted by the offender, it takes on the value of expiation. Moreover, punishment, in addition to preserving public order and the safety of persons, has a medicinal scope: as far as possible it should contribute to the correction of the offender.
 
@@ -2558,203 +1940,71 @@ Punishment
 
 Today, however, there is an increasing awareness that the dignity of the person is not lost even after the commission of very serious crimes. In addition, a new understanding has emerged of the significance of penal sanctions imposed by the state. Lastly, more effective systems of detention have been developed, which ensure the due protection of citizens but, at the same time, do not definitively deprive the guilty of the possibility of redemption.
 
-Consequently, the Church teaches, in the light of the Gospel, that “the death penalty is inadmissible because it is an attack on the inviolability and dignity of the person”, [Francis,
+Consequently, the Church teaches, in the light of the Gospel, that “the death penalty is inadmissible because it is an attack on the inviolability and dignity of the person”, [Francis, Address to Participants in the Meeting organized by the Pontifical Council for the Promotion of the New Evangelization, 11 October 2017] and she works with determination for its abolition worldwide.
 
-Address to Participants in the Meeting organized by the Pontifical Council for
-the Promotion of the New Evangelization, 11 October 2017] and she works with determination for its abolition worldwide.
-
-Intentional
-homicide
+Intentional homicide
 
 **2268.** The fifth commandment forbids direct and intentional killing as gravely sinful. the murderer and those who cooperate voluntarily in murder commit a sin that cries out to heaven for vengeance.
 
-Infanticide,
-fratricide, parricide, and the murder of a spouse are especially grave crimes
-by reason of the natural bonds which they break. Concern for eugenics or public
-health cannot justify any murder, even if commanded by public authority.
+Infanticide, fratricide, parricide, and the murder of a spouse are especially grave crimes by reason of the natural bonds which they break. Concern for eugenics or public health cannot justify any murder, even if commanded by public authority.
 
 **2269.** The fifth commandment forbids doing anything with the intention of indirectly bringing about a person's death. the moral law prohibits exposing someone to mortal danger without grave reason, as well as refusing assistance to a person in danger.
 
-The acceptance by human
-society of murderous famines, without efforts to remedy them, is a scandalous injustice
-and a grave offense. Those whose usurious and avaricious dealings lead to the
-hunger and death of their brethren in the human family indirectly commit
-homicide, which is imputable to them.
+The acceptance by human society of murderous famines, without efforts to remedy them, is a scandalous injustice and a grave offense. Those whose usurious and avaricious dealings lead to the hunger and death of their brethren in the human family indirectly commit homicide, which is imputable to them.
 
-Unintentional
-killing is not morally imputable. But one is not exonerated from grave offense
-if, without proportionate reasons, he has acted in a way that brings about
-someone's death, even without the intention to do so.
+Unintentional killing is not morally imputable. But one is not exonerated from grave offense if, without proportionate reasons, he has acted in a way that brings about someone's death, even without the intention to do so.
 
 Abortion
 
 **2270.** Human life must be respected and protected absolutely from the moment of conception.
 
-From the
-first moment of his existence, a human being must be recognized as having the
-rights of a person - among which is the inviolable right of every innocent
-being to life.
+From the first moment of his existence, a human being must be recognized as having the rights of a person - among which is the inviolable right of every innocent being to life.
 
-Before I formed you in the
-womb I knew you, and before you were born I consecrated you. **
-My frame was not hidden from you, when I was being made in secret, intricately
-wrought in the depths of the earth.
+Before I formed you in the womb I knew you, and before you were born I consecrated you. My frame was not hidden from you, when I was being made in secret, intricately wrought in the depths of the earth.
 
-**2271.** Since the first century the Church has affirmed the moral evil of every procured abortion.
+**2271.** Since the first century the Church has affirmed the moral evil of every procured abortion. This teaching has not changed and remains unchangeable. Direct abortion, that is to say, abortion willed either as an end or a means, is gravely contrary to the moral law:
 
-This teaching has not changed and remains unchangeable.
+You shall not kill the embryo by abortion and shall not cause the newborn to perish. God, the Lord of life, has entrusted to men the noble mission of safeguarding life, and men must carry it out in a manner worthy of themselves. Life must be protected with the utmost care from the moment of conception: abortion and infanticide are abominable crimes.
 
-Direct abortion, that is to say, abortion willed either as an end or a means,
-is gravely contrary to the moral law:
-
-You shall not kill the embryo
-by abortion and shall not cause the newborn to perish.
-
-God, the Lord of life, has entrusted to men the noble mission of safeguarding
-life, and men must carry it out in a manner worthy of themselves.
-
-Life must be protected with the utmost care from the moment of conception:
-abortion and infanticide are abominable crimes.
-
-**2272.** Formal cooperation in an abortion constitutes a grave offense.
-
-The Church attaches the canonical penalty of excommunication to this crime
-against human life.
-
-"A person who procures a completed abortion incurs excommunication latae
-sententiae," "by the very commission of the
-offense," and subject to the conditions provided by Canon
-Law.
-
-The Church does not thereby intend to restrict the scope of mercy.
-
-Rather, she makes clear the gravity of the crime committed, the irreparable
-harm done to the innocent who is put to death, as well as to the parents and
-the whole of society.
+**2272.** Formal cooperation in an abortion constitutes a grave offense. The Church attaches the canonical penalty of excommunication to this crime against human life. "A person who procures a completed abortion incurs excommunication latae sententiae," "by the very commission of the offense," and subject to the conditions provided by Canon Law. The Church does not thereby intend to restrict the scope of mercy. Rather, she makes clear the gravity of the crime committed, the irreparable harm done to the innocent who is put to death, as well as to the parents and the whole of society.
 
 **2273.** The inalienable right to life of every innocent human individual is a constitutive element of a civil society and its legislation:
 
-"The inalienable rights of the person must be recognized and
-respected by civil society and the political authority.
+"The inalienable rights of the person must be recognized and respected by civil society and the political authority. These human rights depend neither on single individuals nor on parents; nor do they represent a concession made by society and the state; they belong to human nature and are inherent in the person by virtue of the creative act from which the person took his origin. Among such fundamental rights one should mention in this regard every human being's right to life and physical integrity from the moment of conception until death."
 
-These human rights depend neither on single individuals nor on parents; nor do
-they represent a concession made by society and the state; they belong to human
-nature and are inherent in the person by virtue of the creative act from which
-the person took his origin.
-
-Among such fundamental rights one should mention in this regard every human
-being's right to life and physical integrity from the moment of conception
-until death."
-
-"The moment a positive law deprives a category of human beings of
-the protection which civil legislation ought to accord them, the state is
-denying the equality of all before the law.
-
-When the state does not place its power at the service of the rights of each
-citizen, and in particular of the more vulnerable, the very foundations of a
-state based on law are undermined....
-
-As a consequence of the respect and protection which must be ensured for the
-unborn child from the moment of conception, the law must provide appropriate
-penal sanctions for every deliberate violation of the child's
-rights."
+"The moment a positive law deprives a category of human beings of the protection which civil legislation ought to accord them, the state is denying the equality of all before the law. When the state does not place its power at the service of the rights of each citizen, and in particular of the more vulnerable, the very foundations of a state based on law are undermined.... As a consequence of the respect and protection which must be ensured for the unborn child from the moment of conception, the law must provide appropriate penal sanctions for every deliberate violation of the child's rights."
 
 **2274.** Since it must be treated from conception as a person, the embryo must be defended in its integrity, cared for, and healed, as far as possible, like any other human being.
 
-Prenatal diagnosis is morally licit, "if it respects the life and
-integrity of the embryo and the human fetus and is directed toward its safe
-guarding or healing as an individual....
+Prenatal diagnosis is morally licit, "if it respects the life and integrity of the embryo and the human fetus and is directed toward its safe guarding or healing as an individual.... It is gravely opposed to the moral law when this is done with the thought of possibly inducing an abortion, depending upon the results: a diagnosis must not be the equivalent of a death sentence."
 
-It is gravely opposed to the moral law when this is done with the thought of
-possibly inducing an abortion, depending upon the results: a diagnosis must not
-be the equivalent of a death sentence."
-
-**2275.** "One must hold as licit procedures carried out on the human embryo which respect the life and integrity of the embryo and do not involve disproportionate risks for it, but are directed toward its healing the improvement of its condition of health, or its individual survival."
-
-"It is immoral to produce human embryos intended for exploitation as
-disposable biological material."
-
-"Certain attempts to influence chromosomic or genetic inheritance are not
-therapeutic but are aimed at producing human beings selected according to sex
-or other predetermined qualities.
-
-Such manipulations are contrary to the personal dignity of the human being and
-his integrity and identity" which are unique and unrepeatable.
+**2275.** "One must hold as licit procedures carried out on the human embryo which respect the life and integrity of the embryo and do not involve disproportionate risks for it, but are directed toward its healing the improvement of its condition of health, or its individual survival." "It is immoral to produce human embryos intended for exploitation as disposable biological material." "Certain attempts to influence chromosomic or genetic inheritance are not therapeutic but are aimed at producing human beings selected according to sex or other predetermined qualities. Such manipulations are contrary to the personal dignity of the human being and his integrity and identity" which are unique and unrepeatable.
 
 Euthanasia
 
 **2276.** Those whose lives are diminished or weakened deserve special respect. Sick or handicapped persons should be helped to lead lives as normal as possible.
 
-**2277.** Whatever its motives and means, direct euthanasia consists in putting an end to the lives of handicapped, sick, or dying persons.
+**2277.** Whatever its motives and means, direct euthanasia consists in putting an end to the lives of handicapped, sick, or dying persons. It is morally unacceptable.
 
-It is morally unacceptable.
+Thus an act or omission which, of itself or by intention, causes death in order to eliminate suffering constitutes a murder gravely contrary to the dignity of the human person and to the respect due to the living God, his Creator. The error of judgment into which one can fall in good faith does not change the nature of this murderous act, which must always be forbidden and excluded.
 
-Thus an act or omission which, of itself or by intention, causes death
-in order to eliminate suffering constitutes a murder gravely contrary to the
-dignity of the human person and to the respect due to the living God, his
-Creator.
+**2278.** Discontinuing medical procedures that are burdensome, dangerous, extraordinary, or disproportionate to the expected outcome can be legitimate; it is the refusal of "over-zealous" treatment. Here one does not will to cause death; one's inability to impede it is merely accepted. The decisions should be made by the patient if he is competent and able or, if not, by those legally entitled to act for the patient, whose reasonable will and legitimate interests must always be respected.
 
-The error of judgment into which one can fall in good faith does not change the
-nature of this murderous act, which must always be forbidden and excluded.
-
-**2278.** Discontinuing medical procedures that are burdensome, dangerous, extraordinary, or disproportionate to the expected outcome can be legitimate; it is the refusal of "over-zealous" treatment.
-
-Here one does not will to cause death; one's inability to impede it is merely
-accepted.
-
-The decisions should be made by the patient if he is competent and able or, if
-not, by those legally entitled to act for the patient, whose reasonable will
-and legitimate interests must always be respected.
-
-**2279.** Even if death is thought imminent, the ordinary care owed to a sick person cannot be legitimately interrupted.
-
-The use of painkillers to alleviate the sufferings of the dying, even at the
-risk of shortening their days, can be morally in conformity with human dignity
-if death is not willed as either an end or a means, but only foreseen and
-tolerated as inevitable
-
-Palliative care is a special form of disinterested charity.
-
-As such it should be encouraged.
+**2279.** Even if death is thought imminent, the ordinary care owed to a sick person cannot be legitimately interrupted. The use of painkillers to alleviate the sufferings of the dying, even at the risk of shortening their days, can be morally in conformity with human dignity if death is not willed as either an end or a means, but only foreseen and tolerated as inevitable Palliative care is a special form of disinterested charity. As such it should be encouraged.
 
 Suicide
 
-**2280.** Everyone is responsible for his life before God who has given it to him.
+**2280.** Everyone is responsible for his life before God who has given it to him. It is God who remains the sovereign Master of life. We are obliged to accept life gratefully and preserve it for his honor and the salvation of our souls. We are stewards, not owners, of the life God has entrusted to us. It is not ours to dispose of.
 
-It is God who remains the sovereign Master of life.
+**2281.** Suicide contradicts the natural inclination of the human being to preserve and perpetuate his life. It is gravely contrary to the just love of self. It likewise offends love of neighbor because it unjustly breaks the ties of solidarity with family, nation, and other human societies to which we continue to have obligations. Suicide is contrary to love for the living God.
 
-We are obliged to accept life gratefully and preserve it for his honor and the
-salvation of our souls.
-
-We are stewards, not owners, of the life God has entrusted to us.
-
-It is not ours to dispose of.
-
-**2281.** Suicide contradicts the natural inclination of the human being to preserve and perpetuate his life.
-
-It is gravely contrary to the just love of self.
-
-It likewise offends love of neighbor because it unjustly breaks the ties of
-solidarity with family, nation, and other human societies to which we continue
-to have obligations.
-
-Suicide is contrary to love for the living God.
-
-**2282.** If suicide is committed with the intention of setting an example, especially to the young, it also takes on the gravity of scandal.
-
-Voluntary co-operation in suicide is contrary to the moral law.
-
-Grave psychological disturbances, anguish, or grave fear of hardship,
-suffering, or torture can diminish the responsibility of the one committing
-suicide.
+**2282.** If suicide is committed with the intention of setting an example, especially to the young, it also takes on the gravity of scandal. Voluntary co-operation in suicide is contrary to the moral law. Grave psychological disturbances, anguish, or grave fear of hardship, suffering, or torture can diminish the responsibility of the one committing suicide.
 
 **2283.** We should not despair of the eternal salvation of persons who have taken their own lives. By ways known to him alone, God can provide the opportunity for salutary repentance. the Church prays for persons who have taken their own lives.
 
-**II. Respect for the
-Dignity of Persons**
+#### II. Respect for the Dignity of Persons
 
-Respect for
-the souls of others: scandal
+Respect for the souls of others: scandal
 
 **2284.** Scandal is an attitude or behavior which leads another to do evil. the person who gives scandal becomes his neighbor's tempter. He damages virtue and integrity; he may even draw his brother into spiritual death. Scandal is a grave offense if by deed or omission another is deliberately led into a grave offense.
 
@@ -2762,42 +2012,21 @@ the souls of others: scandal
 
 **2286.** Scandal can be provoked by laws or institutions, by fashion or opinion.
 
-Therefore, they are guilty of scandal who establish laws or social
-structures leading to the decline of morals and the corruption of religious
-practice, or to "social conditions that, intentionally or not, make
-Christian conduct and obedience to the Commandments difficult and practically
-impossible." This is also true of business leaders who make
-rules encouraging fraud, teachers who provoke their children to
-anger, or manipulators of public opinion who turn it away from moral
-values.
+Therefore, they are guilty of scandal who establish laws or social structures leading to the decline of morals and the corruption of religious practice, or to "social conditions that, intentionally or not, make Christian conduct and obedience to the Commandments difficult and practically impossible." This is also true of business leaders who make rules encouraging fraud, teachers who provoke their children to anger, or manipulators of public opinion who turn it away from moral values.
 
 **2287.** Anyone who uses the power at his disposal in such a way that it leads others to do wrong becomes guilty of scandal and responsible for the evil that he has directly or indirectly encouraged. "Temptations to sin are sure to come; but woe to him by whom they come!"
 
-Respect for
-health
+Respect for health
 
-**2288.** Life and physical health are precious gifts entrusted to us by God. ** We must take reasonable care of them, taking into account the needs of others and the common good.
+**2288.** Life and physical health are precious gifts entrusted to us by God. We must take reasonable care of them, taking into account the needs of others and the common good. Concern for the health of its citizens requires that society help in the attainment of living-conditions that allow them to grow and reach maturity: food and clothing, housing, health care, basic education, employment, and social assistance.
 
-Concern for the health of its citizens requires that society help in the
-attainment of living-conditions that allow them to grow and reach maturity:
-food and clothing, housing, health care, basic education, employment, and
-social assistance.
-
-**2289.** If morality requires respect for the life of the body, it does not make it an absolute value.
-
-It rejects a neo-pagan notion that tends to promote the cult of the body, to
-sacrifice everything for it's sake, to idolize physical perfection and success
-at sports.
-
-By its selective preference of the strong over the weak, such a conception can
-lead to the perversion of human relationships.
+**2289.** If morality requires respect for the life of the body, it does not make it an absolute value. It rejects a neo-pagan notion that tends to promote the cult of the body, to sacrifice everything for it's sake, to idolize physical perfection and success at sports. By its selective preference of the strong over the weak, such a conception can lead to the perversion of human relationships.
 
 **2290.** The virtue of temperance disposes us to avoid every kind of excess: the abuse of food, alcohol, tobacco, or medicine. Those incur grave guilt who, by drunkenness or a love of speed, endanger their own and others' safety on the road, at sea, or in the air.
 
 **2291.** The use of drugs inflicts very grave damage on human health and life. Their use, except on strictly therapeutic grounds, is a grave offense. Clandestine production of and trafficking in drugs are scandalous practices. They constitute direct co-operation in evil, since they encourage people to practices gravely contrary to the moral law.
 
-Respect for
-the person and scientific research
+Respect for the person and scientific research
 
 **2292.** Scientific, medical, or psychological experiments on human individuals or groups can contribute to healing the sick and the advancement of public health.
 
@@ -2807,43 +2036,27 @@ the person and scientific research
 
 **2295.** Research or experimentation on the human being cannot legitimate acts that are in themselves contrary to the dignity of persons and to the moral law. the subjects' potential consent does not justify such acts. Experimentation on human beings is not morally legitimate if it exposes the subject's life or physical and psychological integrity to disproportionate or avoidable risks. Experimentation on human beings does not conform to the dignity of the person if it takes place without the informed consent of the subject or those who legitimately speak for him.
 
-**2296.** Organ transplants are in conformity with the moral law if the physical and psychological dangers and risks incurred by the donor are proportionate to the good sought for the recipient. Donation of organs after death is a noble and meritorious act and is to be encouraged as a manifestation of generous solidarity. It is not morally acceptable if the donor or those who legitimately speak for him have not given their explicit consent.
+**2296.** Organ transplants are in conformity with the moral law if the physical and psychological dangers and risks incurred by the donor are proportionate to the good sought for the recipient. Donation of organs after death is a noble and meritorious act and is to be encouraged as a manifestation of generous solidarity. It is not morally acceptable if the donor or those who legitimately speak for him have not given their explicit consent. It is furthermore morally inadmissible directly to bring about the disabling mutilation or death of a human being, even in order to delay the death of other persons.
 
-It is furthermore morally inadmissible directly to bring about the disabling
-mutilation or death of a human being, even in order to delay the death of other
-persons.
+Respect for bodily integrity
 
-Respect for
-bodily integrity
-
-**2297.** Kidnapping and hostage taking bring on a reign of terror; by means of threats they subject their victims to intolerable pressures. They are morally wrong. Terrorism threatens, wounds, and kills indiscriminately; it is gravely against justice and charity.
-
-Torture which uses physical or moral violence to extract confessions, punish
-the guilty, frighten opponents, or satisfy hatred is contrary to respect for
-the person and for human dignity. Except when performed for strictly
-therapeutic medical reasons, directly intended amputations, mutilations, and
-sterilizations performed on innocent persons are against the moral
-law.
+**2297.** Kidnapping and hostage taking bring on a reign of terror; by means of threats they subject their victims to intolerable pressures. They are morally wrong. Terrorism threatens, wounds, and kills indiscriminately; it is gravely against justice and charity. Torture which uses physical or moral violence to extract confessions, punish the guilty, frighten opponents, or satisfy hatred is contrary to respect for the person and for human dignity. Except when performed for strictly therapeutic medical reasons, directly intended amputations, mutilations, and sterilizations performed on innocent persons are against the moral law.
 
 **2298.** In times past, cruel practices were commonly used by legitimate governments to maintain law and order, often without protest from the Pastors of the Church, who themselves adopted in their own tribunals the prescriptions of Roman law concerning torture. Regrettable as these facts are, the Church always taught the duty of clemency and mercy. She forbade clerics to shed blood. In recent times it has become evident that these cruel practices were neither necessary for public order, nor in conformity with the legitimate rights of the human person. On the contrary, these practices led to ones even more degrading. It is necessary to work for their abolition. We must pray for the victims and their tormentors.
 
-Respect for
-the dead
+Respect for the dead
 
 **2299.** The dying should be given attention and care to help them live their last moments in dignity and peace. They will be helped by the prayer of their relatives, who must see to it that the sick receive at the proper time the sacraments that prepare them to meet the living God.
 
 **2300.** The bodies of the dead must be treated with respect and charity, in faith and hope of the Resurrection. the burial of the dead is a corporal work of mercy; it honors the children of God, who are temples of the Holy Spirit.
 
-**2301.** Autopsies can be morally permitted for legal inquests or scientific research. the free gift of organs after death is legitimate and can be meritorious.
+**2301.** Autopsies can be morally permitted for legal inquests or scientific research. the free gift of organs after death is legitimate and can be meritorious. The Church permits cremation, provided that it does not demonstrate a denial of faith in the resurrection of the body.
 
-The Church permits cremation, provided that it does not demonstrate a denial of
-faith in the resurrection of the body.
-
-**III. Safeguarding Peace**
+#### III. Safeguarding Peace
 
 Peace
 
-**2302.** By recalling the commandment, "You shall not kill," our Lord asked for peace of heart and denounced murderous anger and hatred as immoral. ** Anger is a desire for revenge. "To desire vengeance in order to do evil to someone who should be punished is illicit," but it is praiseworthy to impose restitution "to correct vices and maintain justice." If anger reaches the point of a deliberate desire to kill or seriously wound a neighbor, it is gravely against charity; it is a mortal sin. the Lord says, "Everyone who is angry with his brother shall be liable to judgment."
+**2302.** By recalling the commandment, "You shall not kill," our Lord asked for peace of heart and denounced murderous anger and hatred as immoral. Anger is a desire for revenge. "To desire vengeance in order to do evil to someone who should be punished is illicit," but it is praiseworthy to impose restitution "to correct vices and maintain justice." If anger reaches the point of a deliberate desire to kill or seriously wound a neighbor, it is gravely against charity; it is a mortal sin. the Lord says, "Everyone who is angry with his brother shall be liable to judgment."
 
 **2303.** Deliberate hatred is contrary to charity. Hatred of the neighbor is a sin when one deliberately wishes him evil. Hatred of the neighbor is a grave sin when one deliberately desires him grave harm. "But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
 
@@ -2853,56 +2066,23 @@ Peace
 
 **2306.** Those who renounce violence and bloodshed and, in order to safeguard human rights, make use of those means of defense available to the weakest, bear witness to evangelical charity, provided they do so without harming the rights and obligations of other men and societies. They bear legitimate witness to the gravity of the physical and moral risks of recourse to violence, with all its destruction and death.
 
-Avoiding
-war
+Avoiding war
 
 **2307.** The fifth commandment forbids the intentional destruction of human life. Because of the evils and injustices that accompany all war, the Church insistently urges everyone to prayer and to action so that the divine Goodness may free us from the ancient bondage of war.
 
-**2308.** All citizens and all governments are obliged to work for the avoidance of war.
+**2308.** All citizens and all governments are obliged to work for the avoidance of war. However, "as long as the danger of war persists and there is no international authority with the necessary competence and power, governments cannot be denied the right of lawful self-defense, once all peace efforts have failed."
 
-However, "as long as the danger of war persists and there is no
-international authority with the necessary competence and power, governments
-cannot be denied the right of lawful self-defense, once all peace efforts have
-failed."
+**2309.** The strict conditions for legitimate defense by military force require rigorous consideration. the gravity of such a decision makes it subject to rigorous conditions of moral legitimacy. At one and the same time: - the damage inflicted by the aggressor on the nation or community of nations must be lasting, grave, and certain; - all other means of putting an end to it must have been shown to be impractical or ineffective; - there must be serious prospects of success; - the use of arms must not produce evils and disorders graver than the evil to be eliminated. the power of modem means of destruction weighs very heavily in evaluating this condition.
 
-**2309.** The strict conditions for legitimate defense by military force require rigorous consideration. the gravity of such a decision makes it subject to rigorous conditions of moral legitimacy. At one and the same time:
+These are the traditional elements enumerated in what is called the "just war" doctrine. The evaluation of these conditions for moral legitimacy belongs to the prudential judgment of those who have responsibility for the common good.
 
-- the damage inflicted by the aggressor on the nation or community of nations
-must be lasting, grave, and certain;
-
-- all other means of putting an end to it must have been shown to be
-impractical or ineffective;
-
-- there must be serious prospects of success;
-
-- the use of arms must not produce evils and disorders graver than the evil to
-be eliminated. the power of modem means of destruction weighs very heavily in
-evaluating this condition.
-
-These are the traditional elements enumerated in what is called the
-"just war" doctrine.
-
-The evaluation of these conditions for moral legitimacy belongs to the
-prudential judgment of those who have responsibility for the common good.
-
-**2310.** Public authorities, in this case, have the right and duty to impose on citizens the obligations necessary for national defense.
-
-Those who are sworn to serve their country in the armed forces are servants of
-the security and freedom of nations. If they carry out their duty honorably,
-they truly contribute to the common good of the nation and the maintenance of
-peace.
+**2310.** Public authorities, in this case, have the right and duty to impose on citizens the obligations necessary for national defense. Those who are sworn to serve their country in the armed forces are servants of the security and freedom of nations. If they carry out their duty honorably, they truly contribute to the common good of the nation and the maintenance of peace.
 
 **2311.** Public authorities should make equitable provision for those who for reasons of conscience refuse to bear arms; these are nonetheless obliged to serve the human community in some other way.
 
 **2312.** The Church and human reason both assert the permanent validity of the moral law during armed conflict. "The mere fact that war has regrettably broken out does not mean that everything becomes licit between the warring parties."
 
-**2313.** Non-combatants, wounded soldiers, and prisoners must be respected and treated humanely.
-
-Actions deliberately contrary to the law of nations and to its universal
-principles are crimes, as are the orders that command such actions. Blind
-obedience does not suffice to excuse those who carry them out. Thus the
-extermination of a people, nation, or ethnic minority must be condemned as a
-mortal sin. One is morally bound to resist orders that command genocide.
+**2313.** Non-combatants, wounded soldiers, and prisoners must be respected and treated humanely. Actions deliberately contrary to the law of nations and to its universal principles are crimes, as are the orders that command such actions. Blind obedience does not suffice to excuse those who carry them out. Thus the extermination of a people, nation, or ethnic minority must be condemned as a mortal sin. One is morally bound to resist orders that command genocide.
 
 **2314.** "Every act of war directed to the indiscriminate destruction of whole cities or vast areas with their inhabitants is a crime against God and man, which merits firm and unequivocal condemnation." A danger of modern warfare is that it provides the opportunity to those who possess modern scientific weapons especially atomic, biological, or chemical weapons - to commit such crimes.
 
@@ -2912,15 +2092,11 @@ mortal sin. One is morally bound to resist orders that command genocide.
 
 **2317.** Injustice, excessive economic or social inequalities, envy, distrust, and pride raging among men and nations constantly threaten peace and cause wars. Everything done to overcome these disorders contributes to building up peace and avoiding war:
 
-Insofar as men are sinners,
-the threat of war hangs over them and will so continue until Christ comes
-again; but insofar as they can vanquish sin by coming together in charity,
-violence itself will be vanquished and these words will be fulfilled:
-"they shall beat their swords into plowshares, and their spears into
-pruning hooks; nation shall not lift up sword against nation, neither shall
-they learn war any more."
+Insofar as men are sinners, the threat of war hangs over them and will so continue until Christ comes again; but insofar as they can vanquish sin by coming together in charity, violence itself will be vanquished and these words will be fulfilled: "they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war any more."
 
-**IN BRIEF2318.** *"In [God's] hand is the life of every living thing and the breath of all mankind" (Job 12:10).*
+#### IN BRIEF
+
+**2318.** *"In [God's] hand is the life of every living thing and the breath of all mankind" (Job 12:10).*
 
 **2319.** *Every human life, from the moment of conception until death, is sacred because the human person has been willed for its own sake in the image and likeness of the living and holy God.*
 
@@ -2946,24 +2122,17 @@ they learn war any more."
 
 **2330.** *"Blessed are the peacemakers, for they shall be called sons of God" (Mt 5:9).*
 
-Article 6THE SIXTH COMMANDMENT**
+Article 6
 
-You shall not commit
-adultery. **
-You have heard that it was said, "You shall not commit adultery."
+#### THE SIXTH COMMANDMENT
 
-But I say to you that every one who looks at a woman lustfully has already
-committed adultery with her in his heart.
+You shall not commit adultery. You have heard that it was said, "You shall not commit adultery." But I say to you that every one who looks at a woman lustfully has already committed adultery with her in his heart.
 
-**I. "Male and Female
-He Created Them . . ."2331.** "God is love and in himself he lives a mystery of personal loving communion. Creating the human race in his own image . . .. God inscribed in the humanity of man and woman the vocation, and thus the capacity and responsibility, of love and communion."
+#### I. &quot;Male and Female He Created Them . . .&quot;
 
-"God
-created man in his own image . . . male and female he created them";
-He blessed them and said, "Be fruitful and multiply";
-"When God created man, he made him in the likeness of God. Male and female
-he created them, and he blessed them and named them Man when they were
-created."
+**2331.** "God is love and in himself he lives a mystery of personal loving communion. Creating the human race in his own image . . .. God inscribed in the humanity of man and woman the vocation, and thus the capacity and responsibility, of love and communion."
+
+"God created man in his own image . . . male and female he created them"; He blessed them and said, "Be fruitful and multiply"; "When God created man, he made him in the likeness of God. Male and female he created them, and he blessed them and named them Man when they were created."
 
 **2332.** Sexuality affects all aspects of the human person in the unity of his body and soul. It especially concerns affectivity, the capacity to love and to procreate, and in a more general way the aptitude for forming bonds of communion with others.
 
@@ -2973,9 +2142,11 @@ created."
 
 **2335.** Each of the two sexes is an image of the power and tenderness of God, with equal dignity though in a different way. the union of man and woman in marriage is a way of imitating in the flesh the Creator's generosity and fecundity: "Therefore a man leaves his father and his mother and cleaves to his wife, and they become one flesh." All human generations proceed from this union.
 
-**2336.** Jesus came to restore creation to the purity of its origins. In the Sermon on the Mount, he interprets God's plan strictly: "You have heard that it was said, 'You shall not commit adultery.' But I say to you that every one who looks at a woman lustfully has already committed adultery with her in his heart." What God has joined together, let not man put asunder. ** The tradition of the Church has understood the sixth commandment as encompassing the whole of human sexuality.
+**2336.** Jesus came to restore creation to the purity of its origins. In the Sermon on the Mount, he interprets God's plan strictly: "You have heard that it was said, 'You shall not commit adultery.' But I say to you that every one who looks at a woman lustfully has already committed adultery with her in his heart." What God has joined together, let not man put asunder. The tradition of the Church has understood the sixth commandment as encompassing the whole of human sexuality.
 
-**II. The Vocation to Chastity2337.** Chastity means the successful integration of sexuality within the person and thus the inner unity of man in his bodily and spiritual being. Sexuality, in which man's belonging to the bodily and biological world is expressed, becomes personal and truly human when it is integrated into the relationship of one person to another, in the complete and lifelong mutual gift of a man and a woman. **The virtue of chastity therefore involves the integrity of the person and the integrality of the gift.
+#### II. The Vocation to Chastity
+
+**2337.** Chastity means the successful integration of sexuality within the person and thus the inner unity of man in his bodily and spiritual being. Sexuality, in which man's belonging to the bodily and biological world is expressed, becomes personal and truly human when it is integrated into the relationship of one person to another, in the complete and lifelong mutual gift of a man and a woman. The virtue of chastity therefore involves the integrity of the person and the integrality of the gift.
 
 The integrity of the person
 
@@ -2999,11 +2170,7 @@ The integrality of the gift of self
 
 **2346.** Charity is the form of all the virtues. Under its influence, chastity appears as a school of the gift of the person. Self-mastery is ordered to the gift of self. Chastity leads him who practices it to become a witness to his neighbor of God's fidelity and loving kindness.
 
-**2347.** The virtue of chastity blossoms in friendship. It shows the disciple how to follow and imitate him who has chosen us as his friends, who has given himself totally to us and allows us to participate in his divine estate. Chastity is a promise of immortality.
-
-Chastity is expressed notably in friendship with one's neighbor. Whether it
-develops between persons of the same or opposite sex, friendship represents a
-great good for all. It leads to spiritual communion.
+**2347.** The virtue of chastity blossoms in friendship. It shows the disciple how to follow and imitate him who has chosen us as his friends, who has given himself totally to us and allows us to participate in his divine estate. Chastity is a promise of immortality. Chastity is expressed notably in friendship with one's neighbor. Whether it develops between persons of the same or opposite sex, friendship represents a great good for all. It leads to spiritual communion.
 
 The various forms of chastity
 
@@ -3011,10 +2178,7 @@ The various forms of chastity
 
 **2349.** "People should cultivate [chastity] in the way that is suited to their state of life. Some profess virginity or consecrated celibacy which enables them to give themselves to God alone with an undivided heart in a remarkable manner. Others live in the way prescribed for all by the moral law, whether they are married or single." Married people are called to live conjugal chastity; others practice chastity in continence:
 
-There are three forms of the virtue of chastity: the first is
-that of spouses, the second that of widows, and the third that of virgins. We do
-not praise any one of them to the exclusion of the others.... This is what makes
-for the richness of the discipline of the Church.
+There are three forms of the virtue of chastity: the first is that of spouses, the second that of widows, and the third that of virgins. We do not praise any one of them to the exclusion of the others.... This is what makes for the richness of the discipline of the Church.
 
 **2350.** Those who are engaged to marry are called to live chastity in continence. They should see in this time of testing a discovery of mutual respect, an apprenticeship in fidelity, and the hope of receiving one another from God. They should reserve for marriage the expressions of affection that belong to married love. They will help each other grow in chastity.
 
@@ -3040,51 +2204,29 @@ Chastity and homosexuality
 
 **2359.** Homosexual persons are called to chastity. By the virtues of self-mastery that teach them inner freedom, at times by the support of disinterested friendship, by prayer and sacramental grace, they can and should gradually and resolutely approach Christian perfection.
 
-**III. The Love of Husband and
-Wife2360.** Sexuality is ordered to the conjugal love of man and woman. In marriage the physical intimacy of the spouses becomes a sign and pledge of spiritual communion. Marriage bonds between baptized persons are sanctified by the sacrament.
+#### III. The Love of Husband and Wife
+
+**2360.** Sexuality is ordered to the conjugal love of man and woman. In marriage the physical intimacy of the spouses becomes a sign and pledge of spiritual communion. Marriage bonds between baptized persons are sanctified by the sacrament.
 
 **2361.** "Sexuality, by means of which man and woman give themselves to one another through the acts which are proper and exclusive to spouses, is not something simply biological, but concerns the innermost being of the human person as such. It is realized in a truly human way only if it is an integral part of the love by which a man and woman commit themselves totally to one another until death."
 
-Tobias got out of bed and said
-to Sarah, "Sister, get up, and let us pray and implore our Lord that he
-grant us mercy and safety." So she got up, and they began to pray and
-implore that they might be kept safe. Tobias began by saying, "Blessed are
-you, O God of our fathers.... You made Adam, and for him you made his wife Eve
-as a helper and support. From the two of them the race of mankind has sprung.
-You said, 'It is not good that the man should be alone; let us make a helper
-for him like himself.' I now am taking this kinswoman of mine, not because of
-lust, but with sincerity. Grant that she and I may find mercy and that we may
-grow old together." and they both said, "Amen, Amen." Then they
-went to sleep for the night.
+Tobias got out of bed and said to Sarah, "Sister, get up, and let us pray and implore our Lord that he grant us mercy and safety." So she got up, and they began to pray and implore that they might be kept safe. Tobias began by saying, "Blessed are you, O God of our fathers.... You made Adam, and for him you made his wife Eve as a helper and support. From the two of them the race of mankind has sprung. You said, 'It is not good that the man should be alone; let us make a helper for him like himself.' I now am taking this kinswoman of mine, not because of lust, but with sincerity. Grant that she and I may find mercy and that we may grow old together." and they both said, "Amen, Amen." Then they went to sleep for the night.
 
 **2362.** "The acts in marriage by which the intimate and chaste union of the spouses takes place are noble and honorable; the truly human performance of these acts fosters the self-giving they signify and enriches the spouses in joy and gratitude." Sexuality is a source of joy and pleasure:
 
-The Creator himself . . .
-established that in the [generative] function, spouses should experience
-pleasure and enjoyment of body and spirit. Therefore, the spouses do nothing
-evil in seeking this pleasure and enjoyment. They accept what the Creator has
-intended for them. At the same time, spouses should know how to keep themselves
-within the limits of just moderation.
+The Creator himself . . . established that in the [generative] function, spouses should experience pleasure and enjoyment of body and spirit. Therefore, the spouses do nothing evil in seeking this pleasure and enjoyment. They accept what the Creator has intended for them. At the same time, spouses should know how to keep themselves within the limits of just moderation.
 
-**2363.** The spouses' union achieves the twofold end of marriage: the good of the spouses themselves and the transmission of life. These two meanings or values of marriage cannot be separated without altering the couple's spiritual life and compromising the goods of marriage and the future of the family. ** The conjugal love of man and woman thus stands under the twofold obligation of fidelity and fecundity.
+**2363.** The spouses' union achieves the twofold end of marriage: the good of the spouses themselves and the transmission of life. These two meanings or values of marriage cannot be separated without altering the couple's spiritual life and compromising the goods of marriage and the future of the family. The conjugal love of man and woman thus stands under the twofold obligation of fidelity and fecundity.
 
-Conjugal
-fidelity
+Conjugal fidelity
 
 **2364.** The married couple forms "the intimate partnership of life and love established by the Creator and governed by his laws; it is rooted in the conjugal covenant, that is, in their irrevocable personal consent." Both give themselves definitively and totally to one another. They are no longer two; from now on they form one flesh. the covenant they freely contracted imposes on the spouses the obligation to preserve it as unique and indissoluble. "What therefore God has joined together, let not man put asunder."
 
 **2365.** Fidelity expresses constancy in keeping one's given word. God is faithful. the Sacrament of Matrimony enables man and woman to enter into Christ's fidelity for his Church. Through conjugal chastity, they bear witness to this mystery before the world.
 
-St. John Chrysostom suggests that young husbands should say to their
-wives: I have taken you in my arms, and I love you, and I prefer you to my life
-itself. For the present life is nothing, and my most ardent dream is to spend
-it with you in such a way that we may be assured of not being separated in the
-life reserved for us.... I place your love above all things, and nothing would
-be more bitter or painful to me than to be of a different mind than
-you.
+St. John Chrysostom suggests that young husbands should say to their wives: I have taken you in my arms, and I love you, and I prefer you to my life itself. For the present life is nothing, and my most ardent dream is to spend it with you in such a way that we may be assured of not being separated in the life reserved for us.... I place your love above all things, and nothing would be more bitter or painful to me than to be of a different mind than you.
 
-The
-fecundity of marriage
+The fecundity of marriage
 
 **2366.** Fecundity is a gift, an end of marriage, for conjugal love naturally tends to be fruitful. A child does not come from outside as something added on to the mutual love of the spouses, but springs from the very heart of that mutual giving, as its fruit and fulfillment. So the Church, which "is on the side of life" teaches that "each and every marriage act must remain open 'per se' to the transmission of life." "This particular doctrine, expounded on numerous occasions by the Magisterium, is based on the inseparable connection, established by God, which man on his own initiative may not break, between the unitive significance and the procreative significance which are both inherent to the marriage act."
 
@@ -3092,35 +2234,19 @@ fecundity of marriage
 
 **2368.** A particular aspect of this responsibility concerns the regulation of procreation. For just reasons, spouses may wish to space the births of their children. It is their duty to make certain that their desire is not motivated by selfishness but is in conformity with the generosity appropriate to responsible parenthood. Moreover, they should conform their behavior to the objective criteria of morality:
 
-When it is a question of
-harmonizing married love with the responsible transmission of life, the
-morality of the behavior does not depend on sincere intention and evaluation of
-motives alone; but it must be determined by objective criteria, criteria drawn
-from the nature of the person and his acts criteria that respect the total
-meaning of mutual self-giving and human procreation in the context of true
-love; this is possible only if the virtue of married chastity is practiced with
-sincerity of heart.
+When it is a question of harmonizing married love with the responsible transmission of life, the morality of the behavior does not depend on sincere intention and evaluation of motives alone; but it must be determined by objective criteria, criteria drawn from the nature of the person and his acts criteria that respect the total meaning of mutual self-giving and human procreation in the context of true love; this is possible only if the virtue of married chastity is practiced with sincerity of heart.
 
 **2369.** "By safeguarding both these essential aspects, the unitive and the procreative, the conjugal act preserves in its fullness the sense of true mutual love and its orientation toward man's exalted vocation to parenthood."
 
 **2370.** Periodic continence, that is, the methods of birth regulation based on self-observation and the use of infertile periods, is in conformity with the objective criteria of morality. These methods respect the bodies of the spouses, encourage tenderness between them, and favor the education of an authentic freedom. In contrast, "every action which, whether in anticipation of the conjugal act, or in its accomplishment, or in the development of its natural consequences, proposes, whether as an end or as a means, to render procreation impossible" is intrinsically evil:
 
-Thus the innate language that
-expresses the total reciprocal self-giving of husband and wife is overlaid,
-through contraception, by an objectively contradictory language, namely, that
-of not giving oneself totally to the other. This leads not only to a positive
-refusal to be open to life but also to a falsification of the inner truth of
-conjugal love, which is called upon to give itself in personal totality.... the
-difference, both anthropological and moral, between contraception and recourse
-to the rhythm of the cycle . . . involves in the final analysis two
-irreconcilable concepts of the human person and of human sexuality.
+Thus the innate language that expresses the total reciprocal self-giving of husband and wife is overlaid, through contraception, by an objectively contradictory language, namely, that of not giving oneself totally to the other. This leads not only to a positive refusal to be open to life but also to a falsification of the inner truth of conjugal love, which is called upon to give itself in personal totality.... the difference, both anthropological and moral, between contraception and recourse to the rhythm of the cycle . . . involves in the final analysis two irreconcilable concepts of the human person and of human sexuality.
 
 **2371.** "Let all be convinced that human life and the duty of transmitting it are not limited by the horizons of this life only: their true evaluation and full significance can be understood only in reference to man's eternal destiny."
 
 **2372.** The state has a responsibility for its citizens' well-being. In this capacity it is legitimate for it to intervene to orient the demography of the population. This can be done by means of objective and respectful information, but certainly not by authoritarian, coercive measures. the state may not legitimately usurp the initiative of spouses, who have the primary responsibility for the procreation and education of their children. It is not authorized to intervene in this area with means contrary to the moral law.
 
-The gift of
-a child
+The gift of a child
 
 **2373.** Sacred Scripture and the Church's traditional practice see in large families a sign of God's blessing and the parents' generosity.
 
@@ -3136,8 +2262,7 @@ a child
 
 **2379.** The Gospel shows that physical sterility is not an absolute evil. Spouses who still suffer from infertility after exhausting legitimate medical procedures should unite themselves with the Lord's Cross, the source of all spiritual fecundity. They can give expression to their generosity by adopting abandoned children or performing demanding services for others.
 
-**IV. Offenses Against the
-Dignity of Marriage**
+#### IV. Offenses Against the Dignity of Marriage
 
 Adultery
 
@@ -3147,27 +2272,19 @@ Adultery
 
 Divorce
 
-**2382.** The Lord Jesus insisted on the original intention of the Creator who willed that marriage be indissoluble. He abrogates the accommodations that had slipped into the old Law. ** Between the baptized, "a ratified and consummated marriage cannot be dissolved by any human power or for any reason other than death."
+**2382.** The Lord Jesus insisted on the original intention of the Creator who willed that marriage be indissoluble. He abrogates the accommodations that had slipped into the old Law. Between the baptized, "a ratified and consummated marriage cannot be dissolved by any human power or for any reason other than death."
 
-**2383.** The separation of spouses while maintaining the marriage bond can be legitimate in certain cases provided for by canon law.
-
-If civil divorce remains the only possible way of ensuring certain legal
-rights, the care of the children, or the protection of inheritance, it can be
-tolerated and does not constitute a moral offense.
+**2383.** The separation of spouses while maintaining the marriage bond can be legitimate in certain cases provided for by canon law. If civil divorce remains the only possible way of ensuring certain legal rights, the care of the children, or the protection of inheritance, it can be tolerated and does not constitute a moral offense.
 
 **2384.** Divorce is a grave offense against the natural law. It claims to break the contract, to which the spouses freely consented, to live with each other till death. Divorce does injury to the covenant of salvation, of which sacramental marriage is the sign. Contracting a new union, even if it is recognized by civil law, adds to the gravity of the rupture: the remarried spouse is then in a situation of public and permanent adultery:
 
-If a husband, separated from
-his wife, approaches another woman, he is an adulterer because he makes that
-woman commit adultery, and the woman who lives with him is an adulteress,
-because she has drawn another's husband to herself.
+If a husband, separated from his wife, approaches another woman, he is an adulterer because he makes that woman commit adultery, and the woman who lives with him is an adulteress, because she has drawn another's husband to herself.
 
 **2385.** Divorce is immoral also because it introduces disorder into the family and into society. This disorder brings grave harm to the deserted spouse, to children traumatized by the separation of their parents and often torn between them, and because of its contagious effect which makes it truly a plague on society.
 
 **2386.** It can happen that one of the spouses is the innocent victim of a divorce decreed by civil law; this spouse therefore has not contravened the moral law. There is a considerable difference between a spouse who has sincerely tried to be faithful to the sacrament of marriage and is unjustly abandoned, and one who through his own grave fault destroys a canonically valid marriage.
 
-Other
-offenses against the dignity of marriage
+Other offenses against the dignity of marriage
 
 **2387.** The predicament of a man who, desiring to convert to the Gospel, is obliged to repudiate one or more wives with whom he has shared years of conjugal life, is understandable. However polygamy is not in accord with the moral law." [Conjugal] communion is radically contradicted by polygamy; this, in fact, directly negates the plan of God which was revealed from the beginning, because it is contrary to the equal personal dignity of men and women who in matrimony give themselves with a love that is total and therefore unique and exclusive." The Christian who has previously lived in polygamy has a grave duty in justice to honor the obligations contracted in regard to his former wives and his children.
 
@@ -3177,22 +2294,15 @@ offenses against the dignity of marriage
 
 **2390.** In a so-called free union, a man and a woman refuse to give juridical and public form to a liaison involving sexual intimacy.
 
-The expression "free union" is fallacious: what can
-"union" mean when the partners make no commitment to one another,
-each exhibiting a lack of trust in the other, in himself, or in the future?
+The expression "free union" is fallacious: what can "union" mean when the partners make no commitment to one another, each exhibiting a lack of trust in the other, in himself, or in the future?
 
-The
-expression covers a number of different situations: concubinage, rejection of
-marriage as such, or inability to make long-term commitments. All
-these situations offend against the dignity of marriage; they destroy the very
-idea of the family; they weaken the sense of fidelity. They are contrary to the
-moral law. the sexual act must take place exclusively within marriage. Outside
-of marriage it always constitutes a grave sin and excludes one from sacramental
-communion.
+The expression covers a number of different situations: concubinage, rejection of marriage as such, or inability to make long-term commitments. All these situations offend against the dignity of marriage; they destroy the very idea of the family; they weaken the sense of fidelity. They are contrary to the moral law. the sexual act must take place exclusively within marriage. Outside of marriage it always constitutes a grave sin and excludes one from sacramental communion.
 
 **2391.** Some today claim a "right to a trial marriage" where there is an intention of getting married later. However firm the purpose of those who engage in premature sexual relations may be, "the fact is that such liaisons can scarcely ensure mutual sincerity and fidelity in a relationship between a man and a woman, nor, especially, can they protect it from inconstancy of desires or whim." Carnal union is morally legitimate only when a definitive community of life between a man and woman has been established. Human love does not tolerate "trial marriages." It demands a total and definitive gift of persons to one another.
 
-**IN BRIEF2392.** *"Love is the fundamental and innate vocation of every human being" (FC 11).*
+#### IN BRIEF
+
+**2392.** *"Love is the fundamental and innate vocation of every human being" (FC 11).*
 
 **2393.** *By creating the human being man and woman, God gives personal dignity equally to the one and the other. Each of them, man and woman, should acknowledge and accept his sexual identity.*
 
@@ -3210,15 +2320,17 @@ communion.
 
 **2400.** *Adultery, divorce, polygamy, and free union are grave offenses against the dignity of marriage.*
 
-Article 7THE SEVENTH COMMANDMENT**
+Article 7
 
-You shall
-not steal.
+#### THE SEVENTH COMMANDMENT
+
+You shall not steal.
 
 **2401.** The seventh commandment forbids unjustly taking or keeping the goods of one's neighbor and wronging him in any way with respect to his goods. It commands justice and charity in the care of earthly goods and the fruits of men's labor. For the sake of the common good, it requires respect for the universal destination of goods and respect for the right to private property. Christian life strives to order this world's goods to God and to fraternal charity.
 
-**I. The Universal Destination
-and the Private Ownership of Goods2402.** In the beginning God entrusted the earth and its resources to the common stewardship of mankind to take care of them, master them by labor, and enjoy their fruits. The goods of creation are destined for the whole human race. However, the earth is divided up among men to assure the security of their lives, endangered by poverty and threatened by violence. the appropriation of property is legitimate for guaranteeing the freedom and dignity of persons and for helping each of them to meet his basic needs and the needs of those in his charge. It should allow for a natural solidarity to develop between men.
+#### I. The Universal Destination and the Private Ownership of Goods
+
+**2402.** In the beginning God entrusted the earth and its resources to the common stewardship of mankind to take care of them, master them by labor, and enjoy their fruits. The goods of creation are destined for the whole human race. However, the earth is divided up among men to assure the security of their lives, endangered by poverty and threatened by violence. the appropriation of property is legitimate for guaranteeing the freedom and dignity of persons and for helping each of them to meet his basic needs and the needs of those in his charge. It should allow for a natural solidarity to develop between men.
 
 **2403.** The right to private property, acquired by work or received from others by inheritance or gift, does not do away with the original gift of the earth to the whole of mankind. the universal destination of goods remains primordial, even if the promotion of the common good requires respect for the right to private property and its exercise.
 
@@ -3228,53 +2340,33 @@ and the Private Ownership of Goods2402.** In the beginning God entrusted the ear
 
 **2406.** Political authority has the right and duty to regulate the legitimate exercise of the right to ownership for the sake of the common good.
 
-**II. Respect for Persons
-and Their Goods2407.** In economic matters, respect for human dignity requires the practice of the virtue of temperance, so as to moderate attachment to this world's goods; the practice of the virtue of justice, to preserve our neighbor's rights and render him what is his due; and the practice of solidarity, in accordance with the golden rule and in keeping with the generosity of the Lord, who "though he was rich, yet for your sake . . . became poor so that by his poverty, you might become rich."
+#### II. Respect for Persons and Their Goods
 
-Respect for
-the goods of others
+**2407.** In economic matters, respect for human dignity requires the practice of the virtue of temperance, so as to moderate attachment to this world's goods; the practice of the virtue of justice, to preserve our neighbor's rights and render him what is his due; and the practice of solidarity, in accordance with the golden rule and in keeping with the generosity of the Lord, who "though he was rich, yet for your sake . . . became poor so that by his poverty, you might become rich."
+
+Respect for the goods of others
 
 **2408.** The seventh commandment forbids theft, that is, usurping another's property against the reasonable will of the owner. There is no theft if consent can be presumed or if refusal is contrary to reason and the universal destination of goods. This is the case in obvious and urgent necessity when the only way to provide for immediate, essential needs (food, shelter, clothing . . .) is to put at one's disposal and use the property of others.
 
 **2409.** Even if it does not contradict the provisions of civil law, any form of unjustly taking and keeping the property of others is against the seventh commandment: thus, deliberate retention of goods lent or of objects lost; business fraud; paying unjust wages; forcing up prices by taking advantage of the ignorance or hardship of another.
 
-The following are also morally illicit: speculation in which one
-contrives to manipulate the price of goods artificially in order to gain an
-advantage to the detriment of others; corruption in which one influences the
-judgment of those who must make decisions according to law; appropriation and
-use for private purposes of the common goods of an enterprise; work poorly
-done; tax evasion; forgery of checks and invoices; excessive expenses and
-waste. Willfully damaging private or public property is contrary to the moral
-law and requires reparation.
+The following are also morally illicit: speculation in which one contrives to manipulate the price of goods artificially in order to gain an advantage to the detriment of others; corruption in which one influences the judgment of those who must make decisions according to law; appropriation and use for private purposes of the common goods of an enterprise; work poorly done; tax evasion; forgery of checks and invoices; excessive expenses and waste. Willfully damaging private or public property is contrary to the moral law and requires reparation.
 
 **2410.** Promises must be kept and contracts strictly observed to the extent that the commitments made in them are morally just. A significant part of economic and social life depends on the honoring of contracts between physical or moral persons - commercial contracts of purchase or sale, rental or labor contracts. All contracts must be agreed to and executed in good faith.
 
 **2411.** Contracts are subject to commutative justice which regulates exchanges between persons in accordance with a strict respect for their rights. Commutative justice obliges strictly; it requires safeguarding property rights, paying debts, and fulfilling obligations freely contracted. Without commutative justice, no other form of justice is possible.
 
-One distinguishes commutative justice from legal justice which concerns
-what the citizen owes in fairness to the community, and from distributive
-justice which regulates what the community owes its citizens in proportion to
-their contributions and needs.
+One distinguishes commutative justice from legal justice which concerns what the citizen owes in fairness to the community, and from distributive justice which regulates what the community owes its citizens in proportion to their contributions and needs.
 
 **2412.** In virtue of commutative justice, reparation for injustice committed requires the restitution of stolen goods to their owner:
 
-Jesus blesses Zacchaeus for his pledge: "If I have defrauded anyone
-of anything, I restore it fourfold." Those who, directly or
-indirectly, have taken possession of the goods of another, are obliged to make
-restitution of them, or to return the equivalent in kind or in money, if the
-goods have disappeared, as well as the profit or advantages their owner would
-have legitimately obtained from them. Likewise, all who in some manner have
-taken part in a theft or who have knowingly benefited from it - for example,
-those who ordered it, assisted in it, or received the stolen goods - are
-obliged to make restitution in proportion to their responsibility and to their
-share of what was stolen.
+Jesus blesses Zacchaeus for his pledge: "If I have defrauded anyone of anything, I restore it fourfold." Those who, directly or indirectly, have taken possession of the goods of another, are obliged to make restitution of them, or to return the equivalent in kind or in money, if the goods have disappeared, as well as the profit or advantages their owner would have legitimately obtained from them. Likewise, all who in some manner have taken part in a theft or who have knowingly benefited from it - for example, those who ordered it, assisted in it, or received the stolen goods - are obliged to make restitution in proportion to their responsibility and to their share of what was stolen.
 
 **2413.** Games of chance (card games, etc.) or wagers are not in themselves contrary to justice. They become morally unacceptable when they deprive someone of what is necessary to provide for his needs and those of others. the passion for gambling risks becoming an enslavement. Unfair wagers and cheating at games constitute grave matter, unless the damage inflicted is so slight that the one who suffers it cannot reasonably consider it significant.
 
 **2414.** The seventh commandment forbids acts or enterprises that for any reason - selfish or ideological, commercial, or totalitarian - lead to the enslavement of human beings, to their being bought, sold and exchanged like merchandise, in disregard for their personal dignity. It is a sin against the dignity of persons and their fundamental rights to reduce them by violence to their productive value or to a source of profit. St. Paul directed a Christian master to treat his Christian slave "no longer as a slave but more than a slave, as a beloved brother, . . . both in the flesh and in the Lord."
 
-Respect for
-the integrity of creation
+Respect for the integrity of creation
 
 **2415.** The seventh commandment enjoins respect for the integrity of creation. Animals, like plants and inanimate beings, are by nature destined for the common good of past, present, and future humanity. Use of the mineral, vegetable, and animal resources of the universe cannot be divorced from respect for moral imperatives. Man's dominion over inanimate and other living beings granted by the Creator is not absolute; it is limited by concern for the quality of life of his neighbor, including generations to come; it requires a religious respect for the integrity of creation.
 
@@ -3284,8 +2376,9 @@ the integrity of creation
 
 **2418.** It is contrary to human dignity to cause animals to suffer or die needlessly. It is likewise unworthy to spend money on them that should as a priority go to the relief of human misery. One can love animals; one should not direct to them the affection due only to persons.
 
-**III. The Social Doctrine of the
-Church2419.** "Christian revelation . . . promotes deeper understanding of the laws of social living." The Church receives from the Gospel the full revelation of the truth about man. When she fulfills her mission of proclaiming the Gospel, she bears witness to man, in the name of Christ, to his dignity and his vocation to the communion of persons. She teaches him the demands of justice and peace in conformity with divine wisdom.
+#### III. The Social Doctrine of the Church
+
+**2419.** "Christian revelation . . . promotes deeper understanding of the laws of social living." The Church receives from the Gospel the full revelation of the truth about man. When she fulfills her mission of proclaiming the Gospel, she bears witness to man, in the name of Christ, to his dignity and his vocation to the communion of persons. She teaches him the demands of justice and peace in conformity with divine wisdom.
 
 **2420.** The Church makes a moral judgment about economic and social matters, "when the fundamental rights of the person or the salvation of souls requires it." In the moral order she bears a mission distinct from that of political authorities: the Church is concerned with the temporal aspects of the common good because they are ordered to the sovereign Good, our ultimate end. She strives to inspire right attitudes with respect to earthly goods and in socio-economic relationships.
 
@@ -3295,22 +2388,19 @@ Church2419.** "Christian revelation . . . promotes deeper understanding of the l
 
 **2423.** The Church's social teaching proposes principles for reflection; it provides criteria for judgment; it gives guidelines for action:
 
-Any system in which social relationships are determined entirely by
-economic factors is contrary to the nature of the human person and his
-acts.
+Any system in which social relationships are determined entirely by economic factors is contrary to the nature of the human person and his acts.
 
-**2424.** A theory that makes profit the exclusive norm and ultimate end of economic activity is morally unacceptable. the disordered desire for money cannot but produce perverse effects. It is one of the causes of the many conflicts which disturb the social order. ** A system that "subordinates the basic rights of individuals and of groups to the collective organization of production" is contrary to human dignity. Every practice that reduces persons to nothing more than a means of profit enslaves man, leads to idolizing money, and contributes to the spread of atheism. "You cannot serve God and mammon."
+**2424.** A theory that makes profit the exclusive norm and ultimate end of economic activity is morally unacceptable. the disordered desire for money cannot but produce perverse effects. It is one of the causes of the many conflicts which disturb the social order. A system that "subordinates the basic rights of individuals and of groups to the collective organization of production" is contrary to human dignity. Every practice that reduces persons to nothing more than a means of profit enslaves man, leads to idolizing money, and contributes to the spread of atheism. "You cannot serve God and mammon."
 
 **2425.** The Church has rejected the totalitarian and atheistic ideologies associated in modem times with "communism" or "socialism." She has likewise refused to accept, in the practice of "capitalism," individualism and the absolute primacy of the law of the marketplace over human labor. Regulating the economy solely by centralized planning perverts the basis of social bonds; regulating it solely by the law of the marketplace fails social justice, for "there are many human needs which cannot be satisfied by the market." Reasonable regulation of the marketplace and economic initiatives, in keeping with a just hierarchy of values and a view to the common good, is to be commended.
 
-**Click here to show the links to concordance
+#### IV. Economic Activity and Social Justice
 
-**IV. Economic Activity and
-Social Justice2426.** The development of economic activity and growth in production are meant to provide for the needs of human beings. Economic life is not meant solely to multiply goods produced and increase profit or power; it is ordered first of all to the service of persons, of the whole man, and of the entire human community. Economic activity, conducted according to its own proper methods, is to be exercised within the limits of the moral order, in keeping with social justice so as to correspond to God's plan for man.
+**2426.** The development of economic activity and growth in production are meant to provide for the needs of human beings. Economic life is not meant solely to multiply goods produced and increase profit or power; it is ordered first of all to the service of persons, of the whole man, and of the entire human community. Economic activity, conducted according to its own proper methods, is to be exercised within the limits of the moral order, in keeping with social justice so as to correspond to God's plan for man.
 
 **2427.** Human work proceeds directly from persons created in the image of God and called to prolong the work of creation by subduing the earth, both with and for one another. Hence work is a duty: "If any one will not work, let him not eat." Work honors the Creator's gifts and the talents received from him. It can also be redemptive. By enduring the hardship of work in union with Jesus, the carpenter of Nazareth and the one crucified on Calvary, man collaborates in a certain fashion with the Son of God in his redemptive work. He shows himself to be a disciple of Christ by carrying the cross, daily, in the work he is called to accomplish. Work can be a means of sanctification and a way of animating earthly realities with the Spirit of Christ.
 
-**2428.** In work, the person exercises and fulfills in part the potential inscribed in his nature. the primordial value of labor stems from man himself, its author and its beneficiary. Work is for man, not man for work. ** Everyone should be able to draw from work the means of providing for his life and that of his family, and of serving the human community.
+**2428.** In work, the person exercises and fulfills in part the potential inscribed in his nature. the primordial value of labor stems from man himself, its author and its beneficiary. Work is for man, not man for work. Everyone should be able to draw from work the means of providing for his life and that of his family, and of serving the human community.
 
 **2429.** Everyone has the right of economic initiative; everyone should make legitimate use of his talents to contribute to the abundance that will benefit all and to harvest the just fruits of his labor. He should seek to observe regulations issued by legitimate authority for the sake of the common good.
 
@@ -3324,12 +2414,11 @@ Social Justice2426.** The development of economic activity and growth in product
 
 **2434.** A just wage is the legitimate fruit of work. To refuse or withhold it can be a grave injustice. In determining fair pay both the needs and the contributions of each person must be taken into account. "Remuneration for work should guarantee man the opportunity to provide a dignified livelihood for himself and his family on the material, social, cultural and spiritual level, taking into account the role and the productivity of each, the state of the business, and the common good." Agreement between the parties is not sufficient to justify morally the amount to be received in wages.
 
-**2435.** Recourse to a strike is morally legitimate when it cannot be avoided, or at least when it is necessary to obtain a proportionate benefit. It becomes morally unacceptable when accompanied by violence, or when objectives are included that are not directly linked to working conditions or are contrary to the common good.
+**2435.** Recourse to a strike is morally legitimate when it cannot be avoided, or at least when it is necessary to obtain a proportionate benefit. It becomes morally unacceptable when accompanied by violence, or when objectives are included that are not directly linked to working conditions or are contrary to the common good. 2436 Unemployment almost always wounds its victim's dignity and threatens the equilibrium of his life. Besides the harm done to him personally, it entails many risks for his family.
 
-**2436.** Unemployment almost always wounds its victim's dignity and threatens the equilibrium of his life. Besides the harm done to him personally, it entails many risks for his family.
+#### V. Justice and Solidarity Among Nations
 
-**V. Justice and Solidarity
-Among Nations2437.** On the international level, inequality of resources and economic capability is such that it creates a real "gap" between nations. On the one side there are those nations possessing and developing the means of growth and, on the other, those accumulating debts.
+**2437.** On the international level, inequality of resources and economic capability is such that it creates a real "gap" between nations. On the one side there are those nations possessing and developing the means of growth and, on the other, those accumulating debts.
 
 **2438.** Various causes of a religious, political, economic, and financial nature today give "the social question a worldwide dimension." There must be solidarity among nations which are already politically interdependent. It is even more essential when it is a question of dismantling the "perverse mechanisms" that impede the development of the less advanced countries. In place of abusive if not usurious financial systems, iniquitous commercial relations among nations, and the arms race, there must be substituted a common effort to mobilize resources toward objectives of moral, cultural, and economic development, "redefining the priorities and hierarchies of values."
 
@@ -3341,49 +2430,33 @@ Among Nations2437.** On the international level, inequality of resources and eco
 
 **2442.** It is not the role of the Pastors of the Church to intervene directly in the political structuring and organization of social life. This task is part of the vocation of the lay faithful, acting on their own initiative with their fellow citizens. Social action can assume various concrete forms. It should always have the common good in view and be in conformity with the message of the Gospel and the teaching of the Church. It is the role of the laity "to animate temporal realities with Christian commitment, by which they show that they are witnesses and agents of peace and justice."
 
-**VI. Love For the Poor2443.** God blesses those who come to the aid of the poor and rebukes those who turn away from them: "Give to him who begs from you, do not refuse him who would borrow from you"; "you received without pay, give without pay." It is by what they have done for the poor that Jesus Christ will recognize his chosen ones. When "the poor have the good news preached to them," it is the sign of Christ's presence.
+#### VI. Love For the Poor
+
+**2443.** God blesses those who come to the aid of the poor and rebukes those who turn away from them: "Give to him who begs from you, do not refuse him who would borrow from you"; "you received without pay, give without pay." It is by what they have done for the poor that Jesus Christ will recognize his chosen ones. When "the poor have the good news preached to them," it is the sign of Christ's presence.
 
 **2444.** "The Church's love for the poor . . . is a part of her constant tradition." This love is inspired by the Gospel of the Beatitudes, of the poverty of Jesus, and of his concern for the poor. Love for the poor is even one of the motives for the duty of working so as to "be able to give to those in need." It extends not only to material poverty but also to the many forms of cultural and religious poverty.
 
 **2445.** Love for the poor is incompatible with immoderate love of riches or their selfish use:
 
-Come now, you rich, weep and
-howl for the miseries that are coming upon you. Your riches have rotted and
-your garments are moth-eaten. Your gold and silver have rusted, and their rust
-will be evidence against you and will eat your flesh like fire. You have laid
-up treasure for the last days. Behold, the wages of the laborers who mowed your
-fields, which you kept back by fraud, cry out; and the cries of the harvesters
-have reached the ears of the Lord of hosts. You have lived on the earth in
-luxury and in pleasure; you have fattened your hearts in a day of slaughter.
-You have condemned, you have killed the righteous man; he does not resist
-you.
+Come now, you rich, weep and howl for the miseries that are coming upon you. Your riches have rotted and your garments are moth-eaten. Your gold and silver have rusted, and their rust will be evidence against you and will eat your flesh like fire. You have laid up treasure for the last days. Behold, the wages of the laborers who mowed your fields, which you kept back by fraud, cry out; and the cries of the harvesters have reached the ears of the Lord of hosts. You have lived on the earth in luxury and in pleasure; you have fattened your hearts in a day of slaughter. You have condemned, you have killed the righteous man; he does not resist you.
 
 **2446.** St. John Chrysostom vigorously recalls this: "Not to enable the poor to share in our goods is to steal from them and deprive them of life. the goods we possess are not ours, but theirs." "The demands of justice must be satisfied first of all; that which is already due in justice is not to be offered as a gift of charity":
 
-When we attend to the needs of those in want, we give them what is
-theirs, not ours. More than performing works of mercy, we are paying a debt of
-justice.
+When we attend to the needs of those in want, we give them what is theirs, not ours. More than performing works of mercy, we are paying a debt of justice.
 
 **2447.** The works of mercy are charitable actions by which we come to the aid of our neighbor in his spiritual and bodily necessities. Instructing, advising, consoling, comforting are spiritual works of mercy, as are forgiving and bearing wrongs patiently. the corporal works of mercy consist especially in feeding the hungry, sheltering the homeless, clothing the naked, visiting the sick and imprisoned, and burying the dead. Among all these, giving alms to the poor is one of the chief witnesses to fraternal charity: it is also a work of justice pleasing to God:
 
-He who has two coats, let him
-share with him who has none and he who has food must do likewise.
-But give for alms those things which are within; and behold, everything is
-clean for you. If a brother or sister is ill-clad and in lack of
-daily food, and one of you says to them, "Go in peace, be warmed and
-filled," without giving them the things needed for the body, what does it
-profit?
+He who has two coats, let him share with him who has none and he who has food must do likewise. But give for alms those things which are within; and behold, everything is clean for you. If a brother or sister is ill-clad and in lack of daily food, and one of you says to them, "Go in peace, be warmed and filled," without giving them the things needed for the body, what does it profit?
 
 **2448.** "In its various forms - material deprivation, unjust oppression, physical and psychological illness and death - human misery is the obvious sign of the inherited condition of frailty and need for salvation in which man finds himself as a consequence of original sin. This misery elicited the compassion of Christ the Savior, who willingly took it upon himself and identified himself with the least of his brethren. Hence, those who are oppressed by poverty are the object of a preferential love on the part of the Church which, since her origin and in spite of the failings of many of her members, has not ceased to work for their relief, defense, and liberation through numerous works of charity which remain indispensable always and everywhere."
 
 **2449.** Beginning with the Old Testament, all kinds of juridical measures (the jubilee year of forgiveness of debts, prohibition of loans at interest and the keeping of collateral, the obligation to tithe, the daily payment of the day-laborer, the right to glean vines and fields) answer the exhortation of Deuteronomy: "For the poor will never cease out of the land; therefore I command you, 'You shall open wide your hand to your brother, to the needy and to the poor in the land.'" Jesus makes these words his own: "The poor you always have with you, but you do not always have me." In so doing he does not soften the vehemence of former oracles against "buying the poor for silver and the needy for a pair of sandals . . .," but invites us to recognize his own presence in the poor who are his brethren:
 
-When her mother reproached her for caring for the poor and the sick at
-home, St. Rose of Lima said to her: "When we serve the poor and the sick,
-we serve Jesus. We must not fail to help our neighbors, because in them we
-serve Jesus.
+When her mother reproached her for caring for the poor and the sick at home, St. Rose of Lima said to her: "When we serve the poor and the sick, we serve Jesus. We must not fail to help our neighbors, because in them we serve Jesus.
 
-**IN BRIEF2450.** *"You shall not steal" (Ex 20:15; Deut 5:19). "Neither thieves, nor the greedy, nor robbers will inherit the kingdom of God" (1 Cor 6:10).*
+#### IN BRIEF
+
+**2450.** *"You shall not steal" (Ex 20:15; Deut 5:19). "Neither thieves, nor the greedy, nor robbers will inherit the kingdom of God" (1 Cor 6:10).*
 
 **2451.** *The seventh commandment enjoins the practice of justice and charity in the administration of earthly goods and the fruits of men's labor.*
 
@@ -3411,18 +2484,19 @@ serve Jesus.
 
 **2463.** *How can we not recognize Lazarus, the hungry beggar in the parable (cf Lk 17:19-31), in the multitude of human beings without bread, a roof or a place to stay? How can we fail to hear Jesus: "As you did it not to one of the least of these, you did it not to me" (Mt 25:45)?*
 
-Article 8THE EIGHTH COMMANDMENT**
+Article 8
 
-You shall not bear false
-witness against your neighbor.
+#### THE EIGHTH COMMANDMENT
 
-It was said to the men of old,
-"You shall not swear falsely, but shall perform to the Lord what you have
-sworn."
+You shall not bear false witness against your neighbor.
+
+It was said to the men of old, "You shall not swear falsely, but shall perform to the Lord what you have sworn."
 
 **2464.** The eighth commandment forbids misrepresenting the truth in our relations with others. This moral prescription flows from the vocation of the holy people to bear witness to their God who is the truth and wills the truth. Offenses against the truth express by word or deed a refusal to commit oneself to moral uprightness: they are fundamental infidelities to God and, in this sense, they undermine the foundations of the covenant.
 
-**I. Living in the Truth2465.** The Old Testament attests that God is the source of all truth. His Word is truth. His Law is truth. His "faithfulness endures to all generations." Since God is "true," the members of his people are called to live in the truth.
+#### I. Living in the Truth
+
+**2465.** The Old Testament attests that God is the source of all truth. His Word is truth. His Law is truth. His "faithfulness endures to all generations." Since God is "true," the members of his people are called to live in the truth.
 
 **2466.** In Jesus Christ, the whole of God's truth has been made manifest. "Full of grace and truth," he came as the "light of the world," he is the Truth. "Whoever believes in me may not remain in darkness." The disciple of Jesus continues in his word so as to know "the truth [that] will make you free" and that sanctifies. To follow Jesus is to live in "the Spirit of truth," whom the Father sends in his name and who leads "into all the truth." To his disciples Jesus teaches the unconditional love of truth: "Let what you say be simply 'Yes or No.'"
 
@@ -3434,48 +2508,31 @@ sworn."
 
 **2470.** The disciple of Christ consents to "live in the truth," that is, in the simplicity of a life in conformity with the Lord's example, abiding in his truth. "If we say we have fellowship with him while we walk in darkness, we lie and do not live according to the truth."
 
-**II. To Bear Witness to the
-Truth2471.** Before Pilate, Christ proclaims that he "has come into the world, to bear witness to the truth." The Christian is not to "be ashamed then of testifying to our Lord." In situations that require witness to the faith, the Christian must profess it without equivocation, after the example of St. Paul before his judges. We must keep "a clear conscience toward God and toward men."
+#### II. To Bear Witness to the Truth
 
-**2472.** The duty of Christians to take part in the life of the Church impels them to act as witnesses of the Gospel and of the obligations that flow from it. This witness is a transmission of the faith in words and deeds. Witness is an act of justice that establishes the truth or makes it known. ** All Christians by the example of their lives and the witness of their word, wherever they live, have an obligation to manifest the new man which they have put on in Baptism and to reveal the power of the Holy Spirit by whom they were strengthened at Confirmation.
+**2471.** Before Pilate, Christ proclaims that he "has come into the world, to bear witness to the truth." The Christian is not to "be ashamed then of testifying to our Lord." In situations that require witness to the faith, the Christian must profess it without equivocation, after the example of St. Paul before his judges. We must keep "a clear conscience toward God and toward men."
+
+**2472.** The duty of Christians to take part in the life of the Church impels them to act as witnesses of the Gospel and of the obligations that flow from it. This witness is a transmission of the faith in words and deeds. Witness is an act of justice that establishes the truth or makes it known. All Christians by the example of their lives and the witness of their word, wherever they live, have an obligation to manifest the new man which they have put on in Baptism and to reveal the power of the Holy Spirit by whom they were strengthened at Confirmation.
 
 **2473.** Martyrdom is the supreme witness given to the truth of the faith: it means bearing witness even unto death. the martyr bears witness to Christ who died and rose, to whom he is united by charity. He bears witness to the truth of the faith and of Christian doctrine. He endures death through an act of fortitude. "Let me become the food of the beasts, through whom it will be given me to reach God."
 
 **2474.** The Church has painstakingly collected the records of those who persevered to the end in witnessing to their faith. These are the acts of the Martyrs. They form the archives of truth written in letters of blood:
 
-Neither the pleasures of the
-world nor the kingdoms of this age will be of any use to me.
+Neither the pleasures of the world nor the kingdoms of this age will be of any use to me.
 
-It is better for me to die [in
-order to unite myself] to Christ Jesus than to reign over the ends of the
-earth. I seek him who died for us; I desire him who rose for us. My birth is
-approaching. . . I bless you for having judged me worthy from this
-day and this hour to be counted among your martyrs.... You have kept your
-promise, God of faithfulness and truth. For this reason and for everything, I
-praise you, I bless you, I glorify you through the eternal and heavenly High
-Priest, Jesus Christ, your beloved Son. Through him, who is with you and the
-Holy Spirit, may glory be given to you, now and in the ages to come. Amen.
+It is better for me to die [in order to unite myself] to Christ Jesus than to reign over the ends of the earth. I seek him who died for us; I desire him who rose for us. My birth is approaching. . . I bless you for having judged me worthy from this day and this hour to be counted among your martyrs.... You have kept your promise, God of faithfulness and truth. For this reason and for everything, I praise you, I bless you, I glorify you through the eternal and heavenly High Priest, Jesus Christ, your beloved Son. Through him, who is with you and the Holy Spirit, may glory be given to you, now and in the ages to come. Amen.
 
-**III. Offenses Against Truth2475.** Christ's disciples have "put on the new man, created after the likeness of God in true righteousness and holiness." By "putting away falsehood," they are to "put away all malice and all guile and insincerity and envy and all slander."
+#### III. Offenses Against Truth
+
+**2475.** Christ's disciples have "put on the new man, created after the likeness of God in true righteousness and holiness." By "putting away falsehood," they are to "put away all malice and all guile and insincerity and envy and all slander."
 
 **2476.** False witness and perjury. When it is made publicly, a statement contrary to the truth takes on a particular gravity. In court it becomes false witness. When it is under oath, it is perjury. Acts such as these contribute to condemnation of the innocent, exoneration of the guilty, or the increased punishment of the accused. They gravely compromise the exercise of justice and the fairness of judicial decisions.
 
-**2477.** Respect for the reputation of persons forbids every attitude and word likely to cause them unjust injury. He becomes guilty: ** - of rash judgment who, even tacitly, assumes as true, without sufficient foundation, the moral fault of a neighbor;
-
-- of detraction who, without objectively valid reason, discloses another's
-faults and failings to persons who did not know them;
-
-- of calumny who, by remarks contrary to the truth, harms the reputation of
-others and gives occasion for false judgments concerning them.
+**2477.** Respect for the reputation of persons forbids every attitude and word likely to cause them unjust injury. He becomes guilty: - of rash judgment who, even tacitly, assumes as true, without sufficient foundation, the moral fault of a neighbor; - of detraction who, without objectively valid reason, discloses another's faults and failings to persons who did not know them; - of calumny who, by remarks contrary to the truth, harms the reputation of others and gives occasion for false judgments concerning them.
 
 **2478.** To avoid rash judgment, everyone should be careful to interpret insofar as possible his neighbor's thoughts, words, and deeds in a favorable way:
 
-Every good Christian ought to
-be more ready to give a favorable interpretation to another's statement than to
-condemn it. But if he cannot do so, let him ask how the other understands it.
-and if the latter understands it badly, let the former correct him with love.
-If that does not suffice, let the Christian try all suitable ways to bring the
-other to a correct interpretation so that he may be saved.
+Every good Christian ought to be more ready to give a favorable interpretation to another's statement than to condemn it. But if he cannot do so, let him ask how the other understands it. and if the latter understands it badly, let the former correct him with love. If that does not suffice, let the Christian try all suitable ways to bring the other to a correct interpretation so that he may be saved.
 
 **2479.** Detraction and calumny destroy the reputation and honor of one's neighbor. Honor is the social witness given to human dignity, and everyone enjoys a natural right to the honor of his name and reputation and to respect. Thus, detraction and calumny offend against the virtues of justice and charity.
 
@@ -3495,7 +2552,9 @@ other to a correct interpretation so that he may be saved.
 
 **2487.** Every offense committed against justice and truth entails the duty of reparation, even if its author has been forgiven. When it is impossible publicly to make reparation for a wrong, it must be made secretly. If someone who has suffered harm cannot be directly compensated, he must be given moral satisfaction in the name of charity. This duty of reparation also concerns offenses against another's reputation. This reparation, moral and sometimes material, must be evaluated in terms of the extent of the damage inflicted. It obliges in conscience.
 
-**IV. Respect for the Truth2488.** The right to the communication of the truth is not unconditional. Everyone must conform his life to the Gospel precept of fraternal love. This requires us in concrete situations to judge whether or not it is appropriate to reveal the truth to someone who asks for it.
+#### IV. Respect for the Truth
+
+**2488.** The right to the communication of the truth is not unconditional. Everyone must conform his life to the Gospel precept of fraternal love. This requires us in concrete situations to judge whether or not it is appropriate to reveal the truth to someone who asks for it.
 
 **2489.** Charity and respect for the truth should dictate the response to every request for information or communication. the good and safety of others, respect for privacy, and the common good are sufficient reasons for being silent about what ought not be known or for making use of a discreet language. the duty to avoid scandal often commands strict discretion. No one is bound to reveal the truth to someone who does not have the right to know it.
 
@@ -3505,17 +2564,13 @@ other to a correct interpretation so that he may be saved.
 
 **2492.** Everyone should observe an appropriate reserve concerning persons' private lives. Those in charge of communications should maintain a fair balance between the requirements of the common good and respect for individual rights. Interference by the media in the private lives of persons engaged in political or public activity is to be condemned to the extent that it infringes upon their privacy and freedom.
 
-**V. The Use of the Social
-Communications Media2493.** Within modern society the communications media play a major role in information, cultural promotion, and formation. This role is increasing, as a result of technological progress, the extent and diversity of the news transmitted, and the influence exercised on public opinion.
+#### V. The Use of the Social Communications Media
+
+**2493.** Within modern society the communications media play a major role in information, cultural promotion, and formation. This role is increasing, as a result of technological progress, the extent and diversity of the news transmitted, and the influence exercised on public opinion.
 
 **2494.** The information provided by the media is at the service of the common good. Society has a right to information based on truth, freedom, justice, and solidarity:
 
-The proper exercise of this
-right demands that the content of the communication be true and - within the
-limits set by justice and charity - complete. Further, it should be
-communicated honestly and properly. This means that in the gathering and in the
-publication of news, the moral law and the legitimate rights and dignity of man
-should be upheld.
+The proper exercise of this right demands that the content of the communication be true and - within the limits set by justice and charity - complete. Further, it should be communicated honestly and properly. This means that in the gathering and in the publication of news, the moral law and the legitimate rights and dignity of man should be upheld.
 
 **2495.** "It is necessary that all members of society meet the demands of justice and charity in this domain. They should help, through the means of social communication, in the formation and diffusion of sound public opinion." Solidarity is a consequence of genuine and right communication and the free circulation of ideas that further knowledge and respect for others.
 
@@ -3527,17 +2582,11 @@ should be upheld.
 
 **2499.** Moral judgment must condemn the plague of totalitarian states which systematically falsify the truth, exercise political control of opinion through the media, manipulate defendants and witnesses at public trials, and imagine that they secure their tyranny by strangling and repressing everything they consider "thought crimes."
 
-**VI. Truth, Beauty, and
-Sacred Art2500.** The practice of goodness is accompanied by spontaneous spiritual joy and moral beauty. Likewise, truth carries with it the joy and splendor of spiritual beauty. Truth is beautiful in itself. Truth in words, the rational expression of the knowledge of created and uncreated reality, is necessary to man, who is endowed with intellect. But truth can also find other complementary forms of human expression, above all when it is a matter of evoking what is beyond words: the depths of the human heart, the exaltations of the soul, the mystery of God. Even before revealing himself to man in words of truth, God reveals himself to him through the universal language of creation, the work of his Word, of his wisdom: the order and harmony of the cosmos - which both the child and the scientist discover - "from the greatness and beauty of created things comes a corresponding perception of their Creator," "for the author of beauty created them."
+#### VI. Truth, Beauty, and Sacred Art
 
-[Wisdom] is a breath of the
-power of God, and a pure emanation of the glory of the Almighty; therefore
-nothing defiled gains entrance into her. For she is a reflection of eternal
-light, a spotless mirror of the working of God, and an image of his
-goodness. For [wisdom] is more beautiful than the sun, and excels every
-constellation of the stars. Compared with the light she is found to be
-superior, for it is succeeded by the night, but against wisdom evil does not
-prevail. I became enamored of her beauty.
+**2500.** The practice of goodness is accompanied by spontaneous spiritual joy and moral beauty. Likewise, truth carries with it the joy and splendor of spiritual beauty. Truth is beautiful in itself. Truth in words, the rational expression of the knowledge of created and uncreated reality, is necessary to man, who is endowed with intellect. But truth can also find other complementary forms of human expression, above all when it is a matter of evoking what is beyond words: the depths of the human heart, the exaltations of the soul, the mystery of God. Even before revealing himself to man in words of truth, God reveals himself to him through the universal language of creation, the work of his Word, of his wisdom: the order and harmony of the cosmos - which both the child and the scientist discover - "from the greatness and beauty of created things comes a corresponding perception of their Creator," "for the author of beauty created them."
+
+[Wisdom] is a breath of the power of God, and a pure emanation of the glory of the Almighty; therefore nothing defiled gains entrance into her. For she is a reflection of eternal light, a spotless mirror of the working of God, and an image of his goodness. For [wisdom] is more beautiful than the sun, and excels every constellation of the stars. Compared with the light she is found to be superior, for it is succeeded by the night, but against wisdom evil does not prevail. I became enamored of her beauty.
 
 **2501.** Created "in the image of God," man also expresses the truth of his relationship with God the Creator by the beauty of his artistic works. Indeed, art is a distinctively human form of expression; beyond the search for the necessities of life which is common to all living creatures, art is a freely given superabundance of the human being's inner riches. Arising from talent given by the Creator and from man's own effort, art is a form of practical wisdom, uniting knowledge and skill, to give form to the truth of reality in a language accessible to sight or hearing. To the extent that it is inspired by truth and love of beings, art bears a certain likeness to God's activity in what he has created. Like any other human activity, art is not an absolute end in itself, but is ordered to and ennobled by the ultimate end of man.
 
@@ -3545,7 +2594,9 @@ prevail. I became enamored of her beauty.
 
 **2503.** For this reason bishops, personally or through delegates, should see to the promotion of sacred art, old and new, in all its forms and, with the same religious care, remove from the liturgy and from places of worship everything which is not in conformity with the truth of faith and the authentic beauty of sacred art.
 
-**IN BRIEF2504.** *"You shall not bear false witness against your neighbor" (Ex 20:16). Christ's disciples have "put on the new man, created after the likeness of God in true righteousness and holiness" (Eph 4:24).*
+#### IN BRIEF
+
+**2504.** *"You shall not bear false witness against your neighbor" (Ex 20:16). Christ's disciples have "put on the new man, created after the likeness of God in true righteousness and holiness" (Eph 4:24).*
 
 **2505.** *Truth or truthfulness is the virtue which consists in showing oneself true in deeds and truthful in words, and guarding against duplicity, dissimulation, and hypocrisy.*
 
@@ -3565,15 +2616,11 @@ prevail. I became enamored of her beauty.
 
 **2513.** *The fine arts, but above all sacred art, "of their nature are directed toward expressing in some way the infinite beauty of God in works made by human hands. Their dedication to the increase of God's praise and of his glory is more complete, the more exclusively they are devoted to turning men's minds devoutly toward God" (SC 122).*
 
-Article 9THE NINTH COMMANDMENT**
+Article 9
 
-You shall
-not covet your neighbor's house; you shall not covet your neighbor's wife, or
-his manservant, or his maidservant, or his ox, or his ass, or anything that is
-your neighbor's. **
+#### THE NINTH COMMANDMENT
 
-Every one who looks at a woman lustfully has already committed adultery with
-her in his heart.
+You shall not covet your neighbor's house; you shall not covet your neighbor's wife, or his manservant, or his maidservant, or his ox, or his ass, or anything that is your neighbor's. Every one who looks at a woman lustfully has already committed adultery with her in his heart.
 
 **2514.** St. John distinguishes three kinds of covetousness or concupiscence: lust of the flesh, lust of the eyes, and pride of life. In the Catholic catechetical tradition, the ninth commandment forbids carnal concupiscence; the tenth forbids coveting another's goods.
 
@@ -3581,49 +2628,25 @@ her in his heart.
 
 **2516.** Because man is a composite being, spirit and body, there already exists a certain tension in him; a certain struggle of tendencies between "spirit" and "flesh" develops. But in fact this struggle belongs to the heritage of sin. It is a consequence of sin and at the same time a confirmation of it. It is part of the daily experience of the spiritual battle:
 
-For the Apostle it is not a
-matter of despising and condemning the body which with the spiritual soul
-constitutes man's nature and personal subjectivity. Rather, he is concerned
-with the morally good or bad works, or better, the permanent dispositions -
-virtues and vices - which are the fruit of submission (in the first case) or of
-resistance (in the second case) to the saving action of the Holy Spirit. For
-this reason the Apostle writes: "If we live by the Spirit, let us also
-walk by the Spirit."
+For the Apostle it is not a matter of despising and condemning the body which with the spiritual soul constitutes man's nature and personal subjectivity. Rather, he is concerned with the morally good or bad works, or better, the permanent dispositions - virtues and vices - which are the fruit of submission (in the first case) or of resistance (in the second case) to the saving action of the Holy Spirit. For this reason the Apostle writes: "If we live by the Spirit, let us also walk by the Spirit."
 
-**I. Purification of the
-Heart2517.** The heart is the seat of moral personality: "Out of the heart come evil thoughts, murder, adultery, fornication...." The struggle against carnal covetousness entails purifying the heart and practicing temperance:
+#### I. Purification of the Heart
 
-Remain simple and innocent,
-and you will be like little children who do not know the evil that destroys
-man's life.
+**2517.** The heart is the seat of moral personality: "Out of the heart come evil thoughts, murder, adultery, fornication...." The struggle against carnal covetousness entails purifying the heart and practicing temperance:
+
+Remain simple and innocent, and you will be like little children who do not know the evil that destroys man's life.
 
 **2518.** The sixth beatitude proclaims, "Blessed are the pure in heart, for they shall see God." "Pure in heart" refers to those who have attuned their intellects and wills to the demands of God's holiness, chiefly in three areas: charity; chastity or sexual rectitude; love of truth and orthodoxy of faith. There is a connection between purity of heart, of body, and of faith:
 
-The faithful must believe the
-articles of the Creed "so that by believing they may obey God, by obeying
-may live well, by living well may purify their hearts, and with pure hearts may
-understand what they believe."
+The faithful must believe the articles of the Creed "so that by believing they may obey God, by obeying may live well, by living well may purify their hearts, and with pure hearts may understand what they believe."
 
 **2519.** The "pure in heart" are promised that they will see God face to face and be like him. Purity of heart is the precondition of the vision of God. Even now it enables us to see according to God, to accept others as "neighbors"; it lets us perceive the human body - ours and our neighbor's - as a temple of the Holy Spirit, a manifestation of divine beauty.
 
-**II. The Battle for Purity2520.** Baptism confers on its recipient the grace of purification from all sins. But the baptized must continue to struggle against concupiscence of the flesh and disordered desires. With God's grace he will prevail ** - by the virtue and gift of chastity, for chastity lets us love with upright and undivided heart;
+#### II. The Battle for Purity
 
-- by purity of intention which consists in seeking the true end of man: with
-simplicity of vision, the baptized person seeks to find and to fulfill God's
-will in everything;
+**2520.** Baptism confers on its recipient the grace of purification from all sins. But the baptized must continue to struggle against concupiscence of the flesh and disordered desires. With God's grace he will prevail - by the virtue and gift of chastity, for chastity lets us love with upright and undivided heart; - by purity of intention which consists in seeking the true end of man: with simplicity of vision, the baptized person seeks to find and to fulfill God's will in everything; - by purity of vision, external and internal; by discipline of feelings and imagination; by refusing all complicity in impure thoughts that incline us to turn aside from the path of God's commandments: "Appearance arouses yearning in fools"; - by prayer:
 
-- by purity of vision, external and internal; by discipline of feelings and
-imagination; by refusing all complicity in impure thoughts that incline us to
-turn aside from the path of God's commandments: "Appearance arouses
-yearning in fools";
-
-- by prayer:
-
-I thought that continence
-arose from one's own powers, which I did not recognize in myself. I was foolish
-enough not to know . . . that no one can be continent unless you grant it. For
-you would surely have granted it if my inner groaning had reached your ears and
-I with firm faith had cast my cares on you.
+I thought that continence arose from one's own powers, which I did not recognize in myself. I was foolish enough not to know . . . that no one can be continent unless you grant it. For you would surely have granted it if my inner groaning had reached your ears and I with firm faith had cast my cares on you.
 
 **2521.** Purity requires modesty, an integral part of temperance. Modesty protects the intimate center of the person. It means refusing to unveil what should remain hidden. It is ordered to chastity to whose sensitivity it bears witness. It guides how one looks at others and behaves toward them in conformity with the dignity of persons and their solidarity.
 
@@ -3639,7 +2662,9 @@ I with firm faith had cast my cares on you.
 
 **2527.** "The Good News of Christ continually renews the life and culture of fallen man; it combats and removes the error and evil which flow from the ever-present attraction of sin. It never ceases to purify and elevate the morality of peoples. It takes the spiritual qualities and endowments of every age and nation, and with supernatural riches it causes them to blossom, as it were, from within; it fortifies, completes, and restores them in Christ."
 
-**IN BRIEF2528.** *"Everyone who looks at a woman lustfully has already committed adultery with her in his heart" (Mt 5:28).*
+#### IN BRIEF
+
+**2528.** *"Everyone who looks at a woman lustfully has already committed adultery with her in his heart" (Mt 5:28).*
 
 **2529.** *The ninth commandment warns against lust or carnal concupiscence.*
 
@@ -3651,101 +2676,73 @@ I with firm faith had cast my cares on you.
 
 **2533.** *Purity of heart requires the modesty which is patience, decency, and discretion. Modesty protects the intimate center of the person.*
 
-Article 10THE TENTH COMMANDMENT**
+Article 10
+
+#### THE TENTH COMMANDMENT
 
 You shall not covet ... anything that is your neighbor's....
 
-You shall not desire your neighbor's house, his field, or his
-manservant, or his maidservant,, or his ox, or his ass, or anything that is
-your neighbor's. **
-
-For where your treasure is, there will your heart be also.
+You shall not desire your neighbor's house, his field, or his manservant, or his maidservant,, or his ox, or his ass, or anything that is your neighbor's. For where your treasure is, there will your heart be also.
 
 **2534.** The tenth commandment unfolds and completes the ninth, which is concerned with concupiscence of the flesh. It forbids coveting the goods of another, as the root of theft, robbery, and fraud, which the seventh commandment forbids. "Lust of the eyes" leads to the violence and injustice forbidden by the fifth commandment. Avarice, like fornication, originates in the idolatry prohibited by the first three prescriptions of the Law. The tenth commandment concerns the intentions of the heart; with the ninth, it summarizes all the precepts of the Law.
 
-**I. The Disorder of Covetous
-Desires2535.** The sensitive appetite leads us to desire pleasant things we do not have, e.g., the desire to eat when we are hungry or to warm ourselves when we are cold. These desires are good in themselves; but often they exceed the limits of reason and drive us to covet unjustly what is not ours and belongs to another or is owed to him.
+#### I. The Disorder of Covetous Desires
+
+**2535.** The sensitive appetite leads us to desire pleasant things we do not have, e.g., the desire to eat when we are hungry or to warm ourselves when we are cold. These desires are good in themselves; but often they exceed the limits of reason and drive us to covet unjustly what is not ours and belongs to another or is owed to him.
 
 **2536.** The tenth commandment forbids greed and the desire to amass earthly goods without limit. It forbids avarice arising from a passion for riches and their attendant power. It also forbids the desire to commit injustice by harming our neighbor in his temporal goods:
 
-When the Law says, "You
-shall not covet," these words mean that we should banish our desires for
-whatever does not belong to us. Our thirst for another's goods is immense,
-infinite, never quenched. Thus it is written: "He who loves money never
-has money enough."
+When the Law says, "You shall not covet," these words mean that we should banish our desires for whatever does not belong to us. Our thirst for another's goods is immense, infinite, never quenched. Thus it is written: "He who loves money never has money enough."
 
 **2537.** It is not a violation of this commandment to desire to obtain things that belong to one's neighbor, provided this is done by just means. Traditional catechesis realistically mentions "those who have a harder struggle against their criminal desires" and so who "must be urged the more to keep this commandment":
 
-. . . merchants who desire
-scarcity and rising prices, who cannot bear not to be the only ones buying and
-selling so that they themselves can sell more dearly and buy more cheaply;
-those who hope that their peers will be impoverished, in order to realize a
-profit either by selling to them or buying from them . . . physicians who wish
-disease to spread; lawyers who are eager for many important cases and
-trials.
+. . . merchants who desire scarcity and rising prices, who cannot bear not to be the only ones buying and selling so that they themselves can sell more dearly and buy more cheaply; those who hope that their peers will be impoverished, in order to realize a profit either by selling to them or buying from them . . . physicians who wish disease to spread; lawyers who are eager for many important cases and trials.
 
 **2538.** The tenth commandment requires that envy be banished from the human heart. When the prophet Nathan wanted to spur King David to repentance, he told him the story about the poor man who had only one ewe lamb that he treated like his own daughter and the rich man who, despite the great number of his flocks, envied the poor man and ended by stealing his lamb. Envy can lead to the worst crimes. "Through the devil's envy death entered the world":
 
-We fight one another, and envy
-arms us against one another.... If everyone strives to unsettle the Body of
-Christ, where shall we end up? We are engaged in making Christ's Body a
-corpse.... We declare ourselves members of one and the same organism, yet we
-devour one another like beasts.
+We fight one another, and envy arms us against one another.... If everyone strives to unsettle the Body of Christ, where shall we end up? We are engaged in making Christ's Body a corpse.... We declare ourselves members of one and the same organism, yet we devour one another like beasts.
 
 **2539.** Envy is a capital sin. It refers to the sadness at the sight of another's goods and the immoderate desire to acquire them for oneself, even unjustly. When it wishes grave harm to a neighbor it is a mortal sin:
 
-St. Augustine saw envy as
-"the diabolical sin." "From envy are born hatred,
-detraction, calumny, joy caused by the misfortune of a neighbor, and
-displeasure caused by his prosperity."
+St. Augustine saw envy as "the diabolical sin." "From envy are born hatred, detraction, calumny, joy caused by the misfortune of a neighbor, and displeasure caused by his prosperity."
 
 **2540.** Envy represents a form of sadness and therefore a refusal of charity; the baptized person should struggle against it by exercising good will. Envy often comes from pride; the baptized person should train himself to live in humility:
 
-Would you like to see God
-glorified by you? Then rejoice in your brother's progress and you will
-immediately give glory to God. Because his servant could conquer envy by
-rejoicing in the merits of others, God will be praised.
+Would you like to see God glorified by you? Then rejoice in your brother's progress and you will immediately give glory to God. Because his servant could conquer envy by rejoicing in the merits of others, God will be praised.
 
-**II. The Desires of the Spirit2541.** The economy of law and grace turns men's hearts away from avarice and envy. It initiates them into desire for the Sovereign Good; it instructs them in the desires of the Holy Spirit who satisfies man's heart. ** The God of the promises always warned man against seduction by what from the beginning has seemed "good for food . . . a delight to the eyes . . . to be desired to make one wise."
+#### II. The Desires of the Spirit
+
+**2541.** The economy of law and grace turns men's hearts away from avarice and envy. It initiates them into desire for the Sovereign Good; it instructs them in the desires of the Holy Spirit who satisfies man's heart. The God of the promises always warned man against seduction by what from the beginning has seemed "good for food . . . a delight to the eyes . . . to be desired to make one wise."
 
 **2542.** The Law entrusted to Israel never sufficed to justify those subject to it; it even became the instrument of "lust." The gap between wanting and doing points to the conflict between God's Law which is the "law of my mind," and another law "making me captive to the law of sin which dwells in my members."
 
 **2543.** "But now the righteousness of God has been manifested apart from law, although the law and the prophets bear witness to it, the righteousness of God through faith in Jesus Christ for all who believe." Henceforth, Christ's faithful "have crucified the flesh with its passions and desires"; they are led by the Spirit and follow the desires of the Spirit.
 
-**III. Poverty of Heart2544.** Jesus enjoins his disciples to prefer him to everything and everyone, and bids them "renounce all that [they have]" for his sake and that of the Gospel. Shortly before his passion he gave them the example of the poor widow of Jerusalem who, out of her poverty, gave all that she had to live on. The precept of detachment from riches is obligatory for entrance into the Kingdom of heaven.
+#### III. Poverty of Heart
+
+**2544.** Jesus enjoins his disciples to prefer him to everything and everyone, and bids them "renounce all that [they have]" for his sake and that of the Gospel. Shortly before his passion he gave them the example of the poor widow of Jerusalem who, out of her poverty, gave all that she had to live on. The precept of detachment from riches is obligatory for entrance into the Kingdom of heaven.
 
 **2545.** All Christ's faithful are to "direct their affections rightly, lest they be hindered in their pursuit of perfect charity by the use of worldly things and by an adherence to riches which is contrary to the spirit of evangelical poverty."
 
 **2546.** "Blessed are the poor in spirit." The Beatitudes reveal an order of happiness and grace, of beauty and peace. Jesus celebrates the joy of the poor, to whom the Kingdom already belongs:
 
-The Word speaks of voluntary
-humility as "poverty in spirit"; the Apostle gives an example of
-God's poverty when he says: "For your sakes he became poor."
+The Word speaks of voluntary humility as "poverty in spirit"; the Apostle gives an example of God's poverty when he says: "For your sakes he became poor."
 
 **2547.** The Lord grieves over the rich, because they find their consolation in the abundance of goods. "Let the proud seek and love earthly kingdoms, but blessed are the poor in spirit for theirs is the Kingdom of heaven." Abandonment to the providence of the Father in heaven frees us from anxiety about tomorrow. Trust in God is a preparation for the blessedness of the poor. They shall see God.
 
-**IV. "I Want to See
-God"2548.** Desire for true happiness frees man from his immoderate attachment to the goods of this world so that he can find his fulfillment in the vision and beatitude of God. "The promise [of seeing God] surpasses all beatitude.... In Scripture, to see is to possess.... Whoever sees God has obtained all the goods of which he can conceive."
+#### IV. &quot;I Want to See God&quot;
+
+**2548.** Desire for true happiness frees man from his immoderate attachment to the goods of this world so that he can find his fulfillment in the vision and beatitude of God. "The promise [of seeing God] surpasses all beatitude.... In Scripture, to see is to possess.... Whoever sees God has obtained all the goods of which he can conceive."
 
 **2549.** It remains for the holy people to struggle, with grace from on high, to obtain the good things God promises. In order to possess and contemplate God, Christ's faithful mortify their cravings and, with the grace of God, prevail over the seductions of pleasure and power.
 
 **2550.** On this way of perfection, the Spirit and the Bride call whoever hears them to perfect communion with God:
 
-There will true glory be,
-where no one will be praised by mistake or flattery; true honor will not be
-refused to the worthy, nor granted to the unworthy; likewise, no one unworthy
-will pretend to be worthy, where only those who are worthy will be admitted.
-There true peace will reign, where no one will experience opposition either
-from self or others. God himself will be virtue's reward; he gives virtue and
-has promised to give himself as the best and greatest reward that could
-exist.... "I shall be their God and they will be my people...." This
-is also the meaning of the Apostle's words: "So that God may be all in
-all." God himself will be the goal of our desires; we shall contemplate
-him without end, love him without surfeit, praise him without weariness. This
-gift, this state, this act, like eternal life itself, will assuredly be common
-to all.
+There will true glory be, where no one will be praised by mistake or flattery; true honor will not be refused to the worthy, nor granted to the unworthy; likewise, no one unworthy will pretend to be worthy, where only those who are worthy will be admitted. There true peace will reign, where no one will experience opposition either from self or others. God himself will be virtue's reward; he gives virtue and has promised to give himself as the best and greatest reward that could exist.... "I shall be their God and they will be my people...." This is also the meaning of the Apostle's words: "So that God may be all in all." God himself will be the goal of our desires; we shall contemplate him without end, love him without surfeit, praise him without weariness. This gift, this state, this act, like eternal life itself, will assuredly be common to all.
 
-**IN BRIEF2551.** *"Where your treasure is, there will your heart be also" (Mt 6:21).*
+#### IN BRIEF
+
+**2551.** *"Where your treasure is, there will your heart be also" (Mt 6:21).*
 
 **2552.** *The tenth commandment forbids avarice arising from a passion for riches and their attendant power.*
 

@@ -1,136 +1,62 @@
 # Part 4: Christian Prayer
 
-PART FOUR:CHRISTIAN PRAYERSECTION ONEPRAYER IN THE CHRISTIAN LIFE 2558.** "Great is the mystery of the faith!"
+#### PART FOUR:
 
-The Church
-professes this mystery in the Apostles' Creed (Part One) and celebrates it in
-the sacramental liturgy (Part Two), so that the life of the faithful may be
-conformed to Christ in the Holy Spirit to the glory of God the Father (Part
-Three).
+#### CHRISTIAN PRAYER
 
-This
-mystery, then, requires that the faithful believe in it, that they celebrate
-it, and that they live from it in a vital and personal relationship with the
-living and true God. This relationship is prayer.
+## SECTION ONE
 
-WHAT IS
-PRAYER?
+#### PRAYER IN THE CHRISTIAN LIFE
 
-For me, prayer is a surge of
-the heart;**
-it is a simple look turned toward heaven,
+**2558.** "Great is the mystery of the faith!"
 
-it is a cry of recognition and of love,
+The Church professes this mystery in the Apostles' Creed (Part One) and celebrates it in the sacramental liturgy (Part Two), so that the life of the faithful may be conformed to Christ in the Holy Spirit to the glory of God the Father (Part Three).
 
-embracing both trial and joy.
+This mystery, then, requires that the faithful believe in it, that they celebrate it, and that they live from it in a vital and personal relationship with the living and true God. This relationship is prayer.
 
-Prayer as
-God's gift
+#### WHAT IS PRAYER?
 
-**2559.** "Prayer is the raising of one's mind and heart to God or the requesting of good things from God."
+For me, prayer is a surge of the heart; it is a simple look turned toward heaven, it is a cry of recognition and of love, embracing both trial and joy.
 
-But when we pray, do we speak from the height of our pride and will, or
-"out of the depths" of a humble and contrite heart?
+Prayer as God's gift
 
-He who humbles himself will be exalted; humility is the foundation of
-prayer,
+**2559.** "Prayer is the raising of one's mind and heart to God or the requesting of good things from God." But when we pray, do we speak from the height of our pride and will, or "out of the depths" of a humble and contrite heart? He who humbles himself will be exalted; humility is the foundation of prayer, Only when we humbly acknowledge that "we do not know how to pray as we ought," are we ready to receive freely the gift of prayer. "Man is a beggar before God."
 
-Only when we humbly acknowledge that "we do not know how to pray as we
-ought," are we ready to receive freely the gift of prayer.
+**2560.** "If you knew the gift of God!" The wonder of prayer is revealed beside the well where we come seeking water: there, Christ comes to meet every human being. It is he who first seeks us and asks us for a drink. Jesus thirsts; his asking arises from the depths of God's desire for us. Whether we realize it or not, prayer is the encounter of God's thirst with ours. God thirsts that we may thirst for him.
 
-"Man is a beggar before God."
+**2561.** "You would have asked him, and he would have given you living water." Paradoxically our prayer of petition is a response to the plea of the living God: "They have forsaken me, the fountain of living waters, and hewn out cisterns for themselves, broken cisterns that can hold no water!" Prayer is the response of faith to the free promise of salvation and also a response of love to the thirst of the only Son of God.
 
-**2560.** "If you knew the gift of God!"
+Prayer as covenant
 
-The wonder of prayer is revealed beside the well where we come seeking water:
-there, Christ comes to meet every human being.
+**2562.** Where does prayer come from? Whether prayer is expressed in words or gestures, it is the whole man who prays. But in naming the source of prayer, Scripture speaks sometimes of the soul or the spirit, but most often of the heart (more than a thousand times). According to Scripture, it is the heart that prays. If our heart is far from God, the words of prayer are in vain.
 
-It is he who first seeks us and asks us for a drink. Jesus thirsts; his asking
-arises from the depths of God's desire for us.
+**2563.** The heart is the dwelling-place where I am, where I live; according to the Semitic or Biblical expression, the heart is the place "to which I withdraw." The heart is our hidden center, beyond the grasp of our reason and of others; only the Spirit of God can fathom the human heart and know it fully. The heart is the place of decision, deeper than our psychic drives. It is the place of truth, where we choose life or death. It is the place of encounter, because as image of God we live in relation: it is the place of covenant.
 
-Whether we realize it or not, prayer is the encounter of God's thirst with
-ours. God thirsts that we may thirst for him.
+**2564.** Christian prayer is a covenant relationship between God and man in Christ. It is the action of God and of man, springing forth from both the Holy Spirit and ourselves, wholly directed to the Father, in union with the human will of the Son of God made man.
 
-**2561.** "You would have asked him, and he would have given you living water."
+Prayer as communion
 
-Paradoxically our prayer of petition is a response to the plea of the living
-God:
+**2565.** In the New Covenant, prayer is the living relationship of the children of God with their Father who is good beyond measure, with his Son Jesus Christ and with the Holy Spirit. The grace of the Kingdom is "the union of the entire holy and royal Trinity . . . with the whole human spirit." Thus, the life of prayer is the habit of being in the presence of the thrice-holy God and in communion with him. This communion of life is always possible because, through Baptism, we have already been united with Christ. Prayer is Christian insofar as it is communion with Christ and extends throughout the Church, which is his Body. Its dimensions are those of Christ's love.
 
-"They have forsaken me, the fountain of living waters, and hewn out
-cisterns for themselves, broken cisterns that can hold no
-water!"
+#### CHAPTER ONE
 
-Prayer is the response of faith to the free promise of salvation and also a
-response of love to the thirst of the only Son of God.
+#### THE REVELATION OF PRAYER - THE UNIVERSAL CALL TO PRAYER
 
-Prayer as
-covenant
-
-**2562.** Where does prayer come from?
-
-Whether prayer is expressed in words or gestures, it is the whole man who
-prays.
-
-But in naming the source of prayer, Scripture speaks sometimes of the soul or
-the spirit, but most often of the heart (more than a thousand times).
-
-According to Scripture, it is the heart that prays.
-
-If our heart is far from God, the words of prayer are in vain.
-
-**2563.** The heart is the dwelling-place where I am, where I live; according to the Semitic or Biblical expression, the heart is the place "to which I withdraw."
-
-The heart is our hidden center, beyond the grasp of our reason and of others;
-
-only the Spirit of God can fathom the human heart and know it fully.
-
-The heart is the place of decision, deeper than our psychic drives.
-
-It is the place of truth, where we choose life or death.
-
-It is the place of encounter, because as image of God we live in relation:
-
-it is the place of covenant.
-
-**2564.** Christian prayer is a covenant relationship between God and man in Christ.
-
-It is the action of God and of man, springing forth from both the Holy Spirit
-and ourselves, wholly directed to the Father, in union with the human will of
-the Son of God made man.
-
-Prayer as
-communion
-
-**2565.** In the New Covenant, prayer is the living relationship of the children of God with their Father who is good beyond measure, with his Son Jesus Christ and with the Holy Spirit.
-
-The grace of the Kingdom is "the union of the entire holy and royal
-Trinity . . . with the whole human spirit."
-
-Thus, the life of prayer is the habit of being in the presence of the
-thrice-holy God and in communion with him.
-
-This communion of life is always possible because, through Baptism, we have
-already been united with Christ.
-
-Prayer is Christian insofar as it is communion with Christ and extends
-throughout the Church, which is his Body.
-
-Its dimensions are those of Christ's love.
-
-CHAPTER ONETHE REVELATION OF PRAYER - THE UNIVERSAL CALL
-TO PRAYER2566.** Man is in search of God. In the act of creation, God calls every being from nothingness into existence. "Crowned with glory and honor," man is, after the angels, capable of acknowledging "how majestic is the name of the Lord in all the earth." Even after losing through his sin his likeness to God, man remains an image of his Creator, and retains the desire for the one who calls him into existence. All religions bear witness to men's essential search for God.
+**2566.** Man is in search of God. In the act of creation, God calls every being from nothingness into existence. "Crowned with glory and honor," man is, after the angels, capable of acknowledging "how majestic is the name of the Lord in all the earth." Even after losing through his sin his likeness to God, man remains an image of his Creator, and retains the desire for the one who calls him into existence. All religions bear witness to men's essential search for God.
 
 **2567.** God calls man first. Man may forget his Creator or hide far from his face; he may run after idols or accuse the deity of having abandoned him; yet the living and true God tirelessly calls each person to that mysterious encounter known as prayer. In prayer, the faithful God's initiative of love always comes first; our own first step is always a response. As God gradually reveals himself and reveals man to himself, prayer appears as a reciprocal call, a covenant drama. Through words and actions, this drama engages the heart. It unfolds throughout the whole history of salvation.
 
-Article 1IN THE OLD TESTAMENT2568.** In the Old Testament, the revelation of prayer comes between the fall and the restoration of man, that is, between God's sorrowful call to his first children: "Where are you? . . . What is this that you have done?" and the response of God's only Son on coming into the world: "Lo, I have come to do your will, O God." Prayer is bound up with human history, for it is the relationship with God in historical events.
+Article 1
 
-Creation -
-source of prayer
+#### IN THE OLD TESTAMENT
 
-**2569.** Prayer is lived in the first place beginning with the realities of creation. the first nine chapters of Genesis describe this relationship with God as an offering of the first-born of Abel's flock, as the invocation of the divine name at the time of Enosh, and as "walking with God. Noah's offering is pleasing to God, who blesses him and through him all creation, because his heart was upright and undivided; Noah, like Enoch before him, "walks with God." This kind of prayer is lived by many righteous people in all religions. ** In his indefectible covenant with every living creature, God has always called people to prayer. But it is above all beginning with our father Abraham that prayer is revealed in the Old Testament.
+**2568.** In the Old Testament, the revelation of prayer comes between the fall and the restoration of man, that is, between God's sorrowful call to his first children: "Where are you? . . . What is this that you have done?" and the response of God's only Son on coming into the world: "Lo, I have come to do your will, O God." Prayer is bound up with human history, for it is the relationship with God in historical events.
 
-God's
-promise and the prayer of Faith
+Creation - source of prayer
+
+**2569.** Prayer is lived in the first place beginning with the realities of creation. the first nine chapters of Genesis describe this relationship with God as an offering of the first-born of Abel's flock, as the invocation of the divine name at the time of Enosh, and as "walking with God. Noah's offering is pleasing to God, who blesses him and through him all creation, because his heart was upright and undivided; Noah, like Enoch before him, "walks with God." This kind of prayer is lived by many righteous people in all religions. In his indefectible covenant with every living creature, God has always called people to prayer. But it is above all beginning with our father Abraham that prayer is revealed in the Old Testament.
+
+God's promise and the prayer of Faith
 
 **2570.** When God calls him, Abraham goes forth "as the Lord had told him"; Abraham's heart is entirely submissive to the Word and so he obeys. Such attentiveness of the heart, whose decisions are made according to God's will, is essential to prayer, while the words used count only in relation to it. Abraham's prayer is expressed first by deeds: a man of silence, he constructs an altar to the Lord at each stage of his journey. Only later does Abraham's first prayer in words appear: a veiled complaint reminding God of his promises which seem unfulfilled. Thus one aspect of the drama of prayer appears from the beginning: the test of faith in the fidelity of God.
 
@@ -140,8 +66,7 @@ promise and the prayer of Faith
 
 **2573.** God renews his promise to Jacob, the ancestor of the twelve tribes of Israel. Before confronting his elder brother Esau, Jacob wrestles all night with a mysterious figure who refuses to reveal his name, but he blesses him before leaving him at dawn. From this account, the spiritual tradition of the Church has retained the symbol of prayer as a battle of faith and as the triumph of perseverance.
 
-Moses and
-the prayer of the mediator
+Moses and the prayer of the mediator
 
 **2574.** Once the promise begins to be fulfilled (Passover, the Exodus, the gift of the Law, and the ratification of the covenant), the prayer of Moses becomes the most striking example of intercessory prayer, which will be fulfilled in "the one mediator between God and men, the man Christ Jesus."
 
@@ -151,8 +76,7 @@ the prayer of the mediator
 
 **2577.** From this intimacy with the faithful God, slow to anger and abounding in steadfast love, Moses drew strength and determination for his intercession. He does not pray for himself but for the people whom God made his own. Moses already intercedes for them during the battle with the Amalekites and prays to obtain healing for Miriam. But it is chiefly after their apostasy that Moses "stands in the breach" before God in order to save the people. The arguments of his prayer - for intercession is also a mysterious battle - will inspire the boldness of the great intercessors among the Jewish people and in the Church: God is love; he is therefore righteous and faithful; he cannot contradict himself; he must remember his marvellous deeds, since his glory is at stake, and he cannot forsake this people that bears his name.
 
-David and
-the prayer of the king
+David and the prayer of the king
 
 **2578.** The prayer of the People of God flourishes in the shadow of God's dwelling place, first the ark of the covenant and later the Temple. At first the leaders of the people - the shepherds and the prophets - teach them to pray. the infant Samuel must have learned from his mother Hannah how "to stand before the LORD" and from the priest Eli how to listen to his word: "Speak, LORD, for your servant is listening." Later, he will also know the cost and consequence of intercession: "Moreover, as for me, far be it from me that I should sin against the LORD by ceasing to pray for you; and I will instruct you in the good and the right way."
 
@@ -160,27 +84,17 @@ the prayer of the king
 
 **2580.** The Temple of Jerusalem, the house of prayer that David wanted to build, will be the work of his son, Solomon. the prayer at the dedication of the Temple relies on God's promise and covenant, on the active presence of his name among his People, recalling his mighty deeds at the Exodus. The king lifts his hands toward heaven and begs the Lord, on his own behalf, on behalf of the entire people, and of the generations yet to come, for the forgiveness of their sins and for their daily needs, so that the nations may know that He is the only God and that the heart of his people may belong wholly and entirely to him.
 
-Elijah, the
-prophets and conversion of heart
+Elijah, the prophets and conversion of heart
 
 **2581.** For the People of God, the Temple was to be the place of their education in prayer: pilgrimages, feasts and sacrifices, the evening offering, the incense, and the bread of the Presence (“shewbread") - all these signs of the holiness and glory of God Most High and Most Near were appeals to and ways of prayer. But ritualism often encouraged an excessively external worship. the people needed education in faith and conversion of heart; this was the mission of the prophets, both before and after the Exile.
 
 **2582.** Elijah is the "father" of the prophets, "the generation of those who seek him, who seek the face of the God of Jacob." Elijah's name, "The Lord is my God," foretells the people's cry in response to his prayer on Mount Carmel. St. James refers to Elijah in order to encourage us to pray: "The prayer of the righteous is powerful and effective."
 
-**2583.** After Elijah had learned mercy during his retreat at the Wadi Cherith, he teaches the widow of Zarephath to believe in the Word of God and confirms her faith by his urgent prayer: God brings the widow's child back to life. The sacrifice on Mount Carmel is a decisive test for the faith of the People of God. In response to Elijah's plea, "Answer me, O LORD, answer me," the Lord's fire consumes the holocaust, at the time of the evening oblation. the Eastern liturgies repeat Elijah's plea in the Eucharistic epiclesis.
-
-Finally, taking the desert road that leads to the place where the living and
-true God reveals himself to his people, Elijah, like Moses before him, hides
-"in a cleft of he rock" until the mysterious presence of God has
-passed by. But only on the mountain of the Transfiguration will Moses
-and Elijah behold the unveiled face of him whom they sought; "the light of
-the knowledge of the glory of God [shines] in the face of Christ,"
-crucified and risen.
+**2583.** After Elijah had learned mercy during his retreat at the Wadi Cherith, he teaches the widow of Zarephath to believe in the Word of God and confirms her faith by his urgent prayer: God brings the widow's child back to life. The sacrifice on Mount Carmel is a decisive test for the faith of the People of God. In response to Elijah's plea, "Answer me, O LORD, answer me," the Lord's fire consumes the holocaust, at the time of the evening oblation. the Eastern liturgies repeat Elijah's plea in the Eucharistic epiclesis. Finally, taking the desert road that leads to the place where the living and true God reveals himself to his people, Elijah, like Moses before him, hides "in a cleft of he rock" until the mysterious presence of God has passed by. But only on the mountain of the Transfiguration will Moses and Elijah behold the unveiled face of him whom they sought; "the light of the knowledge of the glory of God [shines] in the face of Christ," crucified and risen.
 
 **2584.** In their "one to one" encounters with God, the prophets draw light and strength for their mission. Their prayer is not flight from this unfaithful world, but rather attentiveness to the Word of God. At times their prayer is an argument or a complaint, but it is always an intercession that awaits and prepares for the intervention of the Savior God, the Lord of history.
 
-The Psalms,
-the prayer of the assembly
+The Psalms, the prayer of the assembly
 
 **2585.** From the time of David to the coming of the Messiah texts appearing in these sacred books show a deepening in prayer for oneself and in prayer for others. Thus the psalms were gradually collected into the five books of the Psalter (or "Praises"), the masterwork of prayer in the Old Testament.
 
@@ -192,14 +106,11 @@ the prayer of the assembly
 
 **2589.** Certain constant characteristics appear throughout the Psalms: simplicity and spontaneity of prayer; the desire for God himself through and with all that is good in his creation; the distraught situation of the believer who, in his preferential love for the Lord, is exposed to a host of enemies and temptations, but who waits upon what the faithful God will do, in the certitude of his love and in submission to his will. the prayer of the psalms is always sustained by praise; that is why the title of this collection as handed down to us is so fitting: "The Praises." Collected for the assembly's worship, the Psalter both sounds the call to prayer and sings the response to that call: Hallelu-Yah! (“Alleluia"), "Praise the Lord!"
 
-What is more pleasing than a
-psalm? David expresses it well: "Praise the Lord, for a psalm is good: let
-there be praise of our God with gladness and grace!" Yes, a psalm is a
-blessing on the lips of the people, praise of God, the assembly's homage, a
-general acclamation, a word that speaks for all, the voice of the Church, a
-confession of faith in song.
+What is more pleasing than a psalm? David expresses it well: "Praise the Lord, for a psalm is good: let there be praise of our God with gladness and grace!" Yes, a psalm is a blessing on the lips of the people, praise of God, the assembly's homage, a general acclamation, a word that speaks for all, the voice of the Church, a confession of faith in song.
 
-**IN BRIEF2590.** *"Prayer is the raising of one's mind and heart to God or the requesting of good things from God" (St. John Damascene, Defide orth. 3, 24: PG 94, 1089C).*
+#### IN BRIEF
+
+**2590.** *"Prayer is the raising of one's mind and heart to God or the requesting of good things from God" (St. John Damascene, Defide orth. 3, 24: PG 94, 1089C).*
 
 **2591.** *God tirelessly calls each person to this mysterious encounter with Himself. Prayer unfolds throughout the whole history of salvation as a reciprocal call between God and man.*
 
@@ -215,7 +126,11 @@ confession of faith in song.
 
 **2597.** *Prayed and fulfilled in Christ, the Psalms are an essential and permanent element of the prayer of the Church. They are suitable for men of every condition and time.*
 
-Article 2IN THE FULLNESS OF TIME2598.** The drama of prayer is fully revealed to us in the Word who became flesh and dwells among us. To seek to understand his prayer through what his witnesses proclaim to us in the Gospel is to approach the holy Lord Jesus as Moses approached the burning bush: first to contemplate him in prayer, then to hear how he teaches us to pray, in order to know how he hears our prayer.
+Article 2
+
+#### IN THE FULLNESS OF TIME
+
+**2598.** The drama of prayer is fully revealed to us in the Word who became flesh and dwells among us. To seek to understand his prayer through what his witnesses proclaim to us in the Gospel is to approach the holy Lord Jesus as Moses approached the burning bush: first to contemplate him in prayer, then to hear how he teaches us to pray, in order to know how he hears our prayer.
 
 Jesus prays
 
@@ -231,26 +146,15 @@ Jesus prays
 
 **2604.** The second prayer, before the raising of Lazarus, is recorded by St. John. Thanksgiving precedes the event: "Father, I thank you for having heard me," which implies that the Father always hears his petitions. Jesus immediately adds: "I know that you always hear me," which implies that Jesus, on his part, constantly made such petitions. Jesus' prayer, characterized by thanksgiving, reveals to us how to ask: before the gift is given, Jesus commits himself to the One who in giving gives himself. the Giver is more precious than the gift; he is the "treasure"; in him abides his Son's heart; the gift is given "as well."
 
-The priestly prayer of Jesus
-holds a unique place in the economy of salvation. A meditation on it
-will conclude Section One. It reveals the ever present prayer of our High
-Priest and, at the same time, contains what he teaches us about our prayer to
-our Father, which will be developed in Section Two.
+The priestly prayer of Jesus holds a unique place in the economy of salvation. A meditation on it will conclude Section One. It reveals the ever present prayer of our High Priest and, at the same time, contains what he teaches us about our prayer to our Father, which will be developed in Section Two.
 
 **2605.** When the hour had come for him to fulfill the Father's plan of love, Jesus allows a glimpse of the boundless depth of his filial prayer, not only before he freely delivered himself up (“Abba . . . not my will, but yours."), but even in his last words on the Cross, where prayer and the gift of self are but one: "Father, forgive them, for they know not what they do", "Truly, I say to you, today you will be with me in Paradise", "Woman, behold your son" - "Behold your mother", "I thirst."; "My God, My God, why have you forsaken me?" "It is finished"; "Father, into your hands I commit my spirit!" until the "loud cry" as he expires, giving up his spirit.
 
 **2606.** All the troubles, for all time, of humanity enslaved by sin and death, all the petitions and intercessions of salvation history are summed up in this cry of the incarnate Word. Here the Father accepts them and, beyond all hope, answers them by raising his Son. Thus is fulfilled and brought to completion the drama of prayer in the economy of creation and salvation. the Psalter gives us the key to prayer in Christ. In the "today" of the Resurrection the Father says: "You are my Son, today I have begotten you. Ask of me, and I will make the nations your heritage, and the ends of the earth your possession."
 
-The Letter to the Hebrews
-expresses in dramatic terms how the prayer of Jesus accomplished the victory of
-salvation: "In the days of his flesh, Jesus offered up prayers and
-supplications, with loud cries and tears, to him who was able to save him from
-death, and he was heard for his godly fear. Although he was a Son, he learned
-obedience through what he suffered, and being made perfect, he became the
-source of eternal salvation to all who obey him."
+The Letter to the Hebrews expresses in dramatic terms how the prayer of Jesus accomplished the victory of salvation: "In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death, and he was heard for his godly fear. Although he was a Son, he learned obedience through what he suffered, and being made perfect, he became the source of eternal salvation to all who obey him."
 
-Jesus
-teaches us how to pray
+Jesus teaches us how to pray
 
 **2607.** When Jesus prays he is already teaching us how to pray. His prayer to his Father is the theological path (the path of faith, hope, and charity) of our prayer to God. But the Gospel also gives us Jesus' explicit teaching on prayer. Like a wise teacher he takes hold of us where we are and leads us progressively toward the Father. Addressing the crowds following him, Jesus builds on what they already know of prayer from the Old Covenant and opens to them the newness of the coming Kingdom. Then he reveals this newness to them in parables. Finally, he will speak openly of the Father and the Holy Spirit to his disciples who will be the teachers of prayer in his Church.
 
@@ -264,33 +168,19 @@ teaches us how to pray
 
 **2612.** In Jesus "the Kingdom of God is at hand." He calls his hearers to conversion and faith, but also to watchfulness. In prayer the disciple keeps watch, attentive to Him Who Is and Him Who Comes, in memory of his first coming in the lowliness of the flesh, and in the hope of his second coming in glory. In communion with their Master, the disciples' prayer is a battle; only by keeping watch in prayer can one avoid falling into temptation.
 
-**2613.** Three principal parables on prayer are transmitted to us by St. Luke: ** - the first, "the importunate friend," invites us to urgent prayer: "Knock, and it will be opened to you." To the one who prays like this, the heavenly Father will "give whatever he needs," and above all the Holy Spirit who contains all gifts.
-
-- the second, "the importunate widow," is centered on one
-of the qualities of prayer: it is necessary to pray always without ceasing and
-with the patience of faith. "and yet, when the Son of Man comes, will he
-find faith on earth?"
-
-- the third parable, "the Pharisee and the tax collector,"
-concerns the humility of the heart that prays. "God, be merciful to me a
-sinner!" the Church continues to make this prayer its own: Kyrie eleison!
+**2613.** Three principal parables on prayer are transmitted to us by St. Luke: - the first, "the importunate friend," invites us to urgent prayer: "Knock, and it will be opened to you." To the one who prays like this, the heavenly Father will "give whatever he needs," and above all the Holy Spirit who contains all gifts. - the second, "the importunate widow," is centered on one of the qualities of prayer: it is necessary to pray always without ceasing and with the patience of faith. "and yet, when the Son of Man comes, will he find faith on earth?" - the third parable, "the Pharisee and the tax collector," concerns the humility of the heart that prays. "God, be merciful to me a sinner!" the Church continues to make this prayer its own: Kyrie eleison!
 
 **2614.** When Jesus openly entrusts to his disciples the mystery of prayer to the Father, he reveals to them what their prayer and ours must be, once he has returned to the Father in his glorified humanity. What is new is to "ask in his name." Faith in the Son introduces the disciples into the knowledge of the Father, because Jesus is "the way, and the truth, and the life." Faith bears its fruit in love: it means keeping the word and the commandments of Jesus, it means abiding with him in the Father who, in him, so loves us that he abides with us. In this new covenant the certitude that our petitions will be heard is founded on the prayer of Jesus.
 
 **2615.** Even more, what the Father gives us when our prayer is united with that of Jesus is "another Counselor, to be with you for ever, even the Spirit of truth." This new dimension of prayer and of its circumstances is displayed throughout the farewell discourse. In the Holy Spirit, Christian prayer is a communion of love with the Father, not only through Christ but also in him: "Hitherto you have asked nothing in my name; ask, and you will receive, that your joy may be full."
 
-Jesus hears
-our prayer
+Jesus hears our prayer
 
 **2616.** Prayer to Jesus is answered by him already during his ministry, through signs that anticipate the power of his death and Resurrection: Jesus hears the prayer of faith, expressed in words (the leper, Jairus, the Canaanite woman, the good thief) or in silence (the bearers of the paralytic, the woman with a hemorrhage who touches his clothes, the tears and ointment of the sinful woman). The urgent request of the blind men, "Have mercy on us, Son of David" or "Jesus, Son of David, have mercy on me!" has-been renewed in the traditional prayer to Jesus known as the Jesus Prayer: "Lord Jesus Christ, Son of God, have mercy on me, a sinner!" Healing infirmities or forgiving sins, Jesus always responds to a prayer offered in faith: "Your faith has made you well; go in peace."
 
-St. Augustine wonderfully
-summarizes the three dimensions of Jesus' prayer: "He prays for us as our
-priest, prays in us as our Head, and is prayed to by us as our God. Therefore
-let us acknowledge our voice in him and his in us."
+St. Augustine wonderfully summarizes the three dimensions of Jesus' prayer: "He prays for us as our priest, prays in us as our Head, and is prayed to by us as our God. Therefore let us acknowledge our voice in him and his in us."
 
-The prayer
-of the Virgin Mary
+The prayer of the Virgin Mary
 
 **2617.** Mary's prayer is revealed to us at the dawning of the fullness of time. Before the incarnation of the Son of God, and before the outpouring of the Holy Spirit, her prayer cooperates in a unique way with the Father's plan of loving kindness: at the Annunciation, for Christ's conception; at Pentecost, for the formation of the Church, his Body. In the faith of his humble handmaid, the Gift of God found the acceptance he had awaited from the beginning of time. She whom the Almighty made "full of grace" responds by offering her whole being: "Behold I am the handmaid of the Lord; let it be [done] to me according to your word." "Fiat": this is Christian prayer: to be wholly God's, because he is wholly ours.
 
@@ -298,27 +188,37 @@ of the Virgin Mary
 
 **2619.** That is why the Canticle of Mary, The Magnificat (Latin) or Megalynei (byzantine) is the song both of the Mother of God and of the Church; the song of the Daughter of Zion and of the new People of God; the song of thanksgiving for the fullness of graces poured out in the economy of salvation and the song of the "poor" whose hope is met by the fulfillment of the promises made to our ancestors, "to Abraham and to his posterity for ever."
 
-**IN BRIEF2620.** *Jesus' filial prayer is the perfect model of prayer in the New Testament. Often done in solitude and in secret, the prayer of Jesus involves a loving adherence to the will of the Father even to the Cross and an absolute confidence in being heard.*
+#### IN BRIEF
+
+**2620.** *Jesus' filial prayer is the perfect model of prayer in the New Testament. Often done in solitude and in secret, the prayer of Jesus involves a loving adherence to the will of the Father even to the Cross and an absolute confidence in being heard.*
 
 **2621.** *In his teaching, Jesus teaches his disciples to pray with a purified heart, with lively and persevering faith, with filial boldness. He calls them to vigilance and invites them to present their petitions to God in his name. Jesus Christ himself answers prayers addressed to him.*
 
 **2622.** *The prayers of the Virgin Mary, in her Fiat and Magnificat, are characterized by the generous offering of her whole being in faith.*
 
-Article 3IN THE AGE OF THE CHURCH2623.** On the day of Pentecost, the Spirit of the Promise was poured out on the disciples, gathered "together in one place." While awaiting the Spirit, "all these with one accord devoted themselves to prayer." The Spirit who teaches the Church and recalls for her everything that Jesus said was also to form her in the life of prayer.
+Article 3
+
+#### IN THE AGE OF THE CHURCH
+
+**2623.** On the day of Pentecost, the Spirit of the Promise was poured out on the disciples, gathered "together in one place." While awaiting the Spirit, "all these with one accord devoted themselves to prayer." The Spirit who teaches the Church and recalls for her everything that Jesus said was also to form her in the life of prayer.
 
 **2624.** In the first community of Jerusalem, believers "devoted themselves to the apostles' teaching and fellowship, to the breaking of bread, and the prayers." This sequence is characteristic of the Church's prayer: founded on the apostolic faith; authenticated by charity; nourished in the Eucharist.
 
 **2625.** In the first place these are prayers that the faithful hear and read in the Scriptures, but also that they make their own - especially those of the Psalms, in view of their fulfillment in Christ. The Holy Spirit, who thus keeps the memory of Christ alive in his Church at prayer, also leads her toward the fullness of truth and inspires new formulations expressing the unfathomable mystery of Christ at work in his Church's life, sacraments, and mission. These formulations are developed in the great liturgical and spiritual traditions. the forms of prayer revealed in the apostolic and canonical Scriptures remain normative for Christian prayer.
 
-**I. Blessing and Adoration2626.** Blessing expresses the basic movement of Christian prayer: it is an encounter between God and man. In blessing, God's gift and man's acceptance of it are united in dialogue with each other. the prayer of blessing is man's response to God's gifts: because God blesses, the human heart can in return bless the One who is the source of every blessing.
+#### I. Blessing and Adoration
+
+**2626.** Blessing expresses the basic movement of Christian prayer: it is an encounter between God and man. In blessing, God's gift and man's acceptance of it are united in dialogue with each other. the prayer of blessing is man's response to God's gifts: because God blesses, the human heart can in return bless the One who is the source of every blessing.
 
 **2627.** TWO fundamental forms express this movement: our prayer ascends in the Holy Spirit through Christ to the Father - we bless him for having blessed us; it implores the grace of the Holy Spirit that descends through Christ from the Father - he blesses us.
 
 **2628.** Adoration is the first attitude of man acknowledging that he is a creature before his Creator. It exalts the greatness of the Lord who made us and the almighty power of the Savior who sets us free from evil. Adoration is homage of the spirit to the "King of Glory," respectful silence in the presence of the "ever greater" God. Adoration of the thrice-holy and sovereign God of love blends with humility and gives assurance to our supplications.
 
-**II. Prayer of Petition2629.** The vocabulary of supplication in the New Testament is rich in shades of meaning: ask, beseech, plead, invoke, entreat, cry out, even "struggle in prayer." Its most usual form, because the most spontaneous, is petition: by prayer of petition we express awareness of our relationship with God. We are creatures who are not our own beginning, not the masters of adversity, not our own last end. We are sinners who as Christians know that we have turned away from our Father. Our petition is already a turning back to him.
+#### II. Prayer of Petition
 
-**2630.** The New Testament contains scarcely any prayers of lamentation, so frequent in the Old Testament. In the risen Christ the Church's petition is buoyed by hope, even if we still wait in a state of expectation and must be converted anew every day. Christian petition, what St. Paul calls {"groaning," arises from another depth, that of creation "in labor pains" and that of ourselves "as we wait for the redemption of our bodies. ** For in this hope we were saved." In the end, however, "with sighs too deep for words" the Holy Spirit "helps us in our weakness; for we do not know how to pray as we ought, but the Spirit himself intercedes for us with sighs too deep for words."
+**2629.** The vocabulary of supplication in the New Testament is rich in shades of meaning: ask, beseech, plead, invoke, entreat, cry out, even "struggle in prayer." Its most usual form, because the most spontaneous, is petition: by prayer of petition we express awareness of our relationship with God. We are creatures who are not our own beginning, not the masters of adversity, not our own last end. We are sinners who as Christians know that we have turned away from our Father. Our petition is already a turning back to him.
+
+**2630.** The New Testament contains scarcely any prayers of lamentation, so frequent in the Old Testament. In the risen Christ the Church's petition is buoyed by hope, even if we still wait in a state of expectation and must be converted anew every day. Christian petition, what St. Paul calls {"groaning," arises from another depth, that of creation "in labor pains" and that of ourselves "as we wait for the redemption of our bodies. For in this hope we were saved." In the end, however, "with sighs too deep for words" the Holy Spirit "helps us in our weakness; for we do not know how to pray as we ought, but the Spirit himself intercedes for us with sighs too deep for words."
 
 **2631.** The first movement of the prayer of petition is asking forgiveness, like the tax collector in the parable: "God, be merciful to me a sinner!" It is a prerequisite for righteous and pure prayer. A trusting humility brings us back into the light of communion between the Father and his Son Jesus Christ and with one another, so that "we receive from him whatever we ask." Asking forgiveness is the prerequisite for both the Eucharistic liturgy and personal prayer.
 
@@ -326,17 +226,23 @@ Article 3IN THE AGE OF THE CHURCH2623.** On the day of Pentecost, the Spirit of 
 
 **2633.** When we share in God's saving love, we understand that every need can become the object of petition. Christ, who assumed all things in order to redeem all things, is glorified by what we ask the Father in his name. It is with this confidence that St. James and St. Paul exhort us to pray at all times.
 
-**III. Prayer of Intercession2634.** Intercession is a prayer of petition which leads us to pray as Jesus did. He is the one intercessor with the Father on behalf of all men, especially sinners. He is "able for all time to save those who draw near to God through him, since he always lives to make intercession for them." The Holy Spirit "himself intercedes for us . . . and intercedes for the saints according to the will of God."
+#### III. Prayer of Intercession
+
+**2634.** Intercession is a prayer of petition which leads us to pray as Jesus did. He is the one intercessor with the Father on behalf of all men, especially sinners. He is "able for all time to save those who draw near to God through him, since he always lives to make intercession for them." The Holy Spirit "himself intercedes for us . . . and intercedes for the saints according to the will of God."
 
 **2635.** Since Abraham, intercession - asking on behalf of another has been characteristic of a heart attuned to God's mercy. In the age of the Church, Christian intercession participates in Christ's, as an expression of the communion of saints. In intercession, he who prays looks "not only to his own interests, but also to the interests of others," even to the point of praying for those who do him harm.
 
 **2636.** The first Christian communities lived this form of fellowship intensely. Thus the Apostle Paul gives them a share in his ministry of preaching the Gospel but also intercedes for them. The intercession of Christians recognizes no boundaries: "for all men, for kings and all who are in high positions," for persecutors, for the salvation of those who reject the Gospel.
 
-**IV. Prayer of Thanksgiving2637.** Thanksgiving characterizes the prayer of the Church which, in celebrating the Eucharist, reveals and becomes more fully what she is. Indeed, in the work of salvation, Christ sets creation free from sin and death to consecrate it anew and make it return to the Father, for his glory. the thanksgiving of the members of the Body participates in that of their Head.
+#### IV. Prayer of Thanksgiving
+
+**2637.** Thanksgiving characterizes the prayer of the Church which, in celebrating the Eucharist, reveals and becomes more fully what she is. Indeed, in the work of salvation, Christ sets creation free from sin and death to consecrate it anew and make it return to the Father, for his glory. the thanksgiving of the members of the Body participates in that of their Head.
 
 **2638.** As in the prayer of petition, every event and need can become an offering of thanksgiving. the letters of St. Paul often begin and end with thanksgiving, and the Lord Jesus is always present in it: "Give thanks in all circumstances; for this is the will of God in Christ Jesus for you"; "Continue steadfastly in prayer, being watchful in it with thanksgiving."
 
-**V. Prayer of Praise2639.** Praise is the form of prayer which recognizes most immediately that God is God. It lauds God for his own sake and gives him glory, quite beyond what he does, but simply because HE IS. It shares in the blessed happiness of the pure of heart who love God in faith before seeing him in glory. By praise, the Spirit is joined to our spirits to bear witness that we are children of God, testifying to the only Son in whom we are adopted and by whom we glorify the Father. Praise embraces the other forms of prayer and carries them toward him who is its source and goal: the "one God, the Father, from whom are all things and for whom we exist."
+#### V. Prayer of Praise
+
+**2639.** Praise is the form of prayer which recognizes most immediately that God is God. It lauds God for his own sake and gives him glory, quite beyond what he does, but simply because HE IS. It shares in the blessed happiness of the pure of heart who love God in faith before seeing him in glory. By praise, the Spirit is joined to our spirits to bear witness that we are children of God, testifying to the only Son in whom we are adopted and by whom we glorify the Father. Praise embraces the other forms of prayer and carries them toward him who is its source and goal: the "one God, the Father, from whom are all things and for whom we exist."
 
 **2640.** St. Luke in his gospel often expresses wonder and praise at the marvels of Christ and in his Acts of the Apostles stresses them as actions of the Holy Spirit: the community of Jerusalem, the invalid healed by Peter and John, the crowd that gives glory to God for that, and the pagans of Pisidia who "were glad and glorified the word of God."
 
@@ -346,7 +252,9 @@ Article 3IN THE AGE OF THE CHURCH2623.** On the day of Pentecost, the Spirit of 
 
 **2643.** The Eucharist contains and expresses all forms of prayer: it is "the pure offering" of the whole Body of Christ to the glory of God's name and, according to the traditions of East and West, it is the "sacrifice of praise."
 
-**IN BRIEF2644.** *The Holy Spirit who teaches the Church and recalls to her all that Jesus said also instructs her in the life of prayer, inspiring new expressions of the same basic forms of prayer: blessing, petition, intercession, thanksgiving, and praise.*
+#### IN BRIEF
+
+**2644.** *The Holy Spirit who teaches the Church and recalls to her all that Jesus said also instructs her in the life of prayer, inspiring new expressions of the same basic forms of prayer: blessing, petition, intercession, thanksgiving, and praise.*
 
 **2645.** *Because God blesses the human heart, it can in return bless him who is the source of every blessing.*
 
@@ -358,26 +266,31 @@ Article 3IN THE AGE OF THE CHURCH2623.** On the day of Pentecost, the Spirit of 
 
 **2649.** *Prayer of praise is entirely disinterested and rises to God, lauds him, and gives him glory for his own sake, quite beyond what he has done, but simply because HE IS.*
 
-CHAPTER TWOTHE TRADITION OF PRAYER2650.** Prayer cannot be reduced to the spontaneous outpouring of interior impulse: in order to pray, one must have the will to pray. Nor is it enough to know what the Scriptures reveal about prayer: one must also learn how to pray. Through a living transmission (Sacred Tradition) within "the believing and praying Church," The Holy Spirit teaches the children of God how to pray.
+#### CHAPTER TWO
+
+#### THE TRADITION OF PRAYER
+
+**2650.** Prayer cannot be reduced to the spontaneous outpouring of interior impulse: in order to pray, one must have the will to pray. Nor is it enough to know what the Scriptures reveal about prayer: one must also learn how to pray. Through a living transmission (Sacred Tradition) within "the believing and praying Church," The Holy Spirit teaches the children of God how to pray.
 
 **2651.** The tradition of Christian prayer is one of the ways in which the tradition of faith takes shape and grows, especially through the contemplation and study of believers who treasure in their hearts the events and words of the economy of salvation, and through their profound grasp of the spiritual realities they experience.
 
-Article 1AT THE WELLSPRINGS OF PRAYER2652.** The Holy Spirit is the living water "welling up to eternal life" in the heart that prays. It is he who teaches us to accept it at its source: Christ. Indeed in the Christian life there are several wellsprings where Christ awaits us to enable us to drink of the Holy Spirit.
+Article 1
 
-The Word of
-God
+#### AT THE WELLSPRINGS OF PRAYER
 
-**2653.** The Church "forcefully and specially exhorts all the Christian faithful . . . to learn 'the surpassing knowledge of Jesus Christ' (**⇒** Phil 3:8) by frequent reading of the divine Scriptures.... Let them remember, however, that prayer should accompany the reading of Sacred Scripture, so that a dialogue takes place between God and man. For 'we speak to him when we pray; we listen to him when we read the divine oracles."'
+**2652.** The Holy Spirit is the living water "welling up to eternal life" in the heart that prays. It is he who teaches us to accept it at its source: Christ. Indeed in the Christian life there are several wellsprings where Christ awaits us to enable us to drink of the Holy Spirit.
+
+The Word of God
+
+**2653.** The Church "forcefully and specially exhorts all the Christian faithful . . . to learn 'the surpassing knowledge of Jesus Christ' (⇒ Phil 3:8) by frequent reading of the divine Scriptures.... Let them remember, however, that prayer should accompany the reading of Sacred Scripture, so that a dialogue takes place between God and man. For 'we speak to him when we pray; we listen to him when we read the divine oracles."'
 
 **2654.** The spiritual writers, paraphrasing Matthew 7:7, summarize in this way the dispositions of the heart nourished by the word of God in prayer "Seek in reading and you will find in meditating; knock in mental prayer and it will be opened to you by contemplation."
 
-The Liturgy
-of the Church
+The Liturgy of the Church
 
 **2655.** In the sacramental liturgy of the Church, the mission of Christ and of the Holy Spirit proclaims, makes present, and communicates the mystery of salvation, which is continued in the heart that prays. the spiritual writers sometimes compare the heart to an altar. Prayer internalizes and assimilates the liturgy during and after its celebration. Even when it is lived out "in secret," prayer is always prayer of the Church; it is a communion with the Holy Trinity.
 
-The
-theological virtues
+The theological virtues
 
 **2656.** One enters into prayer as one enters into liturgy: by the narrow gate of faith. Through the signs of his presence, it is the Face of the Lord that we seek and desire; it is his Word that we want to hear and keep.
 
@@ -385,12 +298,7 @@ theological virtues
 
 **2658.** "Hope does not disappoint us, because God's love has been poured into our hearts by the Holy Spirit who has been given to us." Prayer, formed by the liturgical life, draws everything into the love by which we are loved in Christ and which enables us to respond to him by loving as he has loved us. Love is the source of prayer; whoever draws from it reaches the summit of prayer. In the words of the Cure of Ars:
 
-I love you, O my God, and my
-only desire is to love you until the last breath of my life. I love you, O my
-infinitely lovable God, and I would rather die loving you, than live without loving
-you. I love you, Lord, and the only grace I ask is to love you eternally.... My
-God, if my tongue cannot say in every moment that I love you, I want my heart
-to repeat it to you as often as I draw breath.
+I love you, O my God, and my only desire is to love you until the last breath of my life. I love you, O my infinitely lovable God, and I would rather die loving you, than live without loving you. I love you, Lord, and the only grace I ask is to love you eternally.... My God, if my tongue cannot say in every moment that I love you, I want my heart to repeat it to you as often as I draw breath.
 
 "Today"
 
@@ -398,19 +306,23 @@ to repeat it to you as often as I draw breath.
 
 **2660.** Prayer in the events of each day and each moment is one of the secrets of the kingdom revealed to "little children," to the servants of Christ, to the poor of the Beatitudes. It is right and good to pray so that the coming of the kingdom of justice and peace may influence the march of history, but it is just as important to bring the help of prayer into humble, everyday situations; all forms of prayer can be the leaven to which the Lord compares the kingdom.
 
-**IN BRIEF2661.** *By a living transmission -Tradition - the Holy Spirit in the Church teaches the children of God to pray.*
+#### IN BRIEF
+
+**2661.** *By a living transmission -Tradition - the Holy Spirit in the Church teaches the children of God to pray.*
 
 **2662.** *The Word of God, the liturgy of the Church, and the virtues of faith, hope, and charity are sources of prayer.*
 
-Article 2THE WAY OF PRAYER2663.** In the living tradition of prayer, each Church proposes to its faithful, according to its historic, social, and cultural context, a language for prayer: words, melodies, gestures, iconography. the Magisterium of the Church has the task of discerning the fidelity of these ways of praying to the tradition of apostolic faith; it is for pastors and catechists to explain their meaning, always in relation to Jesus Christ.
+Article 2
 
-Prayer to
-the Father
+#### THE WAY OF PRAYER
+
+**2663.** In the living tradition of prayer, each Church proposes to its faithful, according to its historic, social, and cultural context, a language for prayer: words, melodies, gestures, iconography. the Magisterium of the Church has the task of discerning the fidelity of these ways of praying to the tradition of apostolic faith; it is for pastors and catechists to explain their meaning, always in relation to Jesus Christ.
+
+Prayer to the Father
 
 **2664.** There is no other way of Christian prayer than Christ. Whether our prayer is communal or personal, vocal or interior, it has access to the Father only if we pray "in the name" of Jesus. the sacred humanity of Jesus is therefore the way by which the Holy Spirit teaches us to pray to God our Father.
 
-Prayer to
-Jesus
+Prayer to Jesus
 
 **2665.** The prayer of the Church, nourished by the Word of God and the celebration of the liturgy, teaches us to pray to the Lord Jesus. Even though her prayer is addressed above all to the Father, it includes in all the liturgical traditions forms of prayer addressed to Christ. Certain psalms, given their use in the Prayer of the Church, and the New Testament place on our lips and engrave in our hearts prayer to Christ in the form of invocations: Son of God, Word of God, Lord, Savior, Lamb of God, King, Beloved Son, Son of the Virgin, Good Shepherd, our Life, our Light, our Hope, our Resurrection, Friend of mankind....
 
@@ -422,27 +334,19 @@ Jesus
 
 **2669.** The prayer of the Church venerates and honors the Heart of Jesus just as it invokes his most holy name. It adores the incarnate Word and his Heart which, out of love for men, he allowed to be pierced by our sins. Christian prayer loves to follow the way of the cross in the Savior's steps. the stations from the Praetorium to Golgotha and the tomb trace the way of Jesus, who by his holy Cross has redeemed the world.
 
-"Come,
-Holy Spirit"
+"Come, Holy Spirit"
 
 **2670.** "No one can say 'Jesus is Lord' except by the Holy Spirit." Every time we begin to pray to Jesus it is the Holy Spirit who draws us on the way of prayer by his prevenient grace. Since he teaches us to pray by recalling Christ, how could we not pray to the Spirit too? That is why the Church invites us to call upon the Holy Spirit every day, especially at the beginning and the end of every important action.
 
-If the Spirit should not be worshiped, how can he divinize me through
-Baptism? If he should be worshiped, should he not be the object of
-adoration?
+If the Spirit should not be worshiped, how can he divinize me through Baptism? If he should be worshiped, should he not be the object of adoration?
 
 **2671.** The traditional form of petition to the Holy Spirit is to invoke the Father through Christ our Lord to give us the Consoler Spirit. Jesus insists on this petition to be made in his name at the very moment when he promises the gift of the Spirit of Truth. But the simplest and most direct prayer is also traditional, "Come, Holy Spirit," and every liturgical tradition has developed it in antiphons and hymns.
 
-Come, Holy Spirit, fill the
-hearts of your faithful and enkindle in them the fire of your love. **
-Heavenly King, Consoler Spirit, Spirit of Truth, present everywhere and filling
-all things, treasure of all good and source of all life, come dwell in us,
-cleanse and save us, you who are All Good.
+Come, Holy Spirit, fill the hearts of your faithful and enkindle in them the fire of your love. Heavenly King, Consoler Spirit, Spirit of Truth, present everywhere and filling all things, treasure of all good and source of all life, come dwell in us, cleanse and save us, you who are All Good.
 
 **2672.** The Holy Spirit, whose anointing permeates our whole being, is the interior Master of Christian prayer. He is the artisan of the living tradition of prayer. To be sure, there are as many paths of prayer as there are persons who pray, but it is the same Spirit acting in all and with all. It is in the communion of the Holy Spirit that Christian prayer is prayer in the Church.
 
-In
-communion with the holy Mother of God
+In communion with the holy Mother of God
 
 **2673.** In prayer the Holy Spirit unites us to the person of the only Son, in his glorified humanity, through which and in which our filial prayer unites us in the Church with the Mother of Jesus.
 
@@ -450,72 +354,35 @@ communion with the holy Mother of God
 
 **2675.** Beginning with Mary's unique cooperation with the working of the Holy Spirit, the Churches developed their prayer to the holy Mother of God, centering it on the person of Christ manifested in his mysteries. In countless hymns and antiphons expressing this prayer, two movements usually alternate with one another: the first "magnifies" the Lord for the "great things" he did for his lowly servant and through her for all human beings The second entrusts the supplications and praises of the children of God to the Mother of Jesus, because she now knows the humanity which, in her, the Son of God espoused.
 
-**2676.** This twofold movement of prayer to Mary has found a privileged expression in the Ave Maria:
+**2676.** This twofold movement of prayer to Mary has found a privileged expression in the Ave Maria: Hail Mary [or Rejoice, Mary]: the greeting of the angel Gabriel opens this prayer. It is God himself who, through his angel as intermediary, greets Mary. Our prayer dares to take up this greeting to Mary with the regard God had for the lowliness of his humble servant and to exult in the joy he finds in her. Full of grace, the Lord is with thee: These two phrases of the angel's greeting shed light on one another. Mary is full of grace because the Lord is with her. the grace with which she is filled is the presence of him who is the source of all grace. "Rejoice . . . O Daughter of Jerusalem . . . the Lord your God is in your midst." Mary, in whom the Lord himself has just made his dwelling, is the daughter of Zion in person, the ark of the covenant, the place where the glory of the Lord dwells. She is "the dwelling of God . . . with men." Full of grace, Mary is wholly given over to him who has come to dwell in her and whom she is about to give to the world. Blessed art thou among women and blessed is the fruit of thy womb, Jesus. After the angel's greeting, we make Elizabeth's greeting our own. "Filled with the Holy Spirit," Elizabeth is the first in the long succession of generations who have called Mary "blessed." "Blessed is she who believed...." Mary is "blessed among women" because she believed in the fulfillment of the Lord's word. Abraham. because of his faith, became a blessing for all the nations of the earth. Mary, because of her faith, became the mother of believers, through whom all nations of the earth receive him who is God's own blessing: Jesus, the "fruit of thy womb."
 
-Hail Mary [or Rejoice, Mary]: the greeting of the angel Gabriel opens this
-prayer. It is God himself who, through his angel as intermediary, greets Mary.
-Our prayer dares to take up this greeting to Mary with the regard God had for
-the lowliness of his humble servant and to exult in the joy he finds in
-her.
-
-Full of grace, the Lord is with thee: These two phrases of the angel's greeting
-shed light on one another. Mary is full of grace because the Lord is with her.
-the grace with which she is filled is the presence of him who is the source of
-all grace. "Rejoice . . . O Daughter of Jerusalem . . . the Lord your God
-is in your midst." Mary, in whom the Lord himself has just made
-his dwelling, is the daughter of Zion in person, the ark of the covenant, the
-place where the glory of the Lord dwells. She is "the dwelling of God . .
-. with men." Full of grace, Mary is wholly given over to him who
-has come to dwell in her and whom she is about to give to the world.
-
-Blessed art thou among women and blessed is the fruit of thy womb, Jesus. After
-the angel's greeting, we make Elizabeth's greeting our own. "Filled with
-the Holy Spirit," Elizabeth is the first in the long succession of
-generations who have called Mary "blessed." "Blessed
-is she who believed...." Mary is "blessed among women"
-because she believed in the fulfillment of the Lord's word. Abraham. because of
-his faith, became a blessing for all the nations of the earth. Mary,
-because of her faith, became the mother of believers, through whom all nations
-of the earth receive him who is God's own blessing: Jesus, the "fruit of
-thy womb."
-
-**2677.** Holy Mary, Mother of God: With Elizabeth we marvel, "and why is this granted me, that the mother of my Lord should come to me?" Because she gives us Jesus, her son, Mary is Mother of God and our mother; we can entrust all our cares and petitions to her: she prays for us as she prayed for herself: "Let it be to me according to your word." By entrusting ourselves to her prayer, we abandon ourselves to the will of God together with her: "Thy will be done."
-
-Pray for us sinners, now and at the hour of our death: By asking Mary to pray
-for us, we acknowledge ourselves to be poor sinners and we address ourselves to
-the "Mother of Mercy," the All-Holy One. We give ourselves over to
-her now, in the Today of our lives. and our trust broadens further, already at
-the present moment, to surrender "the hour of our death" wholly to
-her care. May she be there as she was at her son's death on the cross. May she
-welcome us as our mother at the hour of our passing to lead us to her
-son, Jesus, in paradise.
+**2677.** Holy Mary, Mother of God: With Elizabeth we marvel, "and why is this granted me, that the mother of my Lord should come to me?" Because she gives us Jesus, her son, Mary is Mother of God and our mother; we can entrust all our cares and petitions to her: she prays for us as she prayed for herself: "Let it be to me according to your word." By entrusting ourselves to her prayer, we abandon ourselves to the will of God together with her: "Thy will be done." Pray for us sinners, now and at the hour of our death: By asking Mary to pray for us, we acknowledge ourselves to be poor sinners and we address ourselves to the "Mother of Mercy," the All-Holy One. We give ourselves over to her now, in the Today of our lives. and our trust broadens further, already at the present moment, to surrender "the hour of our death" wholly to her care. May she be there as she was at her son's death on the cross. May she welcome us as our mother at the hour of our passing to lead us to her son, Jesus, in paradise.
 
 **2678.** Medieval piety in the West developed the prayer of the rosary as a popular substitute for the Liturgy of the Hours. In the East, the litany called the Akathistos and the Paraclesis remained closer to the choral office in the Byzantine churches, while the Armenian, Coptic, and Syriac traditions preferred popular hymns and songs to the Mother of God. But in the Ave Maria, the theotokia, the hymns of St. Ephrem or St. Gregory of Narek, the tradition of prayer is basically the same.
 
 **2679.** Mary is the perfect Orans (prayer), a figure of the Church. When we pray to her, we are adhering with her to the plan of the Father, who sends his Son to save all men. Like the beloved disciple we welcome Jesus' mother into our homes, for she has become the mother of all the living. We can pray with and to her. the prayer of the Church is sustained by the prayer of Mary and united with it in hope.
 
-**IN BRIEF2680.** *Prayer is primarily addressed to the Father; it can also be directed toward Jesus, particularly by the invocation of his holy name: "Lord Jesus Christ, Son of God, have mercy on us sinners."*
+#### IN BRIEF
+
+**2680.** *Prayer is primarily addressed to the Father; it can also be directed toward Jesus, particularly by the invocation of his holy name: "Lord Jesus Christ, Son of God, have mercy on us sinners."*
 
 **2681.** *"No one can say 'Jesus is Lord', except by the Holy Spirit" (1 Cor 12:3). the Church invites us to invoke the Holy Spirit as the interior Teacher of Christian prayer.*
 
 **2682.** *Because of Mary's singular cooperation with the action of the Holy Spirit, the Church loves to pray in communion with the Virgin Mary, to magnify with her the great things the Lord has done for her, and to entrust supplications and praises to her.*
 
-Article 3GUIDES FOR PRAYER**
+Article 3
 
-A cloud of
-witnesses
+#### GUIDES FOR PRAYER
+
+A cloud of witnesses
 
 **2683.** The witnesses who have preceded us into the kingdom, especially those whom the Church recognizes as saints, share in the living tradition of prayer by the example of their lives, the transmission of their writings, and their prayer today. They contemplate God, praise him and constantly care for those whom they have left on earth. When they entered into the joy of their Master, they were "put in charge of many things." Their intercession is their most exalted service to God's plan. We can and should ask them to intercede for us and for the whole world.
 
 **2684.** In the communion of saints, many and varied spiritualities have been developed throughout the history of the churches. the personal charism of some witnesses to God's love for men has been handed on, like "the spirit" of Elijah to Elisha and John the Baptist, so that their followers may have a share in this spirit. A distinct spirituality can also arise at the point of convergence of liturgical and theological currents, bearing witness to the integration of the faith into a particular human environment and its history. the different schools of Christian spirituality share in the living tradition of prayer and are essential guides for the faithful. In their rich diversity they are refractions of the one pure light of the Holy Spirit.
 
-The Spirit is truly the
-dwelling of the saints and the saints are for the Spirit a place where he
-dwells as in his own home since they offer themselves as a dwelling place for
-God and are called his temple.
+The Spirit is truly the dwelling of the saints and the saints are for the Spirit a place where he dwells as in his own home since they offer themselves as a dwelling place for God and are called his temple.
 
-Servants of
-prayer
+Servants of prayer
 
 **2685.** The Christian family is the first place of education in prayer. Based on the sacrament of marriage, the family is the "domestic church" where God's children learn to pray "as the Church" and to persevere in prayer. For young children in particular, daily family prayer is the first witness of the Church's living memory as awakened patiently by the Holy Spirit.
 
@@ -529,30 +396,15 @@ prayer
 
 **2690.** The Holy Spirit gives to certain of the faithful the gifts of wisdom, faith and discernment for the sake of this common good which is prayer (spiritual direction). Men and women so endowed are true servants of the living tradition of prayer.
 
-According to St. John of the
-Cross, the person wishing to advance toward perfection should "take care
-into whose hands he entrusts himself, for as the master is, so will the
-disciple be, and as the father is so will be the son." and further: "In
-addition to being learned and discreet a director should be experienced.... If
-the spiritual director has no experience of the spiritual life, he will be
-incapable of leading into it the souls whom God is calling to it, and he will
-not even understand them."
+According to St. John of the Cross, the person wishing to advance toward perfection should "take care into whose hands he entrusts himself, for as the master is, so will the disciple be, and as the father is so will be the son." and further: "In addition to being learned and discreet a director should be experienced.... If the spiritual director has no experience of the spiritual life, he will be incapable of leading into it the souls whom God is calling to it, and he will not even understand them."
 
-Places
-favorable for prayer
+Places favorable for prayer
 
-**2691.** The church, the house of God, is the proper place for the liturgical prayer of the parish community. It is also the privileged place for adoration of the real presence of Christ in the Blessed Sacrament. the choice of a favorable place is not a matter of indifference for true prayer. ** - For personal prayer, this can be a "prayer corner" with the Sacred Scriptures and icons, in order to be there, in secret, before our Father. In a Christian family, this kind of little oratory fosters prayer in common.
+**2691.** The church, the house of God, is the proper place for the liturgical prayer of the parish community. It is also the privileged place for adoration of the real presence of Christ in the Blessed Sacrament. the choice of a favorable place is not a matter of indifference for true prayer. - For personal prayer, this can be a "prayer corner" with the Sacred Scriptures and icons, in order to be there, in secret, before our Father. In a Christian family, this kind of little oratory fosters prayer in common. - In regions where monasteries exist, the vocation of these communities is to further the participation of the faithful in the Liturgy of the Hours and to provide necessary solitude for more intense personal prayer. - Pilgrimages evoke our earthly journey toward heaven and are traditionally very special occasions for renewal in prayer. For pilgrims seeking living water, shrines are special places for living the forms of Christian prayer "in Church."
 
-- In regions where monasteries exist, the vocation of these communities is to
-further the participation of the faithful in the Liturgy of the Hours and to
-provide necessary solitude for more intense personal prayer.
+#### IN BRIEF
 
-- Pilgrimages evoke our earthly journey toward heaven and are traditionally
-very special occasions for renewal in prayer. For pilgrims seeking living
-water, shrines are special places for living the forms of Christian prayer
-"in Church."
-
-**IN BRIEF2692.** *In prayer, the pilgrim Church is associated with that of the saints, whose intercession she asks.*
+**2692.** *In prayer, the pilgrim Church is associated with that of the saints, whose intercession she asks.*
 
 **2693.** *The different schools of Christian spirituality share in the living tradition of prayer and are precious guides for the spiritual life.*
 
@@ -562,13 +414,23 @@ water, shrines are special places for living the forms of Christian prayer
 
 **2696.** *The most appropriate places for prayer are personal or family oratories, monasteries, places of pilgrimage, and above all the church, which is the proper place for liturgical prayer for the parish community and the privileged place for Eucharistic adoration.*
 
-CHAPTER THREETHE LIFE OF PRAYER2697.** Prayer is the life of the new heart. It ought to animate us at every moment. But we tend to forget him who is our life and our all. This is why the Fathers of the spiritual life in the Deuteronomic and prophetic traditions insist that prayer is a remembrance of God often awakened by the memory of the heart "We must remember God more often than we draw breath." But we cannot pray "at all times" if we do not pray at specific times, consciously willing it These are the special times of Christian prayer, both in intensity and duration.
+#### CHAPTER THREE
+
+#### THE LIFE OF PRAYER
+
+**2697.** Prayer is the life of the new heart. It ought to animate us at every moment. But we tend to forget him who is our life and our all. This is why the Fathers of the spiritual life in the Deuteronomic and prophetic traditions insist that prayer is a remembrance of God often awakened by the memory of the heart "We must remember God more often than we draw breath." But we cannot pray "at all times" if we do not pray at specific times, consciously willing it These are the special times of Christian prayer, both in intensity and duration.
 
 **2698.** The Tradition of the Church proposes to the faithful certain rhythms of praying intended to nourish continual prayer. Some are daily, such as morning and evening prayer, grace before and after meals, the Liturgy of the Hours. Sundays, centered on the Eucharist, are kept holy primarily by prayer. the cycle of the liturgical year and its great feasts are also basic rhythms of the Christian's life of prayer.
 
 **2699.** The Lord leads all persons by paths and in ways pleasing to him, and each believer responds according to his heart's resolve and the personal expressions of his prayer. However, Christian Tradition has retained three major expressions of prayer: vocal meditative, and contemplative. They have one basic trait in common: composure of heart. This vigilance in keeping the Word and dwelling in the presence of God makes these three expressions intense times in the life of prayer.
 
-Article 1EXPRESSIONS OF PRAYERI. Vocal prayer2700.** Through his Word, God speaks to man. By words, mental or vocal, our prayer takes flesh. Yet it is most important that the heart should be present to him to whom we are speaking in prayer: "Whether or not our prayer is heard depends not on the number of words, but on the fervor of our souls."
+Article 1
+
+#### EXPRESSIONS OF PRAYER
+
+#### I. Vocal prayer
+
+**2700.** Through his Word, God speaks to man. By words, mental or vocal, our prayer takes flesh. Yet it is most important that the heart should be present to him to whom we are speaking in prayer: "Whether or not our prayer is heard depends not on the number of words, but on the fervor of our souls."
 
 **2701.** Vocal prayer is an essential element of the Christian life. To his disciples, drawn by their Master's silent prayer, Jesus teaches a vocal prayer, the Our Father. He not only prayed aloud the liturgical prayers of the synagogue but, as the Gospels show, he raised his voice to express his personal prayer, from exultant blessing of the Father to the agony of Gesthemani.
 
@@ -578,7 +440,9 @@ Article 1EXPRESSIONS OF PRAYERI. Vocal prayer2700.** Through his Word, God speak
 
 **2704.** Because it is external and so thoroughly human, vocal prayer is the form of prayer most readily accessible to groups. Even interior prayer, however, cannot neglect vocal prayer. Prayer is internalized to the extent that we become aware of him "to whom we speak;" Thus vocal prayer becomes an initial form of contemplative prayer.
 
-**II. Meditation2705.** Meditation is above all a quest. the mind seeks to understand the why and how of the Christian life, in order to adhere and respond to what the Lord is asking. the required attentiveness is difficult to sustain. We are usually helped by books, and Christians do not want for them: the Sacred Scriptures, particularly the Gospels, holy icons, liturgical texts of the day or season, writings of the spiritual fathers, works of spirituality, the great book of creation, and that of history the page on which the "today" of God is written.
+#### II. Meditation
+
+**2705.** Meditation is above all a quest. the mind seeks to understand the why and how of the Christian life, in order to adhere and respond to what the Lord is asking. the required attentiveness is difficult to sustain. We are usually helped by books, and Christians do not want for them: the Sacred Scriptures, particularly the Gospels, holy icons, liturgical texts of the day or season, writings of the spiritual fathers, works of spirituality, the great book of creation, and that of history the page on which the "today" of God is written.
 
 **2706.** To meditate on what we read helps us to make it our own by confronting it with ourselves. Here, another book is opened: the book of life. We pass from thoughts to reality. To the extent that we are humble and faithful, we discover in meditation the movements that stir the heart and we are able to discern them. It is a question of acting truthfully in order to come into the light: "Lord, what do you want me to do?"
 
@@ -586,7 +450,9 @@ Article 1EXPRESSIONS OF PRAYERI. Vocal prayer2700.** Through his Word, God speak
 
 **2708.** Meditation engages thought, imagination, emotion, and desire. This mobilization of faculties is necessary in order to deepen our convictions of faith, prompt the conversion of our heart, and strengthen our will to follow Christ. Christian prayer tries above all to meditate on the mysteries of Christ, as in lectio divina or the rosary. This form of prayerful reflection is of great value, but Christian prayer should go further: to the knowledge of the love of the Lord Jesus, to union with him.
 
-**III. Contemplative Prayer2709.** What is contemplative prayer? St. Teresa answers: "Contemplative prayer [oracion mental] in my opinion is nothing else than a close sharing between friends; it means taking time frequently to be alone with him who we know loves us." ** Contemplative prayer seeks him "whom my soul loves." It is Jesus, and in him, the Father. We seek him, because to desire him is always the beginning of love, and we seek him in that pure faith which causes us to be born of him and to live in him. In this inner prayer we can still meditate, but our attention is fixed on the Lord himself.
+#### III. Contemplative Prayer
+
+**2709.** What is contemplative prayer? St. Teresa answers: "Contemplative prayer [oracion mental] in my opinion is nothing else than a close sharing between friends; it means taking time frequently to be alone with him who we know loves us." Contemplative prayer seeks him "whom my soul loves." It is Jesus, and in him, the Father. We seek him, because to desire him is always the beginning of love, and we seek him in that pure faith which causes us to be born of him and to live in him. In this inner prayer we can still meditate, but our attention is fixed on the Lord himself.
 
 **2710.** The choice of the time and duration of the prayer arises from a determined will, revealing the secrets of the heart. One does not undertake contemplative prayer only when one has the time: one makes time for the Lord, with the firm determination not to give up, no matter what trials and dryness one may encounter. One cannot always meditate, but one can always enter into inner prayer, independently of the conditions of health, work, or emotional state. the heart is the place of this quest and encounter, in poverty ant in faith.
 
@@ -608,7 +474,9 @@ Article 1EXPRESSIONS OF PRAYERI. Vocal prayer2700.** Through his Word, God speak
 
 **2719.** Contemplative prayer is a communion of love bearing Life for the multitude, to the extent that it consents to abide in the night of faith. the Paschal night of the Resurrection passes through the night of the agony and the tomb - the three intense moments of the Hour of Jesus which his Spirit (and not "the flesh [which] is weak") brings to life in prayer. We must be willing to "keep watch with (him) one hour."
 
-**IN BRIEF2720.** *The Church invites the faithful to regular prayer: daily prayers, the Liturgy of the Hours, Sunday Eucharist, the feasts of the liturgical year.*
+#### IN BRIEF
+
+**2720.** *The Church invites the faithful to regular prayer: daily prayers, the Liturgy of the Hours, Sunday Eucharist, the feasts of the liturgical year.*
 
 **2721.** *The Christian tradition comprises three major expressions of the life of prayer: vocal prayer, meditation, and contemplative prayer. They have in common the recollection of the heart.*
 
@@ -618,19 +486,23 @@ Article 1EXPRESSIONS OF PRAYERI. Vocal prayer2700.** Through his Word, God speak
 
 **2724.** *Contemplative prayer is the simple expression of the mystery of prayer. It is a gaze of faith fixed on Jesus, an attentiveness to the Word of God, a silent love. It achieves real union with the prayer of Christ to the extent that it makes us share in his mystery.*
 
-Article 2THE BATTLE OF PRAYER2725.** Prayer is both a gift of grace and a determined response on our part. It always presupposes effort. the great figures of prayer of the Old Covenant before Christ, as well as the Mother of God, the saints, and he himself, all teach us this: prayer is a battle. Against whom? Against ourselves and against the wiles of the tempter who does all he can to turn man away from prayer, away from union with God. We pray as we live, because we live as we pray. If we do not want to act habitually according to the Spirit of Christ, neither can we pray habitually in his name. the "spiritual battle" of the Christian's new life is inseparable from the battle of prayer.
+Article 2
 
-**I. Objections to Prayer2726.** In the battle of prayer, we must face in ourselves and around us erroneous notions of prayer. Some people view prayer as a simple psychological activity, others as an effort of concentration to reach a mental void. Still others reduce prayer to ritual words and postures. Many Christians unconsciously regard prayer as an occupation that is incompatible with all the other things they have to do: they "don't have the time." Those who seek God by prayer are quickly discouraged because they do not know that prayer comes also from the Holy Spirit and not from themselves alone.
+#### THE BATTLE OF PRAYER
+
+**2725.** Prayer is both a gift of grace and a determined response on our part. It always presupposes effort. the great figures of prayer of the Old Covenant before Christ, as well as the Mother of God, the saints, and he himself, all teach us this: prayer is a battle. Against whom? Against ourselves and against the wiles of the tempter who does all he can to turn man away from prayer, away from union with God. We pray as we live, because we live as we pray. If we do not want to act habitually according to the Spirit of Christ, neither can we pray habitually in his name. the "spiritual battle" of the Christian's new life is inseparable from the battle of prayer.
+
+#### I. Objections to Prayer
+
+**2726.** In the battle of prayer, we must face in ourselves and around us erroneous notions of prayer. Some people view prayer as a simple psychological activity, others as an effort of concentration to reach a mental void. Still others reduce prayer to ritual words and postures. Many Christians unconsciously regard prayer as an occupation that is incompatible with all the other things they have to do: they "don't have the time." Those who seek God by prayer are quickly discouraged because they do not know that prayer comes also from the Holy Spirit and not from themselves alone.
 
 **2727.** We must also face the fact that certain attitudes deriving from the mentality of "this present world" can penetrate our lives if we are not vigilant. For example, some would have it that only that is true which can be verified by reason and science; yet prayer is a mystery that overflows both our conscious and unconscious lives. Others overly prize production and profit; thus prayer, being unproductive, is useless. Still others exalt sensuality and comfort as the criteria of the true, the good, and the beautiful; whereas prayer, the "love of beauty" (philokalia), is caught up in the glory of the living and true God. Finally, some see prayer as a flight from the world in reaction against activism; but in fact, Christian prayer is neither an escape from reality nor a divorce from life.
 
 **2728.** Finally, our battle has to confront what we experience as failure in prayer: discouragement during periods of dryness; sadness that, because we have "great possessions," we have not given all to the Lord; disappointment over not being heard according to our own will; wounded pride, stiffened by the indignity that is ours as sinners; our resistance to the idea that prayer is a free and unmerited gift; and so forth. the conclusion is always the same: what good does it do to pray? To overcome these obstacles, we must battle to gain humility, trust, and perseverance.
 
-**II. Humble Vigilance of
-Heart**
+#### II. Humble Vigilance of Heart
 
-Facing
-difficulties in prayer
+Facing difficulties in prayer
 
 **2729.** The habitual difficulty in prayer is distraction. It can affect words and their meaning in vocal prayer; it can concern, more profoundly, him to whom we are praying, in vocal prayer (liturgical or personal), meditation, and contemplative prayer. To set about hunting down distractions would be to fall into their trap, when all that is necessary is to turn back to our heart: for a distraction reveals to us what we are attached to, and this humble awareness before the Lord should awaken our preferential love for him and lead us resolutely to offer him our heart to be purified. Therein lies the battle, the choice of which master to serve.
 
@@ -638,14 +510,15 @@ difficulties in prayer
 
 **2731.** Another difficulty, especially for those who sincerely want to pray, is dryness. Dryness belongs to contemplative prayer when the heart is separated from God, with no taste for thoughts, memories, and feelings, even spiritual ones. This is the moment of sheer faith clinging faithfully to Jesus in his agony and in his tomb. "Unless a grain of wheat falls into the earth and dies, it remains alone; but if dies, it bears much fruit." If dryness is due to the lack of roots, because the word has fallen on rocky soil, the battle requires conversion.
 
-Facing
-temptations in prayer
+Facing temptations in prayer
 
-**2732.** The most common yet most hidden temptation is our lack of faith. It expresses itself less by declared incredulity than by our actual preferences. When we begin to pray, a thousand labors or cares thought to be urgent vie for priority; once again, it is the moment of truth for the heart: what is its real love? Sometimes we turn to the Lord as a last resort, but do we really believe he is? Sometimes we enlist the Lord as an ally, but our heart remains presumptuous. In each case, our lack of faith reveals that we do not yet share in the disposition of a humble heart: ** "Apart from me, you can do nothing."
+**2732.** The most common yet most hidden temptation is our lack of faith. It expresses itself less by declared incredulity than by our actual preferences. When we begin to pray, a thousand labors or cares thought to be urgent vie for priority; once again, it is the moment of truth for the heart: what is its real love? Sometimes we turn to the Lord as a last resort, but do we really believe he is? Sometimes we enlist the Lord as an ally, but our heart remains presumptuous. In each case, our lack of faith reveals that we do not yet share in the disposition of a humble heart: "Apart from me, you can do nothing."
 
 **2733.** Another temptation, to which presumption opens the gate, is acedia. the spiritual writers understand by this a form of depression due to lax ascetical practice, decreasing vigilance, carelessness of heart. "The spirit indeed is willing, but the flesh is weak." The greater the height, the harder the fall. Painful as discouragement is, it is the reverse of presumption. the humble are not surprised by their distress; it leads them to trust more, to hold fast in constancy.
 
-**III. Filial Trust2734.** Filial trust is tested - it proves itself - in tribulation. The principal difficulty concerns the prayer of petition, for oneself or for others in intercession. Some even stop praying because they think their petition is not heard. Here two questions should be asked: Why do we think our petition has not been heard? How is our prayer heard, how is it "efficacious"? ** Why do we complain of not being heard?
+#### III. Filial Trust
+
+**2734.** Filial trust is tested - it proves itself - in tribulation. The principal difficulty concerns the prayer of petition, for oneself or for others in intercession. Some even stop praying because they think their petition is not heard. Here two questions should be asked: Why do we think our petition has not been heard? How is our prayer heard, how is it "efficacious"? Why do we complain of not being heard?
 
 **2735.** In the first place, we ought to be astonished by this fact: when we praise God or give him thanks for his benefits in general, we are not particularly concerned whether or not our prayer is acceptable to him. On the other hand, we demand to see the results of our petitions. What is the image of God that motivates our prayer: an instrument to be used? or the Father of our Lord Jesus Christ?
 
@@ -653,16 +526,11 @@ temptations in prayer
 
 **2737.** "You ask and do not receive, because you ask wrongly, to spend it on your passions." If we ask with a divided heart, we are "adulterers"; God cannot answer us, for he desires our well-being, our life. "Or do you suppose that it is in vain that the scripture says, 'He yearns jealously over the spirit which he has made to dwell in us?'" That our God is "jealous" for us is the sign of how true his love is. If we enter into the desire of his Spirit, we shall be heard.
 
-Do not be troubled if you do
-not immediately receive from God what you ask him; for he desires to do
-something even greater for you, while you cling to him in prayer.
+Do not be troubled if you do not immediately receive from God what you ask him; for he desires to do something even greater for you, while you cling to him in prayer.
 
-God wills that our desire
-should be exercised in prayer, that we may be able to receive what he is
-prepared to give.
+God wills that our desire should be exercised in prayer, that we may be able to receive what he is prepared to give.
 
-How is our
-prayer efficacious?
+How is our prayer efficacious?
 
 **2738.** The revelation of prayer in the economy of salvation teaches us that faith rests on God's action in history. Our filial trust is enkindled by his supreme act: the Passion and Resurrection of his Son. Christian prayer is cooperation with his providence, his plan of love for men.
 
@@ -672,31 +540,29 @@ prayer efficacious?
 
 **2741.** Jesus also prays for us - in our place and on our behalf. All our petitions were gathered up, once for all, in his cry on the Cross and, in his Resurrection, heard by the Father. This is why he never ceases to intercede for us with the Father. If our prayer is resolutely united with that of Jesus, in trust and boldness as children, we obtain all that we ask in his name, even more than any particular thing: the Holy Spirit himself, who contains all gifts.
 
-**IV. Perservering in Love2742.** "Pray constantly . . . always and for everything giving thanks in the name of our Lord Jesus Christ to God the Father." St. Paul adds, "Pray at all times in the Spirit, with all prayer and supplication. To that end keep alert with all perseverance making supplication for all the saints." For "we have not been commanded to work, to keep watch and to fast constantly, but it has been laid down that we are to pray without ceasing." This tireless fervor can come only from love. Against our dullness and laziness, the battle of prayer is that of humble, trusting, and persevering love. This love opens our hearts to three enlightening and life-giving facts of faith about prayer.
+#### IV. Perservering in Love
+
+**2742.** "Pray constantly . . . always and for everything giving thanks in the name of our Lord Jesus Christ to God the Father." St. Paul adds, "Pray at all times in the Spirit, with all prayer and supplication. To that end keep alert with all perseverance making supplication for all the saints." For "we have not been commanded to work, to keep watch and to fast constantly, but it has been laid down that we are to pray without ceasing." This tireless fervor can come only from love. Against our dullness and laziness, the battle of prayer is that of humble, trusting, and persevering love. This love opens our hearts to three enlightening and life-giving facts of faith about prayer.
 
 **2743.** It is always possible to pray: the time of the Christian is that of the risen Christ who is with us always, no matter what tempests may arise. Our time is in the hands of God:
 
-It is possible to offer fervent
-prayer even while walking in public or strolling alone, or seated in your shop,
-. . . while buying or selling, . . . or even while cooking.
+It is possible to offer fervent prayer even while walking in public or strolling alone, or seated in your shop, . . . while buying or selling, . . . or even while cooking.
 
 **2744.** Prayer is a vital necessity. Proof from the contrary is no less convincing: if we do not allow the Spirit to lead us, we fall back into the slavery of sin. How can the Holy Spirit be our life if our heart is far from him?
 
-Nothing is equal to prayer; for what is impossible it makes possible,
-what is difficult, easy.... For it is impossible, utterly impossible, for the
-man who prays eagerly and invokes God ceaselessly ever to sin.
+Nothing is equal to prayer; for what is impossible it makes possible, what is difficult, easy.... For it is impossible, utterly impossible, for the man who prays eagerly and invokes God ceaselessly ever to sin.
 
-Those who pray are certainly saved; those who do not pray are certainly
-damned
+Those who pray are certainly saved; those who do not pray are certainly damned
 
 **2745.** Prayer and Christian life are inseparable, for they concern the same love and the same renunciation, proceeding from love; the same filial and loving conformity with the Father's plan of love; the same transforming union in the Holy Spirit who conforms us more and more to Christ Jesus; the same love for all men, the love with which Jesus has loved us. "Whatever you ask the Father in my name, he [will] give it to you. This I command you, to love one another."
 
-He "prays without
-ceasing" who unites prayer to works and good works to prayer. Only in this
-way can we consider as realizable the principle of praying without
-ceasing.
+He "prays without ceasing" who unites prayer to works and good works to prayer. Only in this way can we consider as realizable the principle of praying without ceasing.
 
-Article 3THE PRAYER OF THE HOUR OF JESUS2746.** When "his hour" came, Jesus prayed to the Father. His prayer, the longest transmitted by the Gospel, embraces the whole economy of creation and salvation, as well as his death and Resurrection. the prayer of the Hour of Jesus always remains his own, just as his Passover "once for all" remains ever present in the liturgy of his Church.
+Article 3
+
+#### THE PRAYER OF THE HOUR OF JESUS
+
+**2746.** When "his hour" came, Jesus prayed to the Father. His prayer, the longest transmitted by the Gospel, embraces the whole economy of creation and salvation, as well as his death and Resurrection. the prayer of the Hour of Jesus always remains his own, just as his Passover "once for all" remains ever present in the liturgy of his Church.
 
 **2747.** Christian Tradition rightly calls this prayer the "priestly" prayer of Jesus. It is the prayer of our high priest, inseparable from his sacrifice, from his passing over (Passover) to the Father to whom he is wholly "consecrated."
 
@@ -708,7 +574,9 @@ Article 3THE PRAYER OF THE HOUR OF JESUS2746.** When "his hour" came, Jesus pray
 
 **2751.** Finally, in this prayer Jesus reveals and gives to us the "knowledge," inseparably one, of the Father and of the Son, which is the very mystery of the life of prayer.
 
-**IN BRIEF2752.** *Prayer presupposes an effort, a fight against ourselves and the wiles of the Tempter. the battle of prayer is inseparable from the necessary "spiritual battle" to act habitually according to the Spirit of Christ: we pray as we live, because we live as we pray.*
+#### IN BRIEF
+
+**2752.** *Prayer presupposes an effort, a fight against ourselves and the wiles of the Tempter. the battle of prayer is inseparable from the necessary "spiritual battle" to act habitually according to the Spirit of Christ: we pray as we live, because we live as we pray.*
 
 **2753.** *In the battle of prayer we must confront erroneous conceptions of prayer, various currents of thought, and our own experience of failure. We must respond with humility, trust, and perseverance to these temptations which cast doubt on the usefulness or even the possibility of prayer.*
 
@@ -722,56 +590,51 @@ Article 3THE PRAYER OF THE HOUR OF JESUS2746.** When "his hour" came, Jesus pray
 
 **2758.** *The prayer of the hour of Jesus, rightly called the "priestly prayer" (cf Jn 17), sums up the whole economy of creation and salvation. It fulfills the great petitions of the Our Father.*
 
-SECTION TWOTHE LORD'S PRAYER**
+#### SECTION TWO
 
-I.
-"OUR FATHER!"
+#### THE LORD'S PRAYER
+
+#### I. "OUR FATHER!"
 
 **2759.** Jesus "was praying at a certain place, and when he ceased, one of his disciples said to him, 'Lord, teach us to pray, as John taught his disciples.'" In response to this request the Lord entrusts to his disciples and to his Church the fundamental Christian prayer. St. Luke presents a brief text of five petitions, while St. Matthew gives a more developed version of seven petitions. The liturgical tradition of the Church has retained St. Matthew's text:
 
-**Our Father who art in heaven, hallowed be thy
-name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us
-this day our daily bread, and forgive us our trespasses, as we forgive those
-who trespass against us, and lead us not into temptation, but deliver us from
-evil.2760.** Very early on, liturgical usage concluded the Lord's Prayer with a doxology. In the Didache, we find, "For yours are the power and the glory for ever." The Apostolic Constitutions add to the beginning: "the kingdom," and this is the formula retained to our day in ecumenical prayer. ** The Byzantine tradition adds after "the glory" the words "Father, Son, and Holy Spirit." the Roman Missal develops the last petition in the explicit perspective of "awaiting our blessed hope" and of the Second Coming of our Lord Jesus Christ. Then comes the assembly's acclamation or the repetition of the doxology from the Apostolic Constitutions.
+#### Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
 
-Article 1"THE SUMMARY OF THE WHOLE
-GOSPEL"2761.** The Lord's Prayer "is truly the summary of the whole gospel." "Since the Lord . . . after handing over the practice of prayer, said elsewhere, 'Ask and you will receive,' and since everyone has petitions which are peculiar to his circumstances, the regular and appropriate prayer [the Lord's Prayer] is said first, as the foundation of further desires."
+**2760.** Very early on, liturgical usage concluded the Lord's Prayer with a doxology. In the Didache, we find, "For yours are the power and the glory for ever." The Apostolic Constitutions add to the beginning: "the kingdom," and this is the formula retained to our day in ecumenical prayer. The Byzantine tradition adds after "the glory" the words "Father, Son, and Holy Spirit." the Roman Missal develops the last petition in the explicit perspective of "awaiting our blessed hope" and of the Second Coming of our Lord Jesus Christ. Then comes the assembly's acclamation or the repetition of the doxology from the Apostolic Constitutions.
 
-**I. At the Center of the
-Scriptures2762.** After showing how the psalms are the principal food of Christian prayer and flow together in the petitions of the Our Father, St. Augustine concludes:
+Article 1
 
-Run through all the words of the
-holy prayers [in Scripture], and I do not think that you will find anything in
-them that is not contained and included in the Lord's Prayer.
+#### &quot;THE SUMMARY OF THE WHOLE GOSPEL&quot;
+
+**2761.** The Lord's Prayer "is truly the summary of the whole gospel." "Since the Lord . . . after handing over the practice of prayer, said elsewhere, 'Ask and you will receive,' and since everyone has petitions which are peculiar to his circumstances, the regular and appropriate prayer [the Lord's Prayer] is said first, as the foundation of further desires."
+
+#### I. At the Center of the Scriptures
+
+**2762.** After showing how the psalms are the principal food of Christian prayer and flow together in the petitions of the Our Father, St. Augustine concludes:
+
+Run through all the words of the holy prayers [in Scripture], and I do not think that you will find anything in them that is not contained and included in the Lord's Prayer.
 
 **2763.** All the Scriptures - the Law, the Prophets, and the Psalms - are fulfilled in Christ. The Gospel is this "Good News." Its first proclamation is summarized by St. Matthew in the Sermon on the Mount; The prayer to our Father is at the center of this proclamation. It is in this context that each petition bequeathed to us by the Lord is illuminated:
 
-The Lord's Prayer is the most
-perfect of prayers.... In it we ask, not only for all the things we can rightly
-desire, but also in the sequence that they should be desired. This prayer not
-only teaches us to ask for things, but also in what order we should desire
-them.
+The Lord's Prayer is the most perfect of prayers.... In it we ask, not only for all the things we can rightly desire, but also in the sequence that they should be desired. This prayer not only teaches us to ask for things, but also in what order we should desire them.
 
 **2764.** The Sermon on the Mount is teaching for life, the Our Father is a prayer; but in both the one and the other the Spirit of the Lord gives new form to our desires, those inner movements that animate our lives. Jesus teaches us this new life by his words; he teaches us to ask for it by our prayer. the rightness of our life in him will depend on the rightness of our prayer.
 
-**II. The Lord's Prayer2765.** The traditional expression "the Lord's Prayer" - oratio Dominica - means that the prayer to our Father is taught and given to us by the Lord Jesus. the prayer that comes to us from Jesus is truly unique: it is "of the Lord." On the one hand, in the words of this prayer the only Son gives us the words the Father gave him: he is the master of our prayer. On the other, as Word incarnate, he knows in his human heart the needs of his human brothers and sisters and reveals them to us: he is the model of our prayer.
+#### II. The Lord's Prayer
+
+**2765.** The traditional expression "the Lord's Prayer" - oratio Dominica - means that the prayer to our Father is taught and given to us by the Lord Jesus. the prayer that comes to us from Jesus is truly unique: it is "of the Lord." On the one hand, in the words of this prayer the only Son gives us the words the Father gave him: he is the master of our prayer. On the other, as Word incarnate, he knows in his human heart the needs of his human brothers and sisters and reveals them to us: he is the model of our prayer.
 
 **2766.** But Jesus does not give us a formula to repeat mechanically. As in every vocal prayer, it is through the Word of God that the Holy Spirit teaches the children of God to pray to their Father. Jesus not only gives us the words of our filial prayer; at the same time he gives us the Spirit by whom these words become in us "spirit and life." Even more, the proof and possibility of our filial prayer is that the Father "sent the Spirit of his Son into our hearts, crying, 'Abba! Father!'" Since our prayer sets forth our desires before God, it is again the Father, "he who searches the hearts of men," who "knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God." The prayer to Our Father is inserted into the mysterious mission of the Son and of the Spirit.
 
-**III. The Prayer of the Church2767.** This indivisible gift of the Lord's words and of the Holy Spirit who gives life to them in the hearts of believers has been received and lived by the Church from the beginning. the first communities prayed the Lord's Prayer three times a day, in place of the "Eighteen Benedictions" customary in Jewish piety.
+#### III. The Prayer of the Church
+
+**2767.** This indivisible gift of the Lord's words and of the Holy Spirit who gives life to them in the hearts of believers has been received and lived by the Church from the beginning. the first communities prayed the Lord's Prayer three times a day, in place of the "Eighteen Benedictions" customary in Jewish piety.
 
 **2768.** According to the apostolic tradition, the Lord's Prayer is essentially rooted in liturgical prayer:
 
-[The Lord] teaches us to make
-prayer in common for all our brethren. For he did not say "my Father"
-who art in heaven, but "our" Father, offering petitions for the
-common body.
+[The Lord] teaches us to make prayer in common for all our brethren. For he did not say "my Father" who art in heaven, but "our" Father, offering petitions for the common body.
 
-In all the
-liturgical traditions, the Lord's Prayer is an integral part of the major hours
-of the Divine Office. In the three sacraments of Christian initiation its
-ecclesial character is especially in evidence:
+In all the liturgical traditions, the Lord's Prayer is an integral part of the major hours of the Divine Office. In the three sacraments of Christian initiation its ecclesial character is especially in evidence:
 
 **2769.** In Baptism and Confirmation, the handing on (traditio) of the Lord's Prayer signifies new birth into the divine life. Since Christian prayer is our speaking to God with the very word of God, those who are "born anew". . . through the living and abiding word of God" learn to invoke their Father by the one Word he always hears. They can henceforth do so, for the seal of the Holy Spirit's anointing is indelibly placed on their hearts, ears, lips, indeed their whole filial being. This is why most of the patristic commentaries on the Our Father are addressed to catechumens and neophytes. When the Church prays the Lord's Prayer, it is always the people made up of the "new-born" who pray and obtain mercy.
 
@@ -781,7 +644,9 @@ ecclesial character is especially in evidence:
 
 **2772.** From this unshakeable faith springs forth the hope that sustains each of the seven petitions, which express the groanings of the present age, this time of patience and expectation during which "it does not yet appear what we shall be." The Eucharist and the Lord's Prayer look eagerly for the Lord's return, "until he comes."
 
-**IN BRIEF2773.** *In response to his disciples' request "Lord, teach us to pray" (Lk 11:1), Jesus entrusts them with the fundamental Christian prayer, the Our Father.*
+#### IN BRIEF
+
+**2773.** *In response to his disciples' request "Lord, teach us to pray" (Lk 11:1), Jesus entrusts them with the fundamental Christian prayer, the Our Father.*
 
 **2774.** *"The Lord's Prayer is truly the summary of the whole gospel," The "most perfect of prayers." It is at the center of the Scriptures.*
 
@@ -789,25 +654,23 @@ ecclesial character is especially in evidence:
 
 **2776.** *The Lord's Prayer is the quintessential prayer of the Church. It is an integral part of the major hours of the Divine Office and of the sacraments of Christian initiation: Baptism, Confirmation, and Eucharist. Integrated into the Eucharist it reveals the eschatological character of its petitions, hoping for the Lord, "until he comes" (1 Cor 11:26).*
 
-Article
-2"OUR
-FATHER WHO ART IN HEAVEN"I. "We Dare To Say"2777.** In the Roman liturgy, the Eucharistic assembly is invited to pray to our heavenly Father with filial boldness; the Eastern liturgies develop and use similar expressions: "dare in all confidence," "make us worthy of...." From the burning bush Moses heard a voice saying to him, "Do not come near; put off your shoes from your feet, for the place on which you are standing is holy ground." Only Jesus could cross that threshold of the divine holiness, for "when he had made purification for sins," he brought us into the Father's presence: "Here am I, and the children God has given me."
+Article 2
 
-Our awareness of our status as slaves would make us sink into the ground
-and our earthly condition would dissolve into dust, if the authority of our
-Father himself and the Spirit of his Son had not impelled us to this cry . . .
-'Abba, Father!' . . . When would a mortal dare call God 'Father,' if man's
-innermost being were not animated by power from on high?"
+#### &quot;OUR FATHER WHO ART IN HEAVEN&quot;
+
+#### I. &quot;We Dare To Say&quot;
+
+**2777.** In the Roman liturgy, the Eucharistic assembly is invited to pray to our heavenly Father with filial boldness; the Eastern liturgies develop and use similar expressions: "dare in all confidence," "make us worthy of...." From the burning bush Moses heard a voice saying to him, "Do not come near; put off your shoes from your feet, for the place on which you are standing is holy ground." Only Jesus could cross that threshold of the divine holiness, for "when he had made purification for sins," he brought us into the Father's presence: "Here am I, and the children God has given me."
+
+Our awareness of our status as slaves would make us sink into the ground and our earthly condition would dissolve into dust, if the authority of our Father himself and the Spirit of his Son had not impelled us to this cry . . . 'Abba, Father!' . . . When would a mortal dare call God 'Father,' if man's innermost being were not animated by power from on high?"
 
 **2778.** This power of the Spirit who introduces us to the Lord's Prayer is expressed in the liturgies of East and of West by the beautiful, characteristically Christian expression: parrhesia, straightforward simplicity, filial trust, joyous assurance, humble boldness, the certainty of being loved.
 
-**II. Abba -
-"Father!"2779.** Before we make our own this first exclamation of the Lord's Prayer, we must humbly cleanse our hearts of certain false images drawn "from this world." Humility makes us recognize that "no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him," that is, "to little children." The purification of our hearts has to do with paternal or maternal images, stemming from our personal and cultural history, and influencing our relationship with God. God our Father transcends the categories of the created world. To impose our own ideas in this area "upon him" would be to fabricate idols to adore or pull down. To pray to the Father is to enter into his mystery as he is and as the Son has revealed him to us.
+#### II. Abba - &quot;Father!&quot;
 
-The expression God the Father
-had never been revealed to anyone. When Moses himself asked God who he was, he
-heard another name. the Father's name has been revealed to us in the Son, for
-the name "Son" implies the new name "Father."
+**2779.** Before we make our own this first exclamation of the Lord's Prayer, we must humbly cleanse our hearts of certain false images drawn "from this world." Humility makes us recognize that "no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him," that is, "to little children." The purification of our hearts has to do with paternal or maternal images, stemming from our personal and cultural history, and influencing our relationship with God. God our Father transcends the categories of the created world. To impose our own ideas in this area "upon him" would be to fabricate idols to adore or pull down. To pray to the Father is to enter into his mystery as he is and as the Son has revealed him to us.
+
+The expression God the Father had never been revealed to anyone. When Moses himself asked God who he was, he heard another name. the Father's name has been revealed to us in the Son, for the name "Son" implies the new name "Father."
 
 **2780.** We can invoke God as "Father" because he is revealed to us by his Son become man and because his Spirit makes him known to us. the personal relation of the Son to the Father is something that man cannot conceive of nor the angelic powers even dimly see: and yet, the Spirit of the Son grants a participation in that very relation to us who believe that Jesus is the Christ and that we are born of God.
 
@@ -815,55 +678,23 @@ the name "Son" implies the new name "Father."
 
 **2782.** We can adore the Father because he has caused us to be reborn to his life by adopting us as his children in his only Son: by Baptism, he incorporates us into the Body of his Christ; through the anointing of his Spirit who flows from the head to the members, he makes us other "Christs."
 
-God, indeed, who has
-predestined us to adoption as his sons, has conformed us to the glorious Body
-of Christ. So then you who have become sharers in Christ are appropriately
-called "Christs." **
-The new man, reborn and restored to his God by grace, says first of all,
-"Father!" because he has now begun to be a son.
+God, indeed, who has predestined us to adoption as his sons, has conformed us to the glorious Body of Christ. So then you who have become sharers in Christ are appropriately called "Christs." The new man, reborn and restored to his God by grace, says first of all, "Father!" because he has now begun to be a son.
 
 **2783.** Thus the Lord's Prayer reveals us to ourselves at the same time that it reveals the Father to us.
 
-O man, you did not dare to
-raise your face to heaven, you lowered your eyes to the earth, and suddenly you
-have received the grace of Christ all your sins have been forgiven. From being
-a wicked servant you have become a good son.... Then raise your eyes to the
-Father who has begotten you through Baptism, to the Father who has redeemed you
-through his Son, and say: "Our Father.... " But do not claim any
-privilege. He is the Father in a special way only of Christ, but he is the
-common Father of us all, because while he has begotten only Christ, he has created
-us. Then also say by his grace, "Our Father," so that you may merit
-being his son.
+O man, you did not dare to raise your face to heaven, you lowered your eyes to the earth, and suddenly you have received the grace of Christ all your sins have been forgiven. From being a wicked servant you have become a good son.... Then raise your eyes to the Father who has begotten you through Baptism, to the Father who has redeemed you through his Son, and say: "Our Father.... " But do not claim any privilege. He is the Father in a special way only of Christ, but he is the common Father of us all, because while he has begotten only Christ, he has created us. Then also say by his grace, "Our Father," so that you may merit being his son.
 
-**2784.** The free gift of adoption requires on our part continual conversion and new life. Praying to our Father should develop in us two fundamental dispositions:
+**2784.** The free gift of adoption requires on our part continual conversion and new life. Praying to our Father should develop in us two fundamental dispositions: First, the desire to become like him: though created in his image, we are restored to his likeness by grace; and we must respond to this grace.
 
-First, the desire to become like him: though created in his image, we are
-restored to his likeness by grace; and we must respond to this grace.
-
-We must remember . . . and
-know that when we call God "our Father" we ought to behave as sons of
-God.
-
-You cannot call the God of all kindness your Father if you preserve a cruel and
-inhuman heart; for in this case you no longer have in you the marks of the
-heavenly Father's kindness.
-
-We must contemplate the beauty of the Father without ceasing and adorn our own
-souls accordingly.
+We must remember . . . and know that when we call God "our Father" we ought to behave as sons of God. You cannot call the God of all kindness your Father if you preserve a cruel and inhuman heart; for in this case you no longer have in you the marks of the heavenly Father's kindness. We must contemplate the beauty of the Father without ceasing and adorn our own souls accordingly.
 
 **2785.** Second, a humble and trusting heart that enables us "to turn and become like children": for it is to "little children" that the Father is revealed.
 
-[The prayer is accomplished]
-by the contemplation of God alone, and by the warmth of love, through which the
-soul, molded and directed to love him, speaks very familiarly to God as to its
-own Father with special devotion.
+[The prayer is accomplished] by the contemplation of God alone, and by the warmth of love, through which the soul, molded and directed to love him, speaks very familiarly to God as to its own Father with special devotion. Our Father: at this name love is aroused in us . . . and the confidence of obtaining what we are about to ask.... What would he not give to his children who ask, since he has already granted them the gift of being his children?
 
-Our Father: at this name love is aroused in us . . . and the confidence of
-obtaining what we are about to ask.... What would he not give to his children
-who ask, since he has already granted them the gift of being his
-children?
+#### III. &quot;Our&quot; Father
 
-**III. "Our" Father2786.** "Our" Father refers to God. the adjective, as used by us, does not express possession, but an entirely new relationship with God.
+**2786.** "Our" Father refers to God. the adjective, as used by us, does not express possession, but an entirely new relationship with God.
 
 **2787.** When we say "our" Father, we recognize first that all his promises of love announced by the prophets are fulfilled in the new and eternal covenant in his Christ: we have become "his" people and he is henceforth "our" God. This new relationship is the purely gratuitous gift of belonging to each other: we are to respond to "grace and truth" given us in Jesus Christ with love and faithfulness.
 
@@ -879,25 +710,21 @@ children?
 
 **2793.** The baptized cannot pray to "our" Father without bringing before him all those for whom he gave his beloved Son. God's love has no bounds, neither should our prayer. Praying "our" Father opens to us the dimensions of his love revealed in Christ: praying with and for all who do not yet know him, so that Christ may "gather into one the children of God." God's care for all men and for the whole of creation has inspired all the great practitioners of prayer; it should extend our prayer to the full breadth of love whenever we dare to say "our" Father.
 
-**IV. "Who Art in
-Heaven"2794.** This biblical expression does not mean a place (“space"), but a way of being; it does not mean that God is distant, but majestic. Our Father is not "elsewhere": he transcends everything we can conceive of his holiness. It is precisely because he is thrice holy that he is so close to the humble and contrite heart.
+#### IV. &quot;Who Art in Heaven&quot;
 
-"Our Father who art in
-heaven" is rightly understood to mean that God is in the hearts of the
-just, as in his holy temple. At the same time, it means that those who pray
-should desire the one they invoke to dwell in them. **
-"Heaven" could also be those who bear the image of the heavenly
-world, and in whom God dwells and tarries.
+**2794.** This biblical expression does not mean a place (“space"), but a way of being; it does not mean that God is distant, but majestic. Our Father is not "elsewhere": he transcends everything we can conceive of his holiness. It is precisely because he is thrice holy that he is so close to the humble and contrite heart.
+
+"Our Father who art in heaven" is rightly understood to mean that God is in the hearts of the just, as in his holy temple. At the same time, it means that those who pray should desire the one they invoke to dwell in them. "Heaven" could also be those who bear the image of the heavenly world, and in whom God dwells and tarries.
 
 **2795.** The symbol of the heavens refers us back to the mystery of the covenant we are living when we pray to our Father. He is in heaven, his dwelling place; the Father's house is our homeland. Sin has exiled us from the land of the covenant, but conversion of heart enables us to return to the Father, to heaven. Jn Christ, then, heaven and earth are reconciled, for the Son alone "descended from heaven" and causes us to ascend there with him, by his Cross, Resurrection, and Ascension.
 
 **2796.** When the Church prays "our Father who art in heaven," she is professing that we are the People of God, already seated "with him in the heavenly places in Christ Jesus" and "hidden with Christ in God;" yet at the same time, "here indeed we groan, and long to put on our heavenly dwelling."
 
-[Christians] are in the flesh,
-but do not live according to the flesh. They spend their lives on earth, but
-are citizens of heaven.
+[Christians] are in the flesh, but do not live according to the flesh. They spend their lives on earth, but are citizens of heaven.
 
-**IN BRIEF2797.** Simple and faithful trust, humble and joyous assurance are the proper dispositions for one who prays the Our Father.
+#### IN BRIEF
+
+**2797.** Simple and faithful trust, humble and joyous assurance are the proper dispositions for one who prays the Our Father.
 
 **2798.** We can invoke God as "Father" because the Son of God made man has revealed him to us. Jn this Son, through Baptism, we are incorporated and adopted as sons of God.
 
@@ -909,7 +736,11 @@ are citizens of heaven.
 
 **2802.** "Who art in heaven" does not refer to a place but to God's majesty and his presence in the hearts of the just. Heaven, the Father's house, is the true homeland toward which we are heading and to which, already, we belong.
 
-Article 3THE SEVEN PETITIONS 2803.** After we have placed ourselves in the presence of God our Father to adore and to love and to bless him, the Spirit of adoption stirs up in our hearts seven petitions, seven blessings. the first three, more theological, draw us toward the glory of the Father; the last four, as ways toward him, commend our wretchedness to his grace. "Deep calls to deep."
+Article 3
+
+#### THE SEVEN PETITIONS
+
+**2803.** After we have placed ourselves in the presence of God our Father to adore and to love and to bless him, the Spirit of adoption stirs up in our hearts seven petitions, seven blessings. the first three, more theological, draw us toward the glory of the Father; the last four, as ways toward him, commend our wretchedness to his grace. "Deep calls to deep."
 
 **2804.** The first series of petitions carries us toward him, for his own sake: thy name, thy kingdom, thy will! It is characteristic of love to think first of the one whom we love. In none of the three petitions do we mention ourselves; the burning desire, even anguish, of the beloved Son for his Father's glory seizes us: "hallowed be thy name, thy kingdom come, thy will be done...." These three supplications were already answered in the saving sacrifice of Christ, but they are henceforth directed in hope toward their final fulfillment, for God is not yet all in all.
 
@@ -917,8 +748,9 @@ Article 3THE SEVEN PETITIONS 2803.** After we have placed ourselves in the prese
 
 **2806.** By the three first petitions, we are strengthened in faith, filled with hope, and set aflame by charity. Being creatures and still sinners, we have to petition for us, for that "us" bound by the world and history, which we offer to the boundless love of God. For through the name of his Christ and the reign of his Holy Spirit, our Father accomplishes his plan of salvation, for us and for the whole world.
 
-**I. "Hallowed be Thy
-Name"2807.** The term "to hallow" is to be understood here not primarily in its causative sense (only God hallows, makes holy), but above all in an evaluative sense: to recognize as holy, to treat in a holy way. and so, in adoration, this invocation is sometimes understood as praise and thanksgiving. But this petition is here taught to us by Jesus as an optative: a petition, a desire, and an expectation in which God and man are involved. Beginning with this first petition to our Father, we are immersed in the innermost mystery of his Godhead and the drama of the salvation of our humanity. Asking the Father that his name be made holy draws us into his plan of loving kindness for the fullness of time, "according to his purpose which he set forth in Christ," that we might "be holy and blameless before him in love."
+#### I. &quot;Hallowed be Thy Name&quot;
+
+**2807.** The term "to hallow" is to be understood here not primarily in its causative sense (only God hallows, makes holy), but above all in an evaluative sense: to recognize as holy, to treat in a holy way. and so, in adoration, this invocation is sometimes understood as praise and thanksgiving. But this petition is here taught to us by Jesus as an optative: a petition, a desire, and an expectation in which God and man are involved. Beginning with this first petition to our Father, we are immersed in the innermost mystery of his Godhead and the drama of the salvation of our humanity. Asking the Father that his name be made holy draws us into his plan of loving kindness for the fullness of time, "according to his purpose which he set forth in Christ," that we might "be holy and blameless before him in love."
 
 **2808.** In the decisive moments of his economy God reveals his name, but he does so by accomplishing his work. This work, then, is realized for us and in us only if his name is hallowed by us and in us.
 
@@ -932,67 +764,37 @@ Name"2807.** The term "to hallow" is to be understood here not primarily in its 
 
 **2813.** In the waters of Baptism, we have been "washed . . . sanctified . . . justified in the name of the Lord Jesus Christ and in the Spirit of our God." Our Father calls us to holiness in the whole of our life, and since "he is the source of (our) life in Christ Jesus, who became for us wisdom from God, and . . .sanctification," both his glory and our life depend on the hallowing of his name in us and by us. Such is the urgency of our first petition.
 
-By whom is God hallowed, since
-he is the one who hallows? But since he said, "You shall be holy to me;
-for I the LORD am holy," we seek and ask that we who were sanctified in
-Baptism may persevere in what we have begun to be. and we ask this daily, for
-we need sanctification daily, so that we who fail daily may cleanse away our
-sins by being sanctified continually.... We pray that this sanctification may
-remain in us.
+By whom is God hallowed, since he is the one who hallows? But since he said, "You shall be holy to me; for I the LORD am holy," we seek and ask that we who were sanctified in Baptism may persevere in what we have begun to be. and we ask this daily, for we need sanctification daily, so that we who fail daily may cleanse away our sins by being sanctified continually.... We pray that this sanctification may remain in us.
 
 **2814.** The sanctification of his name among the nations depends inseparably on our life and our prayer:
 
-We ask God to hallow his name,
-which by its own holiness saves and makes holy all creation .... It is this
-name that gives salvation to a lost world. But we ask that this name of God
-should be hallowed in us through our actions. For God's name is blessed when we
-live well, but is blasphemed when we live wickedly. As the Apostle says:
-"The name of God is blasphemed among the Gentiles because of you." We
-ask then that, just as the name of God is holy, so we may obtain his holiness
-in our souls. **
-When we say "hallowed be thy name," we ask that it should be hallowed
-in us, who are in him; but also in others whom God's grace still awaits, that
-we may obey the precept that obliges us to pray for everyone, even our enemies.
-That is why we do not say expressly "hallowed be thy name 'in us,"'
-for we ask that it be so in all men.
+We ask God to hallow his name, which by its own holiness saves and makes holy all creation .... It is this name that gives salvation to a lost world. But we ask that this name of God should be hallowed in us through our actions. For God's name is blessed when we live well, but is blasphemed when we live wickedly. As the Apostle says: "The name of God is blasphemed among the Gentiles because of you." We ask then that, just as the name of God is holy, so we may obtain his holiness in our souls. When we say "hallowed be thy name," we ask that it should be hallowed in us, who are in him; but also in others whom God's grace still awaits, that we may obey the precept that obliges us to pray for everyone, even our enemies. That is why we do not say expressly "hallowed be thy name 'in us,"' for we ask that it be so in all men.
 
 **2815.** This petition embodies all the others. Like the six petitions that follow, it is fulfilled by the prayer of Christ. Prayer to our Father is our prayer, if it is prayed in the name of Jesus. In his priestly prayer, Jesus asks: "Holy Father, protect in your name those whom you have given me."
 
-**II. "Thy Kingdom
-Come"2816.** In the New Testament, the word basileia can be translated by "kingship" (abstract noun), "kingdom" (concrete noun) or "reign" (action noun). the Kingdom of God lies ahead of us. It is brought near in the Word incarnate, it is proclaimed throughout the whole Gospel, and it has come in Christ's death and Resurrection. the Kingdom of God has been coming since the Last Supper and, in the Eucharist, it is in our midst. the kingdom will come in glory when Christ hands it over to his Father:
+#### II. &quot;Thy Kingdom Come&quot;
 
-It may even be . . . that the
-Kingdom of God means Christ himself, whom we daily desire to come, and whose
-coming we wish to be manifested quickly to us. For as he is our resurrection,
-since in him we rise, so he can also be understood as the Kingdom of God, for
-in him we shall reign.
+**2816.** In the New Testament, the word basileia can be translated by "kingship" (abstract noun), "kingdom" (concrete noun) or "reign" (action noun). the Kingdom of God lies ahead of us. It is brought near in the Word incarnate, it is proclaimed throughout the whole Gospel, and it has come in Christ's death and Resurrection. the Kingdom of God has been coming since the Last Supper and, in the Eucharist, it is in our midst. the kingdom will come in glory when Christ hands it over to his Father:
+
+It may even be . . . that the Kingdom of God means Christ himself, whom we daily desire to come, and whose coming we wish to be manifested quickly to us. For as he is our resurrection, since in him we rise, so he can also be understood as the Kingdom of God, for in him we shall reign.
 
 **2817.** This petition is "Marana tha," the cry of the Spirit and the Bride: "Come, Lord Jesus."
 
-Even if it had not been
-prescribed to pray for the coming of the kingdom, we would willingly have
-brought forth this speech, eager to embrace our hope. In indignation the souls
-of the martyrs under the altar cry out to the Lord: "O Sovereign Lord,
-holy and true, how long before you judge and avenge our blood on those who
-dwell upon the earth?" For their retribution is ordained for the end of
-the world. Indeed as soon as possible, Lord, may your kingdom come!
+Even if it had not been prescribed to pray for the coming of the kingdom, we would willingly have brought forth this speech, eager to embrace our hope. In indignation the souls of the martyrs under the altar cry out to the Lord: "O Sovereign Lord, holy and true, how long before you judge and avenge our blood on those who dwell upon the earth?" For their retribution is ordained for the end of the world. Indeed as soon as possible, Lord, may your kingdom come!
 
 **2818.** In the Lord's Prayer, "thy kingdom come" refers primarily to the final coming of the reign of God through Christ's return. But, far from distracting the Church from her mission in this present world, this desire commits her to it all the more strongly. Since Pentecost, the coming of that Reign is the work of the Spirit of the Lord who "complete(s) his work on earth and brings us the fullness of grace."
 
 **2819.** "The kingdom of God (is) righteousness and peace and joy in the Holy Spirit." The end-time in which we live is the age of the outpouring of the Spirit. Ever since Pentecost, a decisive battle has been joined between "the flesh" and the Spirit.
 
-Only a pure soul can boldly
-say: "Thy kingdom come." One who has heard Paul say, "Let not
-sin therefore reign in your mortal bodies," and has purified himself in
-action, thought and word will say to God: "Thy kingdom
-come!"
+Only a pure soul can boldly say: "Thy kingdom come." One who has heard Paul say, "Let not sin therefore reign in your mortal bodies," and has purified himself in action, thought and word will say to God: "Thy kingdom come!"
 
 **2820.** By a discernment according to the Spirit, Christians have to distinguish between the growth of the Reign of God and the progress of the culture and society in which they are involved. This distinction is not a separation. Man's vocation to eternal life does not suppress, but actually reinforces, his duty to put into action in this world the energies and means received from the Creator to serve justice and peace.
 
 **2821.** This petition is taken up and granted in the prayer of Jesus which is present and effective in the Eucharist; it bears its fruit in new life in keeping with the Beatitudes.
 
-**III. "Thy Will Be Done
-on Earth as It is in Heaven"2822.** Our Father "desires all men to be saved and to come to the knowledge of the truth." He "is forbearing toward you, not wishing that any should perish." His commandment is "that you love one another; even as I have loved you, that you also love one another." This commandment summarizes all the others and expresses his entire will.
+#### III. &quot;Thy Will Be Done on Earth as It is in Heaven&quot;
+
+**2822.** Our Father "desires all men to be saved and to come to the knowledge of the truth." He "is forbearing toward you, not wishing that any should perish." His commandment is "that you love one another; even as I have loved you, that you also love one another." This commandment summarizes all the others and expresses his entire will.
 
 **2823.** "He has made known to us the mystery of his will, according to his good pleasure that he set forth in Christ . . . to gather up all things in him, things in heaven and things on earth. In Christ we have also obtained an inheritance, having been destined according to the purpose of him who accomplishes all things according to his counsel and will." We ask insistently for this loving plan to be fully realized on earth as it is already in heaven.
 
@@ -1000,40 +802,25 @@ on Earth as It is in Heaven"2822.** Our Father "desires all men to be saved and 
 
 **2825.** "Although he was a Son, [Jesus] learned obedience through what he suffered." How much more reason have we sinful creatures to learn obedience - we who in him have become children of adoption. We ask our Father to unite our will to his Son's, in order to fulfill his will, his plan of salvation for the life of the world. We are radically incapable of this, but united with Jesus and with the power of his Holy Spirit, we can surrender our will to him and decide to choose what his Son has always chosen: to do what is pleasing to the Father.
 
-In committing ourselves to
-[Christ], we can become one spirit with him, and thereby accomplish his will,
-in such wise that it will be perfect on earth as it is in heaven.
+In committing ourselves to [Christ], we can become one spirit with him, and thereby accomplish his will, in such wise that it will be perfect on earth as it is in heaven.
 
-Consider how Jesus Christ]
-teaches us to be humble, by making us see that our virtue does not depend on
-our work alone but on grace from on high. He commands each of the faithful who
-prays to do so universally, for the whole world. For he did not say "thy
-will be done in me or in us," but "on earth," the whole earth,
-so that error may be banished from it, truth take root in it, all vice be
-destroyed on it, virtue flourish on it, and earth no longer differ from
-heaven.
+Consider how Jesus Christ] teaches us to be humble, by making us see that our virtue does not depend on our work alone but on grace from on high. He commands each of the faithful who prays to do so universally, for the whole world. For he did not say "thy will be done in me or in us," but "on earth," the whole earth, so that error may be banished from it, truth take root in it, all vice be destroyed on it, virtue flourish on it, and earth no longer differ from heaven.
 
 **2826.** By prayer we can discern "what is the will of God" and obtain the endurance to do it. Jesus teaches us that one enters the kingdom of heaven not by speaking words, but by doing "the will of my Father in heaven."
 
 **2827.** "If any one is a worshiper of God and does his will, God listens to him." Such is the power of the Church's prayer in the name of her Lord, above all in the Eucharist. Her prayer is also a communion of intercession with the all-holy Mother of God and all the saints who have been pleasing to the Lord because they willed his will alone:
 
-It would not be inconsistent
-with the truth to understand the words, "Thy will be done on earth as it
-is in heaven," to mean: "in the Church as in our Lord Jesus Christ
-himself"; or "in the Bride who has been betrothed, just as in the
-Bridegroom who has accomplished the will of the Father."
+It would not be inconsistent with the truth to understand the words, "Thy will be done on earth as it is in heaven," to mean: "in the Church as in our Lord Jesus Christ himself"; or "in the Bride who has been betrothed, just as in the Bridegroom who has accomplished the will of the Father."
 
-**IV. "Give Us This Day
-Our Daily Bread"2828.** "Give us": the trust of children who look to their Father for everything is beautiful. "He makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust." He gives to all the living "their food in due season." Jesus teaches us this petition, because it glorifies our Father by acknowledging how good he is, beyond all goodness.
+#### IV. &quot;Give Us This Day Our Daily Bread&quot;
+
+**2828.** "Give us": the trust of children who look to their Father for everything is beautiful. "He makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust." He gives to all the living "their food in due season." Jesus teaches us this petition, because it glorifies our Father by acknowledging how good he is, beyond all goodness.
 
 **2829.** "Give us" also expresses the covenant. We are his and he is ours, for our sake. But this "us" also recognizes him as the Father of all men and we pray to him for them all, in solidarity with their needs and sufferings.
 
 **2830.** "Our bread": the Father who gives us life cannot not but give us the nourishment life requires - all appropriate goods and blessings, both material and spiritual. In the Sermon on the Mount, Jesus insists on the filial trust that cooperates with our Father's providence. He is not inviting us to idleness, but wants to relieve us from nagging worry and preoccupation. Such is the filial surrender of the children of God:
 
-To those who seek the kingdom
-of God and his righteousness, he has promised to give all else besides. Since
-everything indeed belongs to God, he who possesses God wants for nothing, if he
-himself is not found wanting before God.
+To those who seek the kingdom of God and his righteousness, he has promised to give all else besides. Since everything indeed belongs to God, he who possesses God wants for nothing, if he himself is not found wanting before God.
 
 **2831.** But the presence of those who hunger because they lack bread opens up another profound meaning of this petition. the drama of hunger in the world calls Christians who pray sincerely to exercise responsibility toward their brethren, both in their personal behavior and in their solidarity with the human family. This petition of the Lord's Prayer cannot be isolated from the parables of the poor man Lazarus and of the Last Judgment.
 
@@ -1047,37 +834,25 @@ himself is not found wanting before God.
 
 **2836.** "This day" is also an expression of trust taught us by the Lord, which we would never have presumed to invent. Since it refers above all to his Word and to the Body of his Son, this "today" is not only that of our mortal time, but also the "today" of God.
 
-If you receive the bread each
-day, each day is today for you. If Christ is yours today, he rises for you
-every day. How can this be? "You are my Son, today I have begotten
-you." Therefore, "today" is when Christ rises.
+If you receive the bread each day, each day is today for you. If Christ is yours today, he rises for you every day. How can this be? "You are my Son, today I have begotten you." Therefore, "today" is when Christ rises.
 
 **2837.** "Daily" (epiousios) occurs nowhere else in the New Testament. Taken in a temporal sense, this word is a pedagogical repetition of "this day," to confirm us in trust "without reservation." Taken in the qualitative sense, it signifies what is necessary for life, and more broadly every good thing sufficient for subsistence. Taken literally (epi-ousios: "super-essential"), it refers directly to the Bread of Life, the Body of Christ, the "medicine of immortality," without which we have no life within us. Finally in this connection, its heavenly meaning is evident: "this day" is the Day of the Lord, the day of the feast of the kingdom, anticipated in the Eucharist that is already the foretaste of the kingdom to come. For this reason it is fitting for the Eucharistic liturgy to be celebrated each day.
 
-The Eucharist is our daily
-bread. the power belonging to this divine food makes it a bond of union. Its
-effect is then understood as unity, so that, gathered into his Body and made
-members of him, we may become what we receive.... This also is our daily bread:
-the readings you hear each day in church and the hymns you hear and sing. All
-these are necessities for our pilgrimage.
+The Eucharist is our daily bread. the power belonging to this divine food makes it a bond of union. Its effect is then understood as unity, so that, gathered into his Body and made members of him, we may become what we receive.... This also is our daily bread: the readings you hear each day in church and the hymns you hear and sing. All these are necessities for our pilgrimage.
 
-The Father in heaven urges us,
-as children of heaven, to ask for the bread of heaven. [Christ] himself is the
-bread who, sown in the Virgin, raised up in the flesh, kneaded in the Passion,
-baked in the oven of the tomb, reserved in churches, brought to altars,
-furnishes the faithful each day with food from heaven.
+The Father in heaven urges us, as children of heaven, to ask for the bread of heaven. [Christ] himself is the bread who, sown in the Virgin, raised up in the flesh, kneaded in the Passion, baked in the oven of the tomb, reserved in churches, brought to altars, furnishes the faithful each day with food from heaven.
 
-**V. "And Forgive Us
-Our Trespasses, as We Forgive Those Who Trespass AGAINST US"2838.** This petition is astonishing. If it consisted only of the first phrase, "and forgive us our trespasses," it might have been included, implicitly, in the first three petitions of the Lord's Prayer, since Christ's sacrifice is "that sins may be forgiven." But, according to the second phrase, our petition will not be heard unless we have first met a strict requirement. Our petition looks to the future, but our response must come first, for the two parts are joined by the single word "as."
+#### V. &quot;And Forgive Us Our Trespasses, as We Forgive Those Who Trespass AGAINST US&quot;
 
-and forgive
-us our trespasses . . .
+**2838.** This petition is astonishing. If it consisted only of the first phrase, "and forgive us our trespasses," it might have been included, implicitly, in the first three petitions of the Lord's Prayer, since Christ's sacrifice is "that sins may be forgiven." But, according to the second phrase, our petition will not be heard unless we have first met a strict requirement. Our petition looks to the future, but our response must come first, for the two parts are joined by the single word "as."
+
+and forgive us our trespasses . . .
 
 **2839.** With bold confidence, we began praying to our Father. In begging him that his name be hallowed, we were in fact asking him that we ourselves might be always made more holy. But though we are clothed with the baptismal garment, we do not cease to sin, to turn away from God. Now, in this new petition, we return to him like the prodigal son and, like the tax collector, recognize that we are sinners before him. Our petition begins with a "confession" of our wretchedness and his mercy. Our hope is firm because, in his Son, "we have redemption, the forgiveness of sins." We find the efficacious and undoubted sign of his forgiveness in the sacraments of his Church.
 
 **2840.** Now - and this is daunting - this outpouring of mercy cannot penetrate our hearts as long as we have not forgiven those who have trespassed against us. Love, like the Body of Christ, is indivisible; we cannot love the God we cannot see if we do not love the brother or sister we do see. In refusing to forgive our brothers and sisters, our hearts are closed and their hardness makes them impervious to the Father's merciful love; but in confessing our sins, our hearts are opened to his grace.
 
-**2841.** This petition is so important that it is the only one to which the Lord returns and which he develops explicitly in the Sermon on the Mount. This crucial requirement of the covenant mystery is impossible for man. But "with God all things are possible." ** . . . as we forgive those who trespass against us
+**2841.** This petition is so important that it is the only one to which the Lord returns and which he develops explicitly in the Sermon on the Mount. This crucial requirement of the covenant mystery is impossible for man. But "with God all things are possible." . . . as we forgive those who trespass against us
 
 **2842.** This "as" is not unique in Jesus' teaching: "You, therefore, must be perfect, as your heavenly Father is perfect"; "Be merciful, even as your Father is merciful"; "A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another." It is impossible to keep the Lord's commandment by imitating the divine model from outside; there has to be a vital participation, coming from the depths of the heart, in the holiness and the mercy and the love of our God. Only the Spirit by whom we live can make "ours" the same mind that was in Christ Jesus. Then the unity of forgiveness becomes possible and we find ourselves "forgiving one another, as God in Christ forgave" us.
 
@@ -1085,57 +860,47 @@ us our trespasses . . .
 
 **2844.** Christian prayer extends to the forgiveness of enemies, transfiguring the disciple by configuring him to his Master. Forgiveness is a high-point of Christian prayer; only hearts attuned to God's compassion can receive the gift of prayer. Forgiveness also bears witness that, in our world, love is stronger than sin. the martyrs of yesterday and today bear this witness to Jesus. Forgiveness is the fundamental condition of the reconciliation of the children of God with their Father and of men with one another.
 
-**2845.** There is no limit or measure to this essentially divine forgiveness, whether one speaks of "sins" as in Luke (⇒** 11:4), "debts" as in Matthew (**⇒** 6:12). We are always debtors: "Owe no one anything, except to love one another." The communion of the Holy Trinity is the source and criterion of truth in every relation ship. It is lived out in prayer, above all in the Eucharist.
+**2845.** There is no limit or measure to this essentially divine forgiveness, whether one speaks of "sins" as in Luke (⇒ 11:4), "debts" as in Matthew (⇒ 6:12). We are always debtors: "Owe no one anything, except to love one another." The communion of the Holy Trinity is the source and criterion of truth in every relation ship. It is lived out in prayer, above all in the Eucharist.
 
-God does not accept the
-sacrifice of a sower of disunion, but commands that he depart from the altar so
-that he may first be reconciled with his brother. For God can be appeased only
-by prayers that make peace. To God, the better offering is peace, brotherly
-concord, and a people made one in the unity of the Father, Son, and Holy
-Spirit.
+God does not accept the sacrifice of a sower of disunion, but commands that he depart from the altar so that he may first be reconciled with his brother. For God can be appeased only by prayers that make peace. To God, the better offering is peace, brotherly concord, and a people made one in the unity of the Father, Son, and Holy Spirit.
 
-**VI. "And Lead Us not
-into Temptation"2846.** This petition goes to the root of the preceding one, for our sins result from our consenting to temptation; we therefore ask our Father not to "lead" us into temptation. It is difficult to translate the Greek verb used by a single English word: the Greek means both "do not allow us to enter into temptation" and "do not let us yield to temptation." "God cannot be tempted by evil and he himself tempts no one"; on the contrary, he wants to set us free from evil. We ask him not to allow us to take the way that leads to sin. We are engaged in the battle "between flesh and spirit"; this petition implores the Spirit of discernment and strength.
+#### VI. &quot;And Lead Us not into Temptation&quot;
 
-**2847.** The Holy Spirit makes us discern between trials, which are necessary for the growth of the inner man, and temptation, which leads to sin and death. We must also discern between being tempted and consenting to temptation. Finally, discernment unmasks the lie of temptation, whose object appears to be good, a "delight to the eyes" and desirable, when in reality its fruit is death. ** God does not want to impose the good, but wants free beings.... There is a certain usefulness to temptation. No one but God knows what our soul has received from him, not even we ourselves. But temptation reveals it in order to teach us to know ourselves, and in this way we discover our evil inclinations and are obliged to give thanks for the goods that temptation has revealed to us.
+**2846.** This petition goes to the root of the preceding one, for our sins result from our consenting to temptation; we therefore ask our Father not to "lead" us into temptation. It is difficult to translate the Greek verb used by a single English word: the Greek means both "do not allow us to enter into temptation" and "do not let us yield to temptation." "God cannot be tempted by evil and he himself tempts no one"; on the contrary, he wants to set us free from evil. We ask him not to allow us to take the way that leads to sin. We are engaged in the battle "between flesh and spirit"; this petition implores the Spirit of discernment and strength.
+
+**2847.** The Holy Spirit makes us discern between trials, which are necessary for the growth of the inner man, and temptation, which leads to sin and death. We must also discern between being tempted and consenting to temptation. Finally, discernment unmasks the lie of temptation, whose object appears to be good, a "delight to the eyes" and desirable, when in reality its fruit is death. God does not want to impose the good, but wants free beings.... There is a certain usefulness to temptation. No one but God knows what our soul has received from him, not even we ourselves. But temptation reveals it in order to teach us to know ourselves, and in this way we discover our evil inclinations and are obliged to give thanks for the goods that temptation has revealed to us.
 
 **2848.** "Lead us not into temptation" implies a decision of the heart: "For where your treasure is, there will your heart be also.... No one can serve two masters." "If we live by the Spirit, let us also walk by the Spirit." In this assent to the Holy Spirit the Father gives us strength. "No testing has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your strength, but with the temptation will also provide the way of escape, so that you may be able to endure it."
 
 **2849.** Such a battle and such a victory become possible only through prayer. It is by his prayer that Jesus vanquishes the tempter, both at the outset of his public mission and in the ultimate struggle of his agony. In this petition to our heavenly Father, Christ unites us to his battle and his agony. He urges us to vigilance of the heart in communion with his own. Vigilance is "custody of the heart," and Jesus prayed for us to the Father: "Keep them in your name." The Holy Spirit constantly seeks to awaken us to keep watch. Finally, this petition takes on all its dramatic meaning in relation to the last temptation of our earthly battle; it asks for final perseverance. "Lo, I am coming like a thief! Blessed is he who is awake."
 
-VII
-"BUT DELIVER US FROM EVIL"
+#### VII "BUT DELIVER US FROM EVIL"
 
 **2850.** The last petition to our Father is also included in Jesus' prayer: "I am not asking you to take them out of the world, but I ask you to protect them from the evil one." It touches each of us personally, but it is always "we" who pray, in communion with the whole Church, for the deliverance of the whole human family. the Lord's Prayer continually opens us to the range of God's economy of salvation. Our interdependence in the drama of sin and death is turned into solidarity in the Body of Christ, the "communion of saints."
 
 **2851.** In this petition, evil is not an abstraction, but refers to a person, Satan, the Evil One, the angel who opposes God. the devil (dia-bolos) is the one who "throws himself across" God's plan and his work of salvation accomplished in Christ.
 
-**2852.** "A murderer from the beginning, . . . a liar and the father of lies," Satan is "the deceiver of the whole world." Through him sin and death entered the world and by his definitive defeat all creation will be "freed from the corruption of sin and death." Now "we know that anyone born of God does not sin, but He who was born of God keeps him, and the evil one does not touch him.
+**2852.** "A murderer from the beginning, . . . a liar and the father of lies," Satan is "the deceiver of the whole world." Through him sin and death entered the world and by his definitive defeat all creation will be "freed from the corruption of sin and death." Now "we know that anyone born of God does not sin, but He who was born of God keeps him, and the evil one does not touch him. We know that we are of God, and the whole world is in the power of the evil one."
 
-We know that we are of God, and the whole world is in the power of the evil
-one."
-
-The Lord who has taken away
-your sin and pardoned your faults also protects you and keeps you from the
-wiles of your adversary the devil, so that the enemy, who is accustomed to
-leading into sin, may not surprise you. One who entrusts himself to God does
-not dread the devil. "If God is for us, who is against
-us?"
+The Lord who has taken away your sin and pardoned your faults also protects you and keeps you from the wiles of your adversary the devil, so that the enemy, who is accustomed to leading into sin, may not surprise you. One who entrusts himself to God does not dread the devil. "If God is for us, who is against us?"
 
 **2853.** Victory over the "prince of this world" was won once for all at the Hour when Jesus freely gave himself up to death to give us his life. This is the judgment of this world, and the prince of this world is "cast out." "He pursued the woman" but had no hold on her: the new Eve, "full of grace" of the Holy Spirit, is preserved from sin and the corruption of death (the Immaculate Conception and the Assumption of the Most Holy Mother of God, Mary, ever virgin). "Then the dragon was angry with the woman, and went off to make war on the rest of her offspring." Therefore the Spirit and the Church pray: "Come, Lord Jesus," since his coming will deliver us from the Evil One.
 
 **2854.** When we ask to be delivered from the Evil One, we pray as well to be freed from all evils, present, past, and future, of which he is the author or instigator. In this final petition, the Church brings before the Father all the distress of the world. Along with deliverance from the evils that overwhelm humanity, she implores the precious gift of peace and the grace of perseverance in expectation of Christ's return By praying in this way, she anticipates in humility of faith the gathering together of everyone and everything in him who has "the keys of Death and Hades," who "is and who was and who is to come, the Almighty."
 
-Deliver us, Lord, we beseech
-you, from every evil and grant us peace in our day, so that aided by your mercy
-we might be ever free from sin and protected from all anxiety, as we await the
-blessed hope and the coming of our Savior, Jesus Christ.
+Deliver us, Lord, we beseech you, from every evil and grant us peace in our day, so that aided by your mercy we might be ever free from sin and protected from all anxiety, as we await the blessed hope and the coming of our Savior, Jesus Christ.
 
-Article 4THE FINAL DOXOLOGY2855.** The final doxology, "For the kingdom, the power and the glory are yours, now and forever," takes up again, by inclusion, the first three petitions to our Father: the glorification of his name, the coming of his reign, and the power of his saving will. But these prayers are now proclaimed as adoration and thanksgiving, as in the liturgy of heaven. The ruler of this world has mendaciously attributed to himself the three titles of kingship, power, and glory. Christ, the Lord, restores them to his Father and our Father, until he hands over the kingdom to him when the mystery of salvation will be brought to its completion and God will be all in all.
+Article 4
+
+#### THE FINAL DOXOLOGY
+
+**2855.** The final doxology, "For the kingdom, the power and the glory are yours, now and forever," takes up again, by inclusion, the first three petitions to our Father: the glorification of his name, the coming of his reign, and the power of his saving will. But these prayers are now proclaimed as adoration and thanksgiving, as in the liturgy of heaven. The ruler of this world has mendaciously attributed to himself the three titles of kingship, power, and glory. Christ, the Lord, restores them to his Father and our Father, until he hands over the kingdom to him when the mystery of salvation will be brought to its completion and God will be all in all.
 
 **2856.** "Then, after the prayer is over you say 'Amen,' which means 'So be it,' thus ratifying with our 'Amen' what is contained in the prayer that God has taught us."
 
-**IN BRIEF2857.** *In the Our Father, the object of the first three petitions is the glory of the Father: the sanctification of his name, the coming of the kingdom, and the fulfillment of his will. the four others present our wants to him: they ask that our lives be nourished, healed of sin, and made victorious in the struggle of good over evil.*
+#### IN BRIEF
+
+**2857.** *In the Our Father, the object of the first three petitions is the glory of the Father: the sanctification of his name, the coming of the kingdom, and the fulfillment of his will. the four others present our wants to him: they ask that our lives be nourished, healed of sin, and made victorious in the struggle of good over evil.*
 
 **2858.** *By asking "hallowed be thy name" we enter into God's plan, the sanctification of his name - revealed first to Moses and then in Jesus - by us and in us, in every nation and in each man.*
 
