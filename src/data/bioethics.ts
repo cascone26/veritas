@@ -1,0 +1,131 @@
+export interface BioethicsTopic {
+  topic: string;
+  catholicPosition: string;
+  naturalLawArgument: string;
+  cccReference: string;
+  aquinasRef?: string;
+  encyclicalRef?: string;
+  commonObjection: string;
+  response: string;
+}
+
+export const BIOETHICS: BioethicsTopic[] = [
+  {
+    topic: "Abortion",
+    catholicPosition: "Direct abortion — the intentional killing of an unborn child at any stage — is an intrinsic evil that can never be morally justified. Human life begins at conception. The right to life is the foundational right. The Church permits procedures to save the mother's life even if the child dies as an unintended side effect (double effect), but never direct abortion.",
+    naturalLawArgument: "A distinct human organism exists from fertilization. The deliberate destruction of an innocent human being violates the basic good of life and the first precept of natural law: good is to be done and evil avoided. The right to life is inherent to human nature, not granted by the state.",
+    cccReference: "CCC 2270-2275",
+    aquinasRef: "ST II-II, q.64, a.6 (double effect); De Malo, q.15",
+    encyclicalRef: "Evangelium Vitae 57-63 (John Paul II, 1995)",
+    commonObjection: "A woman has the right to control her own body. The fetus is not a person until viability or birth.",
+    response: "The unborn child is not part of the woman's body — it has its own DNA, blood type, and often a different sex. Viability is a technological standard that varies by location and era. Bodily autonomy does not include the right to kill another human being. For hard cases: double effect addresses life-threatening situations, and the trauma of rape is not healed by killing the child conceived.",
+  },
+  {
+    topic: "Euthanasia and Assisted Suicide",
+    catholicPosition: "Euthanasia — deliberately killing a person to end suffering — is intrinsically evil. Assisted suicide is equally condemned. The Church does not require extraordinary means to prolong life. Palliative care, including pain management that may incidentally shorten life (double effect), is encouraged. The Church affirms the right to die naturally while opposing direct killing.",
+    naturalLawArgument: "Human life is a basic good that cannot be directly acted against. Suffering does not negate dignity. We are stewards of our lives, not absolute owners. The proper response to suffering is compassionate care, not killing.",
+    cccReference: "CCC 2276-2279",
+    aquinasRef: "ST II-II, q.64, a.5 (whether lawful to kill oneself — no)",
+    encyclicalRef: "Evangelium Vitae 64-67; Samaritanus Bonus (CDF, 2020)",
+    commonObjection: "People should have the right to die with dignity. Forcing someone to suffer is cruel.",
+    response: "True dignity comes from who you are, not your circumstances. The proper response is excellent palliative care, which can manage virtually all pain. Studies in Oregon and the Netherlands show the primary reasons for assisted suicide are not pain but feelings of being a burden. Legalizing euthanasia puts the vulnerable at risk — Belgium and the Netherlands expanded it to children and the depressed, confirming the slippery slope.",
+  },
+  {
+    topic: "In Vitro Fertilization (IVF)",
+    catholicPosition: "IVF is morally impermissible because it separates procreation from the conjugal act, treats children as products rather than gifts, and typically involves creating and destroying surplus embryos. Each embryo is a human being. IVF also introduces third parties into the marital bond. The Church encourages NaProTechnology and adoption.",
+    naturalLawArgument: "The procreative and unitive meanings of the conjugal act are inseparable. Children have a right to be conceived through their parents' loving act, not manufactured in a laboratory. Creating surplus embryos that are frozen, discarded, or used for research directly violates human dignity.",
+    cccReference: "CCC 2373-2379",
+    aquinasRef: "ST Supp., q.41 (the goods of marriage and inseparability of procreative and unitive ends)",
+    encyclicalRef: "Donum Vitae (CDF, 1987); Dignitas Personae (CDF, 2008)",
+    commonObjection: "IVF helps infertile couples have children. What's wrong with helping people become parents?",
+    response: "A good end does not justify every means. IVF typically creates multiple embryos — those not implanted are frozen, discarded, or donated to research. Selective reduction (aborting some implanted embryos) is common. NaProTechnology addresses underlying infertility causes with comparable success rates and no moral problems. The Church also strongly encourages adoption.",
+  },
+  {
+    topic: "Surrogacy",
+    catholicPosition: "Surrogacy is morally impermissible. It treats the child as a commodity and the surrogate's body as a rental. It fragments motherhood into genetic, gestational, and social components. It exploits economically vulnerable women. The child has a right to be conceived and carried by his or her own mother.",
+    naturalLawArgument: "The natural law recognizes the integral unity of motherhood. The gestational bond cannot be justly severed by contract. Surrogacy instrumentalizes both child (product) and surrogate (means). Persons must never be used merely as means to an end.",
+    cccReference: "CCC 2376",
+    encyclicalRef: "Donum Vitae II.A.3 (CDF, 1987); Dignitas Infinita (DDF, 2024)",
+    commonObjection: "Surrogacy lets people who can't carry children become parents. The surrogate freely consents.",
+    response: "Consent does not make every transaction just. Economic pressure means 'free consent' is often illusory — most surrogates are economically disadvantaged women in developing countries. Children born through surrogacy frequently struggle with identity. Adoption addresses the same need without commodifying anyone.",
+  },
+  {
+    topic: "Contraception",
+    catholicPosition: "Artificial contraception is intrinsically evil because it separates the procreative and unitive meanings of the conjugal act. This applies to all artificial methods. Each marital act must remain open to life. Natural Family Planning (NFP), which cooperates with natural fertility cycles, is morally permissible for serious reasons.",
+    naturalLawArgument: "The conjugal act has two inherent meanings — unitive and procreative — ordered to each other by nature. Deliberately frustrating either violates natural law. Contraception treats fertility as a disease. Paul VI predicted in Humanae Vitae that widespread contraception would lead to infidelity, moral decline, loss of respect for women, and coercive population control — all vindicated.",
+    cccReference: "CCC 2366-2372",
+    aquinasRef: "ST Supp., q.65, a.1; SCG III.122",
+    encyclicalRef: "Humanae Vitae (Paul VI, 1968); Casti Connubii (Pius XI, 1930)",
+    commonObjection: "The Church is out of touch. Contraception prevents unwanted pregnancies and is responsible.",
+    response: "Every prophecy of Humanae Vitae has been fulfilled: widespread contraception correlates with higher divorce, cohabitation, out-of-wedlock births, and abortion. NFP has 99%+ effectiveness with perfect use, strengthens communication, has no side effects, and is associated with approximately 2-5% divorce rates versus 50%. The question is whether the means respect the nature of the act.",
+  },
+  {
+    topic: "Embryonic Stem Cell Research",
+    catholicPosition: "Research requiring embryo destruction is intrinsically evil. The Church strongly supports adult stem cell research, induced pluripotent stem cells, and cord blood stem cells — which have produced virtually all therapeutic breakthroughs. Destroying embryos for research treats human beings as raw material.",
+    naturalLawArgument: "The basic good of human life may never be directly acted against, even to benefit others. The end does not justify the means. An embryo is not a potential human being but a human being with potential.",
+    cccReference: "CCC 2274-2275",
+    aquinasRef: "ST I-II, q.20, a.2 (the end does not justify the means)",
+    encyclicalRef: "Dignitas Personae 30-35 (CDF, 2008)",
+    commonObjection: "This research could cure diseases and save millions. The embryos would be discarded anyway.",
+    response: "Adult and iPSC stem cells have produced nearly every actual success — embryonic research almost none. 'They'll be discarded anyway' would justify experimenting on death row inmates. We do not solve one injustice by committing another. Ethical alternatives exist and are proving more effective.",
+  },
+  {
+    topic: "Organ Donation",
+    catholicPosition: "Organ donation after true death is a noble act of charity and is strongly encouraged. Vital organs may not be removed from a living person if it would cause death. The Church accepts brain death as a valid criterion (John Paul II, 2000) while acknowledging legitimate debate. Living donation of non-vital organs (e.g., a kidney) is permissible when it does not disproportionately endanger the donor.",
+    naturalLawArgument: "Charity toward neighbor is a fundamental good. The gift of an organ can be extraordinary love. However, one's own life cannot be directly sacrificed. The natural law also prohibits organ commodification (buying and selling) as it treats the body as a commodity.",
+    cccReference: "CCC 2296",
+    aquinasRef: "ST II-II, q.25, a.6 (order of charity and care for one's own body)",
+    encyclicalRef: "John Paul II, Address to the Transplantation Society Congress (2000)",
+    commonObjection: "If brain death isn't really death, isn't organ donation from brain-dead patients actually killing them?",
+    response: "This is a legitimate area of ongoing debate. John Paul II affirmed the Church accepts brain death criteria when rigorously applied. The key principle is that vital organs may only be removed after true death. Catholics may hold different positions on brain death criteria while agreeing on the underlying moral principles.",
+  },
+  {
+    topic: "Genetic Engineering",
+    catholicPosition: "Somatic gene therapy (modifying individual genes to treat disease) is morally permissible. Germline engineering (heritable modifications) raises serious concerns due to unpredictable consequences and 'designer baby' risks. Enhancement engineering (improving traits rather than healing disease) is problematic because it treats human nature as raw material to redesign.",
+    naturalLawArgument: "Medicine's proper end is healing — restoring natural functioning. Somatic therapy serves this end. Germline and enhancement engineering risk treating human nature as a product, violating the principle that human dignity is inherent, not dependent on genetic qualities.",
+    cccReference: "CCC 2292-2295",
+    aquinasRef: "ST I-II, q.94, a.2 (immutability of first principles of natural law)",
+    encyclicalRef: "Dignitas Personae 25-27 (CDF, 2008)",
+    commonObjection: "If we can eliminate genetic diseases, why wouldn't we? Isn't refusing causing unnecessary suffering?",
+    response: "The Church supports therapeutic interventions. The question is about means and limits. Germline modification risks unforeseen consequences for non-consenting future generations. Enhancement leads to eugenics. The 20th century's eugenics history should give pause. Heal disease without claiming the right to redesign human nature.",
+  },
+  {
+    topic: "Human Cloning",
+    catholicPosition: "Both reproductive cloning (creating a cloned human) and therapeutic cloning (creating embryos for research) are intrinsically evil. Reproductive cloning denies unique genetic identity. Therapeutic cloning creates a human solely to be destroyed. Both violate human dignity.",
+    naturalLawArgument: "Human reproduction naturally involves the union of two persons in love. Cloning replaces this with technical replication, reducing procreation to manufacturing. Therapeutic cloning explicitly creates a person as a means to an end — the most fundamental violation of dignity under natural law.",
+    cccReference: "CCC 2275",
+    encyclicalRef: "Dignitas Personae 28-30 (CDF, 2008)",
+    commonObjection: "Therapeutic cloning could produce personalized stem cells without immune rejection.",
+    response: "Induced pluripotent stem cells achieve the same goal without creating and destroying embryos. The science has moved beyond the need for therapeutic cloning. Reproductive cloning subjects the cloned person to enormous risks, as shown by the high failure rate in animal cloning.",
+  },
+  {
+    topic: "Natural Family Planning (NFP)",
+    catholicPosition: "NFP — observing natural fertility signs to achieve or avoid pregnancy — is the only morally licit family planning. It cooperates with natural fertility rather than suppressing it. It should be used for serious reasons (health, finances, spacing), not as 'Catholic contraception.' Couples must remain open to God's plan.",
+    naturalLawArgument: "NFP respects natural law because it does not alter the conjugal act. During fertile periods, the couple abstains rather than rendering the act infertile. The distinction is between 'not acting' (abstinence) and 'acting against' (contraception). NFP preserves the act's integrity while allowing responsible parenthood.",
+    cccReference: "CCC 2370",
+    aquinasRef: "ST Supp., q.65, a.1 (goods of marriage)",
+    encyclicalRef: "Humanae Vitae 16 (Paul VI, 1968)",
+    commonObjection: "There's no real difference between NFP and contraception — the intention is the same.",
+    response: "Intention may be the same, but means differ fundamentally. A person who locks their door and a person who shoots an intruder both intend safety, but the means differ morally. NFP respects the fertility cycle; contraception suppresses it. NFP couples have dramatically lower divorce rates and report higher marital satisfaction.",
+  },
+  {
+    topic: "End-of-Life Care",
+    catholicPosition: "Ordinary means of preserving life (food, water, basic care) are obligatory. Extraordinary or disproportionate means may be refused or withdrawn. Direct killing (euthanasia) is never permissible, but allowing natural death by withdrawing disproportionate treatment is acceptable. Palliative care, including pain medication that may incidentally shorten life (double effect), is encouraged.",
+    naturalLawArgument: "Natural law requires preserving life as a basic good but does not require every possible means indefinitely. The ordinary/extraordinary distinction recognizes limits to our obligation. We may never directly intend death, but the double effect principle allows pain relief that may incidentally shorten life.",
+    cccReference: "CCC 2278-2279",
+    aquinasRef: "ST II-II, q.64, a.7 (double effect)",
+    encyclicalRef: "Evangelium Vitae 65; Declaration on Euthanasia (CDF, 1980)",
+    commonObjection: "Withdrawing treatment is the same as killing the patient.",
+    response: "There is a fundamental distinction between killing and allowing to die. Withdrawing a ventilator from a brain-dead patient is not the same as lethal injection. In the first case, the disease kills; in the second, the doctor does. Food and water (even by tube) are generally ordinary care; experimental chemo with minimal chance of success may be refused.",
+  },
+  {
+    topic: "Capital Punishment",
+    catholicPosition: "The Church now teaches the death penalty is 'inadmissible because it is an attack on the inviolability and dignity of the person' (CCC 2267, revised 2018). This is a development — the Church previously allowed it for defense of the common good, but modern penal systems can protect society without killing.",
+    naturalLawArgument: "Aquinas held the state could execute criminals as defense of the common good (ST II-II, q.64, a.2). But proportionality requires the least harmful effective means. If modern imprisonment suffices, execution becomes disproportionate. Same principles, changed circumstances, different practical conclusion.",
+    cccReference: "CCC 2267 (revised 2018)",
+    aquinasRef: "ST II-II, q.64, a.2 (classical position permitting capital punishment)",
+    encyclicalRef: "Fratelli Tutti 263-270 (Francis, 2020)",
+    commonObjection: "The Church changed its teaching — this proves Catholic teaching can change on anything.",
+    response: "This is development, not contradiction. The principle — the state may use force for the common good — has not changed. The practical judgment changed: execution is no longer necessary given modern prisons. Aquinas himself justified it only insofar as necessary. If unnecessary, the justification falls away. Same principle, different application in different circumstances.",
+  },
+];

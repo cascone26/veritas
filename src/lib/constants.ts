@@ -107,6 +107,7 @@ export const NAV_SECTIONS = [
       { name: "Daily Question", href: "/daily", icon: "sun" },
       { name: "Reading Plans", href: "/plans", icon: "route" },
       { name: "Weakness Tracker", href: "/weakness", icon: "target-weak" },
+      { name: "Spiritual Reading", href: "/spiritual-reading", icon: "book" },
     ],
   },
   {
@@ -117,19 +118,50 @@ export const NAV_SECTIONS = [
       { name: "Glossary", href: "/glossary", icon: "glossary" },
       { name: "Analogy Bank", href: "/analogies", icon: "lightbulb" },
       { name: "Natural Law", href: "/naturallaw", icon: "scale" },
+      { name: "One-Liners", href: "/oneliners", icon: "zap" },
+      { name: "Logical Fallacies", href: "/fallacies", icon: "target" },
+      { name: "Debate Playbook", href: "/debate-playbook", icon: "book" },
+    ],
+  },
+  {
+    title: "Apologetics",
+    items: [
+      { name: "Myth Buster", href: "/myths", icon: "flame" },
+      { name: "Modern Critics", href: "/critics", icon: "users" },
+      { name: "Denominations", href: "/denominations", icon: "map" },
+      { name: "Argument Trees", href: "/arguments", icon: "tree" },
+    ],
+  },
+  {
+    title: "Scripture & Sacraments",
+    items: [
+      { name: "Typology Index", href: "/typology", icon: "scroll" },
+      { name: "Prophecy Fulfillment", href: "/prophecies", icon: "star" },
+      { name: "Sacraments", href: "/sacraments", icon: "pray" },
+      { name: "Covenants Map", href: "/covenants", icon: "route" },
     ],
   },
   {
     title: "Encyclopedia",
     items: [
       { name: "Full Encyclopedia", href: "/encyclopedia", icon: "library" },
+      { name: "Aquinas: Life & Works", href: "/aquinas-life", icon: "star" },
       { name: "Heresy Index", href: "/heresies", icon: "flame" },
       { name: "Church Fathers", href: "/fathers", icon: "users" },
       { name: "Saints & Doctors", href: "/saints", icon: "star" },
-      { name: "Denominations", href: "/denominations", icon: "map" },
+      { name: "Ecumenical Councils", href: "/councils", icon: "library" },
       { name: "Encyclicals", href: "/encyclicals", icon: "document" },
+      { name: "Marian Encyclopedia", href: "/marian", icon: "star" },
+      { name: "Virtues & Vices", href: "/virtues", icon: "scale" },
       { name: "Timeline", href: "/timeline", icon: "clock" },
-      { name: "Argument Trees", href: "/arguments", icon: "tree" },
+      { name: "Contributions", href: "/contributions", icon: "lightbulb" },
+    ],
+  },
+  {
+    title: "Moral Theology",
+    items: [
+      { name: "Bioethics", href: "/bioethics", icon: "scale" },
+      { name: "Social Teaching", href: "/social", icon: "users" },
     ],
   },
   {
@@ -139,6 +171,7 @@ export const NAV_SECTIONS = [
       { name: "Saved Arguments", href: "/saved", icon: "bookmark" },
       { name: "Reading Tracker", href: "/reading", icon: "check" },
       { name: "Prayer Corner", href: "/prayers", icon: "pray" },
+      { name: "Settings", href: "/settings", icon: "target" },
     ],
   },
 ];
