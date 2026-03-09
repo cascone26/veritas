@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
+import { linkCitations, escapeHtml } from "@/lib/citations";
 
 interface Message {
   role: "user" | "assistant";
@@ -113,7 +114,16 @@ export default function ChatInterface({
                   Veritas
                 </div>
               )}
-              <div className="whitespace-pre-wrap">{msg.content}</div>
+              {msg.role === "assistant" ? (
+                <div
+                  className="whitespace-pre-wrap [&_a]:text-amber-500 [&_a:hover]:underline"
+                  dangerouslySetInnerHTML={{
+                    __html: linkCitations(escapeHtml(msg.content)),
+                  }}
+                />
+              ) : (
+                <div className="whitespace-pre-wrap">{msg.content}</div>
+              )}
             </div>
           ))}
           {loading && messages[messages.length - 1]?.role === "user" && (

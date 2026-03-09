@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" fill="none">
+  <!-- Rays behind the luna -->
+  <g transform="translate(96, 72)">
+    <!-- Long alternating rays -->
+    <g fill="#d4a853">
+      <!-- 24 rays alternating long/short -->
+      <polygon points="0,-56 3,-20 -3,-20" opacity="0.9"/>
+      <polygon points="0,56 3,20 -3,20" opacity="0.9"/>
+      <polygon points="-56,0 -20,3 -20,-3" opacity="0.9"/>
+      <polygon points="56,0 20,3 20,-3" opacity="0.9"/>
+
+      <polygon points="-39.6,-39.6 -14.1,-14.1 -16.2,-12" opacity="0.85"/>
+      <polygon points="39.6,-39.6 14.1,-14.1 16.2,-12" opacity="0.85"/>
+      <polygon points="-39.6,39.6 -14.1,14.1 -12,16.2" opacity="0.85"/>
+      <polygon points="39.6,39.6 14.1,14.1 12,16.2" opacity="0.85"/>
+
+      <!-- Intermediate rays -->
+      <polygon points="-21.4,-52.4 -7.7,-18.8 -10,-17.8" opacity="0.75"/>
+      <polygon points="21.4,-52.4 7.7,-18.8 10,-17.8" opacity="0.75"/>
+      <polygon points="-52.4,-21.4 -18.8,-7.7 -17.8,-10" opacity="0.75"/>
+      <polygon points="52.4,-21.4 18.8,-7.7 17.8,-10" opacity="0.75"/>
+      <polygon points="-21.4,52.4 -7.7,18.8 -10,17.8" opacity="0.75"/>
+      <polygon points="21.4,52.4 7.7,18.8 10,17.8" opacity="0.75"/>
+      <polygon points="-52.4,21.4 -18.8,7.7 -17.8,10" opacity="0.75"/>
+      <polygon points="52.4,21.4 18.8,7.7 17.8,10" opacity="0.75"/>
+
+      <!-- Fine rays -->
+      <polygon points="-10.8,-55.4 -3.9,-19.9 -6.1,-19.5" opacity="0.6"/>
+      <polygon points="10.8,-55.4 3.9,-19.9 6.1,-19.5" opacity="0.6"/>
+      <polygon points="-55.4,-10.8 -19.9,-3.9 -19.5,-6.1" opacity="0.6"/>
+      <polygon points="55.4,-10.8 19.9,-3.9 19.5,-6.1" opacity="0.6"/>
+      <polygon points="-10.8,55.4 -3.9,19.9 -6.1,19.5" opacity="0.6"/>
+      <polygon points="10.8,55.4 3.9,19.9 6.1,19.5" opacity="0.6"/>
+      <polygon points="-55.4,10.8 -19.9,3.9 -19.5,6.1" opacity="0.6"/>
+      <polygon points="55.4,10.8 19.9,3.9 19.5,6.1" opacity="0.6"/>
+
+      <polygon points="-31.4,-47 -11.3,-16.9 -13.2,-15.5" opacity="0.65"/>
+      <polygon points="31.4,-47 11.3,-16.9 13.2,-15.5" opacity="0.65"/>
+      <polygon points="-47,-31.4 -16.9,-11.3 -15.5,-13.2" opacity="0.65"/>
+      <polygon points="47,-31.4 16.9,-11.3 15.5,-13.2" opacity="0.65"/>
+      <polygon points="-31.4,47 -11.3,16.9 -13.2,15.5" opacity="0.65"/>
+      <polygon points="31.4,47 11.3,16.9 13.2,15.5" opacity="0.65"/>
+      <polygon points="-47,31.4 -16.9,11.3 -15.5,13.2" opacity="0.65"/>
+      <polygon points="47,31.4 16.9,11.3 15.5,13.2" opacity="0.65"/>
+    </g>
+  </g>
+
+  <!-- Outer ring of luna -->
+  <circle cx="96" cy="72" r="22" fill="none" stroke="#d4a853" stroke-width="3"/>
+
+  <!-- Inner host circle -->
+  <circle cx="96" cy="72" r="16" fill="none" stroke="#d4a853" stroke-width="1.5"/>
+
+  <!-- Small cross on the host -->
+  <line x1="96" y1="64" x2="96" y2="80" stroke="#d4a853" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="88" y1="72" x2="104" y2="72" stroke="#d4a853" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- Neck connecting luna to base -->
+  <path d="M92,94 L92,130 Q92,133 89,136 L86,139 Q84,141 84,144 L84,148 L108,148 L108,144 Q108,141 106,139 L103,136 Q100,133 100,130 L100,94" fill="none" stroke="#d4a853" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- Node/knob on stem -->
+  <ellipse cx="96" cy="112" rx="6" ry="4" fill="none" stroke="#d4a853" stroke-width="2"/>
+
+  <!-- Base -->
+  <path d="M78,148 L114,148 Q118,148 120,152 L122,156 Q123,160 119,162 L73,162 Q69,160 70,156 L72,152 Q74,148 78,148 Z" fill="none" stroke="#d4a853" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <!-- Base bottom line -->
+  <line x1="76" y1="162" x2="116" y2="162" stroke="#d4a853" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

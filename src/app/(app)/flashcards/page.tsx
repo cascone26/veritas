@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import PageHeader from "@/components/PageHeader";
+import { linkCitations, escapeHtml } from "@/lib/citations";
 
 interface Flashcard {
   id: string;
@@ -193,9 +194,14 @@ export default function FlashcardsPage() {
                           <p className="text-[10px] font-semibold uppercase tracking-wider text-stone-600 mb-2">
                             {flipped === i ? "Answer" : "Question"}
                           </p>
-                          <p className="text-sm text-stone-200">
-                            {flipped === i ? card.back : card.front}
-                          </p>
+                          <p
+                            className="text-sm text-stone-200 [&_a]:text-amber-500 [&_a:hover]:underline"
+                            dangerouslySetInnerHTML={{
+                              __html: linkCitations(
+                                escapeHtml(flipped === i ? card.back : card.front)
+                              ),
+                            }}
+                          />
                         </div>
                         <div className="mt-3 flex items-center justify-between">
                           <span className="text-[10px] text-stone-600">
@@ -242,11 +248,18 @@ export default function FlashcardsPage() {
                     <p className="text-[10px] font-semibold uppercase tracking-wider text-stone-600 mb-3">
                       {reviewFlipped ? "Answer" : "Question"}
                     </p>
-                    <p className="text-base text-stone-200">
-                      {reviewFlipped
-                        ? dueCards[currentIndex]?.back
-                        : dueCards[currentIndex]?.front}
-                    </p>
+                    <p
+                      className="text-base text-stone-200 [&_a]:text-amber-500 [&_a:hover]:underline"
+                      dangerouslySetInnerHTML={{
+                        __html: linkCitations(
+                          escapeHtml(
+                            (reviewFlipped
+                              ? dueCards[currentIndex]?.back
+                              : dueCards[currentIndex]?.front) ?? ""
+                          )
+                        ),
+                      }}
+                    />
                     {!reviewFlipped && (
                       <p className="mt-4 text-[10px] text-stone-600">
                         Click to reveal answer

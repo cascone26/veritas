@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import PageHeader from "@/components/PageHeader";
+import { linkCitations, escapeHtml } from "@/lib/citations";
 
 interface DailyQuestion {
   question: string;
@@ -95,7 +96,12 @@ export default function DailyPage() {
                   <p className="text-[10px] font-semibold uppercase tracking-wider text-yellow-500 mb-2">
                     Hint
                   </p>
-                  <p className="text-sm text-stone-300">{question.hint}</p>
+                  <p
+                    className="text-sm text-stone-300 [&_a]:text-amber-500 [&_a:hover]:underline"
+                    dangerouslySetInnerHTML={{
+                      __html: linkCitations(escapeHtml(question.hint)),
+                    }}
+                  />
                 </div>
               )}
 
@@ -105,17 +111,23 @@ export default function DailyPage() {
                     <p className="text-[10px] font-semibold uppercase tracking-wider text-emerald-500 mb-2">
                       Answer
                     </p>
-                    <p className="text-sm leading-relaxed text-stone-200">
-                      {question.answer}
-                    </p>
+                    <p
+                      className="text-sm leading-relaxed text-stone-200 [&_a]:text-amber-500 [&_a:hover]:underline"
+                      dangerouslySetInnerHTML={{
+                        __html: linkCitations(escapeHtml(question.answer)),
+                      }}
+                    />
                   </div>
                   <div className="rounded-xl border border-stone-800 p-4">
                     <p className="text-[10px] font-semibold uppercase tracking-wider text-amber-600 mb-2">
                       Citation
                     </p>
-                    <p className="text-sm font-mono text-stone-400">
-                      {question.citation}
-                    </p>
+                    <p
+                      className="text-sm font-mono text-stone-400 [&_a]:text-amber-500 [&_a:hover]:underline"
+                      dangerouslySetInnerHTML={{
+                        __html: linkCitations(escapeHtml(question.citation)),
+                      }}
+                    />
                   </div>
                 </div>
               )}

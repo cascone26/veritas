@@ -10,6 +10,10 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Veritas — Catholic Theology & Apologetics",
   description: "Personal AI-powered Catholic theology and apologetics platform built on the complete works of St. Thomas Aquinas.",
+  icons: {
+    icon: '/icon.svg',
+    apple: '/apple-touch-icon.svg',
+  },
 };
 
 export default function RootLayout({
