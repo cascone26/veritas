@@ -103,9 +103,10 @@ export const NAV_SECTIONS = [
     title: "Study",
     items: [
       { name: "Summa Browser", href: "/summa", icon: "book" },
+      { name: "SCG Browser", href: "/scg", icon: "book" },
+      { name: "Library", href: "/spiritual-reading", icon: "library" },
       { name: "Flashcards", href: "/flashcards", icon: "cards" },
       { name: "Daily Question", href: "/daily", icon: "sun" },
-      { name: "Spiritual Reading", href: "/spiritual-reading", icon: "book" },
       { name: "Reading Plans", href: "/plans", icon: "route" },
       { name: "Weakness Tracker", href: "/weakness", icon: "target-weak" },
     ],

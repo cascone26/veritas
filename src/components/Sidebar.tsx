@@ -74,7 +74,7 @@ export default function Sidebar() {
       >
         {/* Header */}
         <div className="sticky top-0 z-10 border-b border-stone-800 bg-stone-950 px-5 py-4 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2" onClick={() => setOpen(false)}>
+          <Link href="/dashboard" className="flex items-center gap-2" onClick={() => setOpen(false)}>
             <span className="text-xl font-bold tracking-wide text-amber-500">VERITAS</span>
           </Link>
           <button
