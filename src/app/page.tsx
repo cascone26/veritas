@@ -32,10 +32,10 @@ const features = [
 ];
 
 const stats = [
-  { value: "100+", label: "Works by Aquinas" },
+  { value: "150+", label: "Works by Aquinas" },
   { value: "2,669", label: "Summa Articles" },
   { value: "10,000+", label: "Objections Answered" },
-  { value: "39", label: "Features Planned" },
+  { value: "45+", label: "Features Built" },
 ];
 
 export default function Home() {
@@ -58,9 +58,12 @@ export default function Home() {
           <span className="block mt-1 not-italic text-gold-dim">— St. Thomas Aquinas, 1273</span>
         </p>
         <div className="flex gap-4">
-          <div className="rounded-full border border-gold/30 bg-gold/10 px-6 py-3 text-sm font-medium text-gold">
-            Coming Soon
-          </div>
+          <a
+            href="/ask"
+            className="rounded-full border border-gold/30 bg-gold/10 px-6 py-3 text-sm font-medium text-gold transition-colors hover:bg-gold/20"
+          >
+            Enter Veritas
+          </a>
         </div>
       </section>
 
@@ -82,7 +85,7 @@ export default function Home() {
           Core Features
         </h2>
         <p className="mb-12 text-center text-stone-500">
-          39 features. Everything from AI chat to spaced repetition to debate simulation.
+          45+ features. Everything from AI chat to spaced repetition to debate simulation.
         </p>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {features.map((f) => (
