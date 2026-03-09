@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { linkCitations, escapeHtml } from "@/lib/citations";
+import GlossaryTooltip from "@/components/GlossaryTooltip";
 
 interface Message {
   role: "user" | "assistant";
@@ -96,7 +97,9 @@ export default function ChatInterface({
       <div className="flex-1 overflow-y-auto px-4 py-6">
         {messages.length === 0 && welcomeMessage && (
           <div className="mx-auto max-w-2xl rounded-xl border border-stone-800 bg-stone-900/50 p-6 text-sm text-stone-400">
-            <div className="whitespace-pre-wrap">{welcomeMessage}</div>
+            <div className="whitespace-pre-wrap">
+              <GlossaryTooltip text={welcomeMessage} />
+            </div>
           </div>
         )}
         <div className="mx-auto max-w-2xl space-y-4">

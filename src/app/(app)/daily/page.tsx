@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import PageHeader from "@/components/PageHeader";
 import { linkCitations, escapeHtml } from "@/lib/citations";
+import GlossaryTooltip from "@/components/GlossaryTooltip";
 
 interface DailyQuestion {
   question: string;
@@ -64,7 +65,7 @@ export default function DailyPage() {
                   Today&apos;s Question
                 </p>
                 <p className="text-lg font-medium leading-relaxed text-stone-100">
-                  {question.question}
+                  <GlossaryTooltip text={question.question} />
                 </p>
               </div>
 
