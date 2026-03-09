@@ -2,7 +2,24 @@
 
 **Owner:** Jacob Cascone
 **Stack:** Next.js + Supabase + Anthropic + Vercel
-**Status:** Planning / Pre-build
+**Status:** Live — veritas-mauve-nu.vercel.app
+**GitHub:** cascone26/veritas
+**Last Deploy:** Mar 9, 2026
+
+## Built So Far
+
+**45+ pages across 9 nav sections:**
+
+**AI Tools:** Ask Thomas (streaming chat), Objection Handler, Debate Prep, Debate Simulator
+**Study:** Summa Browser (512 questions), Flashcards (AI-generated), Daily Question, Reading Plans, Weakness Tracker, Spiritual Reading (26 classics)
+**Reference:** Quick-Draw (25+ apologetics), Scripture Index (30+ verses), Glossary (60+ terms), Analogy Bank (25+ with heresy warnings), Natural Law (12 topics), One-Liners (55+ responses), Logical Fallacies (28+), Debate Playbook (10 strategies)
+**Apologetics:** Myth Buster (20 myths), Modern Critics (15 thinkers), Denominations (12), Argument Trees
+**Scripture & Sacraments:** Typology (30+ types), Prophecy Fulfillment (46+), Sacraments (all 7), Biblical Covenants (6)
+**Encyclopedia:** Hub page (30 sections), Aquinas Life & Works (26 events + 60 works), Heresy Index (20+), Church Fathers (24), Saints/Doctors (37), Ecumenical Councils (21), Encyclicals (18), Marian Encyclopedia (4 dogmas + 48 titles), Virtues & Vices (41 entries), Timeline (60+ events), Catholic Contributions (22)
+**Moral Theology:** Bioethics (15 topics), Social Teaching (14 principles)
+**Personal:** Notes & Journal, Saved Arguments, Reading Tracker, Prayer Corner (19 prayers), Settings
+
+**Data files:** 30+ files in src/data/ with comprehensive Catholic theology content
 
 ---
 
