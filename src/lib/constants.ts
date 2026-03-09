@@ -93,7 +93,7 @@ export const NAV_SECTIONS = [
   {
     title: "AI Tools",
     items: [
-      { name: "Ask Thomas", href: "/ask", icon: "chat" },
+      { name: "Ask Aquinas", href: "/ask", icon: "chat" },
       { name: "Objection Handler", href: "/objection", icon: "shield" },
       { name: "Debate Prep", href: "/debate", icon: "target" },
       { name: "Debate Simulator", href: "/simulator", icon: "swords" },

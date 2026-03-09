@@ -1,6 +1,6 @@
 const features = [
   {
-    title: "Ask Thomas",
+    title: "Ask Aquinas",
     desc: "AI chat grounded in the complete works of Aquinas. Real citations. Adjusts to your level.",
     icon: "💬",
   },

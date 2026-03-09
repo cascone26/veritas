@@ -10,7 +10,7 @@
 
 **45+ pages across 9 nav sections:**
 
-**AI Tools:** Ask Thomas (streaming chat), Objection Handler, Debate Prep, Debate Simulator
+**AI Tools:** Ask Aquinas (streaming chat), Objection Handler, Debate Prep, Debate Simulator
 **Study:** Summa Browser (512 questions), Flashcards (AI-generated), Daily Question, Reading Plans, Weakness Tracker, Spiritual Reading (26 classics)
 **Reference:** Quick-Draw (25+ apologetics), Scripture Index (30+ verses), Glossary (60+ terms), Analogy Bank (25+ with heresy warnings), Natural Law (12 topics), One-Liners (55+ responses), Logical Fallacies (28+), Debate Playbook (10 strategies)
 **Apologetics:** Myth Buster (20 myths), Modern Critics (15 thinkers), Denominations (12), Argument Trees
@@ -212,7 +212,7 @@ The foundation of everything. All AI features, study tools, and apologetics refe
 ### Features (39 Total)
 
 #### AI Core (3)
-1. **Ask Thomas** — AI chat grounded in the entire knowledge base. Real citations (ST I, Q.2, Art.3). Responds in Aquinas's dialectical framework. Adjusts depth to user level automatically.
+1. **Ask Aquinas** — AI chat grounded in the entire knowledge base. Real citations (ST I, Q.2, Art.3). Responds in Aquinas's dialectical framework. Adjusts depth to user level automatically.
 2. **Objection Handler** — Paste any anti-Catholic argument, get structured Thomistic response (Objection / On the contrary / I answer that / Reply). Steelmans the objection first.
 3. **Debate Prep** — Pick topic + opponent type (atheist, Protestant, Muslim, etc.), get full breakdown: their best arguments, your best responses, common traps, key verses, key Aquinas quotes.
 
@@ -372,7 +372,7 @@ The foundation of everything. All AI features, study tools, and apologetics refe
 1. Set up Next.js project with Supabase
 2. Design database schema for the knowledge base
 3. Build the knowledge base ingestion pipeline (Aquinas's works are public domain)
-4. Build Ask Thomas (core AI chat with knowledge base grounding)
+4. Build Ask Aquinas (core AI chat with knowledge base grounding)
 5. Build Summa Browser
 6. Build Apologetics Quick-Draw
 7. Layer in remaining features

@@ -5,14 +5,14 @@ export default function AskThomas() {
   return (
     <div className="flex h-screen flex-col">
       <PageHeader
-        title="Ask Thomas"
+        title="Ask Aquinas"
         subtitle="AI chat grounded in the complete works of Aquinas"
         icon="💬"
       />
       <ChatInterface
         endpoint="/api/chat"
         placeholder="Ask anything about Catholic theology, philosophy, or apologetics..."
-        welcomeMessage={`Welcome to Ask Thomas — your personal Thomistic AI theologian.
+        welcomeMessage={`Welcome to Ask Aquinas — your personal Thomistic AI theologian.
 
 I have access to the complete works of St. Thomas Aquinas, the Church Fathers, Sacred Scripture, the Catechism, and the full Catholic intellectual tradition.
 

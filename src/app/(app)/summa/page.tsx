@@ -92,7 +92,7 @@ export default function SummaBrowser() {
                   <div className="mt-2 border-t border-stone-800 pt-2 text-xs text-stone-500">
                     <p>ST {selectedPart}, q.{q.number} — {q.articles} articles</p>
                     <p className="mt-1">
-                      Use Ask Thomas to explore: &ldquo;Explain ST {selectedPart}, q.{q.number}&rdquo;
+                      Use Ask Aquinas to explore: &ldquo;Explain ST {selectedPart}, q.{q.number}&rdquo;
                     </p>
                   </div>
                 )}

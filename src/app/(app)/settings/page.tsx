@@ -50,7 +50,7 @@ export default function SettingsPage() {
               Anthropic API Key
             </h2>
             <p className="text-xs text-stone-500">
-              Used for AI-powered features like Ask Thomas, Debate Simulator, Flashcard Generation, and Daily Questions. Stored locally in your browser.
+              Used for AI-powered features like Ask Aquinas, Debate Simulator, Flashcard Generation, and Daily Questions. Stored locally in your browser.
             </p>
             <div className="flex gap-2">
               <input
