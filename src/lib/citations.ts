@@ -2,10 +2,10 @@
  * Citation parser — converts raw text citations into clickable links.
  *
  * Supported patterns:
- *   ST I, q.2, a.3        → /summa?search=q.2
- *   ST I-II, q.94, a.2    → /summa?search=q.94
- *   ST II-II, q.23, a.1   → /summa?search=q.23
- *   ST III, q.60, a.1     → /summa?search=q.60
+ *   ST I, q.2, a.3        → /summa/I/2#article-3
+ *   ST I-II, q.94, a.2    → /summa/I-II/94#article-2
+ *   ST II-II, q.23, a.1   → /summa/II-II/23#article-1
+ *   ST III, q.60, a.1     → /summa/III/60#article-1
  *   SCG I, c.13           → /summa?search=SCG+I+c.13
  *   CCC 1234              → Vatican CCC online
  *   CCC 1234-1240         → Vatican CCC online
@@ -202,10 +202,12 @@ export function linkCitations(text: string): string {
 
   // 1) Summa Theologiae — ST I, q.2, a.3  /  ST I-II, q.94, a.2  etc.
   //    Matches with or without the article part (a.X)
+  //    Links directly to the article reader with anchor scroll
   result = result.replace(
     /\bST\s+(I{1,3}(?:-I{1,2})?),?\s*q\.?\s*(\d+)(?:,?\s*a\.?\s*(\d+))?\b/g,
-    (match, _part, question) => {
-      const href = `/summa?search=q.${question}`;
+    (match, part, question, article) => {
+      const anchor = article ? `#article-${article}` : "";
+      const href = `/summa/${part}/${question}${anchor}`;
       return internalLink(href, match);
     }
   );

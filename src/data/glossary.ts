@@ -3,7 +3,7 @@ export interface GlossaryEntry {
   definition: string;
   latin?: string;
   aquinasRef?: string;
-  category: "metaphysics" | "theology" | "moral" | "sacramental" | "christology" | "ecclesiology" | "eschatology" | "logic";
+  category: "metaphysics" | "theology" | "moral" | "sacramental" | "christology" | "ecclesiology" | "eschatology" | "logic" | "islam" | "judaism" | "protestantism" | "orthodoxy" | "philosophy" | "atheism" | "biblical" | "liturgical" | "patristic" | "canon-law" | "mysticism" | "apologetics";
   relatedTerms: string[];
 }
 
