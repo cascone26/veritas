@@ -2,19 +2,7 @@
 
 *By G.K. Chesterton*
 
-
-                                  BY
-
-
-                         HODDER AND STOUGHTON
-                          LIMITED      LONDON
-
-
-                   Made and Printed in Great Britain
-             T. and A. CONSTABLE LTD., Printers, Edinburgh
-
-
-PREFATORY NOTE
+## Prefatory Note
 
 
 This book needs a preliminary note that its scope be not misunderstood.

@@ -1,11 +1,16 @@
 import Anthropic from "@anthropic-ai/sdk";
 
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-});
-
 export async function POST(req: Request) {
   try {
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
+      return new Response(JSON.stringify({ error: "ANTHROPIC_API_KEY not configured" }), {
+        status: 500,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
+    const anthropic = new Anthropic({ apiKey });
+
     const { topic, difficulty } = await req.json();
 
     if (!topic || typeof topic !== "string") {
@@ -36,8 +41,9 @@ export async function POST(req: Request) {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error) {
-    console.error("Flashcard API error:", error);
-    return new Response(JSON.stringify({ error: "Failed to generate flashcards" }), {
+    const msg = error instanceof Error ? error.message : "Unknown error";
+    console.error("Flashcard API error:", msg);
+    return new Response(JSON.stringify({ error: msg }), {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });

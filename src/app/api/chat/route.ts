@@ -1,12 +1,18 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { SYSTEM_PROMPT } from "@/lib/constants";
 
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-});
-
 export async function POST(req: Request) {
   try {
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
+      return new Response(JSON.stringify({ error: "ANTHROPIC_API_KEY not configured" }), {
+        status: 500,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
+
+    const anthropic = new Anthropic({ apiKey });
+
     const { messages, systemContext } = await req.json();
 
     if (!messages || !Array.isArray(messages)) {
@@ -37,7 +43,9 @@ export async function POST(req: Request) {
           }
           controller.close();
         } catch (err) {
-          controller.error(err);
+          const errorMsg = err instanceof Error ? err.message : "Stream error";
+          controller.enqueue(new TextEncoder().encode(`\n\n[Error: ${errorMsg}]`));
+          controller.close();
         }
       },
     });
@@ -49,8 +57,9 @@ export async function POST(req: Request) {
       },
     });
   } catch (error) {
-    console.error("Chat API error:", error);
-    return new Response(JSON.stringify({ error: "Failed to generate response" }), {
+    const msg = error instanceof Error ? error.message : "Unknown error";
+    console.error("Chat API error:", msg);
+    return new Response(JSON.stringify({ error: msg }), {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });

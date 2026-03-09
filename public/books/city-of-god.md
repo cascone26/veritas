@@ -4,506 +4,7 @@
 
 *Translated by Marcus Dods*
 
-# BOOK I.
-
-
-                                                               PAGE
-
-  Augustine censures the pagans, who attributed the calamities of the
-      world, and especially the sack of Rome by the Goths, to the
-      Christian religion and its prohibition of the worship of the
-      gods,                                                       1
-
-
-# BOOK II.
-
-
-  A review of the calamities suffered by the Romans before the time
-      of Christ, showing that their gods had plunged them into
-      corruption and vice,                                       48
-
-
-# BOOK III.
-
-
-  The external calamities of Rome,                               91
-
-
-# BOOK IV.
-
-
-  That empire was given to Rome not by the gods, but by the One True
-      God,                                                      135
-
-
-# BOOK V.
-
-
-  Of fate, freewill, and God's prescience, and of the source of the
-      virtues of the ancient Romans,                            177
-
-
-# BOOK VI.
-
-
-  Of Varro's threefold division of theology, and of the inability of
-      the gods to contribute anything to the happiness of the future
-      life,                                                     228
-
-
-# BOOK VII.
-
-
-  Of the "select gods" of the civil theology, and that eternal life
-      is not obtained by worshipping them,                      258
-
-
-# BOOK VIII.
-
-
-  Some account of the Socratic and Platonic philosophy, and a
-      refutation of the doctrine of Apuleius that the demons should
-      be worshipped as mediators between gods and men,          305
-
-
-# BOOK IX.
-
-
-  Of those who allege a distinction among demons, some being good
-      and others evil,                                          353
-
-# BOOK X.
-
-
-  Porphyry's doctrine of redemption,                            382
-
-
-# BOOK XI.
-
-
-  Augustine passes to the second part of the work, in which the
-      origin, progress, and destinies of the earthly and heavenly
-      cities are discussed.--Speculations regarding the creation of
-      the world,                                                436
-
-
-# BOOK XII.
-
-
-  Of the creation of angels and men, and of the origin of evil, 481
-
-
-# BOOK XIII.
-
-
-  That death is penal, and had its origin in Adam's sin,        521
-
-
-                           EDITOR'S PREFACE.
-
-
-"Rome having been stormed and sacked by the Goths under Alaric
-their king,[1] the worshippers of false gods, or pagans, as we
-commonly call them, made an attempt to attribute this calamity to
-the Christian religion, and began to blaspheme the true God with
-even more than their wonted bitterness and acerbity. It was this
-which kindled my zeal for the house of God, and prompted me to
-undertake the defence of the city of God against the charges and
-misrepresentations of its assailants. This work was in my hands for
-several years, owing to the interruptions occasioned by many other
-affairs which had a prior claim on my attention, and which I could
-not defer. However, this great undertaking was at last completed in
-twenty-two books. Of these, the first five refute those who fancy
-that the polytheistic worship is necessary in order to secure worldly
-prosperity, and that all these overwhelming calamities have befallen
-us in consequence of its prohibition. In the following five books I
-address myself to those who admit that such calamities have at all
-times attended, and will at all times attend, the human race, and
-that they constantly recur in forms more or less disastrous, varying
-only in the scenes, occasions, and persons on whom they light, but,
-while admitting this, maintain that the worship of the gods is
-advantageous for the life to come. In these ten books, then, I refute
-these two opinions, which are as groundless as they are antagonistic
-to the Christian religion.
-
-"But that no one might have occasion to say, that though I had
-refuted the tenets of other men, I had omitted to establish my
-own, I devote to this object the second part of this work, which
-comprises twelve books, although I have not scrupled, as occasion
-offered, either to advance my own opinions in the first ten books,
-or to demolish the arguments of my opponents in the last twelve. Of
-these twelve books, the first four contain an account of the origin
-of these two cities--the city of God, and the city of the world.
-The second four treat of their history or progress; the third and
-last four, of their deserved destinies. And so, though all these
-twenty-two books refer to both cities, yet I have named them after
-the better city, and called them The City of God."
-
-Such is the account given by Augustine himself[2] of the occasion
-and plan of this his greatest work. But in addition to this explicit
-information, we learn from the correspondence[3] of Augustine, that
-it was due to the importunity of his friend Marcellinus that this
-defence of Christianity extended beyond the limits of a few letters.
-Shortly before the fall of Rome, Marcellinus had been sent to Africa
-by the Emperor Honorius to arrange a settlement of the differences
-between the Donatists and the Catholics. This brought him into
-contact not only with Augustine, but with Volusian, the proconsul
-of Africa, and a man of rare intelligence and candour. Finding that
-Volusian, though as yet a pagan, took an interest in the Christian
-religion, Marcellinus set his heart on converting him to the true
-faith. The details of the subsequent significant intercourse between
-the learned and courtly bishop and the two imperial statesmen,
-are unfortunately almost entirely lost to us; but the impression
-conveyed by the extant correspondence is, that Marcellinus was
-the means of bringing his two friends into communication with one
-another. The first overture was on Augustine's part, in the shape of
-a simple and manly request that Volusian would carefully peruse the
-Scriptures, accompanied by a frank offer to do his best to solve any
-difficulties that might arise in such a course of inquiry. Volusian
-accordingly enters into correspondence with Augustine; and in order
-to illustrate the kind of difficulties experienced by men in his
-position, he gives some graphic notes of a conversation in which
-he had recently taken part at a gathering of some of his friends.
-The difficulty to which most weight is attached in this letter, is
-the apparent impossibility of believing in the Incarnation. But a
-letter which Marcellinus immediately despatched to Augustine, urging
-him to reply to Volusian at large, brought the intelligence that
-the difficulties and objections to Christianity were thus limited
-merely out of a courteous regard to the preciousness of the bishop's
-time, and the vast number of his engagements. This letter, in short,
-brought out the important fact, that a removal of speculative doubts
-would not suffice for the conversion of such men as Volusian, whose
-life was one with the life of the empire. Their difficulties were
-rather political, historical, and social. They could not see how
-the reception of the Christian rule of life was compatible with
-the interests of Rome as the mistress of the world.[4] And thus
-Augustine was led to take a more distinct and wider view of the whole
-relation which Christianity bore to the old state of things,--moral,
-political, philosophical, and religious,--and was gradually drawn on
-to undertake the elaborate work now presented to the English reader,
-and which may more appropriately than any other of his writings be
-called his masterpiece[5] or life-work. It was begun the very year
-of Marcellinus' death, A.D. 413, and was issued in detached portions
-from time to time, until its completion in the year 426. It thus
-occupied the maturest years of Augustine's life--from his fifty-ninth
-to his seventy-second year.[6]
-
-From this brief sketch, it will be seen that though the accompanying
-work is essentially an Apology, the Apologetic of Augustine can be
-no mere rehabilitation of the somewhat threadbare, if not effete,
-arguments of Justin and Tertullian.[7] In fact, as Augustine
-considered what was required of him,--to expound the Christian faith,
-and justify it to enlightened men; to distinguish it from, and
-show its superiority to, all those forms of truth, philosophical or
-popular, which were then striving for the mastery, or at least for
-standing-room; to set before the world's eye a vision of glory that
-might win the regard even of men who were dazzled by the fascinating
-splendour of a world-wide empire,--he recognised that a task was laid
-before him to which even his powers might prove unequal,--a task
-certainly which would afford ample scope for his learning, dialectic,
-philosophical grasp and acumen, eloquence, and faculty of exposition.
-
-But it is the occasion of this great Apology which invests it at once
-with grandeur and vitality. After more than eleven hundred years
-of steady and triumphant progress, Rome had been taken and sacked.
-It is difficult for us to appreciate, impossible to overestimate,
-the shock which was thus communicated from centre to circumference
-of the whole known world. It was generally believed, not only by
-the heathen, but also by many of the most liberal-minded of the
-Christians, that the destruction of Rome would be the prelude to
-the destruction of the world.[8] Even Jerome, who might have been
-supposed to be embittered against the proud mistress of the world by
-her inhospitality to himself, cannot conceal his profound emotion
-on hearing of her fall. "A terrible rumour," he says, "reaches me
-from the West, telling of Rome besieged, bought for gold, besieged
-again, life and property perishing together. My voice falters, sobs
-stifle the words I dictate; for she is a captive, that city which
-enthralled the world."[9] Augustine is never so theatrical as Jerome
-in the expression of his feeling, but he is equally explicit in
-lamenting the fall of Rome as a great calamity; and while he does not
-scruple to ascribe her recent disgrace to the profligate manners,
-the effeminacy, and the pride of her citizens, he is not without hope
-that, by a return to the simple, hardy, and honourable mode of life
-which characterized the early Romans, she may still be restored to
-much of her former prosperity.[10] But as Augustine contemplates the
-ruins of Rome's greatness, and feels, in common with all the world
-at this crisis, the instability of the strongest governments, the
-insufficiency of the most authoritative statesmanship, there hovers
-over these ruins the splendid vision of the city of God "coming down
-out of heaven, adorned as a bride for her husband." The old social
-system is crumbling away on all sides, but in its place he seems to
-see a pure Christendom arising. He sees that human history and human
-destiny are not wholly identified with the history of any earthly
-power--not though it be as cosmopolitan as the empire of Rome.[11]
-He directs the attention of men to the fact that there is another
-kingdom on earth,--a city which hath foundations, whose builder and
-maker is God. He teaches men to take profounder views of history,
-and shows them how from the first the city of God, or community of
-God's people, has lived alongside of the kingdoms of this world and
-their glory, and has been silently increasing, "crescit occulto velut
-arbor ævo." He demonstrates that the superior morality, the true
-doctrine, the heavenly origin of this city, ensure its success; and
-over against this, he depicts the silly or contradictory theorizings
-of the pagan philosophers, and the unhinged morals of the people,
-and puts it to all candid men to say, whether in the presence of
-so manifestly sufficient a cause for Rome's downfall, there is
-room for imputing it to the spread of Christianity. He traces the
-antagonism of these two grand communities of rational creatures,
-back to their first divergence in the fall of the angels, and down
-to the consummation of all things in the last judgment and eternal
-destination of the good and evil. In other words, the city of God is
-"the first real effort to produce a philosophy of history,"[12] to
-exhibit historical events in connection with their true causes, and
-in their real sequence. This plan of the work is not only a great
-conception, but it is accompanied with many practical advantages;
-the chief of which is, that it admits, and even requires, a full
-treatment of those doctrines of our faith that are more directly
-historical,--the doctrines of creation, the fall, the incarnation,
-the connection between the Old and New Testaments, and the doctrine
-of "the last things."[13]
-
-The effect produced by this great work it is impossible to determine
-with accuracy. Beugnot, with an absoluteness which we should condemn
-as presumption in any less competent authority, declares that its
-effect can only have been very slight.[14] Probably its effect
-would be silent and slow; telling first upon cultivated minds, and
-only indirectly upon the people. Certainly its effect must have
-been weakened by the interrupted manner of its publication. It is
-an easier task to estimate its intrinsic value. But on this also
-patristic and literary authorities widely differ. Dupin admits that
-it is very pleasant reading, owing to the surprising variety of
-matters which are introduced to illustrate and forward the argument,
-but censures the author for discussing very useless questions, and
-for adducing reasons which could satisfy no one who was not already
-convinced.[15] Huet also speaks of the book as "un amas confus
-d'excellents materiaux; c'est de l'or en barre et en lingots."[16]
-L'Abbé Flottes censures these opinions as unjust, and cites with
-approbation the unqualified eulogy of Pressensé.[17] But probably the
-popularity of the book is its best justification. This popularity
-may be measured by the circumstance that, between the year 1467 and
-the end of the fifteenth century, no fewer than twenty editions
-were called for, that is to say, a fresh edition every eighteen
-months.[18] And in the interesting series of letters that passed
-between Ludovicus Vives and Erasmus, who had engaged him to write a
-commentary on the _City of God_ for his edition of Augustine's works,
-we find Vives pleading for a separate edition of this work, on the
-plea that, of all the writings of Augustine, it was almost the only
-one read by patristic students, and might therefore naturally be
-expected to have a much wider circulation.[19]
-
-If it were asked to what this popularity is due, we should be
-disposed to attribute it mainly to the great variety of ideas,
-opinions, and facts that are here brought before the reader's mind.
-Its importance as a contribution to the history of opinion cannot be
-overrated. We find in it not only indications or explicit enouncement
-of the author's own views upon almost every important topic which
-occupied his thoughts, but also a compendious exhibition of the
-ideas which most powerfully influenced the life of that age. It
-thus becomes, as Poujoulat says, "comme l'encyclopédie du cinquième
-siècle." All that is valuable, together with much indeed that is
-not so, in the religion and philosophy of the classical nations of
-antiquity, is reviewed. And on some branches of these subjects it
-has, in the judgment of one well qualified to judge, "preserved
-more than the whole surviving Latin literature." It is true we
-are sometimes wearied by the too elaborate refutation of opinions
-which to a modern mind seem self-evident absurdities; but if these
-opinions were actually prevalent in the fifth century, the historical
-inquirer will not quarrel with the form in which his information is
-conveyed, nor will commit the absurdity of attributing to Augustine
-the foolishness of these opinions, but rather the credit of exploding
-them. That Augustine is a well-informed and impartial critic,
-is evinced by the courteousness and candour which he uniformly
-displays to his opponents, by the respect he won from the heathen
-themselves, and by his own early life. The most rigorous criticism
-has found him at fault regarding matters of fact only in some very
-rare instances, which can be easily accounted for. His learning
-would not indeed stand comparison with what is accounted such in our
-day: his life was too busy, and too devoted to the poor and to the
-spiritually necessitous, to admit of any extraordinary acquisition.
-He had access to no literature but the Latin; or at least he had only
-sufficient Greek to enable him to refer to Greek authors on points of
-importance, and not enough to enable him to read their writings with
-ease and pleasure.[20] But he had a profound knowledge of his own
-time, and a familiar acquaintance not only with the Latin poets, but
-with many other authors, some of whose writings are now lost to us,
-save the fragments preserved through his quotations.
-
-But the interest attaching to the _City of God_ is not merely
-historical. It is the earnestness and ability with which he developes
-his own philosophical and theological views which gradually fascinate
-the reader, and make him see why the world has set this among the few
-greatest books of all time. The fundamental lines of the Augustinian
-theology are here laid down in a comprehensive and interesting form.
-Never was thought so abstract expressed in language so popular.
-He handles metaphysical problems with the unembarrassed ease of
-Plato, with all Cicero's accuracy and acuteness, and more than
-Cicero's profundity. He is never more at home than when exposing
-the incompetency of Neoplatonism, or demonstrating the harmony of
-Christian doctrine and true philosophy. And though there are in
-the _City of God_, as in all ancient books, things that seem to us
-childish and barren, there are also the most surprising anticipations
-of modern speculation. There is an earnest grappling with those
-problems which are continually re-opened because they underlie man's
-relation to God and the spiritual world,--the problems which are not
-peculiar to any one century. As we read these animated discussions,
-
-          "The fourteen centuries fall away
-                 Between us and the Afric saint,
-           And at his side we urge, to-day,
-           The immemorial quest and old complaint.
-
-           No outward sign to us is given,
-                 From sea or earth comes no reply;
-           Hushed as the warm Numidian heaven
-           He vainly questioned bends our frozen sky."
-
-It is true, the style of the book is not all that could be desired:
-there are passages which can possess an interest only to the
-antiquarian; there are others with nothing to redeem them but
-the glow of their eloquence; there are many repetitions; there
-is an occasional use of arguments "plus ingenieux que solides,"
-as M. Saisset says. Augustine's great admirer, Erasmus, does not
-scruple to call him a writer "obscuræ subtilitatis et parum amœnæ
-prolixitatis;"[21] but "the toil of penetrating the apparent
-obscurities will be rewarded by finding a real wealth of insight and
-enlightenment." Some who have read the opening chapters of the _City
-of God_, may have considered it would be a waste of time to proceed;
-but no one, we are persuaded, ever regretted reading it all. The
-book has its faults; but it effectually introduces us to the most
-influential of theologians, and the greatest popular teacher; to a
-genius that cannot nod for many lines together; to a reasoner whose
-dialectic is more formidable, more keen and sifting, than that of
-Socrates or Aquinas; to a saint whose ardent and genuine devotional
-feeling bursts up through the severest argumentation; to a man whose
-kindliness and wit, universal sympathies and breadth of intelligence,
-lend piquancy and vitality to the most abstract dissertation.
-
-The propriety of publishing a translation of so choice a specimen
-of ancient literature needs no defence. As Poujoulat very sensibly
-remarks, there are not a great many men now-a-days who will read a
-work in Latin of twenty-two books. Perhaps there are fewer still who
-ought to do so. With our busy neighbours in France, this work has
-been a prime favourite for 400 years. There may be said to be eight
-independent translations of it into the French tongue, though some
-of these are _in part_ merely revisions. One of these translations
-has gone through as many as four editions. The most recent is that
-which forms part of the Nisard series; but the best, so far as we
-have seen, is that of the accomplished Professor of Philosophy in the
-College of France, Emile Saisset. This translation is indeed all that
-can be desired: here and there an omission occurs, and about one or
-two renderings a difference of opinion may exist; but the exceeding
-felicity and spirit of the whole show it to have been a labour of
-love, the fond homage of a disciple proud of his master. The preface
-of M. Saisset is one of the most valuable contributions ever made to
-the understanding of Augustine's philosophy.[22]
-
-Of English translations there has been an unaccountable poverty. Only
-one exists,[23] and this so exceptionally bad, so unlike the racy
-translations of the seventeenth century in general, so inaccurate,
-and so frequently unintelligible, that it is not impossible it may
-have done something towards giving the English public a distaste for
-the book itself. That the present translation also might be improved,
-we know; that many men were fitter for the task, on the score of
-scholarship, we are very sensible; but that any one would have executed
-it with intenser affection and veneration for the author, we are not
-prepared to admit. A few notes have been added where it appeared to be
-necessary. Some are original, some from the Benedictine Augustine, and
-the rest from the elaborate commentary of Vives.[24]
-
-                                                   THE EDITOR.
-
-GLASGOW, 1871.
-
-FOOTNOTES:
-
-[1] A.D. 410.
-
-[2] _Retractations_, ii. 43.
-
-[3] _Letters_ 132-8.
-
-[4] See some admirable remarks on this subject in the useful work of
-Beugnot, _Histoire de la Destruction du Paganisme_, ii. 83 et sqq.
-
-[5] As Waterland (iv. 760) does call it, adding that it is "his most
-learned, most correct, and most elaborate work."
-
-[6] For proof, see the Benedictine Preface.
-
-[7] "Hitherto the Apologies had been framed to meet particular
-exigencies: they were either brief and pregnant statements of the
-Christian doctrines; refutations of prevalent calumnies; invectives
-against the follies and crimes of Paganism; or confutations of
-anti-Christian works like those of Celsus, Porphyry, or Julian,
-closely following their course of argument, and rarely expanding into
-general and comprehensive views of the great conflict."--MILMAN,
-_History of Christianity_, iii. c. 10. We are not acquainted with any
-more complete preface to the _City of God_ than is contained in the
-two or three pages which Milman has devoted to this subject.
-
-[8] See the interesting remarks of Lactantius, _Instit._ vii. 25.
-
-[9] "Hæret vox et singultus intercipiunt verba dictantis. Capitur
-urbs quæ totum cepit orbem."--JEROME, iv. 783.
-
-[10] See below, iv. 7.
-
-[11] This is well brought out by Merivale, _Conversion of the Roman
-Empire_, p. 145, etc.
-
-[12] Ozanam, _History of Civilisation in the Fifth Century_ (Eng.
-trans.), ii. 160.
-
-[13] Abstracts of the work at greater or less length are given by
-Dupin, Bindemann, Böhringer, Poujoulat, Ozanam, and others.
-
-[14] His words are: "Plus on examine la Cité de Dieu, plus on reste
-convaincu que cet ouvrage dût exercea tres-peu d'influence sur
-l'esprit des païens" (ii. 122); and this though he thinks one cannot
-but be struck with the grandeur of the ideas it contains.
-
-[15] _History of Ecclesiastical Writers_, i. 406.
-
-[16] _Huetiana_, p. 24.
-
-[17] Flottes, _Etudes sur S. Augustin_ (Paris, 1861), pp. 154-6, one
-of the most accurate and interesting even of French monographs on
-theological writers.
-
-[18] These editions will be found detailed in the second volume of
-Schoenemann's _Bibliotheca Pat._
-
-[19] His words (in Ep. vi.) are quite worth quoting: "Cura rogo te,
-ut excudantur aliquot centena exemplarium istius operis a reliquo
-Augustini corpore separata; nam multi erunt studiosi qui Augustinum
-totum emere vel nollent, vel non poterunt, quia non egebunt, seu
-quia tantum pecuniæ non habebunt. Scio enim fere a deditis studiis
-istis elegantioribus præter hoc Augustini opus nullum fere aliud legi
-ejusdem autoris."
-
-[20] The fullest and fairest discussion of the very simple yet
-never settled question of Augustine's learning will be found in
-Nourrisson's _Philosophie de S. Augustin_, ii. 92-100.
-
-[21] Erasmi _Epistolæ_ xx. 2.
-
-[22] A large part of it has been translated in Saisset's _Pantheism_
-(Clark, Edin.).
-
-[23] By J. H., published in 1610, and again in 1620, with Vives'
-commentary.
-
-[24] As the letters of Vives are not in every library, we give his
-comico-pathetic account of the result of his Augustinian labours on
-his health: "Ex quo Augustinum perfeci, nunquam valui ex sententia;
-proximâ vero hebdomade et hac, fracto corpore cuncto, et nervis
-lassitudine quadam et debilitate dejectis, in caput decem turres
-incumbere mihi videntur incidendo pondere, ac mole intolerabili; isti
-sunt fructus studiorum, et merces pulcherrimi laboris; quid labor et
-benefacta juvant?"
-
-
-# BOOK FIRST.
+# Book First
 
 
 ### Argument
@@ -2416,7 +1917,7 @@ particulars regarding these tortures.
 Livy, _Ep._ xlviii.) the old custom was restored.
 
 
-# BOOK SECOND.
+# Book Second
 
 
 ### Argument
@@ -4120,7 +3621,7 @@ early days.
 [114] Virgil, _Æneid_, i. 278.
 
 
-# BOOK THIRD.
+# Book Third
 
 
 ### Argument
@@ -5851,7 +5352,8 @@ temple of Concord.
 [154] Virgil, _Æneid_, i. 417.
 
 
-                            BOOK FOURTH.[155]
+# Book Fourth
+
 
 ### Argument
 
@@ -7488,7 +6990,8 @@ Cicero, see Lact. _Inst. Div._ iv. 28.
 [182] Plutarch's _Numa_, c. 8.
 
 
-                            BOOK FIFTH.[183]
+# Book Fifth
+
 
 ### Argument
 
@@ -9476,7 +8979,7 @@ _consulere_, and thus signifies a more benign rule than that of a rex
 [225] _Tusc. Quaest._ v. 19.
 
 
-# BOOK SIXTH.
+# Book Sixth
 
 
 ### Argument
@@ -10627,7 +10130,7 @@ another translation is admissible: "One is announcing to a god the
 names (or gods) who salute him."
 
 
-# BOOK SEVENTH.
+# Book Seventh
 
 
 ### Argument
@@ -11596,7 +11099,7 @@ as far as seed is concerned, he says as many things as if he had said
 nothing concerning Saturn.
 
 
-## Chapter 20. Concerning the rites of Eleusinian Ceres_
+## Chapter 20. Concerning the rites of Eleusinian Ceres
 
 
 Now among the rites of Ceres, those Eleusinian rites are much famed
@@ -11657,7 +11160,7 @@ rites sacred things, and should abandon itself to be violated and
 polluted by crowds of foul demons.
 
 
-## Chapter 22. Concerning Neptune, and Salacia, and Venilia_
+## Chapter 22. Concerning Neptune, and Salacia, and Venilia
 
 
 Now Neptune had Salacia to wife, who they say is the nether waters of
@@ -12486,7 +11989,7 @@ Augustine, _De discipl. Christ._ 6.
 [290] Egesserit.
 
 
-# BOOK EIGHTH.
+# Book Eighth
 
 
 ### Argument
@@ -14310,7 +13813,7 @@ Apuleius.
 [328] Comp. _The Confessions_, vi. 2.
 
 
-# BOOK NINTH.
+# Book Ninth
 
 
 ### Argument
@@ -14936,7 +14439,7 @@ after death they may become immortal, and be associated with the
 blessed and immortal angels.
 
 
-## Chapter 15. Of the man Christ Jesus, the Mediator between God and men_
+## Chapter 15. Of the man Christ Jesus, the Mediator between God and men
 
 
 But if, as is much more probable and credible, it must needs be that
@@ -15443,7 +14946,7 @@ the _Enneades_, I. vi. 8, and ii. 3.
 [363] 1 Cor. viii. 5, 6.
 
 
-# BOOK TENTH.
+# Book Tenth
 
 
 ### Argument
@@ -17578,7 +17081,7 @@ etc.
 [439] Luke xxiv. 44-47.
 
 
-# BOOK ELEVENTH.
+# Book Eleventh
 
 
 ### Argument
@@ -19414,7 +18917,7 @@ sects mentioned by Theodoret and Epiphanius.
 [519] Ps. xcv. 5.
 
 
-# BOOK TWELFTH.
+# Book Twelfth
 
 
 ### Argument
@@ -21024,7 +20527,7 @@ c. xi.
 [572] Ps. xxv. 10.
 
 
-# BOOK THIRTEENTH.
+# Book Thirteenth
 
 
 ### Argument
@@ -22662,190 +22165,8 @@ Obvious punctuation and spelling errors have been fixed throughout.
 
 Inconsistent hyphenation is as in the original.
 
+# Book Fourteenth
 
-End of Project Gutenberg's The City of God, Volume I, by Aurelius Augustine
-
-TO SUBSCRIBERS.
-
-
-    MESSRS. CLARK have much pleasure in publishing the first issue
-           of Translations of the Writings of ST. AUGUSTINE:
-
-                          THE 'CITY OF GOD,'
-
-                            IN TWO VOLUMES.
-
-They believe this will prove not the least valuable of their various
-Series, and no pains will be spared to make it so. The Editor has
-secured a most competent staff of Translators, and every care is
-being taken to secure not only accuracy but elegance.
-
-The Works of ST. AUGUSTINE to be included in the Series are (in
-addition to the 'CITY OF GOD'):--
-
-    All the TREATISES in the PELAGIAN, and the four leading TREATISES
-        in the DONATIST CONTROVERSY.
-
-    The TREATISES against FAUSTUS the Manichæan; on CHRISTIAN
-        DOCTRINE; the TRINITY; the HARMONY OF THE EVANGELISTS; the
-        SERMON ON THE MOUNT.
-
-    Also, the LECTURES on the GOSPEL OF ST. JOHN, the CONFESSIONS,
-        a SELECTION from the LETTERS, the RETRACTATIONS, the
-        SOLILOQUIES, and SELECTIONS from the PRACTICAL TREATISES.
-
-All these works are of first-rate importance, and only a small
-proportion of them have yet appeared in an English dress. The SERMONS
-and the COMMENTARIES ON THE PSALMS having been already given by
-the Oxford Translators, it is not intended, at least in the first
-instance, to publish them.
-
-The Series will include a LIFE OF ST. AUGUSTINE, by ROBERT RAINY,
-D.D., Professor of Church History, New College, Edinburgh.
-
-The Series will probably extend to Sixteen or Eighteen Volumes. The
-Publishers will be glad to receive the _Names_ of Subscribers as
-early as possible.
-
-SUBSCRIPTION: Four Volumes for a Guinea, _payable in advance_, as in
-the case of the ANTE-NICENE SERIES (24s. when not paid in advance).
-
-It is understood that Subscribers are bound to take at least the
-books of the first two years. Each Volume will be sold separately at
-(on an average) 10s. 6d. each volume.
-
-The second issue will be ready in a few months, and will probably
-comprise:--The Volume on the DONATIST CONTROVERSY, translated by the
-Rev. J. R. KING, Vicar of St. Peter's in the East, Oxford; and the
-First Volume of the TREATISES in the PELAGIAN CONTROVERSY, translated
-by Rev. PETER HOLMES, D.D., Rural Dean, etc., Plymouth.
-
-They trust the Subscribers to the ANTE-NICENE LIBRARY will continue
-their Subscription to this Series, and they hope to be favoured with
-an early remittance of the Subscription.
-
-
-                               THE WORKS
-
-
-                                  OF
-
-
-                          AURELIUS AUGUSTINE,
-                           BISHOP OF HIPPO.
-
-
-                         _A NEW TRANSLATION._
-
-
-                            =Edited by the=
-
-
-                               VOL. II.
-                           THE CITY OF GOD,
-                              VOLUME II.
-
-
-                              EDINBURGH:
-                   T. & T. CLARK, 38, GEORGE STREET.
-                              MDCCCLXXI.
-
-
-                      PRINTED BY MURRAY AND GIBB,
-                                  FOR
-                       T. & T. CLARK, EDINBURGH.
-
-                LONDON,        HAMILTON, ADAMS, AND CO.
-                DUBLIN,        JOHN ROBERTSON AND CO.
-                NEW YORK,      C. SCRIBNER AND CO.
-
-
-                                  THE
-
-
-                             CITY OF GOD.
-
-
-                          =Translated by the=
-
-
-                              VOLUME II.
-
-
-                              EDINBURGH:
-
-                   T. & T. CLARK, 38, GEORGE STREET.
-
-                              MDCCCLXXI.
-
-
-Of the following Work, Books IV. XVII. and XVIII. have been
-translated by the Rev. GEORGE WILSON, Glenluce; Books V. VI. VII. and
-VIII. by the Rev. J. J. SMITH.
-
-
-                               CONTENTS.
-
-
-# BOOK XIV.
-
-
-                                                                PAGE
-
-  Of the punishment and results of man's first sin, and of the
-      propagation of man without lust, 1
-
-# BOOK XV.
-
-
-  The progress of the earthly and heavenly cities traced by the
-      sacred history, 49
-
-# BOOK XVI.
-
-
-  The history of the city of God from Noah to the time of the kings
-      of Israel, 104
-
-# BOOK XVII.
-
-
-  The history of the city of God from the times of the prophets to
-      Christ, 165
-
-# BOOK XVIII.
-
-
-  A parallel history of the earthly and heavenly cities from the
-      time of Abraham to the end of the world, 217
-
-# BOOK XIX.
-
-
-  A review of the philosophical opinions regarding the Supreme
-      Good, and a comparison of these opinions with the Christian
-      belief regarding happiness, 293
-
-# BOOK XX.
-
-
-  Of the last judgment, and the declarations regarding it in the Old
-      and New Testaments, 345
-
-# BOOK XXI.
-
-
-  Of the eternal punishment of the wicked in hell, and of the
-      various objections urged against it, 413
-
-# BOOK XXII.
-
-
-  Of the eternal happiness of the saints, the resurrection of the
-      body, and the miracles of the early Church, 472
-
-
-                          BOOK FOURTEENTH.[1]
 
 ### Argument
 
@@ -24836,7 +24157,7 @@ Fide Orthod._ ii. 11.
 [129] 1 Cor. xv. 28.
 
 
-# BOOK FIFTEENTH.
+# Book Fifteenth
 
 
 ### Argument
@@ -27011,7 +26332,7 @@ support the Jews in their opposition to Christianity.
 [220] Gen. vi. 19, 20.
 
 
-# BOOK SIXTEENTH.
+# Book Sixteenth
 
 
 ### Argument
@@ -29484,7 +28805,7 @@ gives the whole number as seventy-five.
 [342] _Infans_, from _in_, not, and _fari_, to speak.
 
 
-# BOOK SEVENTEENTH.
+# Book Seventeenth
 
 
 ### Argument
@@ -31625,7 +30946,7 @@ xxxii. 28-30).
 [496] Matt. xi. 13.
 
 
-# BOOK EIGHTEENTH.
+# Book Eighteenth
 
 
 ### Argument
@@ -34725,7 +34046,7 @@ years.
 [618] Luke xxiv. 47.
 
 
-# BOOK NINETEENTH.
+# Book Nineteenth
 
 
 ### Argument
@@ -36722,7 +36043,7 @@ be rendered "the sun."
 [672] Gratia meritorum.
 
 
-# BOOK TWENTIETH.
+# Book Twentieth
 
 
 ### Argument
@@ -39498,7 +38819,7 @@ _cadavera_ (carcases) are so called from _cadendo_ (falling)?"
 [851] Ps. xli. 5.
 
 
-# BOOK TWENTY-FIRST.
+# Book Twenty-First
 
 
 ### Argument
@@ -41889,7 +41210,7 @@ xvii. 27, and the _Acts of the Council_, iv. 11).--COQUÆUS.
 [960] _Æn._ vi. 664.
 
 
-# BOOK TWENTY-SECOND.
+# Book Twenty-Second
 
 
 ### Argument
@@ -49710,6 +49031,3 @@ Transcriber's Notes:
 Obvious punctuation and spelling errors have been fixed throughout.
 
 Inconsistent hyphenation is as in the original.
-
-
-End of Project Gutenberg's The City of God, Volume II, by Aurelius Augustine

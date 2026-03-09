@@ -1,11 +1,15 @@
 import Anthropic from "@anthropic-ai/sdk";
 
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-});
-
 export async function GET() {
   try {
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
+      return new Response(JSON.stringify({ error: "ANTHROPIC_API_KEY not configured" }), {
+        status: 500,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
+    const anthropic = new Anthropic({ apiKey });
     const today = new Date().toISOString().split("T")[0];
 
     const response = await anthropic.messages.create({
@@ -27,8 +31,9 @@ export async function GET() {
       headers: { "Content-Type": "application/json" },
     });
   } catch (error) {
-    console.error("Daily API error:", error);
-    return new Response(JSON.stringify({ error: "Failed to generate daily question" }), {
+    const msg = error instanceof Error ? error.message : "Unknown error";
+    console.error("Daily API error:", msg);
+    return new Response(JSON.stringify({ error: msg }), {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });

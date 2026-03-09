@@ -1,12 +1,17 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { OBJECTION_PROMPT } from "@/lib/constants";
 
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY,
-});
-
 export async function POST(req: Request) {
   try {
+    const apiKey = process.env.ANTHROPIC_API_KEY;
+    if (!apiKey) {
+      return new Response(JSON.stringify({ error: "ANTHROPIC_API_KEY not configured" }), {
+        status: 500,
+        headers: { "Content-Type": "application/json" },
+      });
+    }
+    const anthropic = new Anthropic({ apiKey });
+
     const { objection } = await req.json();
 
     if (!objection || typeof objection !== "string") {
@@ -33,7 +38,9 @@ export async function POST(req: Request) {
           }
           controller.close();
         } catch (err) {
-          controller.error(err);
+          const errMsg = err instanceof Error ? err.message : "Stream error";
+          controller.enqueue(new TextEncoder().encode(`\n[Error: ${errMsg}]`));
+          controller.close();
         }
       },
     });
@@ -45,8 +52,9 @@ export async function POST(req: Request) {
       },
     });
   } catch (error) {
-    console.error("Objection API error:", error);
-    return new Response(JSON.stringify({ error: "Failed to generate response" }), {
+    const msg = error instanceof Error ? error.message : "Unknown error";
+    console.error("Objection API error:", msg);
+    return new Response(JSON.stringify({ error: msg }), {
       status: 500,
       headers: { "Content-Type": "application/json" },
     });
