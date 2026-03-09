@@ -54,7 +54,7 @@
 
 **1:26** And if any man think himself to be religious, not bridling his tongue, but deceiving his own heart, this man's religion is vain.
 
-**1:27** Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation: and to keep one's self unspotted from this world. Epistle of St James next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:27** Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation: and to keep one's self unspotted from this world.
 
 
 ## Chapter 2
@@ -109,7 +109,7 @@
 
 **2:25** And in like manner also Rahab the harlot, was not she justified by works, receiving the messengers, and sending them out another way?
 
-**2:26** For even as the body without the spirit is dead; so also faith without works is dead. Epistle of St James next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:26** For even as the body without the spirit is dead; so also faith without works is dead.
 
 
 ## Chapter 3
@@ -148,7 +148,7 @@
 
 **3:17** But the wisdom, that is from above, first indeed is chaste, then peaceable, modest, easy to be persuaded, consenting to the good, full of mercy and good fruits, without judging, without dissimulation.
 
-**3:18** And the fruit of justice is sown in peace, to them that make peace. Epistle of St James next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:18** And the fruit of justice is sown in peace, to them that make peace.
 
 
 ## Chapter 4
@@ -185,7 +185,7 @@
 
 **4:16** But now you rejoice in your arrogancies. All such rejoicing is wicked.
 
-**4:17** To him therefore who knoweth to do good, and doth it not, to him it is sin. Epistle of St James next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:17** To him therefore who knoweth to do good, and doth it not, to him it is sin.
 
 
 ## Chapter 5
@@ -228,5 +228,5 @@
 
 **5:19** My brethren, if any of you err from the truth, and one convert him:
 
-**5:20** He must know that he who causeth a sinner to be converted from the error of his way, shall save his soul from death, and shall cover a multitude of sins. Epistle of St James next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:20** He must know that he who causeth a sinner to be converted from the error of his way, shall save his soul from death, and shall cover a multitude of sins.
 

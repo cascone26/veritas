@@ -50,7 +50,7 @@
 
 **1:24** For all flesh is as grass; and all the glory thereof as the flower of grass. The grass is withered, and the flower thereof is fallen away.
 
-**1:25** But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you. 1st Epistle of St Peter next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:25** But the word of the Lord endureth for ever. And this is the word which by the gospel hath been preached unto you. 1st
 
 
 ## Chapter 2
@@ -103,7 +103,7 @@
 
 **2:24** Who his own self bore our sins in his body upon the tree: that we, being dead to sins, should live to justice: by whose stripes you were healed.
 
-**2:25** For you were as sheep going astray; but you are now converted to the shepherd and bishop of your souls. 1st Epistle of St Peter next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:25** For you were as sheep going astray; but you are now converted to the shepherd and bishop of your souls. 1st
 
 
 ## Chapter 3
@@ -150,7 +150,7 @@
 
 **3:21** Whereunto baptism being of the like form, now saveth you also: not the putting away of the filth of the flesh, but the examination of a good conscience towards God by the resurrection of Jesus Christ.
 
-**3:22** Who is on the right hand of God, swallowing down death, that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him. 1st Epistle of St Peter next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:22** Who is on the right hand of God, swallowing down death, that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him. 1st
 
 
 ## Chapter 4
@@ -191,7 +191,7 @@
 
 **4:18** And if the just man shall scarcely be saved, where shall the ungodly and the sinner appear?
 
-**4:19** Wherefore let them also that suffer according to the will of God, commend their souls in good deeds to the faithful Creator. 1st Epistle of St Peter next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:19** Wherefore let them also that suffer according to the will of God, commend their souls in good deeds to the faithful Creator. 1st
 
 
 ## Chapter 5
@@ -222,5 +222,5 @@
 
 **5:13** The church that is in Babylon, elected together with you, saluteth you: and so doth my son Mark.
 
-**5:14** Salute one another with a holy kiss. Grace be to all you, who are in Christ Jesus. Amen. 1st Epistle of St Peter next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:14** Salute one another with a holy kiss. Grace be to all you, who are in Christ Jesus. Amen. 1st
 

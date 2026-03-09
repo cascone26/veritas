@@ -28,7 +28,7 @@
 
 **1:13** But to which of the angels said he at any time: Sit on my right hand, until I make thy enemies thy footstool?
 
-**1:14** Are they not all ministering spirits, sent to minister for them, who shall receive the inheritance of salvation? Epistle of St Paul to the Hebrews next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:14** Are they not all ministering spirits, sent to minister for them, who shall receive the inheritance of salvation?
 
 
 ## Chapter 2
@@ -67,7 +67,7 @@
 
 **2:17** Wherefore it behoved him in all things to be made like unto his brethren, that he might become a merciful and faithful priest before God, that he might be a propitiation for the sins of the people.
 
-**2:18** For in that, wherein he himself hath suffered and been tempted, he is able to succour them also that are tempted. Epistle of St Paul to the Hebrews next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:18** For in that, wherein he himself hath suffered and been tempted, he is able to succour them also that are tempted.
 
 
 ## Chapter 3
@@ -108,7 +108,7 @@
 
 **3:18** And to whom did he swear, that they should not enter into his rest: but to them that were incredulous?
 
-**3:19** And we see that they could not enter in, because of unbelief. Epistle of St Paul to the Hebrews next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:19** And we see that they could not enter in, because of unbelief.
 
 
 ## Chapter 4
@@ -143,7 +143,7 @@
 
 **4:15** For we have not a high priest, who can not have compassion on our infirmities: but one tempted in all things like as we are, without sin.
 
-**4:16** Let us go therefore with confidence to the throne of grace: that we may obtain mercy, and find grace in seasonable aid. Epistle of St Paul to the Hebrews next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:16** Let us go therefore with confidence to the throne of grace: that we may obtain mercy, and find grace in seasonable aid.
 
 
 ## Chapter 5
@@ -174,7 +174,7 @@
 
 **5:13** For every one that is a partaker of milk, is unskillful in the word of justice: for he is a little child.
 
-**5:14** But strong meat is for the perfect; for them who by custom have their senses exercised to the discerning of good and evil. Epistle of St Paul to the Hebrews next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:14** But strong meat is for the perfect; for them who by custom have their senses exercised to the discerning of good and evil.
 
 
 ## Chapter 6
@@ -217,7 +217,7 @@
 
 **6:19** Which we have as an anchor of the soul, sure and firm, and which entereth in even within the veil;
 
-**6:20** Where the forerunner Jesus is entered for us, made a high priest for ever according to the order of Melchisedech. Epistle of St Paul to the Hebrews next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:20** Where the forerunner Jesus is entered for us, made a high priest for ever according to the order of Melchisedech.
 
 
 ## Chapter 7
@@ -276,7 +276,7 @@
 
 **7:27** Who needeth not daily (as the other priests) to offer sacrifices first for his own sins, and then for the people's: for this he did once, in offering himself.
 
-**7:28** For the law maketh men priests, who have infirmity: but the word of the oath, which was since the law, the Son who is perfected for evermore. Epistle of St Paul to the Hebrews next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:28** For the law maketh men priests, who have infirmity: but the word of the oath, which was since the law, the Son who is perfected for evermore.
 
 
 ## Chapter 8
@@ -305,7 +305,7 @@
 
 **8:12** Because I will be merciful to their iniquities, and their sins I will remember no more.
 
-**8:13** Now in saying a new, he hath made the former old. And that which decayeth and groweth old, is near its end. Epistle of St Paul to the Hebrews next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:13** Now in saying a new, he hath made the former old. And that which decayeth and groweth old, is near its end.
 
 
 ## Chapter 9
@@ -364,7 +364,7 @@
 
 **9:27** And as it is appointed unto men once to die, and after this the judgment:
 
-**9:28** So also Christ was offered once to exhaust the sins of many; the second time he shall appear without sin to them that expect him unto salvation. Epistle of St Paul to the Hebrews next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:28** So also Christ was offered once to exhaust the sins of many; the second time he shall appear without sin to them that expect him unto salvation.
 
 
 ## Chapter 10
@@ -445,7 +445,7 @@
 
 **10:38** But my just man liveth by faith; but if he withdraw himself, he shall not please my soul.
 
-**10:39** But we are not the children of withdrawing unto perdition, but of faith to the saving of the soul. Epistle of St Paul to the Hebrews next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:39** But we are not the children of withdrawing unto perdition, but of faith to the saving of the soul.
 
 
 ## Chapter 11
@@ -528,7 +528,7 @@
 
 **11:39** And all these being approved by the testimony of faith, received not the promise;
 
-**11:40** God providing some better thing for us, that they should not be perfected without us. Epistle of St Paul to the Hebrews next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:40** God providing some better thing for us, that they should not be perfected without us.
 
 
 ## Chapter 12
@@ -589,7 +589,7 @@
 
 **12:28** Therefore receiving an immoveable kingdom, we have grace; whereby let us serve, pleasing God, with fear and reverence.
 
-**12:29** For our God is a consuming fire. Epistle of St Paul to the Hebrews next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:29** For our God is a consuming fire.
 
 
 ## Chapter 13
@@ -642,5 +642,5 @@
 
 **13:24** Salute all your prelates, and all the saints. The brethren from Italy salute you.
 
-**13:25** Grace be with you all. Amen. Epistle of St Paul to the Hebrews next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:25** Grace be with you all. Amen.
 

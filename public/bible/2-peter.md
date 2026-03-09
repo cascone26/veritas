@@ -42,7 +42,7 @@
 
 **1:20** Understanding this first, that no prophecy of scripture is made by private interpretation.
 
-**1:21** For prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost. 2nd Epistle of St Peter next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:21** For prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost. 2nd
 
 
 ## Chapter 2
@@ -89,7 +89,7 @@
 
 **2:21** For it had been better for them not to have known the way of justice, than after they have known it, to turn back from that holy commandment which was delivered to them.
 
-**2:22** For, that of the true proverb has happened to them: The dog is returned to his vomit: and, The sow that was washed, to her wallowing in the mire. 2nd Epistle of St Peter next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:22** For, that of the true proverb has happened to them: The dog is returned to his vomit: and, The sow that was washed, to her wallowing in the mire. 2nd
 
 
 ## Chapter 3
@@ -128,5 +128,5 @@
 
 **3:17** You therefore, brethren, knowing these things before, take heed, lest being led aside by the error of the unwise, you fall from your own steadfastness.
 
-**3:18** But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and unto the day of eternity. Amen. 2nd Epistle of St Peter next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:18** But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and unto the day of eternity. Amen. 2nd
 

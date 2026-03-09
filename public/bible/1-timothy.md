@@ -40,7 +40,7 @@
 
 **1:19** Having faith and a good conscience, which some rejecting have made shipwreck concerning the faith.
 
-**1:20** Of whom is Hymeneus and Alexander, whom I have delivered up to Satan, that they may learn not to blaspheme. 1st Epistle of St Paul to Timothy next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:20** Of whom is Hymeneus and Alexander, whom I have delivered up to Satan, that they may learn not to blaspheme. 1st
 
 
 ## Chapter 2
@@ -73,7 +73,7 @@
 
 **2:14** And Adam was not seduced; but the woman being seduced, was in the transgression.
 
-**2:15** Yet she shall be saved through childbearing; if she continue in faith, and love, and sanctification, with sobriety. 1st Epistle of St Paul to Timothy next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:15** Yet she shall be saved through childbearing; if she continue in faith, and love, and sanctification, with sobriety. 1st
 
 
 ## Chapter 3
@@ -108,7 +108,7 @@
 
 **3:15** But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.
 
-**3:16** And evidently great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory. 1st Epistle of St Paul to Timothy next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:16** And evidently great is the mystery of godliness, which was manifested in the flesh, was justified in the spirit, appeared unto angels, hath been preached unto the Gentiles, is believed in the world, is taken up in glory. 1st
 
 
 ## Chapter 4
@@ -143,7 +143,7 @@
 
 **4:15** Meditate upon these things, be wholly in these things: that thy profiting may be manifest to all.
 
-**4:16** Take heed to thyself and to doctrine: be earnest in them. For in doing this thou shalt both save thyself and them that hear thee. 1st Epistle of St Paul to Timothy next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:16** Take heed to thyself and to doctrine: be earnest in them. For in doing this thou shalt both save thyself and them that hear thee. 1st
 
 
 ## Chapter 5
@@ -196,7 +196,7 @@
 
 **5:24** Some men's sins are manifest, going before to judgment: and some men they follow after.
 
-**5:25** In like manner also good deeds are manifest: and they that are otherwise, cannot be hid. 1st Epistle of St Paul to Timothy next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:25** In like manner also good deeds are manifest: and they that are otherwise, cannot be hid. 1st
 
 
 ## Chapter 6
@@ -241,5 +241,5 @@
 
 **6:20** O Timothy, keep that which is committed to thy trust, avoiding the profane novelties of words, and oppositions of knowledge falsely so called.
 
-**6:21** Which some promising, have erred concerning the faith. Grace be with thee. Amen. 1st Epistle of St Paul to Timothy next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:21** Which some promising, have erred concerning the faith. Grace be with thee. Amen. 1st
 

@@ -4086,9 +4086,3 @@ II. 1. 88: _Ay._] I. Ff. _Ay?_ Pope.
 [Text unchanged: apparent error for italic _I._]
 III. 3. 17: Prospero above]
 [Text unchanged: stage direction is after l. 19]
-
-[Endnotes]
-
-I: I. 1. 15.  [I. 1. 16]
-V: 377, 378.  [376-377]
-XVI: IV. 1. 146  [IV. 1. 147]

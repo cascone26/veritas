@@ -1,14 +1,953 @@
 # Catena Aurea — Gospel of Matthew
 
+## CHAP. 1
 
-## Chapter 1
+### 1:1
 
-[Error fetching this chapter: HTTP 404 for https://www.ecatholic2000.com/catena/untitled-8.shtml]
+Ver. 1. The book of the generation of Jesus Christ, the Son of David, the Son of Abraham.
+
+**JEROME**. (Prolog. in Comm. in Matt.) ‘The face of a man’ (in Ezekiel’s vision [Ez. 1:5]) signifies Matthew, who accordingly opens his Gospel with the human genealogy of Christ.
+
+**RABANUS**. By this exordium he shews that it is the birth of Christ according to the flesh that he has undertaken to narrate.
+
+**PSEUDO-CHRYSOSTOM**. (Homil. in Matt. Hom. i.) Matthew wrote for the Jews, and in Hebrewa; to them it was unnecessary to explain the divinity which they recognized; but necessary to unfold the mystery of the Incarnation. John wrote in Greek for the Gentiles who knew nothing of a Son of God. They required therefore to be told first, that the Son of God was God, then that this Deity was incarnate.
+
+**RABANUS**. Though the genealogy occupies only a small part of the volume, he yet begins thus, The book of the generation. For it is the manner of the Hebrews to name their books from that with which they open; as Genesis.
+
+**GLOSS**. (Ordinaria.) The full expression would be This is the book of the generation; but this is a usual ellipse; e. g. The vision of Isaiah, for, ‘This is the vision.’ Generation, he says in the singular number, though there be many here given in succession, as it is for the sake of the one generation of Christ that the rest are here introduced.
+
+**CHRYSOSTOM**. (Hom. in Matt. Hom. ii.) Or he therefore entitles it, The book of the generation, because this is the sum of the whole dispensation, the root of all its blessings; viz. that God became man; for this once effected, all other things followed of course.
+
+**RABANUS**. He says, The book of the generation of Jesus Christ, because he knew it was written, ‘The book of the generation of Adam.’ He begins thus then, that he may oppose book to book, the new Adam to the old Adam, for by the one were all things restored which had been corrupted by the other.
+
+**JEROME**. (Comm. in Matt. ch. 1.) We read in Isaiah, Who shall declare His generation? (Is. 53:8.) But it does not follow that the Evangelist contradicts the Prophet, or undertakes what he declares impossible; for Isaiah is speaking of the generation of the Divine nature; St. Matthew of the incarnation of the human.
+
+**CHRYSOSTOM**. And do not consider this genealogy a small thing to hear: for truly it is a marvellous thing that God should descend to be born of a woman, and to have as His ancestors David and Abraham.
+
+**REMIGIUS**. Though any affirm that the prophet (Isaiah) does speak of His human generation, we need not answer to his enquiry, Who shall declare it? “No man;” but, “Very few;” because Matthew and Luke have.
+
+**RABANUS**. By saying, of Jesus Christ, he expresses both the kingly and priestly office to be in Him, for Jesus, who first bore this name, was after Moses, the first who was leader of the children of Israel; and Aaron, anointed by the mystical ointment, was the first priest under the Law.
+
+**HILARY**. (Quæst. Nov. et Vet. Test. q. 49.) What God conferred on those, who, by the anointing of oil were consecrated as kings or priests, this the Holy Spirit conferred on the Man Christ; adding moreover a purification. The Holy Spirit cleansed that which taken of the Virgin Mary was exalted into the Body of the Saviour, and this is that anointing of the Body of the Saviour’s flesh whence He was called Christb. Because the impious craft of the Jews denied that Jesus was born of the seed of David, he adds, The son of David, the son of Abraham.
+
+**CHRYSOSTOM**. But why would it not have been enough to name one of them, David alone, or Abraham alone? Because the promise had been made to both of Christ to be born of their seed. To Abraham, And in thy seed shall all the nations of the earth he blessed. (Gen. 22:18.) To David, Of the fruit of thy body will I set upon thy seat. (Ps. 132:11.) He therefore calls Christ the Son of both, to shew that in Him was fulfilled the promise to both. Also because Christ was to have three dignities; King, Prophet, Priest; but Abraham was prophet and priest; priest, as God says to him in Genesis, Take an heifer; (Gen. 15:9.) Prophet, as the Lord said to Abimelech concerning him, He is a prophet, and shall pray for thee. (Gen. 20:7.) David was king and prophet, but not priest. Thus He is expressly called the son of both, that the threefold dignity of His forefathers might be recognized by hereditary right in Christ.
+
+**AMBROSE**. (in Luc. c. iii.) He therefore names specially two authors of His birth—one who received the promise concerning the kindreds of the people, the other who obtained the oracle concerning the generation of Christ; and though he is later in order of succession is yet first named, inasmuch as it is greater to have received the promise concerning Christ than concerning the Church, which is through Christ; for greater is He who saves than that which is saved.
+
+**JEROME**. The order of the names is inverted, but of necessity; for had he written Abraham first, and David afterwards, he would have to repeat Abraham again to preserve the series of the genealogy.
+
+**PSEUDO-CHRYSOSTOM**. Another reason is that royal dignity is above natural, though Abraham was first in time, yet David in honour.
+
+**GLOSS**. But since from this title it appears that the whole book is concerning Jesus Christ, it is necessary first to know what we must think concerning Him; for so shall be better explained what this book relates of Him.
+
+**AUGUSTINE**. (de Hær. 8, et 10.) Cerinthus then and Ebion made Jesus Christ only man; Paul of Samosata, following them, asserted Christ not to have had an existence from eternity, but to have begun to be from His birth of the Virgin Mary; he also thought Him nothing more than man. This heresy was afterwards confirmed by Photinus.
+
+**PSEUDO-ATHANASIUS**. (Vigil. Tapsens. [Athan. Ed. Ben. vol. ii. p. 646.]) The Apostle John, seeing long before by the Holy Spirit this man’s madness, rouses him from his deep sleep of error by the preaching of his voice, saying, In the beginning was the Word. (John 1:1.) He therefore, who in the beginning was with God, could not in this last time take the beginning of His being from man. He says further, (let Photinus hear his words,) Father, glorify Me with that glory which I had with Thee before the world was. (John 17:5.)
+
+**AUGUSTINE**. (de Hæres. 19.) The error of Nestorius was, that he taught that a man only was born of the Blessed Virgin Mary, whom the Word of God received not into Unity of person and inseparable fellowship; a doctrine which Catholic ears could not endure.
+
+**CYRIL OF ALEXANDRIA**. (Ep. i. ad Monachos Egypti.) Saith the Apostle of the Only-begotten, Who being in the form of God, thought it no robbery to be equal with God (Phil. 2:6). Who then is this who is in the form of God? or how emptied He Himself, and humbled Himself to the likeness of man? If the above-mentioned heretics dividing Christ into two parts, i. e. the Man and the Word, affirm that it was the Man that was emptied of glory, they must first shew what form and equality with the Father are understood to be, and did exist, which might suffer any manner of emptying. But there is no creature, in its own proper nature, equal with the Father; how then can any creature be said to be emptied? or from what eminence to descend to become man? Or how can he be understood to have taken upon Him, as though He had not at first, the form of a servant? But, they say, the Word being equal with the Father dwelt in Man born of a woman, and this is the emptying. I hear the Son truly saying to the Holy Apostles, If any man love Me, he will keep My saying; and My Father will lore him, and We will come unto him, and make Our abode with him. (John 14:23.) Hear how He saith that He and the Father will dwell in them that love Him. Do you then suppose that we shall grant that He is there emptied of His glory, and has taken upon Him the form of a servant, when He makes His abode in the hearts of them that love Him? Or the Holy Spirit, does He fulfil an assumption of human flesh, when He dwells in our hearts?
+
+**ISIDORE OF PELEUSIUM**. (Epist. lib. iv. 166.) But not to mention all arguments, let us bring forward that one to which all arguments point, that, for one who was God to assume a lowly guise both has an obvious use, and is an adaptation and in nothing contradicts the course of nature. But for one who is man to speak things divine and supernatural is the highest presumption; for though a king may humble himself a common soldier may not take on him the state of an emperor. So, if He were God made man, all lowly things have place; but if mere man, high things have none.
+
+**AUGUSTINE**. (de Hæres. 41.) Sabellius they say was a disciple of Noetus, who taught that the same Christ was one and the same Father and Holy Spirit.
+
+**PSEUDO-ATHANASIUS**. (Vigil. Tapsens. [ibid. p. 644.]) The audaciousness of this most insane error I will curb by the authority of the heavenly testimonies, and demonstrate the distinct personality of the proper substance, of the Son. I shall not produce things which are liable to be, explained away as agreeable to the assumption of human; nature; but shall offer such passages as all will allow to be decisive in proof of His divine nature. In Genesis we find God saying, Let Us make man in Our own Image. By this plural number shewing, that there was some other person to whom He spoke. Had He been one, He would have been said to have made Him in His own Image, but there is another; and He is said to have made man in the Image of that other.
+
+**GLOSS**. (non occ.) Others denied the reality of Christ’s human nature. Valentinus said, that Christ sent from the Father, carried about a spiritual or celestial body, and took nothing of the Virgin, but passed through her as through a channel, taking nothing of her flesh. But we do not therefore believe Him to have been born of the Virgin, because by no other means He could have truly lived in the flesh, and appeared among men; but because it is so written in the Scripture, which if we believe not we cannot either be Christians, or be saved. But even a body taken of spiritual, or ethereal, or clayey substance, had He willed to change into the true and very quality of human flesh, who will deny His power to do this? The Manichæans said that the Lord Jesus Christ was a phantasm, and could not be born of the womb of a woman. But if the body of Christ was a phantasm, He was a deceiver, and if a deceiver, then He was not the truth. But Christ is the Truth; therefore His Body was not a phantasm.
+
+**GLOSS**. (non occ.) And as the opening both of this Gospel, and of that according to Luke, manifestly proves Christ��s birth of a woman, and hence His real humanity, they reject the beginning of both these Gospels.
+
+**AUGUSTINE**. (cont. Faust. ii. 1.) Faustus affirms, that “the Gospel both begins, and begins to be so called, from the preaching of Christc, in which He no where affirms Himself to have been born of men. Nay, so far is this genealogy from being part of the Gospel, that the writer does not venture so to entitle it; beginning, ‘The book of the generation,’ not ‘The book of the Gospel.’ Mark again, who cared not to write of the generation, but only of the preaching of the Son of God, which is properly The Gospel, begins thus accordingly, The Gospel of Jesus Christ the Son of God. Thus then, all that we read in Matthew before the words, Jesus began to preach the Gospel of the kingdom, (Matt. 4:17.) is a part of the genealogy, not of the Gospel. I therefore betook myself to Mark and John, with whose prefaces I had good reason to be satisfied, as they introduce neither David, nor Mary, nor Joseph.” To which Augustine replies, What will he say then to the Apostle’s words, Remember the resurrection of Jesus Christ of the seed of David according to my Gospel. (2 Tim. 2:8.) But the Gospel of the Apostle Paul was likewise that of the other Apostles, and of all the faithful, as he says, Whether I, or they, thus have we preached the Gospel.
+
+**AUGUSTINE**. (de Hær. 49.) The Arians will not have the Father, Son, and Holy Spirit, to be of one and the same substance, nature, and existence; but that the Son is a creature of the Father, and the Holy Spirit a creature of a creature, i. e. created by the Son; further, they think that Christ took the flesh without a soul.
+
+**AUGUSTINE**. (de Trin. i. 6.) But John declares the Son to be not only God, but even of the same substance as the Father; for when he had said, The Word was God, he added, all things were made by Him; whence it is clear that He was not made by Whom all things were made; and if not made, then not created; and therefore of one substance with the Father, for all that is not of one substance with the Father is creature.
+
+**AUGUSTINE**. (cont. Fel. 13.) I know not what benefit the person of the Mediator has conferred upon us, if He redeemed not our better part, but took upon Him our flesh only, which without the soul cannot have consciousness of the benefit. But if Christ came to save that which had perished, the whole man had perished, and therefore needs a Saviour; Christ then in coming saves the whole man, taking on Him both soul and body.
+
+**AUGUSTINE**. (Lib. 83. Quæst. q. 80.) How too do they answer innumerable objections from the Gospel Scriptures, in which the Lord speaks so many things manifestly contrary to them? as is that, My soul is sorrowful even unto death, (Matt. 26:38.) and, I have power to lay down My life; (John 10:18.) and many more things of the like kind. Should they say that He spoke thus in parables, we have at hand proofs from the Evangelists themselves, who in relating His actions, bear witness as to the reality of His body, so of His soul, by mention of passions which cannot be without a soul; as when they say, Jesus wondered, was angry, and others of like kind.
+
+**AUGUSTINE**. (de Hæres. 55.) The Apollinarians also as the Arians affirmed that Christ had taken the human flesh without the soul. But overthrown on this point by the weight of Scripture proof, they then said that that part which is the rational soul of man was wanting to the soul of Christ, and that its place was filled by the Word itself. But if it be so, then we must believe that the Word of God took on Him the nature of some brute with a human shape and appearance. But even concerning the nature of Christ’s body, there are some who have so far swerved from the right faith, as to say, that the flesh and the Word were of one and the same substance, most perversely insisting on that expression, The Word was made flesh; which they interpret that some portion of the Word was changed into flesh, not that He took to Him flesh of the flesh of the Virgind.
+
+**CYRIL OF ALEXANDRIA**. (Ep. ad Joan. Antioch. tom. 6. Ep. 107.) We account those persons mad who have suspected that so much as the shadow of change could take place in the nature of the Divine Word; it abides what it ever was, neither is nor can be changed.
+
+**LEO**. (Epist. 59. ad Const. Id. Ep. 83. ad Palest.) We do not speak of Christ as man in such a sort as to allow that any thing was wanting to Him, which it is certain pertains to human nature, whether soul, or rational mind, or flesh, and flesh such as was taken of the Woman, not gained by a change or conversion of the Word into flesh. These three several errors, that thrice false heresy of the Apollinarists has brought forward. Eutyches also chose out this third dogma of Apollinaris, which denying the verity of the human body and soul, maintained that our Lord Jesus Christ was wholly and entirely of one nature, as though the Divine Word had changed itself into flesh and soul, and as though the conception, birth, growth, and such like, had been undergone by that Divine Essence, which was incapable of any such changes with the very and true flesh; for such as is the nature of the Only-begotten, such is the nature of the Father, and such is the nature of the Holy Ghost, both impassible and eternal. But if to avoid being driven to the conclusion that the Godhead could feel suffering and death, he departs from the corruption of Apollinaris, and should still dare to affirm the nature of the incarnate Word, that is of the Word and the flesh, to be the same, he clearly falls into the insane notions of Manich��us and Marcion, and believes that the Lord Jesus Christ did all His actions with a false appearance, that His body was not a human body, but a phantasm, which imposed on the eyes of the beholders.
+
+**LEO**. (Ep. 35. ad Julian.) But what Eutyches ventured to pronounce as an episcopal decision, that in Christ before His incarnation were two natures, but after His incarnation only one, it behoved that he should have been urgently pressed to give the reason of this his belief. I suppose that in using such language he supposed the soul which the Saviour took, to have had its abode in heaven before it was born of the Virgin Marye. This Catholic hearts and ears endure not, for that the Lord when He came down from heaven shewed nothing of the condition of human nature, nor did He take on Him any soul that had existed before, nor any flesh that was not taken of the flesh of His mother. Thus what was justly condemned in Origenf, must needs be rebuked in Eutyches, to wit, that our souls before they were placed in our bodies had actions not only wonderful but various.
+
+**REMIGIUS**. These heresies therefore the Apostles overthrow in the opening of their Gospels, as Matthew in relating how He derived His descent from the kings of the Jews proves Him to have been truly man and to have had true flesh. Likewise Luke, when he describes the priestly stock and person; Mark when he says, The beginning of the Gospel of Jesus Christ the Son of God; and John when lie says, In the beginning was the Word; both shew Him to have been before all ages God, with God the Father.
+
+### 1:2
+
+2. Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren.
+
+**AUGUSTINE**. (De Cons. Evan. ii. 1.) Matthew, by beginning with Christ’s genealogy, shews that he has undertaken to relate Christ’s birth according to the flesh. But Luke, as rather describing Him as a Priest for the atonement of sin, gives Christ’s genealogy not in the beginning of his Gospel, but at His baptism, when John bare that testimony, Lo, He that taketh away the sins of the world. (John 1:29.) In the genealogy of Matthew is figured to us the taking on Him of our sins by the Lord Christ; in the genealogy of Luke, the taking away of our sins by the same; hence Matthew gives them in a descending, Luke in an ascending, series. But Matthew, describing Christ’s human generation in descending order, begins his enumeration with Abraham.
+
+**AMBROSE**. (in Luc. cap. 3. lib. iii. n. 7, 8.) For Abraham was the first who deserved the witness of faith; He believed God, and it was accounted to him for righteousness. It behoved therefore that he should be set forth as the first in the line of descent, who was the first to deserve the promise of the restoration of the Church, In thee shall all the nations of the earth be blessed. And it is again brought to a period in David, for that Jesus should be called his Son; hence to him is preserved the privilege, that from him should come the beginning of the Lord’s genealogy.
+
+**CHRYSOSTOM**. (Hom. iii.) Matthew then, desiring to preserve in memory the lineage of the Lord’s humanity through the succession of His parents, begins with Abraham, saying, Abraham begat Isaac. Why does he not mention lsmael, his first-born? And again, Isaac begat Jacob; why does he not speak of Esau his first-born? Because through them he could not have come down to David.
+
+**GLOSS**. Yet he names all the brethren of Judah with him in the lineage. lsmael and Esau had not remained in the worship of the true God; but the brethren of Judah were reckoned in God’s people.
+
+**CHRYSOSTOM**. (Hom. iii.) Or, he names all the twelve Patriarchs that he may lower that pride which is drawn from a line of noble ancestry. For many of these were born of maidservants, and yet were Patriarchs and heads of tribes.
+
+**GLOSS**. But Judah is the only one mentioned by name, and that because the Lord was descended from him only. But in each of the Patriarchs we must note not their history only, but the allegorical and moral meaning to be drawn from them; allegory, in seeing whom each of the Fathers foreshewed; moral instruction in that through each one of the Fathers some virtue may be edified in us either through the signification of his name, or through his exampleg. Abraham is in many respects a figure of Christ, and chiefly in his name, which is interpreted the Father of many nations, and Christ is Father of many believers. Abraham moreover went out from his own kindred, and abode in a strange land; in like manner Christ, leaving the Jewish nation, went by His preachers throughout the Gentiles.
+
+**PSEUDO-CHRYSOSTOM**. Isaac is interpreted ‘laughter,’ but the laughter of the saints is not the foolish convulsion of the lips, but the rational joy of the heart, which was the mystery of Christ. For as he was granted to his parents in their extreme age to their great joy, that it might be known that he was not the child of nature, but of grace, thus Christ also in this last time came of a Jewish mother to be the joy of the whole earth; the one of a virgin, the other of a woman past the age, both contrary to the expectation of nature.
+
+**REMIGIUS**. Jacob is interpreted ‘supplanter,’ and it is said of Christ, Thou hast cast down beneath Me them that rose up against Me. (Ps. 18:43.)
+
+**PSEUDO-CHRYSOSTOM**. Our Jacob in like manner begot the twelve Apostles in the Spirit, not in the flesh; in word, not in blood. Judah is interpreted ‘confessor,’ for he was a type of Christ who was to be the confessor of His Father, as He spake, I confess to Thee, Father, Lord of heaven and earth.
+
+**GLOSS**. Morally; Abraham signifies to us the virtue of faith in Christ, as an example himself, as it is said of him, Abraham believed God, and it was accounted unto Him for righteousness. Isaac may represent hope; for Isaac is interpreted ‘laughter,’ as he was the joy of his parents; and hope is our joy, making ns to hope for eternal blessings and to joy in them. Abraham begat Isaac, and faith begets hope. Jacob signifies ‘love,’ for love embraces two lives; active in the love of our neighbour, contemplative in the love of God; the active is signified by Leah, the contemplative by Rachel. For Leah is interpreted. ‘labouringh,’ for she is active in labour; Racheli ‘having seen the beginning,’ because by the contemplative, the beginning, that is God, is seen. Jacob is born of two parents, as love is born of faith and hope; for what we believe, we both hope for and love.
+
+### 1:3–6
+
+3–6. And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram; and Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon; and Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse; and Jesse begat David the king.
+
+**GLOSS**. Passing over the other sons of Jacob, the Evangelist follows the family of Judah, saying, But Judah begat Phares and Zara of Thamar.
+
+**AUGUSTINE**. (de Civ. Dei, xv. 15.) Neither was Judah himself a first-born, nor of these two sons was either his first-born; he had already had three before them. So that he keeps in that line of descent, by which he shall arrive at David, and from him whither he purposed.
+
+**JEROME**. It should be noted, that none of the holy women are taken into the Saviour’s genealogy, but rather such as Scripture has condemned, that He who came for sinners being born of sinners might so put away the sins of all; thus Ruth the Moabitess follows among the rest.
+
+**AMBROSE**. (in Luc. c. 3.) But Luke has avoided the mention of these, that he might set forth the series of the priestly race immaculate. But the plan of St. Matthew did not exclude the righteousness of natural reason; for when he wrote in his Gospel, that He who should take on Him the sins of all, was born in the flesh, was subject to wrongs and pain, he did not think it any detraction from His holiness that He did not refuse the further humiliation of a sinful parentage. Nor, again, would it shame the Church to be gathered from among sinners, when the Lord Himself was born of sinners; and, lastly, that the benefits of redemption might have their beginning with His own forefathers: and that none might imagine that a stain in their blood was any hindrance to virtue, nor again any pride themselves insolently on nobility of birth.
+
+**CHRYSOSTOM**. Besides this, it shews that all are equally liable to sin; for here is Thamar accusing Judah of incest, and David begat Solomon with a woman with whom he had committed adultery. But if the Law was not fulfilled by these great ones, neither could it be by their less great posterity, and so all have sinned, and the presence of Christ is become necessary.
+
+**AMBROSE**. (ubi sup.) Observe that Matthew does not name both without a meaning; for though the object of his writing only required the mention of Phares, yet in the twins a mystery is signified; namely, the double life of the nations, one by the Law, the other by Faith.
+
+**PSEUDO-CHRYSOSTOM**. By Zarah is denoted the people of the Jews, which first appeared in the light of faith, coming out of the dark womb of the world, and was therefore marked with the scarlet thread of the circumciser, for all supposed that they were to be God’s people; but the Law was set before their face as it had been a wall or hedge. Thus the Jews were hindered by the Law, but in the times of Christ’s coming the hedge of the Law was broken down that was between Jews and Gentiles, as the Apostle speaks, Breaking down the middle wall of partition; (Eph. 2:14.) and thus it fell out that the Gentiles, who were signified by Phares, as soon as the Law was broken through by Christ’s commandments, first entered into the faith, and after followed the Jews.
+
+**GLOSS**. Judah begat Phares and Zarah before he went into Egypt, whither they both accompanied their father. In Egypt, Phares begat Esrom; and Esrom begat Aram; Aram begat Aminadab; Aminadab begat Naasson; and then Moses led them out of Egypt. Naasson was head of the tribe of Judah under Moses in the desert, where he begat Salmon; and this Salmon it was who, as prince of the tribe of Judah, entered the land of promise with Joshua.
+
+**PSEUDO-CHRYSOSTOM**. But as we believe that the names of these Fathers were given for some special reason under the providence of God, it follows, but Naasson begat Salmon. This Salmon after his father’s death entered the promised land with Joshua as prince of the tribe of Judah. He took a wife of the name of Rahab. This Rahab is said to have been that Rahab the harlot of Jericho who entertained the spies of the children of Israel, and hid them safely. For Salmon being noble among the children of Israel, inasmuch as he was of the tribe of Judah, and son of the prince thereof, beheld Rahab so ennobled through her great faith, that she was worthy whom he should take to wife. Salmon is interpreted ‘receive a vesselk,’ perhaps as if invited in God’s providence by his very name to receive Rahab a vessel of election.
+
+**GLOSS**. This Salmon in the promised land begat Booz of this Rahab. Booz begat Obeth of Ruth.
+
+**PSEUDO-CHRYSOSTOM**. How Booz took to wife a Moabitess whose name was Ruth, I thought it needless to tell, seeing the Scripture concerning them is open to all. We need but say thus much, that Ruth married Booz for the reward of her faith, for that she had cast off the gods of her forefathers, and had chosen the living God. And Booz received her to wife for reward of his faith, that from such sanctified wedlock might be descended a kingly race.
+
+**AMBROSE**. (ubi sup.) But how did Ruth who was an alien marry a man that was a Jew? and wherefore in Christ’s genealogy did His Evangelist so much as mention a union, which in the eye of the law was bastard? Thus the Saviour’s birth of a parentage not admitted by the law appears to us monstrous, until we attend to that declaration of the Apostle, The Law was not given for the righteous, but for the unrighteous. (1 Tim. 1:9.) For this woman who was an alien, a Moabitess, a nation with whom the Mosaic Law forbad all intermarriage, and shut them totally out of the Church, how did she enter into the Church, unless that she were holy and unstained in her life above the Law? Therefore she was exempt from this restriction of the Law, and deserved to be numbered in the Lord’s lineage, chosen from the kindred of her mind, not of her body. To us she is a great example, for that in her was prefigured the entrance into the Lord’s Church of all of us who are gathered out of the Gentiles.
+
+**JEROME**. Ruth the Moabitess fulfils the prophecy of Isaiah, Send forth, O Lord, the Lamb that shall rule over the earth, out of the rock of the desert to the mount of the daughter of Sion. (Is. 16:1.)
+
+**GLOSS**. Jesse, the father of David, has two names, being more frequently called Isai. But the Prophet says, There shall come a rod from the stem of Jesse; (Is. 11:1.) therefore to shew that this prophecy was fulfilled in Mary and Christ, the Evangelist puts Jesse.
+
+**REMIGIUS**. It is asked, why this epithet King is thus given by the holy Evangelist to David alone? Because he was the first king in the tribe of Judah. Christ Himself is Phares ‘the divider,’ as it is written, Thou shalt divide the sheep from the goats; (Mat. 25:33.) He is Zaraml, ‘the east,’ Lo the man, the east is His name; (Zech. 6:12.) He is Esromm, ‘an arrow,’ He hath set me as a polished shaft. (Is. 49:2.)
+
+**RABANUS**. Or following another interpretation, according to the abundance of grace, and the width of love. He isn Aram the chosen, according to that, Behold my Servant whom I have chosen. (Is. 42:1.) He is Aminadab, that is ‘willingo,’ in that He says, I will freely sacrifice to Thee. (Is. 54:6.) Also He is Naassonp, i. e. ‘augury,’ as He knows the past, the present, and the future; or, ‘like a serpent,’ according to that, Moses lifted up the serpent in the wilderness. (John 3:14.) He isq Salmon, i. e. ‘that feeleth,’as He said, I feel that power is gone forth out of me. (Luke 8:46.)
+
+**GLOSS**. Christ Himself espouses Rahab, i. e. the Gentile Church; for Rahabr is interpreted either ‘hunger,’ or ‘breadth,’ or ‘might;’ for the Church of the Gentiles hungers and thirsts after righteousness, and converts philosophers and kings by the might of her doctrine. Ruth is interpreted either ‘seeing’ or ‘hastenings’ and denotes the Church which in purity of heart sees God, and hastens to the prize of the heavenly call.
+
+**REMIGIUS**. Christ is also Boozt, because He is strength, for, When I am lifted up, I will draw all men unto Me. (John 12:32.) He is Obeth. ‘a servantu,’ for, the Son of man came not to be ministered unto, but to minister. (Mat. 20:28.) He is Jesse, or ‘burntx,’ for, I am come to send fire on earth. (Luke 12:49.) He is Davidy, ‘mighty in arm,’ for, the Lord is great and powerful; (Ps. 24:8.) ‘desirable,’ for, He shall come, the Desire of all nations; (Hag. 2:7.) ‘beautiful to behold,’ according to that, Beautiful in form before the sons of men. (Ps. 45:3.)
+
+**GLOSS**. Let us now see what virtues they be which these fathers edify in us; for faith, hope, and charity are the foundation of all virtues; those that follow are like additions over and above them. Judah is interpreted ‘confession,’ of which there are two kinds, confession of faith, and of sin. If then, after we be endowed with the three forementioned virtues, we sin, confession not of faith only but of sin is needful for us. Phares is interpreted ‘division,’ Zamar ‘the east,’ and Thamar ‘bitternessz.’ Thus confession begets separation from vice, the rise of virtue, and the bitterness of repentance. After Phares follows Esron, ‘an arrow,’ for when one is separated from vice and secular pursuits, he should become a dart wherewith to slay by preaching the vices of others. Aram is interpreted ‘elect’ or ‘loftya,’ for as soon as one is detached from this world, and profiteth for another, he must needs be held to be elect of God, famous amongst men, high in virtue. Naasson is ‘augury,’ but this augury is of heaven, not of earth. It is that of which Joseph boasted when he said, Ye have taken away the cup of my Lord, where with He is wont to divine. (Gen. 44:5.) The cup is the divine Scripture wherein is the draught of wisdom; by this the wise man divines, since in it he sees things future, that is, heavenly things. Next is Salomonb, ‘that perceiveth,’ for he who studies divine Scripture becomes perceiving, that is, he discerns by the taste of reason, good from bad, sweet from bitter. Next is Booz, that is ‘brave,’ for who is well taught in Scripture becomes brave to endure all adversity.
+
+**PSEUDO-CHRYSOSTOM**. This brave one is the son of Rahab, that is, of the Church; for Rahab signifies ‘breadth’ or ‘spread out,’ for because the Church of the Gentiles was called from all quarters of the earth, it is called ‘breadth.’
+
+**GLOSS**. Then follows Obeth, i. e. ‘servitude,’ for which none is fit but he who is strong; and this servitude is begotten of Ruth, that is ‘haste,’ for it behoves a slave to be quick, not slow.
+
+**PSEUDO-CHRYSOSTOM**. They who look to wealth and not temper, to beauty and not faith, and require in a wife such endowments as are required in harlots, will not beget sons obedient to their parents or to God, but rebellious to both; that their children may be punishment of their ungodly wedlock. Obeth begat Jesse, that is ‘refreshment,’ for whoever is subject to God and his parents, begets such children as prove his ‘refreshment.’
+
+**GLOSS**. Or Jesse may be interpreted ‘incensec.’ For it we serve God in love and fear, there will be a devotion in the heart, which in the heat and desire of the heart offers the sweetest incense to God. But when one is become a fit servant, and a sacrifice of incense to God, it follows that he becomes David, (i. e. ‘of a strong hand,’) who fought mightily against his enemies, and made the Idumeans tributary. In like manner ought he to subdue carnal men to God by teaching and example.
+
+### 1:6–8
+
+6–8. David the king begat Solomon of her that had been the wife of Urias; and Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa; and Asa begat Josaphat.
+
+The Evangelist has now finished the first fourteen generations, and is come to the second, which consists of royal personages, and therefore beginning with David, who was the first king in the tribe of Judah, he calls him David the king.
+
+**AUGUSTINE**. (De Cons. Ev. ii. 4.) Since in Matthew’s genealogy is shewed forth the taking on Him by Christ of our sins, therefore he descends from David to Solomon, in whose mother David had sinned. Luke ascends to David through Nathan, for through Nathan the prophet God punished David’s sin; because Luke’s genealogy is to shew the putting away of our sins.
+
+**AUGUSTINE**. (Lib. Retract. ii. 16.) That is it, must be said, through a prophet of the same name, for it was not Nathan the son of David who reproved him, but a prophet of the same name.
+
+**REMIGIUS**. Let us enquire why Matthew does not mention Bathsheba by name as he does the other women. Because the others, though deserving of much blame, were yet commendable for many virtues. But Bathsheba was not only consenting in the adultery, but in the murder of her husband, hence her name is not introduced in the Lord’s genealogy.
+
+**GLOSS**. Besides, he does not name Bathsheba, that, by naming Urias, he may recal to memory that great wickedness which she was guilty of towards him.
+
+**AMBROSE**. (ubi sup.) But the holy David is the more excellent in this, that he confessed himself to be but man, and neglected not to wash out with the tears of repentance the sin of which he had been guilty, in so taking away Urias’ wife. Herein shewing us that none ought to trust in his own strength, for we have a mighty adversary whom we cannot overcome without God’s aid. And you will commonly observe very heavy sins befalling to the share of illustrious men, that they may not from their other excellent virtues be thought more than men, but that you may see that as men they yield to temptation.
+
+**PSEUDO-CHRYSOSTOM**. Solomon is interpreted ‘peacemaker,’ because having subdued all the nations round about, and made them tributary, he had a peaceful reign. Roboam is interpreted ‘by a multitude of people,’ for multitude is the mother of sedition; for where many are joined in a crime, that is commonly unpunishable. But a limit in numbers is the mistress of good order.
+
+### 1:8–11
+
+8–11. And Josaphat begat Joram; and Joram begat Ozias; and Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias; and Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias; and Josias begat Jechonias and his brethren, about the time they were carried away to Babylon.
+
+**JEROME**. In the fourth book of Kings we read, that Ochozias was the son of Joram. On his death, Josabeth, sister of Ochozias and daughter of Joram, took Joash, her brother’s son, and preserved him from the slaughter of the royal seed by Athalias. To Joash succeeded his son Amasias; after him his son Azarias, who is called Ozias; after him his son Joatham. Thus you see according to historical truth there were three intervening kings, who are omitted by the Evangelist. Joram, moreover, begot not Ozias, but Ochozias, and the rest as we have related. But because it was the purpose of the Evangelist to make each of the three periods consist of fourteen generations, and because Joram had connected himself with Jezebel’s most impious race, therefore his posterity to the third generation is omitted in tracing the lineage of the holy birth.
+
+**HILARY**. Thus the stain of the Gentile alliance being purged, the royal race is again taken up in the fourth following generation.
+
+**PSEUDO-CHRYSOSTOM**. What the Holy Spirit testified through the Prophet, saying, that He would cut off every male from the house of Ahab, and Jezebel, that Jehu the son of Nausi fulfilled, and received the promise that his children to the fourth generation should sit on the throne of Israel. As great a blessing then as was given upon the house of Ahab, so great a curse was given on the house of Joram, because of the wicked daughter of Ahab and Jezebel, that his sons to the fourth generation should be cut out of the number of the Kings. Thus his sin descended on his posterity as it had been written, I will visit the sins of the fathers upon the children unto the third and fourth generation. (Exod. 20:5.) Thus see how dangerous it is to marry with the seed of the ungodly.
+
+**AUGUSTINE**. (Hilar. Amast. V. et N. Test. q. 85.) Or, Ochozias, Joash, and Amasias, were excluded from the number, because their wickedness was continuous and without interval. For Solomon was suffered to hold the kingdom for his father’s deserts, Roboam for his son’s. But these three doing evil successively were excluded. This then is an example how a race is cut off when wickedness is shewn therein in perpetual succession. And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias.
+
+**GLOSS**. This Ezekias was he to whom, when he had no children, it was said, Set thy house in order, for thou shalt die. (Is. 38:1.) He wept, not from desire of longer life, for he knew that Solomon had thereby pleased God, that he had not asked length of days; but he wept, for he feared that God’s promise should not be fulfilled, when himself, being in the line of David of whom Christ should come, was without children. And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias.
+
+**PSEUDO-CHRYSOSTOM**. But the order in the Book of Kings (2 Kings 23.) is different, thus namely; Josias begot Eliakim, afterwards called Joakim; Joakim begot Jechonias. But Joakim is not reckoned among the Kings in the genealogy, because God’s people had not set him on the throne, but Pharaoh by his might. For if it were just that only for their intermixture with the race of Ahab, three kings should be shut out of the number in the genealogy, was it not just that Joakim should be likewise shut out, whom Pharaoh had set up as king by hostile force? And thus Jechonias, who is the son of Joakim, and the grandson of Josiah, is reckoned among the kings as the son of Josiah, in place of his father who is omitted.
+
+**JEROME**. Otherwise, we may consider the first Jeconias to be the same as Joakim, and the second to be the son not the father, the one being spelt with k and m, the second by ch and n. This distinction has been confounded both by Greeks and Latins, by the fault of writers and the lapse of time.
+
+**AMBROSE**. (In Luc. cap. 2.) That there were two kings of the name of Joakim, is clear from the Book of Kings. And Joakim slept with his fathers, and Joachin his son reigned, in his stead. (2 Kings 24:6.) This son is the same whom Jeremiah calls Jeconias. And rightly did St. Matthew purpose to differ from the Prophet, because he sought to shew therein the great abundance of the Lord’s mercies. For the Lord did not seek among men nobility of race, but suitably chose to be born of captives and of sinners, as He came to preach remission of sin to the captives. The Evangelist therefore did not conceal either of these; but rather shewed them both, inasmuch as both were called Jeconias.
+
+**REMIGIUS**. But it may be asked, why the Evangelist says they were born in the carrying away, when they were born before the carrying away. He says this because they were born for this purpose, that they should be led captive, from the dominion of the whole nation, for their own and others’ sins. And because God foreknew that they were to be carried away captive, therefore he says, they were born in the carrying away to Babylon. But of those whom the holy Evangelist places together in the Lord’s genealogy, it should be known, that they were alike in good or ill fame. Judas and his brethren were notable for good, in like manner Phares and Zara, Jechonias and his brethren, were notable for evil.
+
+**GLOSS**. Mystically, David is Christ, who overcame Golias, that is, the Devil. Urias, i. e. God is my light, is the Devil who says, I will be like the Highest. (Is. 14:14.) To Him the Church was married, when Christ on the Throne of the majesty of His Father loved her, and having made her beautiful, united her to Himself in wedlock. Or Urias is the Jewish nation who through the Law boasted of their light. From them Christ took away the Law, having taught it to speak of Himself. Bersabee is ‘the well of satiety,’ that is, the abundance of spiritual grace.
+
+**REMIGIUS**. Bersabee is interpreted ‘the seventh well,’ or ‘the well of the oathc;’ by which is signified the grant of baptism, in which is given the gift of the sevenfold Spirit, and the oath against the Devil is made. Christ is also Solomon, i. e. the peaceful, according to that of the Apostle, He is our peace. (Eph. 2:14.) Roboamd is, ‘the breadth of the people,’ according to that, Many shall come from the East and from the West.
+
+**RABANUS**. Or; ‘the might of the people,’ because he quickly converts the people to the faith.
+
+**REMIGIUS**. He is also Abias, that is, ‘the Lord Father,’ according to that, One is your Father who is in heaven. (Mat. 23:9.) And again, Ye call me Master and Lord. (John 13:13.) He is also Asae, that is, ‘lifting up,’ according to that, Who taketh away the sins of the world. (John 1:29.) He is also Josaphat, that is, ‘judging,’ for, The Father hath committed all judgment unto the Son. (John 5:22.) He is also Joram, that is, ‘lofty,’ according to that, No man hath ascended up to heaven, but He that came down from heaven. (John 3:13.) He is also Ozias, that is, ‘the Lord’s strength,’ for The Lord is my strength and my praise. (Ps. 118:14.) He is also Jothamf, that is, ‘completed,’ or ‘perfected,’ for Christ is the end of the Law. (Rom. 10:4.) He is also Ahazg, that is, ‘turning,’ according to that, Be ye turned to Me. (Zech. 1:3.)
+
+**RABANUS**. Or, ‘embracing,’ because None knoweth the Father but the Son. (Matt. 11:27.)
+
+**REMIGIUS**. He is also Ezekias, that is, ‘the strong Lord,’ or, ‘the Lord shall comfort;’ according to that, Be of good cheer, I have overcome the world. (John 16:33.) He is also Manasses, that is, ‘forgetful,’ or, ‘forgotten,’ according to that, I will not remember your sins any more. (Ezek. 28.) He is also Aaronh, that is,’ faithful,’ according to that, The Lord is faithful in all His words. (Ps. 145:17.) He is also Josias, that is, ‘the incense of the Lordi,’ as, And being in an agony, He prayed more earnestly. (Luke 22:44.)
+
+**RABANUS**. And that incense signifies prayer, the Psalmist witnesses, saying, Let my prayer come up as incense before Thee. (Ps. 141:2.) Or, ‘The salvation of the Lord,’ according to that, My salvation is for ever. (Is. 55.)
+
+**REMIGIUS**. He is Jechoniask, that is, ‘preparing,’ or ‘the Lord’s preparation,’ according to that, If I shall depart, I will also prepare a place for you. (John 14:3.)
+
+**GLOSS**. Morally; After David follows Solomon, which is interpreted, ‘peaceful.’ For one then becomes peaceful, when unlawful motions being composed, and being as it were already set in the everlasting rest, he serves God, and turns others to Him. Then follows Roboam, that is ‘the breadth of the people.’ For when there is no longer any thing to overcome within himself, it behoves a man to look abroad to others, and to draw with him the people of God to heavenly things. Next is Abias, that is, ‘the Lord Father,’ for these things premised, He may proclaim Himself the Son of God, and then He will be Asa, that is, ‘raising up,’ and will ascend to His Father from virtue to virtue: and He will become Josaphat, that is, ‘judging,’ for He will judge others, and will be judged of none. Thus he becomes Joram, that is, ‘lofty,’ as it were dwelling on high; and is made Oziah, that is, ‘the strong One of the Lord,’ as attributing all his strength to God, and persevering in his path. Then follows Jotham, that is, ‘perfect,’ for he groweth daily to greater perfection. And thus he becomes Ahaz, that is, ‘embracing,’ for by obedience knowledge is increased according to that, They have proclaimed the worship of the Lord, and have understood His doings. Then follows Ezekias, that is, ‘the Lord is strong,’ because he understands that God is strong, and so turning to His love, he becomes Manasses, ‘forgetful,’ because he gives up as forgotten all worldly things; and is made thereby Amon, that is, ‘faithful,’ for whoso despises all temporal things, defrauds no man of his goods. Thus he is made Josias, that is, ‘in certain hope of the Lord’s salvation;’ for Josias is interpreted ‘the salvation of the Lord.’
+
+### 1:12–15
+
+12–15. And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel; and Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor; and Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud; and Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob.
+
+**PSEUDO-CHRYSOSTOM**. (ubi sup.) After the carrying away, he sets Jeconiah again, as now become a private person.
+
+**AMBROSE**. Of whom Jeremiah speaks. Write this man dethroned; for there shall not spring of his seed one sitting on the throne of David. (Jer. 22:30.) How is this said of the Prophet, that none of the seed of Jeconias should reign? For if Christ reigned, and Christ was of the seed of Jeconiah, then has the Prophet spoken falsely. But it is not there declared that there shall be none of the seed of Jeconiah, and so Christ is of his seed; and that Christ did reign, is not in contradiction to the prophecy; for He did not reign with worldly honours, as He said, My kingdom is not of this world. (John 18:36.)
+
+**PSEUDO-CHRYSOSTOM**. Concerning Salathiell, we have read nothing either good or bad, but we suppose him to have been a holy man, and in the captivity to have constantly besought God in behalf of afflicted Israel, and that hence he was named Salathiel, ‘the petition of Godm.’ Salathiel begot Zorobabel, which is interpreted, ‘flowing postponed,’ or, ‘of the confusion,’ or here, ‘the doctor of Babylonn.’ I have read, but know not whether it be true, that both the priestly line and the royal line were united in Zorobabel; and that it was through him that the children of Israel returned into their own country. For that in a disputation held between three, of whom Zorobabel was one, each defending his own opinion, Zorobabel’s sentence, that Truth was the strongest thing, prevailed; and that for this Darius granted him that the children of Israel should return to their country; and therefore after this providence of God, he was rightly called Zorobabel, ‘the doctor of Babylon.’ For what doctrine greater than to shew that Truth is the mistress of all things?
+
+**GLOSS**. But this seems to contradict the genealogy which is read in Chronicles (1 Chron. 3:17.). For there it is said, that Jeconias begot Salathiel and Phadaias, and Phadaias begot Zorobabel, and Zorobabel Mosollah, Ananias, and Salomith their sister. But we know that many parts of the Chronicles have been corrupted by time, and error of transcribers. Hence come many and controverted questions of genealogies which the Apostle bids us avoid (1 Tim. 1:4.). Or it may be said, that Salathiel and Phadaias are the same man under two different names. Or that Salathiel and Phadaias were brothers, and both had sons of the same name, and that the writer of the history followed the genealogy of Zorobabel, the son of Salathiel. From Abiud down to Joseph, no history is found in the Chronicles; but we read that the Hebrews had many other annals, which were called the Words of the Days, of which much was burned by Herod, who was a foreigner, in order to confound the descent of the royal line. And perhaps Joseph had read in them the names of his ancestors, or knew them from some other source. And thus the Evangelist could learn the succession of this genealogy. It should be noted, that the first Jeconiah is called the resurrection of the Lord, the second, the preparation of the Lord. Both are very applicable to the Lord Christ, who declares, I am the resurrection, and the life; (John 11:25.) and, I go to prepare a place for you. (John 14:2.) Salathiel, i. e. ‘the Lord is my petition,’ is suitable to Him who said, Holy Father, keep them whom Thou hast given Me. (John 17:11.)
+
+**REMIGIUS**. He is also Zorobabel, that is, ‘the master of confusion,’ according to that, Your Master eateth with publicans and sinners. (Matt. 9:11.) He is Abiud, that is, ‘He is my Father,’ according to that, I and the Father are One. (John 10:30.) He is also Eliacimo, that is, ‘God the Reviver,’ according to that, I will revive him again in the last day. (John 6:54.) He is also Azor, that is, ‘aided,’ according to that, He who sent Me is with Me. (John 8:29.) He is also Sadoch, that is, ‘the just,’ or, ‘the justified,’ according to that, He was delivered, the just for the unjust. (1 Pet. 3:18.) He is also Achim, that is, ‘my brother is He,’ according to that, Whoso doeth the will of My Father, he is My brother. (Matt. 12:50.) He is also Eliud, that is, ‘He is my God,’ according to that, My Lord, and my God. (John 20:28.)
+
+**GLOSS**. He is also Eleazar, i. e. ‘God is my helper,’ as in the seventeenth Psalm, My God, my helper. He is also Mathan, that is, ‘giving,’ or, ‘given,’ for, He gave gifts for men; (Eph. 4:8.) and, God so loved the world, that He gave His only begotten Son. (John 3:16.)
+
+**REMIGIUS**. He is also Jacob, ‘that supplanteth,’ for not only hath He supplanted the Devil, but hath given His power to His faithful people; as, Behold I have given you power to tread upon serpents. (Luke 10:19.) He is also Joseph, that is, ‘adding,’ according to that, I came that they might have life, and that they might have it abundantly. (John 10:10.)
+
+**RABANUS**. But let us see what moral signification these names contain. After Jeconias, which means ‘the preparation of the Lord,’ follows Salathiel, i. e. ‘God is my petition,’ for he who is rightly prepared, prays not but of God. Again, he becomes Zorobabel, ‘the master of Babylon,’ that is, of the men of the earth, whom he makes to know concerning God, that He is their Father, which is signified in Abiud. Then that people rise again from their vices, whence follows Eliacim, ‘the resurrection;’ and thence rise to good works, which is Azor, and becomes Sadoch, i. e. ‘righteous;’ and then they are taught the love of their neighbour. He is my brother, which is signified in Achim; and through love to God he says of Him, ‘My God,’ which Eliud signifies. Then follows Eleazar, i. e. ‘God is my helper;’ he recognizes God as his helper. But whereto he tends is shewn in Matthan, which is interpreted ‘gift,’ or ‘giving;’ for he looks to God as his benefactor; and as he wrestled with and overcame his vices in the beginning, so he does in the end of life, which belongs to Jacob, and thus he reaches Joseph, that is, ‘The increase of virtues.’
+
+### 1:16
+
+16. And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
+
+**GLOSS**. In the last place, after all the patriarchs, he sets down Joseph the husband of Mary, for whose sake all the rest are introduced, saying, But Jacob begot Joseph.
+
+**JEROME**. This passage is objected to us by the Emperor Julian in his Discrepancy of the Evangelists. Matthew calls Joseph the son of Jacob, Luke makes him the son of Heli. He did not know the Scripture manner, one was his father by nature, the other by law. For we know that God commanded by Moses, that if a brother or near kinsman died without children, another should take his wife, to raise up seed to his brother or kinsman. (Deut. 25.) But of this matter Africanus the chronologistp, and Eusebius of Cæsarca, have disputed more fully.
+
+**EUSEBIUS**. (Hist. Eccles. 1.7.) For Matthan and Melchi at different periods had each a son by one and the same wife Jesca. Matthan, who traced through Solomon, first had her, and died leaving one son, Jacob by name. As the Law forbade not a widow, either dismissed from her husband, or after the death of her husband, to be married to another, so Melchi, who traced through Matthan, being of the same tribe but of another race, took this widow to his wife, and begat Heli his son. Thus shall we find Jacob and Heli, though of a different race, yet by the same mother, to have been brethren. One of whom, namely Jacob, after Heli his brother was deceased without issue, married his wife, and begat on her the third, Joseph, by nature indeed and reason his own son; whereupon also it is written, And Jacob begat Joseph. But by the Law, he was the son of Heli; for Jacob, being his brother, raised up seed to him. Thus the genealogy, both as recited by Matthew, and by Luke, stands right and true; Matthew saying, And Jacob begot Joseph; Luke saying, Which was the son, as it was supposed, (for he adds this withal,) of Joseph, which was the son of Heli, which was the son of Melchi. Nor could he have more significantly or properly expressed that way of generation according to the Law, which was made by a certain adoption that had respect to the dead, carefully leaving out the word begetting throughout even to the end.
+
+**AUGUSTINE**. (De Cons. Evang. ii. 2.) He is more properly called his son, by whom he was adopted, than had he been said to have been begotten of him of whose flesh he was not born. Wherefore Matthew, in saying Abraham begot Isaac, and continuing the same phrase throughout down to Jacob begot Joseph, sufficiently declares that he gives the father according to the order of nature, so as that we must hold Joseph to have been begotten, not adopted, by Jacob. Though even if Luke had used the word begotten, we need not have thought it any serious objection; for it is not absurd to say of an adopted son that he is begotten, not after the flesh, but by affection.
+
+**EUSEBIUS**. (ubi sup.) Neither does this lack good authority; nor has it been suddenly devised by us for this purpose. For the kinsmen of our Saviour according to the flesh, either out of desire to shew forth this their so great nobility of stock, or simply for the truth’s sake, have delivered it unto us.
+
+**AUGUSTINE**. (De Cons. Evang. ii. 4.) And suitably does Luke, who relates Christ’s ancestry not in the opening of his Gospel, but at his baptism, follow the line of adoption, as thus more clearly pointing Him out as the Priest that should make atonement for sin. For by adoption we are made the sons of God, by believing in the Son of God. But by the descent according to the flesh which Matthew follows, we rather see that the Son of God was for us made man. Luke sufficiently shews that he called Joseph the son of Heli, because he was adopted by Heli, by his calling Adam the son of God, which he was by grace, as he was set in Paradise, though he lost it afterwards by sinning.
+
+**CHRYSOSTOM**. (Hom. iv.) Having gone through all the ancestry, and ended in Joseph, he adds, The husband of Mary, thereby declaring that it was for her sake that he was included in the genealogy.
+
+**JEROME**. When you hear this word husband, do not straight bethink you of wedlock, but remember the Scripture manner, which calls persons only betrothed husband and wife.
+
+**GENNADIUS**. (De Eccles. Dog. 2.) The Son of God was born of human flesh, that is of Mary, and not by man after the way of nature, as Ebion says; and accordingly it is significantly added, Of her Jesus was born.
+
+**AUGUSTINE**. (De Hæres. ii.) This is said against Valentinus, who taught that Christ took nothing of the Virgin Mary, but passed through her as through a channel or pipe.
+
+**AUGUSTINE**. Wherefore it pleased Him to take flesh of the womb of a woman, is known in His own secret counsels; whether that He might confer honour on both sexes alike, by taking the form of a man, and being born of a woman, or from some other reason which I would not hastily pronounce on.
+
+**HILARY**. (Quæst. Nov. et Vet. Test. q. 49.) What God conveyed by the anointing of oil to those who were anointed to be kings, this the Holy Spirit conveyed upon the man Christ, adding thereto the expiation; wherefore when born He was called Christ; and thus it proceeds, who is called Christ.
+
+**AUGUSTINE**. (De Cons. Evang. ii. 1.) It was not lawful that he should think to separate himself from Mary for this, that she brought forth Christ as yet a Virgin. And herein may the faithful gather, that if they be married, and preserve strict continence on both sides, yet may their wedlock hold with union of love only, without carnal; for here they see that it is possible that a son be born without carnal embrace.
+
+**AUGUSTINE**. (De Nupt. et Concup. i. 11.) In Christ’s parents was accomplished every good benefit of marriage, fidelity, progeny, and a sacrament. The progeny we see in the Lord Himself; fidelity, for there was no adultery; sacrament, for there was no divorce.
+
+**JEROME**. The attentive reader may ask, Seeing Joseph was not the father of the Lord and Saviour, how does his genealogy traced down to him in order pertain to the Lord? We will answer, first, that it is not the practice of Scripture to follow the female line in its genealogies; secondly, that Joseph and Mary were of the same tribe, and that he was thence compelled to take her to wife as a kinsman, and they were enrolled together at Bethlehem, as being come of one stock.
+
+**AUGUSTINE**. (ubi sup.) Also, the line of descent ought to be brought down to Joseph, that in wedlock no wrong might be done to the male sex, as the more worthy, provided only nothing was taken away from the truth; because Mary was of the seed of David.
+
+**AUGUSTINE**. (Id. non occ.) Hence then we believe that Mary was in the line of David; namely, because we believe the Scripture which affirms two things, both that Christ was of the seed of David according to the flesh, and that He should be conceived of Mary not by knowledge of man, but as yet a virgin.
+
+**THE COUNCIL OF EPHESUS**. Herein we must beware of the error of Nestorius, who thus speaks; “When Divine Scripture is to speak either of the birth of Christ which is of the Virgin Mary, or His death, it is never seen to put God, but either, Christ, or Son, or Lord; since these three are significative of the two natures, sometimes of this, sometimes of that, and sometimes of both this and that together. And here is a testimony to this, Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ. For God the Word needed not a second birth of a woman.”
+
+**PSEUDO-AUGUSTINE**. (Vigil. Cont. Fel. 12. ap. Aug. t. 8. p. 45.) But not one was the Son of God, and another the son of a man; but the same Christ was the Son of both God and man. And as in one man, the soul is one and the body is another, so in the mediator between God and man, the Son of God was one, and the son of man another; yet of both together was one Christ the Lord. Two in distinction of substance, one in unity of Person. But the heretic objects; “how can you teach Him to have been born in time whom you say was before coeternal with His Father? For birth is as it were a motion of a thing not in being, before it be born, bringing about this, that by benefit of birth it come into being. Whence it is concluded, that He who was in being cannot be born; if He could be born He was not in being.” (To this it is replied by Augustine;) Let us imagine, as many will have it, that the universe has a general soul, which by some unspeakable motion gives life to all seeds, so as that itself is not mixed up with the things it produces. When this then passes forth into the womb to form passible matter to its own uses, it makes one with itself the person of that thing which it is clear has not the same substance. And thus, the soul being active and the matter passive, of two substances is made one man, the soul and the flesh being distinct; thus it is that our confession is, that that soul is born of the womb which in coming to the womb we say conferred life on the thing conceived. He, I say, is said to be born of His mother, who shaped to Himself a body out of her, in which He might be born; not as though before He was born, His mother might, as far as pertained to Him, not have been in being. In like manner, yea in a manner yet more incomprehensible and sublime, the Son of God was born, by taking on Him perfect manhood of his Mother. He who by his singular almighty power is the cause of their being born to all things that are born.
+
+### 1:17
+
+17. So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
+
+**PSEUDO-CHRYSOSTOM**. Having enumerated the generations from Abraham to Christ, he divides them into three divisions of fourteen generations, because three times at the end of fourteen generations the state of the people of the Jews was changed. From Abraham to David they were under Judges; from David to the carrying away into Babylon under Kings; from the carrying away to Christ under the High Priests. What he would shew then is this; like as ever at the end of fourteen generations the state of men has changed, so there being fourteen generations completed from the carrying away to Christ, it must needs be that the state of men be changed by Christ. And so since Christ all the Gentiles have been made under one Christ Judge, King, and Priest. And for that Judges, Kings, and Priests prefigured Christ’s dignity, their beginnings were always in a type of Christ; the first of the Judges was Joshua the son of Nave; the first of the Kings, David; the first of the Priests, Jesus son of Josedech. That this was typical of Christ none doubts.
+
+**CHRYSOSTOM**. Or he divided the whole genealogy into three parts, to shew that not even by the change of their government were they made better, but under Judges, Kings, High Priests, and Priests, held the same evil course. For which cause also he mentions the captivity in Babylon, shewing that neither by this were they corrected. But the going down into Egypt is not mentioned, because they were not still in terror of the Egyptians as they were of the Assyrians or Parthians; and because that was a remote, but this a recent event; and because they had not been carried thither for sin as they had to Babylon.
+
+**AMBROSE**. (in Luc. c. 3.) Let us not think this is to be overlooked, that though there were seventeen Kings of Judæa between David and Jeconiah, Matthew only recounts fourteen. We must observe that there might be many more successions to the throne than generations of men; for some may live longer and beget children later; or might be altogether without seed; thence the number of Kings and of generations would not coincide.
+
+**GLOSS**. Or we may say, that there are three Kings overlooked, as was said above.
+
+**AMBROSE**. (ubi sup.) Again, from Jeconiah to Joseph are computed twelve generations; yet he afterwards calls these also fourteen. But if you look attentively, you will be able to discover the method by which fourteen are reckoned here. Twelve are reckoned including Joseph, and Christ is the thirteenth; and history declares that there were two Joakims, that is two Jeconiahs, father and son. The Evangelist has not passed over either of these, but has named them both. Thus, adding the younger Jeconiah, fourteen generations are computed.
+
+**PSEUDO-CHRYSOSTOM**. Or, the same Jeconiah is counted twice in the Gospel, once before the carrying away, and again after the carrying away. For this Jeconiah being one person had two different conditions; before the carrying away he was King, as being made King by the people of God; but he became a private man at the carrying away; hence he is reckoned once among the Kings before the carrying away; and after the carrying away once among private men.
+
+**AUGUSTINE**. (De Cons. Ev. ii. 4.) Or, one of Christ’s forefathers is counted twice, because in him, Jeconiah to wit, there was made a passing off to strange nations since he was carried to Babylon. Wherever a series turns out of the right line to go in any other direction there is an angle made, and that part that is in the angle is reckoned twice. Thus here is a figure of Christ, who passes from the circumcision to the uncircumcision, and is made a cornerstone.
+
+**REMIGIUS**. He made fourteen generations, because the ten denotes the decalogue, and the four the four books of the Gospel; whence this shews the agreement of the Law and the Gospel. And he put the fourteen three times over, that he might shew that the perfection of law, prophecy, and grace, consists in the faith of the Holy Trinity.
+
+**GLOSS**. Or in this number is signified the sevenfold grace of the Holy Spirit. The number is made up of seven, doubled, to shew that the grace of the Holy Spirit is needed both for soul and body to salvation. Also the genealogy is divided into three portions of fourteen thus. The first from Abraham to David, so as that David is included in it; the second from David to the carrying away, in which David is not included, but the carrying away is included; the third is from the carrying away to Christ, in which if we say that Jeconiah is included, then the carrying away is included. In the first are denoted the men before the Law, in which you will find some of the men of the Law of nature, such as Abraham, Isaac, and Jacob, all as far as Solomon. In the second are denoted the men under the Law; for all who are included in it were under the Law. In the third are found the men of grace; for it is finished in Christ, who was the giver of grace; and because in it was the deliverance from Babylon, signifying the deliverance from captivity that was made by Christ.
+
+**AUGUSTINE**. (ubi sup.) After having divided the whole into three periods of fourteen generations, he does not sum them all up and say, The sum of the whole is forty and two; because one of those fathers, that is Jeconiah, is reckoned twice; so that they do not amount to forty-two, as three times fourteen does, but because one is reckoned twice over, there are only forty-one generations. Matthew therefore, whose purpose was to draw out Christ’s kingly character, counts forty successions in the genealogy exclusive of Christ. This number denotes the time for which we must be governed by Christ in this world, according to that painful discipline which is signified by the iron rod of which it is written in the Psalms, Thou shall rule them with a rod of iron. That this number should denote this our temporal life, a reason offers at hand, in this, that the seasons of the year are four, and that the world itself is bounded by four sides, the east, and west, the north, and the south. But forty contains ten four times. Moreover, ten itself is made up by a number proceeding from one to four.
+
+**GLOSS**. Or, the ten refers to the decalogue, the four to this life present, which passes through four seasons; or by the ten is meant the Old Testament, by the four the New.
+
+**REMIGIUS**. But if any, maintaining that it is not the same Jeconiah, but two different persons, make the number forty and two, we then shall say that the Holy Church is signified; for this number is the product of seven, and six; (for six times seven make forty-two;) the six denotes labour, and the seven rest.
+
+### 1:18
+
+18. Now the birth of Jesus Christ was on this wise: When as His mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+
+**PSEUDO-CHRYSOSTOM**. Having said above, And Jacob begat Joseph, to whom Mary being espoused bare Jesus; that none who heard should suppose that His birth was as that of any of the forementioned fathers, he cuts off the thread of his narrative, saying, But Christ’s generation was thus. As though he were to say, The generation of all these fathers was as I have related it; but Christ’s was not so, but as follows, His mother Mary being espoused.
+
+**CHRYSOSTOM**. He announces that he is to relate the manner of the generation, shewing therein that he is about to speak some new thing; that you may not suppose when you hear mention of Mary’s husband, that Christ was born by the law of nature.
+
+**REMIGIUS**. Yet it might be referred to the foregoing in this way, The generation of Christ was, as I have related, thus, Abraham begat Isaac.
+
+**JEROME**. But why is He conceived not of a Virgin merely, but of a Virgin espoused? First, that by the descent of Joseph, Mary’s family might be made known; secondly, that she might not be stoned by the Jews as an adulteress; thirdly, that in her flight into Egypt she might have the comfort of a husband. The Martyr Ignatius (vid. Ign. ad Eph. 19.) adds yet a fourth reason, namely, that his birth might be hid from the Devil, looking for Him to be born of a wife and not of a virgin.
+
+**PSEUDO-CHRYSOSTOM**. Therefore both espoused and yet remaining at home; for as in her who should conceive in the house of her husband, is understood natural conception; so in her who conceives before she be taken to her husband, there is suspicion of infidelity.
+
+**JEROME**. (cont. Helvid. in princ.) It is to be known, that Helvidius, a certain turbulent man, having got matter of disputation, takes in hand to blaspheme against the Mother of God. His first proposition was, Matthew begins thus, When she was espoused. Behold, he says, you have her espoused, but, as ye say, not yet committed; but surely not espoused for any other reason than as being to be married.
+
+**ORIGEN**. (non occ.) She was indeed espoused to Joseph, but not united in wedlock; that is to say, His mother immaculate, His mother incorrupt, His mother pure. His mother! Whose mother? The mother of God, of the Only-begotten, of the Lord, of the King, of the Maker of all things, and the Redeemer of all.
+
+**CYRIL OF ALEXANDRIA**. (Epist. ad Monach. Egypt. [Ep. p. 7.]) What will any one see in the Blessed Virgin more than in other mothers, if she be not the mother of God, but of Christ, or the Lord, as Nestorius says? For it would not be absurd should any one please to name the mother of any anointed person, the mother of Christ. Yet she alone and more than they is called the Holy Virgin, and the mother of Christ. For she bare not a simple man as ye say, but rather the Word incarnate, and made man of God the Father. But perhaps you say, Tell me, do you think the Virgin was made the mother of His divinity? To this also we say, that the Word was born of the very substance of God Himself, and without beginning of time always coexisted with the Father. But in these last times when He was made flesh, that is united to flesh, having a rational soul, He is said to be born of a woman after the flesh. Yet is this sacrament in a manner brought out like to birth among us; for the mothers of earthly children impart to their nature that flesh that is to be perfected by degrees in the human form; but God sends the life into the animal. But though these are mothers only of the earthly bodies, yet when they bear children, they are said to bear the whole animal, and not a part of it only. Such do we see to have been done in the birth of Emmanuel; the Word of God was born of the substance of His Father; but because He took on Him flesh, making it His own, it is necessary to confess that He was born of a woman according to the flesh. Where seeing He is truly God, how shall any one doubt to call the Holy Virgin the Mother of God?
+
+**CHRYSOLOGUS**. (Serm. 148.) If you are not confounded when you hear of the birth of God, let not His conception disturb you, seeing the pure virginity of the mother removes all that might shock human reverence. And what offence against our awe and reverence is there, when the Deity entered into union with purity that was always dear to Him, where an Angel is mediator, faith is bridemaid, where chastity is the giving away, virtue the gift, conscience the judge, God the cause; where the conception is inviolateness, the birth virginity, and the mother a virginq.
+
+**CYRIL OF ALEXANDRIA**. (Epist. ad Joan Antioch [Ep. p. 107.]) But if we were to say that the holy Body of Christ came down from heaven, and was not made of His mother, as Valentinus does, in what sense could Mary be the Mother of God?
+
+**GLOSS**. The name of His Mother is added, Mary.
+
+**BEDE**. (in Luc. c. 3.) Mary is interpreted, ‘Star of the Sea,’ after the Hebrew; ‘Mistress,’ after the Syriac; as she bare into the world the Light of salvation, and the Lordr.
+
+**GLOSS**. And to whom she was betrothed is shewn, Joseph.
+
+**PSEUDO-CHRYSOSTOM**. Mary was therefore betrothed to a carpenter, because Christ the Spouse of the Church was to work the salvation of all men through the wood of the Cross.
+
+**CHRYSOSTOM**. What follows, Before they came together, does not mean before she was brought to the bridegroom’s house, for she was already within. For it was a frequent custom among the ancients to have their betrothed wives home to their house before marriage; as we see done now also, and as the sons-in-law of Lot were with him in the house.
+
+**GLOSS**. But the words denote carnal knowledge.
+
+**PSEUDO-CHRYSOSTOM**. That He should not be born of passion, of flesh and blood, who was therefore born that He might take away all passion of flesh and blood.
+
+**AUGUSTINE**. (De Nupt. et Concup. i. 12.) There was no carnal knowledge in this wedlock, because in sinful flesh this could not be without carnal desire which came of sin, and which He would be without, who was to be without sin; and that hence He might teach us that all flesh which is born of sexual union is sinful flesh, seeing that Flesh alone was without sin, which was not so born.
+
+**PSEUDO-AUGUSTINE**. (in App. 122 et al.) Christ was also born of a pure virgin, because it was not holy that virtue should be born of pleasure, chastity of self-indulgence, incorruption of corruption. Nor could He come from heaven but after some new manner, who came to destroy the ancient empire of death. Therefore she received the crown of virginity who bare the King of chastity. Farther, our Lord sought out for Himself a virgin abode, wherein to be received, that He might shew us that God ought to be borne in a chaste body. Therefore He that wrote on tables of stone without an iron pen, the same wrought in Mary by the Holy Spirit; She was found with child of the Holy Ghost.
+
+**JEROME**. And found by none other than by Joseph, who knew all, as being her espoused husband.
+
+**PSEUDO-CHRYSOSTOM**. For, as a not incredible account relates, Joseph was absent when the things were done which Luke writes. For it is not easy to suppose that the Angel came to Mary and said those words, and Mary made her answer when Joseph was present. And even if we suppose thus much to have been possible, yet it could not be that she should have gone into the hill country, and abode there three months when Joseph was present, because he must needs have enquired the causes of her departure and long stay. And so when after so many months he returned from abroad, he found her manifestly with child.
+
+**CHRYSOSTOM**. He says exactly was found, for so we use to say of things not thought of. And that you should not molest the Evangelist by asking in what way was this birth of a virgin, he clears himself shortly, saying, Of the Holy Ghost. As much as to say, it was the Holy Ghost that wrought this miracle. For neither Gabriel nor Matthew could say any further.
+
+**GLOSS**. (ap. Anselm.) Therefore the words, Is of the Holy Ghost, were set down by the Evangelist, to the end, that when it was said that she was with child, all wrong suspicion should be removed from the minds of the hearers.
+
+**PSEUDO-AUGUSTINE**. (Serm. 236. in App.) But not, as some impiously think, are we to suppose, that the Holy Spirit was as seed, but we say that He wrought with the power and might of a Creators.
+
+**AMBROSE**. (De Spir. Sanct. ii. 5.) That which is of any thing is either of the substance or the power of that thing; of the substance, as the Son who is of the Father; of the power, as all things are of God, even as Mary was with child of the Holy Spirit.
+
+**AUGUSTINE**. (Enchir c. 40.) Furthermore, this manner in which Christ was born of the Holy Spirit suggests to us the grace of God, by which man without any previous merits, in the very beginning of his nature, was united with the Word of God into so great unity of person, that he was also made son of God. (c. 38.). But inasmuch as the whole Trinity wrought to make this creature which was conceived of the Virgin, though pertaining only to the person of the Son, (for the works of the Trinity are indivisible,) why is the Holy Spirit only named in this work? Must we always, when one of the Three is named in any work, understand that the whole Trinity worked in that?
+
+**JEROME**. (Cont. Helvid. in princip.) But says Helvidius; Neither would the Evangelist have said Before they came together, if they were not to come together afterwards; as none would say, Before dinner, where there was to be no dinner. As if one should say, Before I dined in harbour, I set sail for Africa, would this have no meaning in it, unless he were at some time or other to dine in the harbour? Surely we must either understand it thus,—that before, though it often implies something to follow, yet often is said of things that follow only in thought; and it is not necessary that the things so thought of should take place, for that something else has happened to prevent them from taking place.
+
+**JEROME**. Therefore it by no means follows that they did come together afterwards; Scripture however shews not what did happen.
+
+**REMIGIUS**. Or the word come together may not mean carnal knowledge, but may refer to the time of the nuptials, when she who was betrothed begins to be wife. Thus, before they came together, may mean before they solemnly celebrated the nuptial rites.
+
+**AUGUSTINE**. (De Cons. Evang. ii. 5.) How this was done Matthew omits to write, but Luke relates after the conception of John, In the sixth month the Angel was sent; and again, The Holy Ghost shall come upon thee. This is what Matthew relates in these words, She was found with child of the Holy Ghost. And it is no contradiction that Luke has described what Matthew omits; or again that Matthew relates what Luke has omitted; that namely which follows, from Now Joseph her husband being a just man, to that place where it is said of the Magi, that They returned into their own country another way. If one desired to digest into one narrative the two accounts of Christ’s birth, he would arrange thus; beginning with Matthew’s words, Now the birth of Christ was on this wise; (Luke 1:5.) then taking up with Luke, from There was in the days of Herod, to, Mary abode with her three months, and returned to her house; then taking up again Matthew, add, She was found with child of the Holy Ghost. (Mat. 1:10.)
+
+### 1:19
+
+19. Then Joseph her husband, being a just man, and not willing to make her a public example, was minded to put her away privily.
+
+**CHRYSOSTOM**. The Evangelist having said that she was found with child of the Holy Ghost, and without knowledge of man, that you should not herein suspect Christ’s disciple of inventing wonders in honour of his Master, brings forward Joseph confirming the history by his own share in it; Now Joseph her husband, being a just man.
+
+**PSEUDO-AUGUSTINE**. (Serm. in App. s. 195.) Joseph, understanding that Mary was with child, is perplexed that it should be thus with her whom he had received from the temple of the Lord, and had not yet known, and resolved within himself, saying, What shall I do? Shall I proclaim it, or shall I overlook it? If I proclaim it, I am indeed not consenting to the adultery; but I am running into the guilt of cruelty, for by Moses’ law she must be stoned. If I overlook it, I am consenting to the crime, and take my portion with the adulterers. Since then it is an evil to overlook the thing, and worse to proclaim the adultery, I will put her away from being my wife.
+
+**AMBROSE**. (in Luc. ii. 5.) St. Matthew has beautifully taught how a righteous man ought to act, who has detected his wife’s disgrace; so as at once to keep himself guiltless of her blood, and yet pure from her defilements; therefore it is he says, Being a just man. Thus is preserved throughout in Joseph the gracious character of a righteous man, that his testimony may be the more approved; for, the tongue of the just speaketh the judgment of truth.
+
+**JEROME**. But how is Joseph thus called just, when he is ready to hide his wife’s sin? For the Law enacts, that not only the doers of evil, but they who are privy to any evil done, shall be held to be guilty.
+
+**CHRYSOSTOM**. But it should be known, that just here is used to denote one who is in all things virtuous. For there is a particular justice, namely, the being free from covetousness; and another universal virtue, in which sense Scripture generally uses the word justice. Therefore being just, that is kind, merciful, he was minded to put away privily her who according to the Law was liable not only to dismissal, but to death. But Joseph remitted both, as though living above the Law. For as the sun lightens up the world, before he shews his rays, so Christ before He was born caused many wonders to be seen.
+
+**AUGUSTINE**. Otherwise; if you alone have knowledge of a sin that any has committed against you, and desire to accuse him thereof before men, you do not herein correct, but rather betray him. But Joseph, being a just man, with great mercy spared his wife, in this great crime of which he suspected her. The seeming certainty of her unchastity tormented him, and yet because he alone knew of it, he was willing not to publish it, but to send her away privily; seeking rather the benefit than the punishment of the sinner.
+
+**JEROME**. Or this may be considered a testimony to Mary, that Joseph, confident in her purity, and wondering at what had happened, covered in silence that mystery which he could not explain.
+
+**RABANUS**. He beheld her to be with child, whom he knew to be chaste; and because he had read, There shall come a Rod out of the stem of Jesse, (Is. 11:1.) of which he knew that Mary was comes, and had also read, Behold, a virgin shall conceive, (Is. 7:14.) he did not doubt that this prophecy should be fulfilled in her.
+
+**ORIGEN**. But if he had no suspicion of her, how could he be a just man, and yet seek to put her away, being immaculate? He sought, to put her away, because he saw in her a great sacrament, to approach which he thought himself unworthy.
+
+**GLOSS**. (ap. Anselm.) Or, in seeking to put her away, he was just; in that he sought it privily, is shewn his mercy, defending her from disgrace; Being a just man, he was minded to put her away; and being unwilling to expose her in public, and so to disgrace her, he sought to do it privily.
+
+**AMBROSE**. (in Luc. ii. 1.) But as no one puts away what he has not received; in that he was minded to put her away, he admits to have received her.
+
+**GLOSS**. (part ap. Anselm. part in Ord.) Or, being unwilling to bring her home to his house to live with him for ever, he was minded to put her away privily; that is, to change the time of their marriage. For that is true virtue, when neither mercy is observed without justice, nor justice without mercy; both which vanish when severed one from the other. Or he was just because of his faith, in that he believed that Christ should be born of a virgin; wherefore he wished to humble himself before so great a favour.
+
+### 1:20
+
+20. But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
+
+**REMIGIUS**. Because Joseph was minded, as has been said, to put Mary away privily, which if he had done, there would have been few who would not rather have thought her a harlot than a virgin, therefore this purpose of Joseph was changed by Divine revelation, whence it is said, While he thought on these things.
+
+**GLOSS**. (ap. Ans.) In this is to be noted the wise soul that desires to undertake nothing rashly.
+
+**CHRYSOSTOM**. Also observe the mercifulness of Joseph, that he imparted his suspicions to none, not even to her whom he suspected, but kept them within himself.
+
+**PSEUDO-AUGUSTINE**. (Serm. in App. 195.) Yet though Joseph think on these things, let not Mary the daughter of David be troubled; as the word of the Prophet brought pardon to David, so the Angel of the Saviour delivers Mary. Behold, again appears Gabriel the bridesman of this Virgin; as it follows, Behold the Angel of the Lord appeared to Joseph.
+
+**AMBROSE**. In this word appeared is conveyed the power of Him that did appear, allowing Himself to be seen where and how He pleases.
+
+**RABANUS**. How the Angel appeared to Joseph is declared in the words, In his sleep; that is, as Jacob saw the ladder offered by a kind of imagining to the eyes of his heart.
+
+**CHRYSOSTOM**. He did not appear so openly to Joseph as to the Shepherds, because he was faithful; the shepherds needed it, because they were ignorant. The Virgin also needed it, as she had first to be instructed in these mighty wonders. In like manner Zacharias needed the wonderful vision before the conception of his son.
+
+**GLOSS**. (part Int. part Anselm.) The Angel appearing calls him by name, and adds his descent, in order to banish fear, Joseph, son of David; Joseph, as though he were known to him by name and his familiar friend.
+
+**PSEUDO-CHRYSOSTOM**. By addressing him as son of David, he sought to recal to his memory the promise of God to David, that of his seed should Christ be born.
+
+**CHRYSOSTOM**. But by saying, Be not afraid, he shews him to be in fear that he had offended God, by having an adulteress; for only as such would he have ever thought of putting her away.
+
+**CHRYSOLOGUS**. As her betrothed husband also he is admonished not to be afraid; for the mind that compassionates has most fear; as though he were to say, Here is no cause of death, but of life; she that brings forth life, does not deserve death.
+
+**PSEUDO-CHRYSOSTOM**. Also by the words, Fear not, he desired to shew that he knew the heart; that by this he might have the more faith in those good things to come, which he was about to speak concerning Christ.
+
+**AMBROSE**. (in Luc. ii. 5.) Be not troubled that he calls her his wife; for she is not herein robbed of her virginity, but her wedlock is witnessed to, and the celebration of her marriage is declared.
+
+**JEROME**. But we are not to think that she ceased to be betrothed, because she is here called wife, since we know that this is the Scripture manner to call the man and woman, when espoused, husband and wife; and this is confirmed by that text in Deuteronomy, If one find a virgin that is betrothed to a man in the field, and offer violence to her, and lie with her, he shall die, because he hath humbled his neighbour’s wife. (Deut. 22:23.)
+
+**CHRYSOSTOM**. He says, Fear not to take unto thee; that is, to keep at home; for in thought she was already dismissed.
+
+**RABANUS**. Or, to take her, that is, in marriage union and continual converse.
+
+**PSEUDO-CHRYSOSTOM**. There were three reasons why the Angel appeared to Joseph with this message. First, that a just man might not be led into an unjust action, with just intentions. Secondly, for the honour of the mother herself, for had she been put away, she could not have been free from evil suspicion among the unbelievers. Thirdly, that Joseph, understanding the holy conception, might keep himself from her with more care than before He did not appear to Joseph before the conception, that he should not think those things that Zacharias thought, nor suffer what he suffered in falling into the sin of unbelief concerning the conception of his wife in her old age. For it was yet more incredible that a virgin should conceive, than that a woman past the age should conceive.
+
+**CHRYSOSTOM**. Or, The Angel appeared to Joseph when he was in this perplexity, that his wisdom might be apparent to Joseph, and that this might be a proof to him of those things that he spoke. For when lie heard out of the mouth of the Angel those very things that he thought within himself, this was an undoubted proof, that he was a messenger from God, who alone knows the secrets of the heart. Also the account of the Evangelist is beyond suspicion, as he describes Joseph feeling all that a husband was likely to feel. The Virgin also by this was more removed from suspicion, in that her husband had felt jealousy, yet took her home, and kept her with him after her conception. She had not told Joseph the things that the Angel had said to her, because she did not suppose that she should be believed by her husband, especially as he had begun to have suspicions concerning her. But to the Virgin the Angel announced her conception before it took place, lest if he should defer it till afterwards she should be in straits. And it behoved that Mother who was to receive the Maker of all things to be kept free from all trouble. Not only does the Angel vindicate the Virgin from all impurity, but shews that the conception was supernatural, not removing his fears only, but adding matter of joy; saying, That which is born in her is of the Holy Spirit.
+
+**GLOSS**. (ord.) To be born in her, and born of her, are two different things; to be born of her is to come into the world; to be born in her, is the same as to be conceived. Or the word born is used according to the foreknowledge of the Angel which he has of God, to whom the future is as the past.
+
+**PSEUDO-AUGUSTINE**. (Hil. Quæst. N. et V. Test. qu. 52.) But if Christ was born by the agency of the Holy Ghost, how is that said, Wisdom hath built herself an house? (Prov. 9:1.) That house may be taken in two meanings. First, the house of Christ is the Church, which He built with His own blood; and secondly, His body may be called His house, as it is called His temple. But the work of the Holy Spirit, is also the work of the Son of God, because of the unity of their nature and their will; for whether it be the Father, or the Son, or the Holy Spirit, that doeth it, it is the Trinity that works, and what the Three do, is of One God.
+
+**AUGUSTINE**. (Enchir. 38.) But shall we therefore say that the Holy Spirit is the Father of the man Christ, that as God the Father begot the Word, so the Holy Spirit begot the man? This is such an absurdity, that the ears of the faithful cannot bear it.
+
+How then do we say that Christ was born by the Holy Spirit, if the Holy Spirit did not beget Him? Did He create Him? For so far as He is man He was created, as the Apostle speaks; He was made of the seed of David according to the flesh. (Rom. 1:3.) For though God made the world, yet is it not right to say that it is the Son of God, or born by Him, but that it was made, or created, or formed by Him. But seeing that we confess Christ to have been born by the Holy Spirit, and of the Virgin Mary, how is He not the Son of the Holy Spirit, and is the Son of the Virgin? It does not follow, that whatever is born by any thing, is therefore to be called the son of that thing; for, not to say that of man is born in one sense a son, in another a hair, or vermin, or a worm, none of which are his son, certainly those that are born of water and the Spirit none would call sons of water; but sons of God their Father, and their Mother the Church. Thus Christ was born of the Holy Spirit, and yet is the Son of God the Father, not of the Holy Spirit.
+
+### 1:21
+
+21. And she shall bring forth a Son, and thou shalt call His name Jesus: for He shall save His people from their sins.
+
+**CHRYSOSTOM**. What the Angel thus told Joseph, was beyond human thought, and the law of nature, therefore he confirms his speech not only by revealing to him what was past, but also what was to come; She shall bring forth a Son.
+
+**GLOSS**. (ap. Anselm.) That Joseph should not suppose that he was no longer needed in this wedlock, seeing the conception had taken place without his intervention, the Angel declares to him, that though there had been no need of him in the conception, yet there was need of his guardianship; for the Virgin should bear a Son, and then he would be necessary both to the Mother and her Son; to the Mother to screen her from disgrace, to the Son to bring Him up and to circumcise Him. The circumcision is meant when he says, And thou, shalt call His name Jesus; for it was usual to give the name in circumcision.
+
+**PSEUDO-CHRYSOSTOM**. He said not, Shall bear thee a Son, as to Zacharias, Behold, Elisabeth thy wife shall bear thee a son. For the woman who conceives of her husband, bears the son to her husband, because he is more of him than of herself; but she who had not conceived of man, did not bear the Son to her husband, but to herself.
+
+**CHRYSOSTOM**. Or, he left it unappropriated, to shew that she bare Him to the whole world.
+
+**RABANUS**. Thou shalt call His name, he says, and not, “shalt give Him a name,” for His name had been given from all eternity.
+
+**CHRYSOSTOM**. This further shews that this birth should be wonderful, because it is God that sends down His name from above by His Angel; and that not any name, but one which is a treasure of infinite good. Therefore also the Angel interprets it, suggesting good hope, and by this induces him to believe what was spoken. For we lean more easily to prosperous things, and yield our belief more readily to good fortune.
+
+**JEROME**. Jesus is a Hebrew word, meaning Saviour. He points to the etymology of the name, saying, For He shall save His people from their sins.
+
+**REMIGIUS**. He shews the same man to be the Saviour of the whole world, and the Author of our salvation. He saves indeed not the unbelieving, but His people; that is, He saves those that believe on Him, not so much from visible as from invisible enemies; that is, from their sins, not by fighting with arms, but by remitting their sins.
+
+**CHRYSOLOGUS**. Let them approach to hear this, who ask, Who is He that Mary bare? He shall save His people; not any other man’s people; from what? from their sins. That it is God that forgives sins, if you do not believe the Christians so affirming, believe the infidels, or the Jews who say, None can forgive sins but God only. (Luke 5:1.)
+
+### 1:22–23
+
+22. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
+
+23. Behold, a Virgin shall be with child, and shall bring forth a Son, and they shall call His Name Emmanuel, which being interpreted is, God with us.
+
+**REMIGIUS**. It is the custom of the Evangelist to confirm what he says out of the Old Testament, for the sake of those Jews who believed on Christ, that they might recognize as fulfilled in the grace of the Gospel, the things that were foretold in the Old Testament; therefore he adds, Now all this was done.
+
+Here we must enquire why he should say all this was done, when above he has only related the conception. It should be known that he says this to shew, that in the presence of God all this was done before it was done among men. Or he says, all this was done, because he is relating past events; for when he wrote, it was all done.
+
+**GLOSS**. (ap. Anselm.) Or, he says, all this was done, meaning, the Virgin was betrothed, she was kept chaste, she was found with child, the revelation was made by the Angel, that it might be fulfilled which was spoken. For that the Virgin should conceive and should bring forth would never have been fulfilled, had she not been espoused that she should not be stoned; and had not her secret been disclosed by the Angel, and so Joseph taken her unto him, that she was not dismissed to disgrace and to perish by stoning. So had she perished before the birth, that prophecy would have been made void which says, She shall bring forth a Son. (Isa. 7:14.)
+
+**GLOSS**. (non occ.) Or it may be said, that the word that does not here denote the cause; for the prophecy was not fulfilled merely because it was to be fulfilled. But it is put consecutively, as in Genesis, He hung the other on the gallows, that the truth of the interpreter might be proved; (Gen. 40:22.) since by the weighing of one, truth is established. So also in this place we must understand it as if it were, that which was foretold being done, the prophecy was accomplished.
+
+**CHRYSOSTOM**. Otherwise; the Angel seeing the depths of the Divine mercy, the laws of nature broken through and reconciliation made, He who was above all made lower than all; all these wonders, all this he comprises in that one saying, Now all this hath happened; as though he had said, Do not suppose that this is newly devised of God, it was determined of old. And he rightly cites the Prophet not to the Virgin, who as a maiden was untaught in such things, but to Joseph, as to one much versed in the Prophets. And at first he had spoken of Mary as thy wife, but now in the words of the Prophet he brings in the word “Virgin,” that he might hear this from the Prophet, as a thing long before determined. Therefore to confirm what he had said, he introduces Isaiah, or rather God; for he does not say, Which was spoken by Isaiah, but, Which was spoken of the Lord by the Prophet.
+
+**JEROME**. (In Is. 7:14.) Since it is introduced in the Prophet by the words, The Lord Himself shall give you a sign, it ought to be something new and wonderful. But if it be, as the Jews will have it, a young woman, or a girl shall bring forth, and not a virgin, what wonder is this, since these are words signifying age and not purity? Indeed the Hebrew word signifying Virgin (Bethula) is not used in this place, but instead the word ‘Halmaa,’ which except the LXX all render ‘girl.’ But the word ‘Halma’ has a twofold meaning; it signifies both ‘girl,’ and ‘hidden;’ therefore ‘Halma’ denotes not only ‘maiden’ or ‘virgin,’ but ‘hidden,’ ‘secret;’ that is, one never exposed to the gaze of men, but kept under close custody by her parents. In the Punic tongue also, which is said to be derived from Hebrew sources, a virgin is properly called ‘Halma.’ In our tongue also ‘Halma’ means holy; and the Hebrews use words of nearly all languages; and as far as my memory will serve me, I do not think I ever met with Halma used of a married woman, but of her that is a virgin, and such that she be not merely a virgin, but in the age of youth; for it is possible for an old woman to be a maid. But this was a virgin in years of youth, or at least a virgin, and not a child too young for marriage.
+
+**JEROME**. (In loc.) For that which Matthew the Evangelist says, Shall have in her womb, the Prophet who is foretelling something future, writes, shall receive. The Evangelist, not foretelling the future but describing the past, changes shall receive, into shall have; but he who has, cannot after receive that he has. He says, Lo, a Virgin shall hare in her womb, and shall bear a Son.
+
+**LEO**. (Serm. xxiii. 1.) The conception was by the Holy Spirit within the womb of the Virgin; who, as she conceived in perfect chastity, in like manner brought forth her Son.
+
+**PSEUDO-AUGUSTINE**. (in App. s. 123.) He, who by a touch could heal the severed limbs of others, how much more could He, in His own birth, preserve whole that which He found whole? In this parturition, soundness of the Mother’s body was rather strengthened than weakened, and her virginity rather confirmed than lost.
+
+**THEODOTUS**. (Hom. 1 and 2. in Conc. Eph. ap. Hard. t. i. pp. 1643. 1655.) Inasmuch as Photinus affirms that He that was now born was mere man, not allowing the divine birth, and maintains that He who now issued from the womb was the man separate from the God; let him shew how it was possible that human nature, born of the Virgin’s womb, should have preserved the virginity of that womb uncorrupted; for the mother of no man ever yet remained a virgin. But forasmuch as it was God the Word who was now born in the flesh, He shewed Himself to be the Word, in that He preserved His mother’s virginity. For as our word when it is begot does not destroy the mind, so neither does God the Word in choosing His birth destroy the virginity.
+
+**CHRYSOSTOM**. As it is the manner of Scripture to convey a knowledge of events under the form of a name, so here, They shall call His name Emmanuel, means nothing else than, They shall see God among men. Whence he says not, ‘Thou shalt call,’ but, They shall call.
+
+**RABANUS**. First, Angels hymning, secondly, Apostles preaching, then Holy Martyrs, and lastly, all believers.
+
+**JEROME**. (in Is. 7:14.) The LXX and three others translate, ‘Thou shalt call,’ instead of which we have here, They shall call, which is not so in the Hebrew; for the word ‘Charathib,’ which all render Thou shalt call, may mean, ‘And she shall call,’ that is, The Virgin that shall conceive and shall bear Christ, shall call His name Emmanuel, which is interpreted, ‘God with us.’
+
+**REMIGIUS**. It is a question, who interpreted this name? The Prophet, or the Evangelist, or some translator? It should be known then, that the Prophet did not interpret it; and what need had the Holy Evangelist to do so, seeing he wrote in the Hebrew tongue? Perhaps that was a difficult and rare word in Hebrew, and therefore needed interpretation. It is more probable that some translator interpreted it, that the Latins might not be perplexed by an unintelligible word. In this name are conveyed at once the two substances, the Divinity and Humanity in the one Person of the Lord Jesus Christ. He who before all time was begot in an unspeakable manner by God the Father, the same in the end of time was made Emmanuel, that is, God with us, of a Virgin Mother. This God with us may be understood in this way. He was made with us, passible, mortal, and in all things like unto us without sin; or because our frail substance which He took on Him, He joined in one Person to His Divine substance.
+
+**JEROME**. (ubi sup.) It should be known, that the Hebrews believe this prophecy to refer to Ezekias the son of Ahaz, because in his reign Samaria was taken; but this cannot be established. Ahaz son of Jotham reigned over Judæa and Jerusalem sixteen years, and was succeeded by his son Ezekias, who was twenty-three years old, and reigned over Judæa and Jerusalem twenty-nine years; how then can a prophecy prophesied in the first year of Ahaz refer to the conception and birth of Ezekias, when he was already nine years of age? Unless perhaps the sixth year of the reign of Ezekias, in which Samaria was taken, they think is here called his infancy, that is, the infancy of his reign, not of his age; which even a fool must see to be hard and forced. A certain one of our interpreters contends, that the Prophet Isaiah had two sons, Jashub and Emmanuel; and that Emmanuel was born of his wife the Prophetess as a type of the Lord and Saviour. But this is a fabulous tale.
+
+**PETRUS ALFONSUS**. (Dial. tit. 7.) For we know not that any man of that day was called Emmanuel. But the Hebrew objects, How can it be that this was said on account of Christ and Mary, when many centuries intervened between Ahaz and Mary? But though the Prophet was speaking to Ahaz, the prophecy was yet not spoken to him only or of his time only; for it is introduced, Hear, O house of David; (Isa. 7:13.) not, ‘Hear, O Ahaz.’ Again, The Lord Himself shall give you a sign; meaning He, and none other; from which we may understand that the Lord Himself should be the sign. And that he says to you, (plur.) and not ‘to thee,’ shews that this was not spoken to Ahaz, or on his account only.
+
+**JEROME**. (ubi sup.) What is spoken to Ahaz then is to be thus understood. This Child, that shall be born of a Virgin of the house of David, shall now be called Emmanuel, that is, God with us, because the events (perhaps delivery from the two hostile kings) will make it appear that you have God present with you. But after He shall be called Jesus, that is, Saviour, because He shall save the whole human race. Wonder not, therefore, O house of David, at the newness of this thing, that a Virgin should bring forth a God, seeing He has so great might that though yet to be born after a long while, He delivers you now when you call upon Him.
+
+**AUGUSTINE**. (Cont. Faust. 12. 45, and 13. 7.) Who so mad as to say with Manichæus, that it is a weak faith not to believe in Christ without a witness; whereas the Apostle says, How shall they believe on Him of whom they have not heard? Or how shall they hear without a preacher? (Rom. 10:14.) That those things which were preached by the Apostles might not be contemned, nor thought to be fables, they are proved to have been foretold by the Prophets. For though attested by miracles, yet there would not have been wanting men to ascribe them all to magical power, had not such suggestions been overcome by the additional testimony of prophecy. For none could suppose that long before He was born, He had raised up by magic prophets to prophesy of Him. For if we say to a Gentile, Believe on Christ that He is God, and he should answer, Whence is it that I should believe on Him? we might allege the authority of the Prophets. Should he refuse assent to this, we establish their credit from their having foretold things to come, and those things having truly come to pass. I suppose he could not but know how great persecutions the Christian religion has formerly suffered from the Kings of this world; let him now behold those very Kings submitting to the kingdom of Christ, and all nations serving the same; all which things the Prophets foretold. He then hearing these things out of the Scriptures of the Prophets, and beholding them accomplished throughout the whole earth, would be moved to faith.
+
+**GLOSS**. (ap. Anselm.) This error then is barred by the Evangelist saying, That it might be fulfilled which was spoken of the Lord by the Prophet. Now one kind of prophecy is by the preordination of God, and must needs be fulfilled, and that without any free choice on our part. Such is that of which we now speak; wherefore he says, Lo, to shew the certainty of prophecy. There is another kind of prophecy which is by the foreknowledge of God, and with this our free will is mixed up; wherein by grace working with us we obtain reward, or if justly deserted by it, torment. Another is not of foreknowledge, but is a kind of threat made after the manner of men; as that, Yet forty days, and Nineveh shall be overthrown: (Jonah 3.) understanding, unless the Ninevites amend themselves.
+
+### 1:24–25
+
+24. Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:
+
+25. And knew her not till she had brought forth her first-born Son: and he called his name JESUS.
+
+**REMIGIUS**. Life returned by the same entrance through which death had entered in. By Adam’s disobedience we were ruined, by Joseph’s obedience we all begin to be recalled to our former condition; for in these words is commended to us the great virtue of obedience, when it is said, And Joseph rising from sleep, did as the Angel of the Lord had commanded him.
+
+**GLOSS**. (ord. et ap. Anselm ex Beda cit.) He not only did what the Angel commanded, but as he commanded it. Let each one who is warned of God, in like manner, break off all delays, rise from sleep, and do that which is commanded him.
+
+**PSEUDO-CHRYSOSTOM**. Took unto him, not took home to him; for he had not sent her away; he had put her away in thought only, and now took her again in thought.
+
+**REMIGIUS**. Or, Took her so far, as that the nuptial rites being complete, she was called his wife; but not so far as to lie with her, as it follows, And knew her not.
+
+**JEROME**. (Cont. Helvid. c. 5.) Helvidius is at much superfluous trouble to make this word know refer to carnal knowledge rather than to acquaintance, as though any had ever denied that; or as if the follies to which he replies had ever occurred to any person of common understanding. He then goes on to say, that the adverb ‘until’ denotes a fixed time when that should take place, which had not taken place before; so that here from the words, He knew her not until she had brought forth her first-born Son, it is clear, he says, that after that he did know her. And in proof of this he heaps together many instances from Scripture. To all this we answer, that the word ‘until’ is to be understood in two senses in Scripture. And concerning the expression, knew her not, he has himself shewn, that it must be referred to carnal knowledge, none doubting that it is often used of acquaintance, as in that, The child Jesus tarried behind in Jerusalem, and His parents knew not of it. (Luke 2:43.) In like manner ‘until’ often denotes in Scripture, as he has shewn, a fixed period, but often also an infinite time, as in that, Even to your old age I am He. (Isa. 46:4.) Will God then cease to be when they are grown old? Also the Saviour in the Gospel, Lo, I am with you always, even to the end of this world. (Mat. 28:20.) Will He then leave His disciples at the end of the world? Again, the Apostle says, He must reign till He has put His enemies under His feel. (1 Cor. 15:25.) Be it understood then, that that which if it had not been written might have been doubted of, is expressly declared to us; other things are left to our own understandingc. So here the Evangelist informs us, in that wherein there might have been room for error, that she was not known by her husband until the birth of her Son, that we might thence infer that much less was she known afterwards.
+
+**PSEUDO-CHRYSOSTOM**. As one might say, ‘He told it not so long as he lived;’ would this imply that he told it after his death? Impossible. So it were credible that Joseph might have known her before the birth, while he was yet ignorant of the great mystery; but after that he understood how she had been made a temple of the Only-begotten of God, how could he occupy that? The followers of Eunomius think, as they have dared to assert this, that Joseph also dared to do it, just as the insane think all men equally mad with themselves.
+
+**JEROME**. (cont. Helvid. 8.) Lastly, I would ask, Why then did Joseph abstain at all up to the day of birth? He will surely answer, Because of the Angel’s words, That which is born in her, &c. He then who gave so much heed to a vision as not to dare to touch his wife, would he, after he had heard the shepherds, seen the Magi, and known so many miracles, dare to approach the temple of God, the seat of the Holy Ghost, the Mother of his Lord?
+
+**PSEUDO-CHRYSOSTOM**. It may be said, that know here signifies simply, to understand; that whereas before he had not understood how great her dignity, after the birth he then knew that she had been made more honourable and worthy than the whole world, who had carried in her womb Him whom the whole world could not contain.
+
+**GLOSS**. Otherwise; On account of the glorification of the most holy Mary, she could not be known by Joseph until the birth; for she who had the Lord of glory in her womb, how should she be known? If the face of Moses talking with God was made glorious, so that the children of Israel could not look thereon, how much more could not Mary be known, or even looked upon, who bare the Lord of glory in her womb? After the birth she was known of Joseph to the beholding of her face, but not to be approached carnally.
+
+**JEROME**. From the words, her firstborn Son, some most erroneously suspect that Mary had other sons, saying that first-born can only be said of one that has brethren. But this is the manner of Scripture, to call the first-born not only one who is followed by brethren, but the first-birth of the mother.
+
+**JEROME**. (Cont. Helvid. 10.) For if he only was first-born who was followed by other brethren, then no first-birth could be due to the Priests, till such time as the second birth took place.
+
+**GLOSS**. (Ord.) Or; He is first-born among the elect by grace; but by nature the Only-begotten of God the Father, the only Son of Mary. And called His name Jesus, on the eighth day on which the circumcision took place, and the Name was given.
+
+**REMIGIUS**. It is clear that this Name was well known to the Holy Fathers and the Prophets of God, but to him above all, who spake, My soul fainted for Thy salvation; (Ps. 119:81.) and, My soul hath rejoiced in Thy salvation. Also to him who spake, I will joy in God my Saviour. (Ps. 13:5. Hab. 3:18.)
 
 
-## Chapter 2
+## CHAP. 2
 
-[Error fetching this chapter: HTTP 404 for https://www.ecatholic2000.com/catena/untitled-9.shtml]
+### 2:1–2
+
+1. Now when Jesus was born in Bethlehem of Judæa in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
+
+2. Saying, Where is He that is born King of the Jews? for we have seen His star in the east, and are come to worship Him.
+
+**AUGUSTINE**. (non occ.) After the miraculous Virgin-birth, a God-man having by Divine power proceeded from a virgin womb; in the obscure shelter of such a cradle, a narrow stall, wherein lay Infinite Majesty in a body more narrow, a God was suckled and suffered the wrapping of vile rags—amidst all this, on a sudden a new star shone in the sky upon the earth, and driving away the darkness of the world, changed night into day; that the day-star should not be hidden by the night. Hence it is that the Evangelist says, Now when Jesus was born in Bethlehem.
+
+**REMIGIUS**. In the beginning of this passage of the Gospel he puts three several things; the person, When Jesus was born, the place, in Bethlehem of Judæa, and the time, in the days of Herod the king. These three circumstances verify his words.
+
+**JEROME**. We think the Evangelist first wrote, as we read in the Hebrew, ‘Judah,’ not ‘Judæa.’ For in what other country is there a Bethlehem, that this needs to be distinguished as in ‘Judæa?’ But ‘Judah’ is written, because there is another Bethlehem in Galilee.
+
+**GLOSS**. (ord. Josh. 19:15.) There are two Bethlehems; one in the tribe of Zabulon, the other in the tribe of Judah, which was before called Ephrata.
+
+**AUGUSTINE**. (De Cons. Evang. 2. 15.) Concerning the place, Bethlehem, Matthew and Luke agree; but the cause and manner of their being there, Luke relates, Matthew omits. Luke again omits the account of the Magi, which Matthew gives.
+
+**PSEUDO-CHRYSOSTOM**. Let us see to what serves this designation of time. In the days of Herod the king. It shews the fulfilment of Daniel’s prophecy, wherein he spake that Christ should be born after seventy weeks of years. For from the time of the prophecy to the reign of Herod, the years of seventy weeks were accomplished. Or again, as long as Judæa was ruled by Jewish princes, though sinners, so long prophets were sent for its amendment; but now, whereas God’s law was held under the power of an unrighteous king, and the righteousness of God enslaved by the Roman rule, Christ is born; the more desperate sickness required the better physician.
+
+**RABANUS**. Otherwise, he mentions the foreign king to shew the fulfilment of the prophecy. The Sceptre shall not depart from Judah, nor a Lawgiver from between his feet, until Shiloh come. (Gen. 49:10.)
+
+**AMBROSE**. (in Luc. iii. 41.) It is said, that some Idumæan robbers coming to Ascalon, brought with them among other prisoners Antipatera. He was instructed in the law and customs of the Jews, and acquired the friendship of Hyrcanus, king of Judæa, who sent him as his deputy to Pompey. He succeeded so well in the object of his mission, that he laid claim to a share of the throne. He was put to death, but his son Herod was under Antony appointed king of Judæa, by a decree of the Senate; so it is clear that Herod sought the throne of Judæa without any connection or claim of birth.
+
+**CHRYSOSTOM**. Herod the king, mentioning his dignity, because there was another Herod who put John to death.
+
+**PSEUDO-CHRYSOSTOM**. When He was born … behold wise men, that is, immediately on His birth, shewing that a great God existed in a little one of man.
+
+**RABANUS**. The Magi are men who enquire into the nature of things philosophically, but common speech uses Magi for wizards. In their own country, however, they are held in other repute, being the philosophers of the Chaldæans, in whose lore kings and princes of that nation are taught, and by which themselves knew the birth of the Lord.
+
+**AUGUSTINE**. (Serm. 202.) What were these Magi but the first fruits of the Gentiles? Israelitish shepherds, gentile Magians, one from far, the other from near, hastened to the one Corner-stone.
+
+**AUGUSTINE**. (Serm. 200.) Jesus then was manifested neither to the learned nor the righteous; for ignorance belonged to the shepherds, impiety to the idolatrous Magi. Yet does that Corner-stone attract them both to Itself, seeing He came to choose the foolish things of this world to confound the wise, and not to call the righteous, but sinners; that nothing great should exalt himself, none weak should despair.
+
+**GLOSS**. These Magi were kings, and though their gifts were three, it is not to be thence inferred that themselves were only three in number, but in them was prefigured the coming to the faith of the nations sprung from the three sons of Noah. Or, the princes were only three, but each brought a large company with him. They came not after a year’s end, for He would then have been found in Egypt, not in the manger, but on the thirteenth day. To shew whence they came it is said, from the East.
+
+**REMIGIUS**. It should be known, that opinions vary respecting the Magi. Some say they were Chaldæans, who are known to have worshipped a star as God; thus their fictitious Deity shewed them the way to the true God. Others think that they were Persians; others again, that they came from the utmost ends of the earth. Another and more probable opinion is, that they were descendants of Balaam, who having his prophecy, There shall rise a Star out of Jacob, (Numb. 24:17.) as soon as they saw the star, would know that a King was born.
+
+**JEROME**. They knew that such a star would rise by the prophecy of Balaam, whose successors they were. But whether they were Chaldæans, or Persians, or came from the utmost ends of the earth, how in so short a space of time could they arrive at Jerusalem?
+
+**REMIGIUS**. Some used to answer, ‘No marvel if that boy who was then born could draw them so speedily, though it were from the ends of the earth.’
+
+**GLOSS**. Or, they had dromedaries and Arabian horses, whose great swiftness brought them to Bethlehem in thirteen days.
+
+**PSEUDO-CHRYSOSTOM**. Or, they had set out two years before the Saviour’s birth, and though they travelled all that time, neither meat nor drink failed in their scrips.
+
+**REMIGIUS**. Or, if they were the descendants of Balaam, their kings are not far distant from the land of promise, and might easily come to Jerusalem in that so short time. But why does he write from the East? Because surely they came from a country eastward of Judæa. But there is also great beauty in this, They came out of the East, seeing all who come to the Lord, come from Him and through Him; as it is said in Zechariah, Behold the Man whose name is the East. (Zech. 6:12.)
+
+**PSEUDO-CHRYSOSTOM**. Or, whence the day springs, thence came the first-fruits of the faith; for faith is the light of the soul. Therefore they came from the East, but to Jerusalem.
+
+**REMIGIUS**. Yet was not the Lord born there; thus they knew the time but not the place of His birth. Jerusalem being the royal city, they believed that such a child could not be born in any other. Or it was to fulfil that Scripture, The Law shall go out of Sion, and the word of the Lord from Jerusalem. (Isa. 2:3.) And there Christ was first preached. Or it was to condemn the backwardness of the Jews.
+
+**PSEUDO-AUGUSTINE**. (Append. Serm. 132.) Many kings of Judæa had been born and died before, yet had Magi ever sought out any of them for adoration? No, for they had not been taught that any of these spoke from heaven. To no ordinary King of Judæa had these men, aliens from the land of Judæa, ever thought such honour due. But they had been taught that this Child was one, in worshipping whom they would certainly secure that salvation which is of God. Neither His age was such as attracts men’s flattery; His limbs not robed in purple, His brow not crowned with a diamond, no pompous train, no awful army, no glorious fame of battles, attracted these men to Him from the remotest countries, with such earnestness of supplication. There lay in a manger a Boy, newly born, of infantine size, of pitiable poverty. But in that small Infant lay hid something great, which these men, the first-fruits of the Gentiles, had learned not of earth but of heaven; as it follows, We have seen His star in the east. They announce the vision and ask, they believe and enquire, as signifying those who walk by faith and desire sight.
+
+**GREGORY**. (in Evang. i. 10. n. 4.) It should be known that the Priscillianists, heretics who believe every man to be born under the aspect of some planet, cite this text in support of their error; the new star which appeared at the Lord’s birth they consider to have been his fate.
+
+**AUGUSTINE**. (vid. contr. Faust. ii. 1.) And, according, to Faustus this introduction of the account of the star would lead us rather to call this part of the history, ‘The Nativity,’ than ‘The Gospel.’
+
+**GREGORY**. (Sup. 2.) But far be it from the hearts of the faithful to call any thing, ‘fate.’
+
+**AUGUSTINE**. (de Civ. Dei, v. 1.) For by the word ‘fate,’ in common acceptation, is meant the disposition of the stars at the moment of a person’s birth or conception; to which some assign a power independent of the will of God. These must be kept at a distance from the ears of all who desire to be worshippers of Gods of any sort. But others think the stars have this virtue committed to them by the great God; wherein they greatly wrong the skies, in that they impute to their splendent host the decreeing of crimes, such as should any earthly people decree, their city should in the judgment of mankind deserve to be utterly destroyed.
+
+**PSEUDO-CHRYSOSTOM**. If then any should become an adulterer or homicide through means of the planets, how great is the evil and wickedness of those stars, or rather of Him who made them? For as God knows things to come, and what evils are to spring from those stars; if He would not hinder it, He is not good; if He would but could not, He is weak. Again, if it be of the star that we are either good or bad, we have neither merit nor demerit, as being involuntary agents; and why should I be punished for sin which I have done not wilfully, but by necessity? The very commands of God against sin, and exhortations to righteousness, overthrow such folly. For where a man has not power to do, or where he has not power to forbear, who would command him either to do or to forbear?
+
+**GREGORY OF NYSSA**. How vain moreover is prayer for those who live by fate; Divine Providence is banished from the world together with piety, and man is made the mere instrument of the sidereal motions. For these they say move to action, not only the bodily members, but the thoughts of the mind. In a word, they who teach this, take away all that is in us, and the very nature of a contingency; which is nothing less than to overturn all things. For where will there be free will? but that which is in us must be free.
+
+**AUGUSTINE**. (de Civ. Dei, v. 6.) It cannot be said to be utterly absurd to suppose that sidereal afflatus should influence the state of the body, when we see that it is by the approach and departure of the sun that the seasons of the year are varied, and that many things, as shells and the wonderful tides of the Ocean, increase or decrease as the moon waxes or wanes. But not so, to say that the dispositions of the mind are subject to sidereal impulse. Do they say that the stars rather foreshew than effect these results? how then do they explain, that in the life of twins, in their actions, their successes, professions, honours, and all other circumstances of life, there will often be so great diversity, that men of different countries are often more alike in their lives than twins, between whose birth there was only a moment’s, and between whose conception in the womb there was not a moment’s, interval. And the small interval between their births is not enough to account for the great difference between their fates. Some give the name of fate not only to the constitution of the stars, but to all series of causes, at the same time subjecting all to the will and power of God. This sort of subjection of human affairs and fate is a confusion of language which should be corrected, for fate is strictly the constitution of the stars. The will of God we do not call ‘fate,’ unless indeed we will derive the word from ‘speaking;’ as in the Psalms, God hath spoken once, twice have I heard the same. (Ps. 62:11.) There is then no need of much contention about what is merely a verbal controversy.
+
+**AUGUSTINE**. (cont. Faust. ii. 5.) But if we will not subject the nativity of any man to the influence of the stars, in order that we may vindicate the freedom of the will from any chain of necessity; how much less must we suppose sidereal influences to have ruled at His temporal birth, who is eternal Creator and Lord of the universe? The star which the Magi saw, at Christ s birth according to the flesh, did not rule His fate, but ministered as a testimony to Him. Further, this was not of the number of those stars, which from the beginning of the creation observe their paths of motion according to the law of their Maker; but a star that first appeared at the birth, ministering to the Magi who sought Christ, by going before them till it brought them to the place where the infant God the Word was. According to some astrologers such is the connexion of human fate with the stars, that on the birth of some men stars have been known to leave their courses, and go directly to the new-born. The fortune indeed of him that is born they suppose to be bound up with the course of the stars, not that the course of the stars is changed after the day of any man’s birth. If then this star were of the number of those that fulfil their courses in the heavens, how could it determine what Christ should do, when it was commanded at His birth only to leave its own course? If, as is more probable, it was first created at His birth, Christ was not therefore born because it arose, but the reverse; so that if we must have fate connected with the stars, this star did not rule Christ’s fate, but Christ the stars.
+
+**CHRYSOSTOM**. The object of astrology is not to learn from the stars the fact of one’s birth; but from the hour of their nativity to forecast the fate of those that are born. But these men knew not the time of the nativity to have forecast the future from it, but the converse.
+
+**GLOSS**. (interlin.) ‘His star,’ i. e. the star He created for a witness of Himself.
+
+**GLOSS**. (ord.) To the Shepherds, Angels, and the Magians, a star points out Christ; to both speaks the tongue of Heaven, since the tongue of the Prophets was mute. The Angels dwell in the heavens, the stars adorn it, to both therefore the heavens declare the glory of God.
+
+**GREGORY**. (Hom. in Ev. Lib. i. Hom. 10.) To the Jews who used their reason, a rational creature, i. e. an Angel, ought to preach. But the Gentiles who knew not to use their reason are brought to the knowledge of the Lord, not by words, but by signs; to the one prophecy, as to the faithful; to the other signs, as to the unbelievers. One and the same Christ is preached, when of perfect age, by Apostles; when an infant, and not yet able to speak, is announced by a star to the Gentiles; for so the order of reason required; speaking preachers proclaimed a speaking Lord, mute signs proclaimed a mute infant.
+
+**LEO**. (Serm. xxxiii. 2.) Christ Himself, the expectation of the nations, that innumerable posterity once promised to the most blessed patriarch Abraham, but to be born not after the flesh, but by the Spirit; therefore likened to the stars for multitude, that from the father of all nations, not an earthly but an heavenly progeny might be looked for. Thus the heirs of that promised posterity, marked out in the stars, are roused to the faith by the rise of a new star, and where the heavens had been at first called in to witness, the aid of Heaven is continued.
+
+**CHRYSOSTOM**. This was manifestly not one of the common stars of Heaven. First, because none of the stars moves in this way, from east to south, and such is the situation of Palestine with respect to Persia. Secondly, from the time of its appearance, not in the night only, but during the day. Thirdly, from its being visible and then again invisible; when they entered Jerusalem it hid itself, and then appeared again when they left Herod. Further, it had no stated motion, but when the Magi were to go on, it went before them; when to stop, it stopped like the pillar of cloud in the desert. Fourthly, it signified the Virgin’s delivery, not by being fixed aloft, but by descending to earth, shewing herein like an invisible virtue formed into the visible appearance of a star.
+
+**REMIGIUS**. Some affirm this star to have been the Holy Spirit; He who descended on the baptized Lord as a dove, appearing to the Magi as a star. Others say it was an Angel, the same who appeared to the shepherds.
+
+**GLOSS**. (ord.) In the east. It seems doubtful whether this refers to the place of the star, or of those that saw it; it might have risen in the east, and gone before them to Jerusalem.
+
+**AUGUSTINE**. (Serm. 374. 1.) Will you ask, from whom had they learned that such an appearance as a star was to signify the birth of Christ? I answer from Angels, by the warning of some revelation. Do you ask, was it from good or ill Angels? Truly even wicked spirits, namely the dæmons, confessed Christ to be the Son of God. But why should they not have heard it from good Angels, since in this their adoration of Christ their salvation was sought, not their wickedness condemned? The Angels might say to them, ‘The Star which ye have seen is the Christ. Go ye, worship Him, where He is now born, and see how great is He that is born.’
+
+**LEO**. (Serm. xxxiv. 3.) Besides that star thus seen with the bodily eye, a yet brighter ray of truth pierced their hearts; they were enlightened by the illumination of the true faith.
+
+**PSEUDO-AUGUSTINE**. (Hill. Quæst. V. and N. Test. q. 63.) They might think that a king of Judæa was born, since the birth of temporal princes is sometimes attended by a star. These Chaldean Magi inspected the stars, not with malevolence, but with the true desire of knowledge; following, it may be supposed, the tradition from Balaam; so that when they saw this new and singular star, they understood it to be that of which Balaam had prophesied, as marking the birth of a King of Judæa.
+
+**LEO**. (ubi sup.) What they knew and believed might have been sufficient for themselves, that they needed not to seek to see with the bodily eye, what they saw so clearly with the spiritual. But their earnestness and perseverance to see the Babe was for our profit. It profited us that Thomas, after the Lord’s resurrection, touched and felt the marks of his wounds, and so for our profit the Magians’ eyes looked on the Lord in His cradle.
+
+**PSEUDO-CHRYSOSTOM**. Were they then ignorant that Herod reigned in Jerusalem? Or that it is a capital treason to proclaim another King while one yet lives? But while they thought on the King to come, they feared not the king that was; while as yet they had not seen Christ, they were ready to die for Him. O blessed Magi! who before the face of a most cruel king, and before having beheld Christ, were made His confessors.
+
+### 2:3–6
+
+3. When Herod the king had heard these things, he was troubled, and all Jerusalem with him.
+
+4. And when he had gathered all the Chief Priests and Scribes of the people together, he demanded of them where Christ should be born.
+
+5. And they said unto him, In Bethlehem of Judæa: for thus it is written by the prophet,
+
+6. And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
+
+**AUGUSTINE**. (non occ.) As the Magi seek a Redeemer, so Herod fears a successor.
+
+**GLOSS**. (ord.) The King, he is called, though in comparison with him whom they are seeking he is an alien and a foreigner.
+
+**PSEUDO-CHRYSOSTOM**. Herod was troubled when he heard that a King was born of Jewish lineage, lest, himself being an Idumæan, the kingdom should return again to native princes, and himself be expelled, and his seed after him. Great station is ever obnoxious to great fears, as the boughs of trees planted in high ground move when never so little wind blows, so high men are troubled with little rumours; while the lowly, like trees in the valley, remain at peace.
+
+**AUGUSTINE**. (Serm. 200. 2.) If His birth as an infant makes proud kings tremble, what will His tribunal as a Judge do? Let princes fear Him sitting at the right hand of His Father, whom this impious king feared while He hanged yet on His mother’s breast.
+
+**LEO**. (ubi sup.) Thou art troubled, Herod, without cause. Thy nature cannot contain Christ, nor is the Lord of the world content with the narrow bounds of thy dominion. He, whom thou wouldest not should reign in Judæa, reigns every where.
+
+**GLOSS**. (ord.) Perhaps he was troubled not on his own account, but for fear of the displeasure of the Romans. They would not allow the title of King or of God to any without their permission.
+
+**GREGORY**. (Hom. in Evang. i. 10.) At the birth of a King of Heaven, a king of earth is troubled; surely, earthly greatness is confounded, when heavenly greatness shews itself.
+
+**LEO**. (Serm. xxxvi. 2.) Herod represents the Devil; who as he then instigated him, so now he unweariedly imitates him. For he is grieved by the calling of the Gentiles, and by the daily ruin of his power.
+
+**PSEUDO-CHRYSOSTOM**. Both have their own causes of jealousy, both fear a successor in their kingdom; Herod an earthly successor, the Devil a spiritual. Even Jerusalem is troubled, which should have rejoiced at that news, when a Jewish King was said to be risen up. But they were troubled, for the wicked cannot rejoice at the coming of the good. Or perhaps it was in fear that Herod should wreak his wrath against a Jewish King on his race.
+
+**GLOSS**. (ord.) Jerusalem was troubled with him, as willing to favour him whom it feared; the vulgar always pay undue honour to one who tyrannizes over it. Observe the diligence of his enquiry. If he should find him, he would do to him as he shewed afterwards his disposition; if he should not, he would at least be excused to the Romans.
+
+**REMIGIUS**. They are called Scribes, not from the employment of writing, but from the interpretation of the Scriptures, for they were doctors of the law. Observe, he does not enquire where Christ is born, but where He should be born; the subtle purpose of this was to see if they would shew pleasure at the birth of their King. He calls Him Christ, because he knew that the King of the Jews was anointed.
+
+**PSEUDO-CHRYSOSTOM**. Why does Herod make this enquiry, seeing he believed not the Scriptures? Or if he did believe, how could he hope to be able to kill Him whom the Scriptures declared should be King? The Devil instigated him, who believed that Scripture lies not; such is the faith of devils, who are not permitted to have perfect belief, even of that which they do believe. That they do believe, it is the force of truth constrains them; that they do not believe, it is that they are blinded by the enemy. If they had perfect faith, they would live as about to depart from this world soon, not as to possess it for ever.
+
+**LEO**. (Serm. xxxi. 2.) The Magi, judging as men, sought in the royal city for Him, whom they had been told was born a King. But He who took the form of a servant, and came not to judge but to be judged, chose Bethlehem for His birth, Jerusalem for His death.
+
+**THEODOTUS**. (Serm. 1. ap. Conc. Eph.) Had He chosen the mighty city of Rome, it might have been thought that this change of the world had been wrought by the might of her citizens; had He been the son of the emperor, his power might have aided Him. But what was His choice? All that was mean, all that was in low esteem, that in this transformation of the world, divinity might at once be recognized. Therefore He chose a poor woman for His mother, a poor country for His native country; He has no money, and this stable is His cradle.
+
+**GREGORY**. (Hom. in. Evang. viii. 1.) Rightly is He born in Bethlehem, which signifies the house of bread, who said, am the living bread, who came down from heaven.
+
+**PSEUDO-CHRYSOSTOM**. When they should have kept secret the mystery of the King appointed of God, especially before a foreign king, straightway they became not preachers of the word of God, but revealers of His mystery. And they not only display the mystery, but cite the passage of the prophet, viz. Micah.
+
+**GLOSS**. (ord.) He quotes this prophecy as they quote who give the sense and not the words.
+
+**JEROME**. (Epist. 57.) The Jews are here blamed for ignorance; for whereas the prophecy says, Thou Bethlehem Ephrata; they said, ‘Bethlehem in the land of Judah.’
+
+**PSEUDO-CHRYSOSTOM**. By cutting short the prophecy, they became the cause of the murder of the Innocents. For the prophecy proceeds, From thee shall go forth a King who shall feed My people Israel, and His day shall be from everlasting. Had they cited the whole prophecy, Herod would not have raged so madly, considering that it could not be an earthly King whose days were spoken of as from everlasting.
+
+**JEROME**. (in Mich. v. 2.) The following is the sense of the prophecy. Thou, Bethlehem, of the land of Judah, or Ephrata, (which is added to distinguish it from another Bethlehem in Galilee,) though thou art a small village among the thousand cities of Judah, yet out of thee shall be born Christ, who shall be the Ruler of Israel, who according to the flesh is of the seed of David, but was born of Me before the worlds; and therefore it is written, His goings forth are of old. In the beginning was the Word.
+
+**GLOSS**. (non occ.) This latter half of the prophecy the Jews dropped; and other parts they altered, either through ignorance, (as was said above,) or for perspicuity, that Herod who was a foreigner might better understand the prophecy; thus for Ephrata, they said, land of Judah; and for little among the thousands of Judah, which expresses its smallness contrasted with the multitude of the people, they said, not the least among the princes, willing to shew the high dignity that would come from the birth of the Prince. As if they had said, Thou art great among cities from which princes have come.
+
+**REMIGIUS**. Or the sense is; though little among cities that have dominion, yet art thou not the least, for out of thee shall come the Ruler, who shall rule My people Israel; this Ruler is Christ, who rules and guides His faithful people.
+
+**CHRYSOSTOM**. Observe the exactness of the prophecy; it is not He shall be in Bethlehem, but shall come out of Bethlehem; shewing that He should be only born there. What reason is there for applying this to Zorobabel, as some do? For his goings forth were not from everlasting; nor did he go forth from Bethlehem, but was born in Babylonia. The expression, art not the least, is a further proof, for none but Christ could make the town where He was born illustrious. And after that birth, there came men from the utmost ends of the earth to see the stable and manger. He calls Him not ‘the Son of God,’ but (he Ruler who shall govern My people Israel; for thus He ought to condescend at the first, that they should not be scandalized, but should preach such things as more pertained to salvation, that they might be gained. Who shall rule My people Israel, is said mystically, for those of the Jews who believed; for if Christ ruled not all the Jews, theirs is the blame. Meanwhile he is silent respecting the Gentiles, that the Jews might not be scandalized. Mark this wonderful ordinance; Jews and Magi mutually instruct each other; the Jews learn of the Magi that a star had proclaimed Christ in the east, the Magi from the Jews that the Prophets had spoken of Him of old. Thus confirmed by a twofold testimony, they would look with more ardent faith for One whom the brightness of the star and the voice of the Prophets equally proclaimed.
+
+**AUGUSTINE**. (Serm. 374. 2. 373. 4.) The star that guided the Magi to the spot where was the Infant God with His Virgin Mother, might have conducted them straight to the town; but it vanished, and shewed not itself again to them till the Jews themselves had told them the place where Christ should be born; Bethlehem of Judæa. Like in this to those who built the ark for Noah, providing others with a refuge, themselves perished in the flood; or like to the stones by the road that shew the miles, but themselves are not able to move. The enquirers heard and departed; the teachers spake and remained still. Even now the Jews shew us something similar; for some Pagans, when clear passages of Scripture are shewn them, which prophesy of Christ, suspecting them to be forged by the Christians, have recourse to Jewish copies. Thus they leave the Jews to read unprofitably, and go on themselves to believe faithfully.
+
+### 2:7–9
+
+7. Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.
+
+8. And he sent them to Bethlehem, and said, Go and search diligently for the young Child; and when ye have found Him, bring me word again, that I may come and worship Him also.
+
+9. When they had heard the king, they departed.
+
+**PSEUDO-CHRYSOSTOM**. As soon as Herod had heard the answer, though doubly authenticated, both by the authority of the Priests, and the passage from the Prophets, he yet turned not to worship the King that was to be born, but sought how he might put Him to death by subtilty. He saw that the Magi were neither to be won by flattery, nor awed by threats, nor bribed by gifts, to consent to this murder; he sought therefore to deceive them; he privily called the wise men; that the Jews, whom he suspected, might not know of it. For he thought they would incline the rather to a King of theirown nation.
+
+**REMIGIUS**. Diligently enquired; craftily, for he feared they would not return to him, and then he should know how he should do to put the young Child to death.
+
+**PSEUDO-AUGUSTINE**. (Serm. in App. 131. 3.) The star had been seen, and with great wonder, nearly two years before. We are to understand that it was signified to them whose the star was, which was visible all that time till He, whom it signified, was born. Then as soon as Christ was made known to them they set out, and came and worshipped Him in thirteen days from the easta.
+
+**CHRYSOSTOM**. Or, the star appeared to them long time before, because the journey would take up some time, and they were to stand before Him immediately on His birth, that seeing Him in swaddling clothes, He might seem the more wonderful.
+
+**GLOSS**. (non occ.) According to others, the star was first seen on the day of the nativity, and having accomplished its end, ceased to be. Thus Fulgentius says, “The Boy at His birth created a new star.” (Serm. de Epiph.) Though they now knew both time and place, he still would not have them ignorant of the person of the Child, Go, he says, and enquire diligently of the young Child; a commission they would have executed even if he had not commanded it.
+
+**CHRYSOSTOM**. Concerning the young Child, he says, not ‘of the King;’ he envics Him the regal title.
+
+**PSEUDO-CHRYSOSTOM**. To induce them to do this, he put on the colour of devotion, beneath which he whetted the sword, hiding the malice of his heart under colour of humility. Such is the manner of the malicious, when they would hurt any one in secret, they feign meekness and affection.
+
+**GREGORY**. (Hom. in Ev. i. 10. 3.) He feigns a wish of worshipping Him only that he may discover Him, and put Him to death.
+
+**REMIGIUS**. The Magi obeyed the King so far as to seek the Lord, but not to return to Herod. Like in this to good hearers; the good they hear from wicked preachers, that they do; but do not imitate their evil lives.
+
+### 2:9
+
+9. And, lo, the star, which they saw in the east, went before them, till it came and stood over where the young Child was.
+
+**PSEUDO-CHRYSOSTOM**. This passage shews, that when the star had brought the Magi nearly to Jerusalem, it was hidden from them, and so they were compelled to ask in Jerusalem, where Christ should be born? and thus to manifest Him to them; on two accounts, first, to put to confusion the Jews, inasmuch as the Gentiles instructed only by sight of a star sought Christ through strange lands, while the Jews who had read the Prophets from their youth did not receive Him, though born in their country. Secondly, that the Priests, when asked where Christ should be born, might answer to their now condemnation, and while they instructed Herod, they were themselves ignorant of Him. The star went before them, to shew them the greatness of the King.
+
+**AUGUSTINE**. To perform its due service to the Lord, it advanced slowly, leading them to the spot. It was ministering to Him, and not ruling His fate; its light shewed the suppliants and filled the inn, shed over the walls and roof that covered the birth; and thus it disappeared.
+
+**PSEUDO-CHRYSOSTOM**. What wonder that a divine star should minister to the Sun of righteousness about to rise. It stood over the Child’s head, as it were, saying, ‘This is He;’ proving by its place what it had no voice to utter.
+
+**GLOSS**. (Anselm.) It is evident that the star must have been in the air, and close above the house where the Child was, else it would not have pointed out the exact house.
+
+**AMBROSE**. (in Luc. ii. 45.) The star is the way, and the way is Christ; and according to the mystery of the incarnation, Christ is a star. He is a blazing and a morning-star. Thus where Herod is, the star is not seen; where Christ is, there it is again seen, and points out the way.
+
+**REMIGIUS**. Or, the star figures the grace of God, and Herod the Devil. He, who by sin puts himself in the Devil’s power, loses that grace; but if he return by repentance, he soon finds that grace again which leaves him not till it have brought him to the young Child’s house, i. e. the Church.
+
+**GLOSS**. (ord.) Or, the star is the illumination of faith, which leads him to the nearest aid; while they turn aside to the Jews, the Magi lose it; so those who seek counsel of the bad, lose the true light.
+
+### 2:10–11
+
+10. When they saw the star, they rejoiced with exceeding great joy.
+
+11. And when they were come into the house, they saw the young Child with Mary His mother, and fell down, and worshipped Him: and when they had opened their treasures, they presented unto Him gifts; gold, and frankincense, and myrrh.
+
+**GLOSS**. This service of the star is followed by the rejoicing of the Magi.
+
+**REMIGIUS**. And it was not enough to say, They rejoiced, but they rejoiced with exceeding great joy.
+
+**PSEUDO-CHRYSOSTOM**. They rejoiced, because their hopes were not falsified but confirmed, and because the toil of so great travel had not been undertaken in vain.
+
+**GLOSS**. (ord.) He rejoices indeed who rejoices on God’s account, who is the true joy. With great joy, he says, for they had great cause.
+
+**PSEUDO-CHRYSOSTOM**. By the mystery of this star they understood that the dignity of the King then born exceeded the measure of all worldly kings.
+
+**REMIGIUS**. He adds greatly, shewing that men rejoice more over what they have lost than over what they possess.
+
+**LEO**. (Serm. in Epiph. s. 4. 3.) Though in stature a babe, needing the aid of others, unable to speak, and different in nothing from other infants, yet such faithful witnesses, shewing the unseen Divine Majesty which was in Him, ought to have proved most certainly that that was the Eternal Essence of the Son of God that had taken upon Him the true human nature.
+
+**PSEUDO-CHRYSOSTOM**. Mary His mother, not crowned with a diadem or laying on a golden couch; but with barely one garment, not for ornament but for covering, and that such as the wife of a carpenter when abroad might have. Had they therefore come to seek an earthly king, they would have been more confounded than rejoiced, deeming their pains thrown away. But now they looked for a heavenly King; so that though they saw nought of regal state, that star’s witness sufficed them, and their eyes rejoiced to behold a despised Boy, the Spirit shewing Him to their hearts in all His wonderful power, they fell down and worshipped, seeing the man, they acknowledged the God.
+
+**RABANUS**. Joseph was absent by Divine command, that no wrong suspicions might occur to the Gentiles.
+
+**GLOSS**. (Anselm.) In these offerings we observe their national customs, gold, frankincense, and various spices abounding among the Arabians; yet they intended thereby to signify something in mystery.
+
+**GREGORY**. (Hom. in Evang. i. 106.) Gold, as to a King; frankincense, as sacrifice to God; myrrh, as embalming the body of the dead.
+
+**AUGUSTINE**. (non occ.) Gold, as paid to a mighty King; frankincense, as offered to God; myrrh, as to one who is to die for the sins of all.
+
+**PSEUDO-CHRYSOSTOM**. And though it were not then understood what these several gifts mystically signified, that is no difficulty; the same grace that instigated them to the deed, ordained the whole.
+
+**REMIGIUS**. And it is to be known that each did not offer a different gift, but each one the three things, each one thus proclaiming the King, the God, and the man.
+
+**CHRYSOSTOM**. Let Marcion and Paul of Samosata then blush, who will not see what the Magi saw, those progenitors of the Church adoring God in the flesh. That He was truly in the flesh, the swaddling clothes and the stall prove; yet that they worshipped Him not as mere man, but as God, the gifts prove which it was becoming to offer to a God. Let the Jews also be ashamed, seeing the Magi coming before them, and themselves not even earnest to tread in their path.
+
+**GREGORY**. (ubi sup.) Something further may yet be meant here. Wisdom is typified by gold; as Solomon saith in the Proverbs, A treasure to be desired is in the mouth of the wise. (Prov. 21:20.) By frankincense, which is burnt before God, the power of prayer is intended, as in the Psalms, Let my speech come before thee as incense. (Ps. 141:2.) In myrrh is figured mortification of the flesh. To a king at his birth we offer gold, if we shine in his sight with the light of wisdom; we offer frankincense, if we have power before God by the sweet savour of our prayers; we offer myrrh, when we mortify by abstinence the lusts of the flesh.
+
+**GLOSS**. (Anselm.) The three men who offer, signify the nations who come from the three quarters of the earth. They open their treasures, i. e. manifest the faith of their hearts by confession. Rightly in the house, teaching that we should not vain-gloriously display the treasure of a good conscience. They bring three (vid. sup. note g, p. 18.) gifts, i. e. the faith in the Holy Trinity. Or opening the stores of Scripture, they offer its threefold sense, historical, moral, and allegorical; or Logic, Physic, and Ethics, making them all serve the faith.
+
+### 2:12
+
+12. And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.
+
+**AUGUSTINE**. (non occ.) The wicked Herod, now made cruel by fear, will needs do a deed of horror. But how could he ensnare him who had come to cut off all fraud? His fraud is escaped as it follows, And being warned.
+
+**JEROME**. They had offered gifts to the Lord, and receive a warning corresponding to it. This warning (in the Greek ‘having received a response’) is given not by an Angel, but by the Lord Himself, to shew the high privilege granted to the merit of Joseph.
+
+**GLOSS**. (ord.) This warning is given by the Lord Himself; it is none other that now teaches these Magi the way they should return, but He who said, I am the way. (John 14.) Not that the Infant actually speaks to them, that His divinity may not be revealed before the time, and His human nature may be thought real. But he says, having received an answer, for as Moses prayed silently, so they with pious spirit had asked what the Divine will bade. By another way, for they were not to be mixed up with the unbelieving Jews.
+
+**CHRYSOSTOM**. (Hom. viii.) See the faith of the Magi; they were not offended, nor said within themselves, What need now of flight? or of secret return, if this Boy be really some great one? Such is true faith; it asks not the reason of any command, but obeys.
+
+**PSEUDO-CHRYSOSTOM**. Had the Magi sought Christ as an earthly King, they would have remained with Him when they had found Him; but they only worship, and go their way. After their return, they continued in the worship of God more stedfast than before, and taught many by their preaching. And when afterwards Thomas reached their country, they joined themselves to him, and were baptized, and did according to his preachingb.
+
+**GREGORY**. (Hom. in Ev. i. 10. 7.) We may learn much from this return of the Magi another way. Our country is Paradise, to which, after we have come to the knowledge of Christ we are forbidden to return the way we came. We have left this country by pride, disobedience, following things of sight, tasting forbidden food; and we must return to it by repentance, obedience, by contemning things of sight, and overcoming carnal appetite.
+
+**PSEUDO-CHRYSOSTOM**. It was impossible that they, who left Herod to go to Christ, should return to Herod. They who have by sin left Christ and passed to the devil, often return to Christ; for the innocent, who knows not what is evil, is easily deceived, but having once tasted the evil he has taken up, and remembering the good he has left, he returns in penitence to God. He who has forsaken the devil and come to Christ, hardly returns to the devil; for rejoicing in the good he has found, and remembering the evil he has escaped, with difficulty returns to that evil.
+
+### 2:13–15
+
+13. And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young Child and His mother, and flee into Egypt, and be thou there until I bring thee word; for Herod will seek the young Child to destroy Him.
+
+14. When he arose, he took the young Child and His mother by night, and departed into Egypt:
+
+15. And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my Son.
+
+**RABANUS**. Here Matthew omits the day of purification when the first-born must be presented in the Temple with a lamb, or a pair of turtle doves, or pigeons. Their fear of Herod did not make them bold to transgress the Law, that they should not present the Child in the temple. As soon then as the rumour concerning the Child begins to be spread abroad, the Angel is sent to bid Joseph carry Him into Egypt.
+
+**REMIGIUS**. By this that the Angel appears always to Joseph in sleep, is mystically signified that they who rest from mundane cares and secular pursuits, deserve angelic visitations.
+
+**HILARY**. The first time when he would teach Joseph that she was lawfully espoused, the Angel called the Virgin his espoused wife; but after the birth she is only spoken of as the Mother of Jesus. As wedlock was rightfully imputed to her in her virginity, so virginity is esteemed venerable in her as the mother of Jesus.
+
+**PSEUDO-CHRYSOSTOM**. He says not, ‘the Mother and her young Child,’ but, the young Child and His mother; for the Child was not born for the mother, but the mother prepared for the Child. How is this that the Son of God flies from the face of man? or who shall deliver from the enemy’s hand, if He Himself fears His enemies? First; He ought to observe, even in this, the law of that human nature which He took on Him; and human nature and infancy must flee before threatening power. Next, that Christians when persecution makes it necessary should not be ashamed to fly. But why into Egypt? The Lord, who keepeth not His anger for ever, remembered the woes He had brought upon Egypt, and therefore sent His Son thither, and gives it this sign of great reconciliation, that with this one remedy He might heal the ten plagues of Egypt, and the nation that had been the persecutor of this first-born people, might be the guardian of His first-born Son. As formerly they had cruelly tyrannized, now they might devoutly serve; nor go to the Red Sea to be drowned, but be called to the waters of baptism to receive life.
+
+**AUGUSTINE**. (Serm. 218. App.) Hear the sacrament of a great mystery. Moses before had shut up the light of day from the traitors the Egyptians; Christ by going down thither brought back light to them that sate in darkness. He fled that he might enlighten them, not that he might escape his foes.
+
+**AUGUSTINE**. The miserable tyrant supposed that by the Saviour’s coming he should be thrust from his royal throne. But it was not so; Christ came not to hurt others’ dignity, but to bestow His own on others.
+
+**HILARY**. Egypt full of idols; for after this enquiry for Him among the Jews, Christ leaving Judæa goes to be cherished among nations given to the vainest superstitions.
+
+**JEROME**. When he takes the Child and His mother to go into Egypt, it is in the night and darkness, when to return into Judæa, the Gospel speaks of no light, no darkness.
+
+**PSEUDO-CHRYSOSTOM**. The straitness of every persecution may be called night—the relief from it in like manner, day.
+
+**RABANUS**. For when the true light withdraws, they who hate the light are in darkness, when it returns they are again enlightened.
+
+**CHRYSOSTOM**. See how immediately on His birth the tyrant is furious against Him, and the mother with her Child is driven into foreign lands. So should you in the beginning of your spiritual career seem to have tribulation, you need not to be discouraged, but bear all things manfully, having this example.
+
+**BEDE**. (Hom. in. Nat. Innocent.) The flight into Egypt signifies that the elect are often by the wickedness of the bad driven from their homes, or sentenced to banishment. Thus He, who, we shall see below, gave the command to His own, When they shall persecute you in one city, flee ye to another, first practised what He enjoined, as a man flying before the face of man on earth. He whom but a little before a star had proclaimed to the Magi to be worshipped as from heaven.
+
+**REMIGIUS**. Isaiah had foretold this flight into Egypt. Lo! the Lord shall ascend on a light cloud, and shall come into Egypt, and shall scatter the idols of Egypt. (Is. 19:1.) It is the practice of this Evangelist to confirm all he says; and that because he is writing to the Jews, therefore he adds, that it might be fulfilled, &c.
+
+**JEROME**. (Epist. 57.7.) This is not in the LXX; but in Osee according to the genuine Hebrew text we read; Israel is my child, and I have loved him, and, from Egypt have I called my Son; where the LXX render, Israel is my child, and I have loved him, and called my sons out of Egypt.
+
+**JEROME**. (In Osee 11:2.) The Evangelist cites this text, because it refers to Christ typically. For it is to be observed, that in this Prophet and in others, the coming of Christ and the call of the Gentiles are foreshewn in such a manner, that the thread of history is never broken.
+
+**CHRYSOSTOM**. It is a law of prophecy, that in a thousand places many things are said of some and fulfilled of others. As it is said of Simeon and Levi, I will divide them in Jacob, and scatter them in Israel; (Gen. 49:7.) which was fulfilled not in themselves, but in their descendants. So here Christ is by nature the Son of God, and so the prophecy is fulfilled in Him.
+
+**JEROME**. Let those who deny the authenticity of the Hebrew copies, shew us this passage in the LXX, and when they have failed to find it, we will shew it them in the Hebrew. We may also explain it in another way, by considering it as quoted from Numbers, God brought him out of Egypt; his glory is as it were that of a unicorn. (Num. 23:22.)
+
+**REMIGIUS**. In Joseph is figured the order of preachers, in Mary Holy Scripture; by the Child the knowledge of the Saviour; by the cruelty of Herod the persecution which the Church suffered in Jerusalem; by Joseph’s flight into Egypt the passing of the preachers to the unbelieving Gentiles, (for Egypt signifies darkness;) by the time that he abode in Egypt the space of time between the ascension of the Lord and the coming of Anti Christ; by Herod’s death the extinction of jealousy in the hearts of the Jews.
+
+### 2:16
+
+16. Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
+
+**PSEUDO-CHRYSOSTOM**. When the infant Jesus had subdued the Magi, not by the might of His flesh, but the grace of His Spirit, Herod was exceeding wrath, that they whom he sitting on his throne had no power to move, were obedient to an Infant lying in a manger. Then by their contempt of him the Magi gave further cause of wrath. For when kings’ wrath is stirred by fear for their crowns, it is a great and inextinguishable wrath. But what did he? He sent and slew all the children. As a wounded beast rends whatsoever meeteth it as if the cause of its smart, so he mocked by the Magi spent his fury on children. He said to himself in his fury, ‘Surely the Magi have found the Child whom they said should be King;’ for a king in fear for his crown fears all things, suspects all. Then he sent and slew all those infants, that he might secure one among so many.
+
+**AUGUSTINE**. (non occ.) And while he thus persecutes Christ, he furnished an army (of martyrs) clothed in white robes of the same age as the Lord.
+
+**AUGUSTINE**. (Serm. 220. App.) Behold how this unrighteous enemy never could have so much profited these infants by his love, as he did by his hate; for as much as iniquity abounded against them, so much did the grace of blessing abound on them.
+
+**AUGUSTINE**. (Serm. 373. 3.) O blessed infants! He only will doubt of your crown in this your passion for Christ, who doubts that the baptism of Christ has a benefit for infants. He who at His birth had Angels to proclaim Him, the heavens to testify, and Magi to worship Him, could surely have prevented that these should not have died for Him, had He not known that they died not in that death, but rather lived in higher bliss. Far be the thought, that Christ who came to set men free, did nothing to reward those who died in His behalf, when hanging on the cross He prayed for those who put Him to death.
+
+**RABANUS**. He is not satisfied with the massacre at Bethlehem, but extends it to the adjacent villages; sparing no age from the child of one night old, to that of two years.
+
+**AUGUSTINE**. (Serm. 132. App.) The Magi had seen this unknown star in the heavens, not a few days, but two years before, as they had informed Herod when he enquired. This caused him to fix two years old and under; as it follows, according to the time he had enquired of the Magi.
+
+**AUGUSTINE**. (Gloss. ord.) Or because he feared that the Child to whom even stars ministered, might transform His appearance to greater or under that of His own age, or might conceal all those of that age: hence it seems to be that he slew all from one day to two years old.
+
+**AUGUSTINE**. (de Cons. Ev. ii. 11.) Or, disturbed by pressure of still more imminent dangers, Herod’s thoughts are drawn to other thoughts than the slaughter of children, he might suppose that the Magi, unable to find Him whom they had supposed born, were ashamed to return to him. So the days of purification being accomplished, they might go up in safety to Jerusalem. And who does not see that that one day they may have escaped the attention of a King occupied with so many cares, and that afterwards when the things done in the Temple came to be spread abroad, then Herod discovered that he had been deceived by the Magi, and then sent and slew the children.
+
+**BEDE**. (Hom. in Nat. Innocent.) In this death of the children the precious death of all Christ’s martyrs is figured; that they were infants signifies, that by the merit of humility alone can we come to the glory of martyrdom; that they were slain in Bethlehem and the coasts thereof, that the persecution shall be both in Jerusalem whence the Church originated, and throughout the world; in those of two years old are figured the perfect in doctrine and works; those under that age the neophytes; that they were slain while Christ escaped, signifies that the bodies of the martyrs may be destroyed by the wicked, but that Christ cannot be taken from them.
+
+### 2:17–18
+
+17. Then was fulfilled that which was spoken by Jeremy the prophet, saying,
+
+18. In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
+
+**CHRYSOSTOM**. (Hom. ix.) The Evangelist by this history of so bloody a massacre, having filled the reader with horror, now again sooths his feelings, shewing that these things were not done because God could not hinder, or knew not of them; but as the Prophet had foretold.
+
+**JEROME**. (In Hierem. 31:15.) This passage of Jeremiah has been quoted by Matthew neither according to the Hebrew nor the LXX version. This shews that the Evangelists and Apostles did not follow any one’s translation, but according to the Hebrew manner expressed in their own words what they had read in Hebrew.
+
+**JEROME**. By Ramah we need not suppose that the town of that name near Gibeah is meant; but take it as signifying ‘high.’ A voice was heard ‘aloft,’ that is, spread far and wide.’
+
+**PSEUDO-CHRYSOSTOM**. Or, it was heard on high, because uttered for the death of the innocent, according to that, The voice of the poor entereth into the heavens. (Ecclus. 35:21.) The ‘weeping’ means the cries of the children; ‘lamentation,’ refers to the mothers. In the infants themselves their death ends their cries, in the mothers it is continually renewed by the remembrance of their loss.
+
+**JEROME**. Rachel’s son was Benjamin, in which tribe Bethlehem is not situated. How then does Rachel weep for the children of Judah as if they were her own? We answer briefly. She was buried near Bethlehem in Ephrata, and was regarded as the mother, because her body was there entertained. Or, as the two tribes of Judah and Benjamin were contiguous, and Herod’s command extended to the coasts of Bethlehem as well as to the town itself, we may suppose that many were slain in Benjamin.
+
+**PSEUDO-AUGUSTINE**. (Hil. Quæst. N. and V. Test. 9. 62.) Or, The sons of Benjamin, who were akin to Rachel, were formerly cut off by the other tribes, and so extinct both then and ever after. (see Judg. 20.) Then therefore Rachel began to mourn her sons, when she saw those of her sister cut off in such a cause, that they should be heirs of eternal life; for he who has experienced any misfortune, is made more sensible of his losses by the good fortune of a neighbour.
+
+**REMIGIUS**. The sacred Evangelist adds, to shew the greatness of the mourning, that even the dead Rachel was roused to mourn her sons, and would not be comforted because they were not.
+
+**JEROME**. This may be understood in two ways; either she thought them dead for all eternity, so that no consolation could comfort her; or, she desired not to receive any comfort for those who she knew had gone into life eternal.
+
+**HILARY**. It could not be that they were not who seemed now dead, but by glorious martyrdom they were advanced to eternal life; and consolation is for those who have suffered loss, not for those who have reaped a gain. Rachel affords a type of the Church long barren now at length fruitful. She is heard weeping for her children, not because she mourned them dead, but because they were slaughtered by those whom she would have retained as her first-born sons.
+
+**RABANUS**. Or, The Church weeps the removal of the saints from this earth, but wishes not to be comforted as though they should return again to the struggles of life, for they are not to be recalled into life.
+
+**GLOSS**. (ord.) She will not be comforted in this present life, for that they are not, but transfers all her hope and comfort to the life to come.
+
+**RABANUS**. Rachel is well set for a type of the Church, as the word signifies ‘a sheep’ or ‘seeing;’ (vid. note i, p. 19.) her whole thought being to fix her eye in contemplation of God; and she is the hundredth sheep that the shepherd layeth on his shoulder.
+
+### 2:19–20
+
+19. But when Herod was dead, behold, an Angel of the Lord appeareth in a dream to Joseph in Egypt,
+
+20. Saying, Arise, and take the young Child and His mother, and go into the land of Israel; for they are dead which sought the young Child’s life.
+
+**EUSEBIUS**. (Eccles. Hist. i. 8.) For the sacrilege which Herod had committed against the Saviour, and his wicked slaughter of the infants of the same age, the Divine vengeance hastened his end; and his body, as Josephus relates, was attacked by a strange disease; so that the prophets declared that they were not human ailments, but visitations of Divine vengeance. Filled with mad fury, he gives command to seize and imprison the heads and nobles out of all parts of Judæa; ordering that as soon as ever he should breathe his last, they should be all put to death, that so Judæa though unwillingly might mourn at his decease. Just before he died he murdered his son Antipater, (besides two boys put to death before, Alexander and Aristobulus.) Such was the end of Herod, noticed in those words of the Evangelist, when Herod was dead, and such the punishment inflicted.
+
+**JEROME**. Many here err from ignorance of history, supposing the Herod who mocked our Lord on the day of His passion, and the Herod whose death is here related, were the same. But the Herod who was then made friends with Pilate was son of this Herod and brother to Archelaus; for Archelaus was banished to Lyons in Gaul, and his father Herod made king in his room, as we read in Josephus.
+
+PSEUDO-DIONYSIUS. (De Cæl. Hierarch. 4.) See how Jesus Himself, though far above all celestial beings, and coming unchanged to our nature, shunned not that ordinance of humanity which He had taken on Him, but was obedient to the dispositions of His Father made known by Angels. For even by Angels is declared to Joseph the retreat of the Son into Egypt, so ordained of the Father, and His return again to Judæa.
+
+**PSEUDO-CHRYSOSTOM**. See how Joseph was set for ministering to Mary; when she went into Egypt and returned, who would have fulfilled to her this so needful ministry, had she not been betrothed? For to outward view Mary nourished and Joseph defended the Child; but in truth the Child supported His mother and protected Joseph. Return into the land of Israel; for He went down into Egypt as a physician, not to abide there, but to succour it sick with error. But the reason of the return is given in the words, They are dead, &c.
+
+**JEROME**. From this we see that not Herod only, but also the Priests and Scribes had sought the Lord’s death at that time.
+
+**REMIGIUS**. But if they were many who sought his destruction, how came they all to have died in so short a time? As we have related above, all the great men among the Jews were slain at Herod’s death.
+
+**PSEUDO-CHRYSOSTOM**. And that is said to have been done by the counsel of God for their conspiring with Herod against the Lord; as it is said, Herod was troubled, and all Jerusalem with him.
+
+**REMIGIUS**. Or the Evangelist uses a figure of speech, by which the plural is used for the singular. These words, the Child’s life, (or soul, i. e. the Apollinarians.) overthrow those heretics who taught that Christ did not take a soul, but had His Divinity in place of a soul.
+
+**BEDE**. (Hom. in Nat. Innoc.) This slaughter of the infants for the Lord’s sake, the death of Herod soon after, and Joseph’s return with the Lord and his mother to the land of Israel, is a figure shewing that all the persecutions moved against the Church will be avenged by the death of the persecutor, peace restored to the Church, and the saints who had concealed themselves return to their own places. Or the return of Jesus to the land of Israel on the death of Herod shews, that, at the preaching of Enoch and Elijahc, the Jews, when the fire of modern jealousy shall be extinguished, shall receive the true faith.
+
+### 2:21–23
+
+21. And he arose, and took the young Child and His mother, and came into the land of Israel.
+
+22. But when he heard that Archelaus did reign in Judæa in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
+
+23. And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
+
+**GLOSS**. Joseph was not disobedient to the angelic warning, but he arose, and took the young Child and his mother, and came into the land of Israel. The Angel had not fixed the particular place, so that while Joseph hesitates, the Angel returns, and by the often visiting him confirms his obedience.
+
+**JOSEPHUS**. Herod had nine wives, by seven of whom he had a numerous issue. By Josida, his first born Antipater—by Mariamine, Alexander and Aristobulus—by Mathuca, a Samaritan woman, Archelaus—by Cleopatra of Jerusalem, Herod, who was afterwards tetrarch, and Philip. The three first were put to death by Herod; and after his death, Archelaus seized the throne by occasion of his father’s will, and the question of the succession was carried before Augustus Cæsar. After some delay, he made a distribution of the whole of Herod’s dominions in accordance with the Senate’s advice. To Archelaus he assigned one half, consisting of Idumæa and Judæa, with the title of tetrarch, and a promise of that of king if he shewed himself deserving of it. The rest he divided into two tetrarchates, giving Galilee to Herod the tetrarch, Ituræa and Trachonitis to Philip. Thus Archelaus was after his father’s death a duarch, which kind of sovereignty is here called a kingdom.
+
+**AUGUSTINE**. (De Con. Evan. ii. 10.) Here it may be asked, How then could his parents go up every year of Christ’s childhood to Jerusalem, as Luke relates, if fear of Archelaus now prevented them from approaching it? This difficulty is easily solved. At the festival they might escape notice in the crowd, and by returning soon, where in ordinary times they might be afraid to live. So they neither became irreligious by neglecting the festival, nor notorious by dwelling continually in Jerusalem. Or it is open to us to understand Luke when he says, they went up every year, as speaking of a time when they had nothing to fear from Archelaus, who, as Josephus relates, reigned only nine years. There is yet a difficulty in what follows; Being warned in a dream, he turned aside into the parts of Galilee. If Joseph was afraid to go into Judæa because one of Herod’s sons, Archelaus, reigned there, how could he go into Galilee, where another of his sons Herod was tetrarch, as Luke tells us? As if the times of which Luke is speaking were times in which there was any longer need to fear for the Child, when even in Judæa things were so changed, that Archelaus no longer ruled there, but Pilate was governor.
+
+**GLOSS**. (ord.) But then we might ask, why was he not afraid to go into Galilee, seeing Archelaus ruled there also? He could be better concealed in Nazareth than in Jerusalem, which was the capital of the kingdom, and where Archelaus was constantly resident.
+
+**CHRYSOSTOM**. And when he had once left the country of His birth, all the occurrences passed out of mind; the rage of persecution had been spent in Bethlehem and its neighbourhood. By choosing Nazareth therefore, Joseph both avoided danger, and returned to his country.
+
+**AUGUSTINE**. (De Con. Evan. ii. 9.) This may perhaps occur to some, that Matthew says His parents went with the Child Jesus to Galilee because they feared Archelaus, when it should seem most probable that they chose Galilee because Nazareth was their own city, as Luke has not forgot to mention. We must understand, that when the Angel in the vision in Egypt said to Joseph, Go into the land of Israel, Joseph understood the command to be that he should go straight into Judæa, that being properly the land of Israel. But finding Archelaus ruling there, he would not court the danger, as the land of Israel might be interpreted to extend to Galilee, which was inhabited by children of Israel. Or we may suppose His parents supposed that Christ should dwell no where but in Jerusalem, where was the temple of the Lord, and would have gone thither had not the fear of Archelaus hindered them. And they had not been commanded from God to dwell positively in Judæa, or Jerusalem, so as that they should have despised the fear of Archelaus, but only in the land of Israel generally, which they might understand of Galilee.
+
+**HILARY**. But the figurative interpretation holds good any way. Joseph represents the Apostles, to whom Christ is entrusted to be borne about. These, as though Herod were dead, that is, his people being destroyed in the Lord’s passion, are commanded to preach the Gospel to the Jews; they are sent to the lost sheep of the house of Israel. But finding the seed of their hereditary unbelief still abiding, they fear and withdraw; admonished by a vision, to wit, seeing the Holy Ghost poured upon the Gentiles, they carry Christ to them.
+
+**RABANUS**. Or, we may apply it to the last times of the Jewish Church, when many Jews having turned to the preaching of Enoch and Elijah, the rest filled with the spirit of Antichrist shall fight against the faith. So that part of Judæa where Archelaus rules, signifies the followers of Antichrist; Nazareth of Galilee, whither Christ is conveyed, that part of the nation that shall embrace the faith. Galilee means ‘removal;’ Nazareth, ‘the flower of virtues;’ for the Church the more zealously she removes from the earthly to the heavenly, the more she abounds in the flower and fruit of virtues.
+
+**GLOSS**. To this he adds the Prophet’s testimony, saying, That it might be fulfilled which was spoken by the Prophets, &c.
+
+**JEROME**. Had he meant to quote a particular text, he would not have written ‘Prophets,’ but ‘the Prophet.’ By thus using the plural he evidently does not take the words of any one passage in Scripture, but the sense of the whole. Nazarene is interpreted ‘Holyd,’ and that the Lord would be Holy, all Scripture testifies. Otherwise we may explain that it is found in Isaiah (c. 11:1.) rendered to the strict letter of the Hebrew. There shall come a Rod out of the stem of Jesse, and a Nazarene shall grow out of His rootse.
+
+**PSEUDO-CHRYSOSTOM**. They might have read this in some Prophets who are not in our canon, as Nathan or Esdras. That there was some prophecy to this purport is clear from what Philip says to Nathanael. Him of whom Moses in the Law and the Prophets did write, Jesus of Nazareth. (John 1:15.) Hence the Christians were at first called Nazarenes, at Antioch their name was changed to that of ‘Christians.’
+
+**AUGUSTINE**. (De Con. Evan. ii. 5.) The whole of this history, from the account of the Magi inclusively, Luke omits. Let it be here noticed once for all, that each of the Evangelists writes as if he were giving a full and complete history, which omits nothing; where he really passes over any thing, he continues his thread of history as if he had told all. Yet by a diligent comparison of their several narratives, we can be at no loss to know where to insert any particular that is mentioned by one and not by the other.
+
+
 
 ## CHAP. 3
 
@@ -366,7 +1305,6 @@ Ver. 4. And the same John had his raiment of camel’s hair, and a leathern gird
 
 **AUGUSTINE**. (de Cons. Ev. ii. 14.) These words Mark and Luke give in the same way; in the words of the voice that came from Heaven, their expression varies though the sense is the same. For both the words as Matthew gives them, This is my beloved Son, and as the other two, Thou art my beloved Son, express the same sense in the speaker; (and the heavenly voice, no doubt, uttered one of these,) but one shews an intention of addressing the testimony thus borne to the Son to those who stood by; the other of addressing it to Himself, as if speaking to Christ He had said, This is my Son. Not that Christ was taught what He knew before, but they who stood by heard it, for whose sake the voice came. Again, when one says, in whom I am well-pleased; another, in thee it hath pleased me, if you ask which of these was actually pronounced by that voice; take which you will, only remembering that those who have not related the same words as were spoken have related the same sense. That God is well-pleased with His Son is signified in the first; that the Father is by the Son pleased with men is conveyed in the second form, in thee it hath well-pleased me. Or you may understand this to have been the one meaning of all the Evangelists, In Thee have I put My good pleasure, i. e. to fulfil all My purpose.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 4
 
@@ -754,7 +1692,6 @@ Ver. 4. And the same John had his raiment of camel’s hair, and a leathern gird
 
 **REMIGIUS**. Or, they follow the Lord from Galilee, that is, from the unstable world; from Decapolis, (the country of ten towns,) signifying those who break the Ten Commandments; and from Jerusalem, because before it was preserved unhurt in peace; and from Jordan, that is, from the confession of the Devil; and from beyond Jordan, they who were first planted in paganism, but passing the water of Baptism came to Christ.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 5
 
@@ -1548,7 +2485,6 @@ Ver. 4. And the same John had his raiment of camel’s hair, and a leathern gird
 
 **PSEUDO-CHRYSOSTOM**. For as our sons after the flesh resemble their fathers in some part of their bodily shape, so do spiritual sons resemble their father God, in holiness.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 6
 
@@ -2194,7 +3130,6 @@ But deliver us from evil. Amen.
 
 **HILARY**. This is further comprehended under the full meaning of the Divine words. We are commanded not to be careful about the future, because sufficient for our life is the evil of the days wherein we live, that is to say, the sins, that all our thought and pains be occupied in cleansing this away. And if our care be slack, yet will the future be careful for itself, in that there is held out to us a harvest of eternal love to be provided by God.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 7
 
@@ -2576,7 +3511,6 @@ But deliver us from evil. Amen.
 
 **AUGUSTINE**. (Serm. in Mont. ii. 25. i. 10, et seq.) This is what is signified in the eleventh Psalm, I will deal mightily with him; the words of the Lord are pure words, silver tried in the fire, purified of earth, purged seven times. (Ps. 12:5, 6.) The mention of this number admonishes me here to refer all these precepts to those seven sentences that He placed in the beginning of this Sermon; those, I mean, concerning the beatitudes. For one to be angry with his brother, without cause, or to say to him, Racha, or call him fool, is a sin of extreme pride, against which is one remedy, that with a suppliant spirit he should seek pardon, and not be puffed up with a spirit of boasting. Blessed, then, are the poor in spirit, for theirs is the kingdom of heaven. He is consenting to his adversary, that is, in shewing reverence to the word of God, who goes to the opening His Father’s will, not with contentiousness of law, but with meekness of religion, therefore, Blessed are the meek, for they shall inherit the earth. Also whosoever feels carnal delight rebel against his right will, will cry out, O wretched man that I am! who shall deliver me from the body of this death? (Rom. 7:24.) And in thus mourning he will implore the aid of the consoler; whence, Blessed are they that mourn, for they shall be comforted. What is there that can be thought of more toilsome than in overcoming an evil practice to cut off those members within us that hinder the kingdom of heaven, and not be broken down with the pain of so doing? To endure in faithful wedlock all things even the most grievous, and yet to avoid all accusation of fornication. To speak the truth, and approve it not by frequent oaths, but by probity of life. But who would be bold to endure such toils, unless he burned with the love of righteousness as with a hunger and thirst? Blessed, therefore, are they that hunger and thirst, for they shall be filled. Who can be ready to take wrong from the weak, to offer himself to any that asks him, to love his enemies, to do good to them that hate him, to pray for them that persecute him, except he that is perfectly merciful? Therefore, Blessed are the merciful, for they shall find mercy. He keeps the eye of his heart pure, who places the end of his good actions not in pleasing men, nor in getting those things that are necessary to this life, and who does not rashly condemn any man’s heart, and whatever he gives to another gives with that intention with which he would have others give to him. Blessed, therefore, are the pure in heart, for they shall see God. It must needs be moreover, that by a pure heart should be found out the narrow way of wisdom, to which the guile of corrupt men is an obstacle; Blessed are the peaceful, for they shall he called the sons of God. But whether we take this arrangement, or any other, those things which we have heard from the Lord must be done, if we would build upon the rock.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 8
 
@@ -3026,7 +3960,6 @@ PSEUDO-ORIGEN. Let us therefore come to Him with joy, saying with the Prophet, A
 
 **HILARY**. Or; The town is a type of the Jewish nation, which having heard of Christ’s works goes forth to meet its Lord, to forbid Him to approach their country and town; for they have not received the Gospel.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 9
 
@@ -3450,7 +4383,6 @@ PSEUDO-ORIGEN. Let us therefore come to Him with joy, saying with the Prophet, A
 
 **HILARY**. Figuratively; When salvation was given to the Gentiles, then all cities and towns were enlightened by the power and entrance of Christ, and escaped every former sickness and infirmity. The Lord pities the people troubled with the violence of the unclean Spirit, and sick under the burden of the Law, and having no shepherd at hand to bestow on them the guardianship of the Holy Spirit. But of that gift there was a most abundant fruit, whose plenty far exceeded the multitude of those that drank thereof; how many soever take of it, yet an inexhaustible supply remains; and because it is profitable that there should be many to minister it, He bids us ask the Lord of the harvest, that God would provide a supply of reapers for the ministration of that gift of the Holy Spirit which was made ready; for by prayer this gift is poured out upon us from God.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 10
 
@@ -4018,7 +4950,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **HILARY**. Or; Seeing beforehand that there would be many who would only glory in the name of Apostleship, but in their whole life and walk would be unworthy of it, He does not therefore deprive of its reward that service which might be rendered to them in belief of their religious life. For though they were the very least, that is, the greatest of sinners, yet even small offices of mercy shewn them, such as are denoted by the cup of cold water, should not be shewn in vain. For the honour is not done to a man that is a sinner, but to his title of disciple.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 11
 
@@ -4394,7 +5325,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **JEROME**. And how is the Gospel lighter than the Law, seeing in the Law murder and adultery, but under the Gospel anger and concupiscence also, are punished? Because by the Law many things are commanded which the Apostle fully teaches us cannot be fulfilled; by the Law works are required, by the Gospel the will is sought for, which even if it goes not into act, yet does not lose its reward. The Gospel commands what we can do, as that we lust not; this is in our own power; the Law punishes not the will but the act, as adultery. Suppose a virgin to have been violated in time of persecution; as here was not the will she is held as a virgin under the Gospel; under the Law she is cast out as defiled.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 12
 
@@ -4908,7 +5838,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **JEROME**. And when they shall have asked and enquired, and sent a messenger, they shall receive for answer, that their will is free, and that they can enter in, if they will believe.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 13
 
@@ -5418,7 +6347,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **JEROME**. Or we may understand it otherwise, that Jesus is despised in His own house and country, signifies in the Jewish people; and therefore He did among them few miracles, that they might not be altogether without excuse; but among the Gentiles He does daily greater miracles by His Apostles, not so much in healing their bodies, as in saving their souls.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 14
 
@@ -5750,7 +6678,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **CHRYSOSTOM**. But we have not a hem or a garment only of Christ, but have even His body, that we may eat thereof. If then they who touched the hem of His garment derived so much virtue therefrom, much more they that shall receive Himself whole.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 15
 
@@ -6078,7 +7005,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **GLOSS**. Or, they sit down there1 on the grass, that the desires of the flesh may be controlled, here on the ground, because the earth itself is commanded to be left. Or, the mountain in which the Lord refreshes them is the height of Christ; there, therefore, is grass upon the ground, because there the height of Christ is covered with carnal hopes and desires, on account of the carnal; here, where all carnal lust is banished, the guests are solidly placed on the basis of an abiding hope; there, are five thousand, who are the carnal subjected to the five senses; here, four thousand, on account of the four virtues, by which they are spiritually fortified, temperance, prudence, fortitude, and justice; of which the first is the knowledge of things to be sought and avoided; the second, the restraining of desire from those things that give pleasure in the world; the third, strength against the pains of life; the fourth, which is spread over all the love of God and our neighbour. Both there, and here women and children are excepted, because in the Old and New Testament, none are admitted to the Lord who do not endure to the perfect man, whether through the infirmity of their strength, or the levity of their tempers. Both refreshings were performed upon a mountain, because the Scriptures of both Testaments commend the loftiness of the heavenly commands and rewards, and both preach the height of Christ. The higher mysteries which the multitudes cannot receive the Apostles discharge, and fill seven baskets, to wit, the hearts of the perfect which are enlightened to understand by the grace of the seven-fold Spirit. (Is. 11:2.) Baskets are usually woven of rushes, or palm leaves; these signify the saints, who fix the root of their hearts in the very fount of life, as a bulrush in the water, that they may not wither away, and retain in their hearts the palm of their eternal reward.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 16
 
@@ -6876,7 +7802,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
         the death of the body is tasted just as it were sipping, while the life of the soul is, held fast in
         possession.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 17
 
@@ -7178,7 +8103,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **JEROME**. And beautifully is this very stater given for the tribute; but it is divided; for Peter as for a sinner a ransom is to be paid, but the Lord had not sin. Yet herein is shewn the likeness of their flesh, when the Lord and His servants are redeemed with the same price.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 18
 
@@ -7546,7 +8470,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **RABANUS**. Allegorically; The servant here who owed the ten thousand talents, is the Jewish people bound to the Ten Commandments in the Law. These the Lord oft forgave their trespasses, when being in difficulties they besought His mercy; but when they were set free, they exacted the utmost with great severity from all their debtors; and of the gentile people which they hated, they required circumcision and the ceremonies of the Law; yea, the Prophets and Apostles they barbarously put to death. For all this the Lord gave them over into the hands of the Romans as to evil spirits, who should punish them with eternal tortures.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 19
 
@@ -7902,7 +8825,6 @@ Simon Chananæus, and Judas Scarioth, who also betrayed him.
 
 **REMIGIUS**. It may also be referred in particular to the rich man, who seemed to be first, by his fulfilment of the precepts of the Law, but was made last by his preferring his worldly substance to God. The holy Apostles seemed to be last, but by leaving all they were made first by the grace of humility. There are many who having entered upon good works, fall therefrom, and from having been first, become last.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 20
 
@@ -8236,7 +9158,6 @@ Or otherwise. The morning is our childhood; the third hour may be understood as 
 
 **ORIGEN**. We also now sitting by the wayside of the Scriptures, and understanding wherein we are blind, if we ask with desire, He will touch the eyes of our souls, and the gloom of ignorance shall depart from our minds, that in the light of knowledge we may follow Him, who gave us power to see to no other end than that we should follow Him.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 21
 
@@ -8700,7 +9621,6 @@ Or otherwise. The morning is our childhood; the third hour may be understood as 
 
 **RABANUS**. This, that they are afraid to lay hands on Jesus because of the multitudes, is daily acted in the Church, when any who is a brother only in name, is ashamed or afraid to assail the unity of faith and peace which he does not love, because of the good men with whom he lives.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 22
 
@@ -9122,7 +10042,6 @@ It follows, On these two commandments hang all the Law and the Prophets.
 
 **RABANUS**. Hence we learn that the poison of jealousy may be overcome, but can hardly of itself rest at peace.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 23
 
@@ -9498,7 +10417,6 @@ It follows, On these two commandments hang all the Law and the Prophets.
 
 **CHRYSOSTOM**. Otherwise; In this He covertly alludes to His second coming, when surely they shall worship Him. Henceforth, means from the time of His crucifixion.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 24
 
@@ -10030,7 +10948,6 @@ And they shall see the Son of man coming in the clouds of heaven with power and 
 
 **AUGUSTINE**. (Ep. 199 in fin.) Putting aside this wicked servant, who, there is no doubt, hates his Master’s coming, let us set before our eyes these good servants, who anxiously expect their Lord’s coming. One looks for His coming sooner, another later, the third confesses his ignorance of the matter. Let us see which is most agreeable to the Gospel. One says, Let us watch and pray, because the Lord will quickly come; another, Let us watch and pray, because this life is short and uncertain, though the Lord’s coming may be distant; and the third, Let us watch, because this life is short and uncertain, and we know not the time when the Lord will come. What else does this man say than what we hear the Gospel say, Watch, because ye know not the hour in which the Lord shall come? All indeed, through longing for the kingdom, desire that that should be true which the first thinks, and if it should so come to pass, the second and third would rejoice with him; but if it should not come to pass, it were to be feared that the belief of its supporters might be shaken by the delay, and they might begin to think that the Lord’s coming shall be, not remote, but never. He who believes with the second that the Lord’s coming is distant will not be shaken in faith, but will receive an unlooked for joy. He who confesses his ignorance which of these is true, wishes for the one, is resigned to the other, but errs in neither, because he neither affirms or denies either.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 25
 
@@ -10470,7 +11387,6 @@ And they shall see the Son of man coming in the clouds of heaven with power and 
 
 **ORIGEN**. Or, It is not one kind of righteousness only that is rewarded, as many think. In whatsoever matters any one does Christ’s commands, he gives Christ meat and drink, Who feeds ever upon the truth and righteousness of His faithful people. So do we weave raiment for Christ when cold, when taking wisdom’s web, we inculcate upon others, and put upon them bowels of mercy. Also when we make ready with divers virtues our heart for receiving Him, or those who are His, we take Him in a stranger into the home of our bosom. Also when we visit a brother sick either in faith or in good works, with doctrine, reproof, or comfort, we visit Christ Himself. Moreover, all that is here, is the prison of Christ, and of them that are His, who live in this world, as though chained in the prison of natural necessity. When we do a good work to these; we visit them in prison, and Christ in them.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 26
 
@@ -11288,7 +12204,6 @@ PSEUDO-DIONYSIUS. (Eccl. Hier. 3. in fin.) In this is also shewn, that the one a
 
 **LEO**. (Serm. 60. 4.) Blessed tears, O holy Apostle, which had the virtue of holy Baptism in washing off the sin of thy denial. The right hand of the Lord Jesus Christ was with thee to hold thee up before thou wast quite thrown down, and in the midst of thy perilous fall, thou receivedst strength to stand. The Rock quickly returned to its stability, recovering so great fortitude, that he who in Christ’s passion had quailed, should endure his own subsequent suffering with fearlessness and constancy.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 27
 
@@ -11856,7 +12771,6 @@ PSEUDO-DIONYSIUS. (ad Polycarp. Ep. 7.) When we were together at Heliopolis, we 
 
 **CHRYSOSTOM**. Pilate will not suffer that the soldiers alone should seal. But as though he had learnt the truth concerning Christ, he was no longer willing to be partner in their acts, and says, Seal it as ye will yourselves, that ye may not be able to accuse others. For had the soldiers alone sealed, they might have said that the soldiers had suffered the disciples to steal the body, and so given the disciples a handle to forge a tale concerning the resurrection; but this could they not say now, when they themselves had sealed the sepulchre.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 28
 
@@ -12089,6 +13003,3 @@ Who is the King of glory,
 God blessed for ever,
 
 AMEN.
-
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
-

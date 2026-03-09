@@ -46,7 +46,7 @@
 
 **1:22** And he hath subjected all things under his feet, and hath made him head over all the church,
 
-**1:23** Which is his body, and the fulness of him who is filled all in all. Epistle of St Paul to the Ephesians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:23** Which is his body, and the fulness of him who is filled all in all.
 
 
 ## Chapter 2
@@ -93,7 +93,7 @@
 
 **2:21** In whom all the building, being framed together, groweth up into an holy temple in the Lord.
 
-**2:22** In whom you also are built together into an habitation of God in the Spirit. Epistle of St Paul to the Ephesians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:22** In whom you also are built together into an habitation of God in the Spirit.
 
 
 ## Chapter 3
@@ -138,7 +138,7 @@
 
 **3:20** Now to him who is able to do all things more abundantly than we desire or understand, according to the power that worketh in us;
 
-**3:21** To him be glory in the church, and in Christ Jesus unto all generations, world without end. Amen. Epistle of St Paul to the Ephesians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:21** To him be glory in the church, and in Christ Jesus unto all generations, world without end. Amen.
 
 
 ## Chapter 4
@@ -205,7 +205,7 @@
 
 **4:31** Let all bitterness, and anger, and indignation, and clamour, and blasphemy, be put away from you, with all malice.
 
-**4:32** And be ye kind one to another; merciful, forgiving one another, even as God hath forgiven you in Christ. Epistle of St Paul to the Ephesians next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:32** And be ye kind one to another; merciful, forgiving one another, even as God hath forgiven you in Christ.
 
 
 ## Chapter 5
@@ -274,7 +274,7 @@
 
 **5:32** This is a great sacrament; but I speak in Christ and in the church.
 
-**5:33** Nevertheless let every one of you in particular love his wife as himself: and let the wife fear her husband. Epistle of St Paul to the Ephesians next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:33** Nevertheless let every one of you in particular love his wife as himself: and let the wife fear her husband.
 
 
 ## Chapter 6
@@ -325,5 +325,5 @@
 
 **6:23** Peace be to the brethren and charity with faith, from God the Father, and the Lord Jesus Christ.
 
-**6:24** Grace be with all them that love our Lord Jesus Christ in incorruption. Amen. Epistle of St Paul to the Ephesians next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:24** Grace be with all them that love our Lord Jesus Christ in incorruption. Amen.
 

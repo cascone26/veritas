@@ -20,7 +20,7 @@
 
 **1:9** For they themselves relate of us, what manner of entering in we had unto you; and how you turned to God from idols, to serve the living and true God.
 
-**1:10** And to wait for his Son from heaven (whom he raised up from the dead,) Jesus, who hath delivered us from the wrath to come. 1st Epistle of St Paul to the Thessalonians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:10** And to wait for his Son from heaven (whom he raised up from the dead,) Jesus, who hath delivered us from the wrath to come. 1st
 
 
 ## Chapter 2
@@ -63,7 +63,7 @@
 
 **2:19** For what is our hope, or joy, or crown of glory? Are not you, in the presence of our Lord Jesus Christ at his coming?
 
-**2:20** For you are our glory and joy. 1st Epistle of St Paul to the Thessalonians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:20** For you are our glory and joy. 1st
 
 
 ## Chapter 3
@@ -92,7 +92,7 @@
 
 **3:12** And may the Lord multiply you, and make you abound in charity towards one another, and towards all men: as we do also towards you,
 
-**3:13** To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen. 1st Epistle of St Paul to the Thessalonians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:13** To confirm your hearts without blame, in holiness, before God and our Father, at the coming of our Lord Jesus Christ, with all his saints. Amen. 1st
 
 
 ## Chapter 4
@@ -129,7 +129,7 @@
 
 **4:16** Then we who are alive, who are left, shall be taken up together with them in the clouds to meet Christ, into the air, and so shall we be always with the Lord.
 
-**4:17** Wherefore, comfort ye one another with these words. 1st Epistle of St Paul to the Thessalonians next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:17** Wherefore, comfort ye one another with these words. 1st
 
 
 ## Chapter 5
@@ -188,5 +188,5 @@
 
 **5:27** I charge you by the Lord, that this epistle be read to all the holy brethren.
 
-**5:28** The grace of our Lord Jesus Christ be with you. Amen. 1st Epistle of St Paul to the Thessalonians next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:28** The grace of our Lord Jesus Christ be with you. Amen. 1st
 

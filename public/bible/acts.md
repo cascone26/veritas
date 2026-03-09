@@ -52,7 +52,7 @@
 
 **1:25** To take the place of this ministry and apostleship, from which Judas hath by transgression fallen, that he might go to his own place.
 
-**1:26** And they gave them lots, and the lot fell upon Matthias, and he was numbered with the eleven apostles. The Acts of the Apostles next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:26** And they gave them lots, and the lot fell upon Matthias, and he was numbered with the eleven apostles.
 
 
 ## Chapter 2
@@ -149,7 +149,7 @@
 
 **2:46** And continuing daily with one accord in the temple, and breaking bread from house to house, they took their meat with gladness and simplicity of heart;
 
-**2:47** Praising God, and having favour with all the people. And the Lord increased daily together such as should be saved. The Acts of the Apostles next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:47** Praising God, and having favour with all the people. And the Lord increased daily together such as should be saved.
 
 
 ## Chapter 3
@@ -204,7 +204,7 @@
 
 **3:25** You are the children of the prophets, and of the testament which God made to our fathers, saying to Abraham: And in thy seed shall all the kindreds of the earth be blessed.
 
-**3:26** To you first God, raising up his Son, hath sent him to bless you; that every one may convert himself from his wickedness. The Acts of the Apostles next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:26** To you first God, raising up his Son, hath sent him to bless you; that every one may convert himself from his wickedness.
 
 
 ## Chapter 4
@@ -281,7 +281,7 @@
 
 **4:36** And Joseph, who, by the apostles, was surnamed Barnabas, (which is, by interpretation, The son of consolation,) a Levite, a Cyprian born,
 
-**4:37** Having land, sold it, and brought the price, and laid it at the feet of the apostles. The Acts of the Apostles next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:37** Having land, sold it, and brought the price, and laid it at the feet of the apostles.
 
 
 ## Chapter 5
@@ -368,7 +368,7 @@
 
 **5:41** And they indeed went from the presence of the council, rejoicing that they were accounted worthy to suffer reproach for the name of Jesus.
 
-**5:42** And every day they ceased not in the temple, and from house to house, to teach and preach Christ Jesus. The Acts of the Apostles next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:42** And every day they ceased not in the temple, and from house to house, to teach and preach Christ Jesus.
 
 
 ## Chapter 6
@@ -401,7 +401,7 @@
 
 **6:14** For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the traditions which Moses delivered unto us.
 
-**6:15** And all that sat in the council, looking on him, saw his face as if it had been the face of an angel. The Acts of the Apostles next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:15** And all that sat in the council, looking on him, saw his face as if it had been the face of an angel.
 
 
 ## Chapter 7
@@ -522,7 +522,7 @@
 
 **7:58** And they stoned Stephen, invoking, and saying: Lord Jesus, receive my spirit.
 
-**7:59** And falling on his knees, he cried with a loud voice, saying: Lord, lay not this sin to their charge. And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death. The Acts of the Apostles next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:59** And falling on his knees, he cried with a loud voice, saying: Lord, lay not this sin to their charge. And when he had said this, he fell asleep in the Lord. And Saul was consenting to his death.
 
 
 ## Chapter 8
@@ -605,7 +605,7 @@
 
 **8:39** And when they were come up out of the water, the Spirit of the Lord took away Philip; and the eunuch saw him no more. And he went on his way rejoicing.
 
-**8:40** But Philip was found in Azotus; and passing through, he preached the gospel to all the cities, till he came to Caesarea. The Acts of the Apostles next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:40** But Philip was found in Azotus; and passing through, he preached the gospel to all the cities, till he came to Caesarea.
 
 
 ## Chapter 9
@@ -694,7 +694,7 @@
 
 **9:42** And it was made known throughout all Joppe; and many believed in the Lord.
 
-**9:43** And it came to pass, that he abode many days in Joppe, with one Simon a tanner. The Acts of the Apostles next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:43** And it came to pass, that he abode many days in Joppe, with one Simon a tanner.
 
 
 ## Chapter 10
@@ -793,7 +793,7 @@
 
 **10:47** Then Peter answered: Can any man forbid water, that these should not be baptized, who have received the Holy Ghost, as well as we?
 
-**10:48** And he commanded them to be baptized in the name of the Lord Jesus Christ. Then they desired him to tarry with them some days. The Acts of the Apostles next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:48** And he commanded them to be baptized in the name of the Lord Jesus Christ. Then they desired him to tarry with them some days.
 
 
 ## Chapter 11
@@ -856,7 +856,7 @@
 
 **11:29** And the disciples, every man according to his ability, purposed to send relief to the brethren who dwelt in Judea:
 
-**11:30** Which also they did, sending it to the ancients, by the hands of Barnabas and Saul. The Acts of the Apostles next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:30** Which also they did, sending it to the ancients, by the hands of Barnabas and Saul.
 
 
 ## Chapter 12
@@ -909,7 +909,7 @@
 
 **12:24** But the word of the Lord increased and multiplied.
 
-**12:25** And Barnabas and Saul returned from Jerusalem, having fulfilled their ministry, taking with them John, who was surnamed Mark. The Acts of the Apostles next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:25** And Barnabas and Saul returned from Jerusalem, having fulfilled their ministry, taking with them John, who was surnamed Mark.
 
 
 ## Chapter 13
@@ -1016,7 +1016,7 @@
 
 **13:51** But they, shaking off the dust of their feet against them, came to Iconium.
 
-**13:52** And the disciples were filled with joy and with the Holy Ghost. The Acts of the Apostles next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:52** And the disciples were filled with joy and with the Holy Ghost.
 
 
 ## Chapter 14
@@ -1073,7 +1073,7 @@
 
 **14:26** And when they were come, and had assembled the church, they related what great things God had done with them, and how he had opened the door of faith to the Gentiles.
 
-**14:27** And they abode no small time with the disciples. The Acts of the Apostles next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:27** And they abode no small time with the disciples.
 
 
 ## Chapter 15
@@ -1158,7 +1158,7 @@
 
 **15:40** But Paul choosing Silas, departed, being delivered by the brethren to the grace of God.
 
-**15:41** And he went through Syria and Cilicia, confirming the churches, commanding them to keep the precepts of the apostles and the ancients. The Acts of the Apostles next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:41** And he went through Syria and Cilicia, confirming the churches, commanding them to keep the precepts of the apostles and the ancients.
 
 
 ## Chapter 16
@@ -1241,7 +1241,7 @@
 
 **16:39** And coming, they besought them; and bringing them out, they desired them to depart out of the city.
 
-**16:40** And they went out of the prison, and entered into the house of Lydia; and having seen the brethren, they comforted them, and departed. The Acts of the Apostles next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:40** And they went out of the prison, and entered into the house of Lydia; and having seen the brethren, they comforted them, and departed.
 
 
 ## Chapter 17
@@ -1312,7 +1312,7 @@
 
 **17:33** So Paul went out from among them.
 
-**17:34** But certain men adhering to him, did believe; among whom was also Dionysius, the Areopagite, and a woman named Damaris, and others with them. The Acts of the Apostles next > Chapter 17 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**17:34** But certain men adhering to him, did believe; among whom was also Dionysius, the Areopagite, and a woman named Damaris, and others with them.
 
 
 ## Chapter 18
@@ -1371,7 +1371,7 @@
 
 **18:27** And whereas he was desirous to go to Achaia, the brethren exhorting, wrote to the disciples to receive him. Who, when he was come, helped them much who had believed.
 
-**18:28** For with much vigour he convinced the Jews openly, shewing by the scriptures, that Jesus is the Christ. The Acts of the Apostles next > Chapter 18 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**18:28** For with much vigour he convinced the Jews openly, shewing by the scriptures, that Jesus is the Christ.
 
 
 ## Chapter 19
@@ -1454,7 +1454,7 @@
 
 **19:39** And if you inquire after any other matter, it may be decided in a lawful assembly.
 
-**19:40** For we are even in danger to be called in question for this day's uproar, there being no man guilty (of whom we may give account) of this concourse. And when he had said these things, he dismissed the assembly. The Acts of the Apostles next > Chapter 19 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**19:40** For we are even in danger to be called in question for this day's uproar, there being no man guilty (of whom we may give account) of this concourse. And when he had said these things, he dismissed the assembly.
 
 
 ## Chapter 20
@@ -1533,7 +1533,7 @@
 
 **20:37** And there was much weeping among them all; and falling on the neck of Paul, they kissed him,
 
-**20:38** Being grieved most of all for the word which he had said, that they should see his face no more. And they brought him on his way to the ship. The Acts of the Apostles next > Chapter 20 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**20:38** Being grieved most of all for the word which he had said, that they should see his face no more. And they brought him on his way to the ship.
 
 
 ## Chapter 21
@@ -1616,7 +1616,7 @@
 
 **21:39** But Paul said to him: I am a Jew of Tarsus in Cilicia, a citizen of no mean city. And I beseech thee, suffer me to speak to the people.
 
-**21:40** And when he had given him leave, Paul standing on the stairs, beckoned with his hand to the people. And a great silence being made, he spoke unto them in the Hebrew tongue, saying: The Acts of the Apostles next > Chapter 21 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**21:40** And when he had given him leave, Paul standing on the stairs, beckoned with his hand to the people.
 
 
 ## Chapter 22
@@ -1679,7 +1679,7 @@
 
 **22:29** Immediately therefore they departed from him that were about to torture him. The tribune also was afraid after he understood that he was a Roman citizen, and because he had bound him.
 
-**22:30** But on the next day, meaning to know more diligently for what cause he was accused by the Jews, he loosed him, and commanded the priests to come together, and all the council: and bringing forth Paul, he set him before them. The Acts of the Apostles next > Chapter 22 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**22:30** But on the next day, meaning to know more diligently for what cause he was accused by the Jews, he loosed him, and commanded the priests to come together, and all the council: and bringing forth Paul, he set him before them.
 
 
 ## Chapter 23
@@ -1752,7 +1752,7 @@
 
 **23:34** And when he had read it, and had asked of what province he was, and understood that he was of Cilicia;
 
-**23:35** I will hear thee, said he, when thy accusers come. And he commanded him to be kept in Herod's judgment hall. The Acts of the Apostles next > Chapter 23 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**23:35** I will hear thee, said he, when thy accusers come. And he commanded him to be kept in Herod's judgment hall.
 
 
 ## Chapter 24
@@ -1809,7 +1809,7 @@
 
 **24:26** Hoping also withal, that money should be given him by Paul; for which cause also oftentimes sending for him, he spoke with him.
 
-**24:27** But when two years were ended, Felix had for successor Portius Festus. And Felix being willing to shew the Jews a pleasure, left Paul bound. The Acts of the Apostles next > Chapter 24 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**24:27** But when two years were ended, Felix had for successor Portius Festus. And Felix being willing to shew the Jews a pleasure, left Paul bound.
 
 
 ## Chapter 25
@@ -1866,7 +1866,7 @@
 
 **25:26** Of whom I have nothing certain to write to my lord. For which cause I have brought him forth before you, and especially before thee, O king Agrippa, that examination being made, I may have what to write.
 
-**25:27** For it seemeth to me unreasonable to send a prisoner, and not to signify the things laid to his charge. The Acts of the Apostles next > Chapter 25 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**25:27** For it seemeth to me unreasonable to send a prisoner, and not to signify the things laid to his charge.
 
 
 ## Chapter 26
@@ -1933,7 +1933,7 @@
 
 **26:31** And when they were gone aside, they spoke among themselves, saying: This man hath done nothing worthy of death or of bands.
 
-**26:32** And Agrippa said to Festus: This man might have been set at liberty, if he had not appealed to Caesar. The Acts of the Apostles next > Chapter 26 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**26:32** And Agrippa said to Festus: This man might have been set at liberty, if he had not appealed to Caesar.
 
 
 ## Chapter 27
@@ -2024,7 +2024,7 @@
 
 **27:43** But the centurion, willing to save Paul, forbade it to be done; and he commanded that they who could swim, should cast themselves first into the sea, and save themselves, and get to land.
 
-**27:44** And the rest, some they carried on boards, and some on those things that belonged to the ship. And so it came to pass, that every soul got safe to land. The Acts of the Apostles next > Chapter 27 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**27:44** And the rest, some they carried on boards, and some on those things that belonged to the ship. And so it came to pass, that every soul got safe to land.
 
 
 ## Chapter 28
@@ -2089,5 +2089,5 @@
 
 **28:30** And he remained two whole years in his own hired lodging; and he received all that came in to him,
 
-**28:31** Preaching the kingdom of God, and teaching the things which concern the Lord Jesus Christ, with all confidence, without prohibition. The Acts of the Apostles next > Chapter 28 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**28:31** Preaching the kingdom of God, and teaching the things which concern the Lord Jesus Christ, with all confidence, without prohibition.
 

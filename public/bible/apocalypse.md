@@ -40,7 +40,7 @@
 
 **1:19** Write therefore the things which thou hast seen, and which are, and which must be done hereafter.
 
-**1:20** The mystery of the seven stars, which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches. And the seven candlesticks are the seven churches. The Apocalypse of St John (Revelation) next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:20** The mystery of the seven stars, which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches. And the seven candlesticks are the seven churches.
 
 
 ## Chapter 2
@@ -101,7 +101,7 @@
 
 **2:28** As I also have received of my Father: and I will give him the morning star.
 
-**2:29** He that hath an ear, let him hear what the Spirit saith to the churches. The Apocalypse of St John (Revelation) next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:29** He that hath an ear, let him hear what the Spirit saith to the churches.
 
 
 ## Chapter 3
@@ -148,7 +148,7 @@
 
 **3:21** To him that shall overcome, I will give to sit with me in my throne: as I also have overcome, and am set down with my Father in his throne.
 
-**3:22** He that hath an ear, let him hear what the Spirit saith to the churches. The Apocalypse of St John (Revelation) next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:22** He that hath an ear, let him hear what the Spirit saith to the churches.
 
 
 ## Chapter 4
@@ -173,7 +173,7 @@
 
 **4:10** The four and twenty ancients fell down before him that sitteth on the throne, and adored him that liveth for ever and ever, and cast their crowns before the throne, saying:
 
-**4:11** Thou art worthy, O Lord our God, to receive glory, and honour, and power: because thou hast created all things; and for thy will they were, and have been created. The Apocalypse of St John (Revelation) next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:11** Thou art worthy, O Lord our God, to receive glory, and honour, and power: because thou hast created all things; and for thy will they were, and have been created.
 
 
 ## Chapter 5
@@ -204,7 +204,7 @@
 
 **5:13** And every creature, which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them: I heard all saying: To him that sitteth on the throne, and to the Lamb, benediction, and honour, and glory, and power, for ever and ever.
 
-**5:14** And the four living creatures said: Amen. And the four and twenty ancients fell down on their faces, and adored him that liveth for ever and ever. The Apocalypse of St John (Revelation) next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:14** And the four living creatures said: Amen. And the four and twenty ancients fell down on their faces, and adored him that liveth for ever and ever.
 
 
 ## Chapter 6
@@ -241,7 +241,7 @@
 
 **6:16** And they say to the mountains and the rocks: Fall upon us, and hide us from the face of him that sitteth upon the throne and from the wrath of the Lamb:
 
-**6:17** For the great day of their wrath is come, and who shall be able to stand? The Apocalypse of St John (Revelation) next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:17** For the great day of their wrath is come, and who shall be able to stand?
 
 
 ## Chapter 7
@@ -278,7 +278,7 @@
 
 **7:16** They shall no more hunger nor thirst, neither shall the sun fall on them, nor any heat.
 
-**7:17** For the Lamb, which is in the midst of the throne, shall rule them, and shall lead them to the fountains of the waters of life, and God shall wipe away all tears from their eyes. The Apocalypse of St John (Revelation) next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:17** For the Lamb, which is in the midst of the throne, shall rule them, and shall lead them to the fountains of the waters of life, and God shall wipe away all tears from their eyes.
 
 
 ## Chapter 8
@@ -307,7 +307,7 @@
 
 **8:12** And the fourth angel sounded the trumpet, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars, so that the third part of them was darkened, and the day did not shine for a third part of it, and the night in like manner.
 
-**8:13** And I beheld, and heard the voice of one eagle flying through the midst of heaven, saying with a loud voice: Woe, woe, woe to the inhabitants of the earth: by reason of the rest of the voices of the three angels, who are yet to sound the trumpet. The Apocalypse of St John (Revelation) next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:13** And I beheld, and heard the voice of one eagle flying through the midst of heaven, saying with a loud voice: Woe, woe, woe to the inhabitants of the earth: by reason of the rest of the voices of the three angels, who are yet to sound the trumpet.
 
 
 ## Chapter 9
@@ -352,7 +352,7 @@
 
 **9:20** And the rest of the men, who were not slain by these plagues, did not do penance from the works of their hands, that they should not adore devils, and idols of gold, and silver, and brass, and stone, and wood, which neither can see, nor hear, nor walk:
 
-**9:21** Neither did they penance from their murders, nor from their sorceries, nor from their fornication, nor from their thefts. The Apocalypse of St John (Revelation) next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:21** Neither did they penance from their murders, nor from their sorceries, nor from their fornication, nor from their thefts.
 
 
 ## Chapter 10
@@ -377,7 +377,7 @@
 
 **10:10** And I took the book from the hand of the angel, and ate it up: and it was in my mouth, sweet as honey: and when I had eaten it, my belly was bitter.
 
-**10:11** And he said to me: Thou must prophesy again to many nations, and peoples, and tongues, and kings. The Apocalypse of St John (Revelation) next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:11** And he said to me: Thou must prophesy again to many nations, and peoples, and tongues, and kings.
 
 
 ## Chapter 11
@@ -418,7 +418,7 @@
 
 **11:18** And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest render reward to thy servants the prophets and the saints, and to them that fear thy name, little and great, and shouldest destroy them who have corrupted the earth.
 
-**11:19** And the temple of God was opened in heaven: and the ark of his testament was seen in his temple, and there were lightnings, and voices, and an earthquake, and great hail. The Apocalypse of St John (Revelation) next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:19** And the temple of God was opened in heaven: and the ark of his testament was seen in his temple, and there were lightnings, and voices, and an earthquake, and great hail.
 
 
 ## Chapter 12
@@ -457,7 +457,7 @@
 
 **12:17** And the dragon was angry against the woman: and went to make war with the rest of her seed, who keep the commandments of God, and have the testimony of Jesus Christ.
 
-**12:18** And he stood upon the sand of the sea. The Apocalypse of St John (Revelation) next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:18** And he stood upon the sand of the sea.
 
 
 ## Chapter 13
@@ -496,7 +496,7 @@
 
 **13:17** And that no man might buy or sell, but he that hath the character, or the name of the beast, or the number of his name.
 
-**13:18** Here is wisdom. He that hath understanding, let him count the number of the beast. For it is the number of a man: and the number of him is six hundred sixty-six. The Apocalypse of St John (Revelation) next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:18** Here is wisdom. He that hath understanding, let him count the number of the beast. For it is the number of a man: and the number of him is six hundred sixty-six.
 
 
 ## Chapter 14
@@ -539,7 +539,7 @@
 
 **14:19** And the angel thrust in his sharp sickle into the earth, and gathered the vineyard of the earth, and cast it into the great press of the wrath of God:
 
-**14:20** And the press was trodden without the city, and blood came out of the press, up to the horses' bridles, for a thousand and six hundred furlongs. The Apocalypse of St John (Revelation) next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:20** And the press was trodden without the city, and blood came out of the press, up to the horses' bridles, for a thousand and six hundred furlongs.
 
 
 ## Chapter 15
@@ -558,7 +558,7 @@
 
 **15:7** And one of the four living creatures gave to the seven angels seven golden vials, full of the wrath of God, who liveth for ever and ever.
 
-**15:8** And the temple was filled with smoke from the majesty of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled. The Apocalypse of St John (Revelation) next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:8** And the temple was filled with smoke from the majesty of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.
 
 
 ## Chapter 16
@@ -603,7 +603,7 @@
 
 **16:20** And every island fled away, and the mountains were not found.
 
-**16:21** And great hail, like a talent, came down from heaven upon men: and men blasphemed God for the plague of the hail: because it was exceeding great. The Apocalypse of St John (Revelation) next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:21** And great hail, like a talent, came down from heaven upon men: and men blasphemed God for the plague of the hail: because it was exceeding great.
 
 
 ## Chapter 17
@@ -642,7 +642,7 @@
 
 **17:17** For God hath given into their hearts to do that which pleaseth him: that they give their kingdom to the beast, till the words of God be fulfilled.
 
-**17:18** And the woman which thou sawest, is the great city, which hath kingdom over the kings of the earth. The Apocalypse of St John (Revelation) next > Chapter 17 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**17:18** And the woman which thou sawest, is the great city, which hath kingdom over the kings of the earth.
 
 
 ## Chapter 18
@@ -693,7 +693,7 @@
 
 **18:23** And the light of the lamp shall shine no more at all in thee; and the voice of the bridegroom and the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth, for all nations have been deceived by thy enchantments.
 
-**18:24** And in her was found the blood of prophets and of saints, and of all that were slain upon the earth. The Apocalypse of St John (Revelation) next > Chapter 18 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**18:24** And in her was found the blood of prophets and of saints, and of all that were slain upon the earth.
 
 
 ## Chapter 19
@@ -738,7 +738,7 @@
 
 **19:20** And the beast was taken, and with him the false prophet, who wrought signs before him, wherewith he seduced them who received the character of the beast, and who adored his image. These two were cast alive into the pool of fire, burning with brimstone.
 
-**19:21** And the rest were slain by the sword of him that sitteth upon the horse, which proceedeth out of his mouth; and all the birds were filled with their flesh. The Apocalypse of St John (Revelation) next > Chapter 19 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**19:21** And the rest were slain by the sword of him that sitteth upon the horse, which proceedeth out of his mouth; and all the birds were filled with their flesh.
 
 
 ## Chapter 20
@@ -771,7 +771,7 @@
 
 **20:14** And hell and death were cast into the pool of fire. This is the second death.
 
-**20:15** And whosoever was not found written in the book of life, was cast into the pool of fire. The Apocalypse of St John (Revelation) next > Chapter 20 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**20:15** And whosoever was not found written in the book of life, was cast into the pool of fire.
 
 
 ## Chapter 21
@@ -828,7 +828,7 @@
 
 **21:26** And they shall bring the glory and honour of the nations into it.
 
-**21:27** There shall not enter into it any thing defiled, or that worketh abomination or maketh a lie, but they that are written in the book of life of the Lamb. The Apocalypse of St John (Revelation) next > Chapter 21 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**21:27** There shall not enter into it any thing defiled, or that worketh abomination or maketh a lie, but they that are written in the book of life of the Lamb.
 
 
 ## Chapter 22
@@ -873,5 +873,5 @@
 
 **22:20** He that giveth testimony of these things, saith, Surely I come quickly: Amen. Come, Lord Jesus.
 
-**22:21** The grace of our Lord Jesus Christ be with you all. Amen. Apocalypse (Revelation) next > Chapter 22 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**22:21** The grace of our Lord Jesus Christ be with you all. Amen.
 

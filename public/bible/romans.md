@@ -64,7 +64,7 @@
 
 **1:31** Foolish, dissolute, without affection, without fidelity, without mercy.
 
-**1:32** Who, having known the justice of God, did not understand that they who do such things, are worthy of death; and not only they that do them, but they also that consent to them that do them. Epistle of St Paul to the Romans next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:32** Who, having known the justice of God, did not understand that they who do such things, are worthy of death; and not only they that do them, but they also that consent to them that do them.
 
 
 ## Chapter 2
@@ -125,7 +125,7 @@
 
 **2:28** For it is not he is a Jew, who is so outwardly; nor is that circumcision which is outwardly in the flesh:
 
-**2:29** But he is a Jew, that is one inwardly; and the circumcision is that of the heart, in the spirit, not in the letter; whose praise is not of men, but of God. Epistle of St Paul to the Romans next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:29** But he is a Jew, that is one inwardly; and the circumcision is that of the heart, in the spirit, not in the letter; whose praise is not of men, but of God.
 
 
 ## Chapter 3
@@ -190,7 +190,7 @@
 
 **3:30** For it is one God, that justifieth circumcision by faith, and uncircumcision through faith.
 
-**3:31** Do we, then, destroy the law through faith? God forbid: but we establish the law. Epistle of St Paul to the Romans next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:31** Do we, then, destroy the law through faith? God forbid: but we establish the law.
 
 
 ## Chapter 4
@@ -243,7 +243,7 @@
 
 **4:24** But also for us, to whom it shall be reputed, if we believe in him, that raised up Jesus Christ, our Lord, from the dead,
 
-**4:25** Who was delivered up for our sins, and rose again for our justification. Epistle of St Paul to the Romans next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:25** Who was delivered up for our sins, and rose again for our justification.
 
 
 ## Chapter 5
@@ -288,7 +288,7 @@
 
 **5:20** Now the law entered in, that sin might abound. And where sin abounded, grace did more abound.
 
-**5:21** That as sin hath reigned to death; so also grace might reign by justice unto life everlasting, through Jesus Christ our Lord. Epistle of St Paul to the Romans next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:21** That as sin hath reigned to death; so also grace might reign by justice unto life everlasting, through Jesus Christ our Lord.
 
 
 ## Chapter 6
@@ -337,7 +337,7 @@
 
 **6:22** But now being made free from sin, and become servants to God, you have your fruit unto sanctification, and the end life everlasting.
 
-**6:23** For the wages of sin is death. But the grace of God, life everlasting, in Christ Jesus our Lord. Epistle of St Paul to the Romans next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:23** For the wages of sin is death. But the grace of God, life everlasting, in Christ Jesus our Lord.
 
 
 ## Chapter 7
@@ -390,7 +390,7 @@
 
 **7:24** Unhappy man that I am, who shall deliver me from the body of this death?
 
-**7:25** The grace of God, by Jesus Christ our Lord. Therefore, I myself, with the mind serve the law of God; but with the flesh, the law of sin. Epistle of St Paul to the Romans next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:25** The grace of God, by Jesus Christ our Lord. Therefore, I myself, with the mind serve the law of God; but with the flesh, the law of sin.
 
 
 ## Chapter 8
@@ -471,7 +471,7 @@
 
 **8:38** For I am sure that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor might,
 
-**8:39** Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord. Epistle of St Paul to the Romans next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:39** Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 
 
 ## Chapter 9
@@ -540,7 +540,7 @@
 
 **9:32** Why so? Because they sought it not by faith, but as it were of works. For they stumbled at the stumblingstone.
 
-**9:33** As it is written: Behold I lay in Sion a stumblingstone and a rock of scandal; and whosoever believeth in him shall not be confounded. Epistle of St Paul to the Romans next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:33** As it is written: Behold I lay in Sion a stumblingstone and a rock of scandal; and whosoever believeth in him shall not be confounded.
 
 
 ## Chapter 10
@@ -585,7 +585,7 @@
 
 **10:20** But Isaias is bold, and saith: I was found by them that did not seek me: I appeared openly to them that asked not after me.
 
-**10:21** But to Israel he saith: All the day long have I spread my hands to a people that believeth not, and contradicteth me. Epistle of St Paul to the Romans next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:21** But to Israel he saith: All the day long have I spread my hands to a people that believeth not, and contradicteth me.
 
 
 ## Chapter 11
@@ -660,7 +660,7 @@
 
 **11:35** Or who hath first given to him, and recompense shall be made him?
 
-**11:36** For of him, and by him, and in him, are all things: to him be glory for ever. Amen. Epistle of St Paul to the Romans next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:36** For of him, and by him, and in him, are all things: to him be glory for ever. Amen.
 
 
 ## Chapter 12
@@ -705,7 +705,7 @@
 
 **12:20** But if thy enemy be hungry, give him to eat; if he thirst, give him to drink. For, doing this, thou shalt heap coals of fire upon his head.
 
-**12:21** Be not overcome by evil, but overcome evil by good. Epistle of St Paul to the Romans next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:21** Be not overcome by evil, but overcome evil by good.
 
 
 ## Chapter 13
@@ -736,7 +736,7 @@
 
 **13:13** Let us walk honestly, as in the day: not in rioting and drunkenness, not in chambering and impurities, not in contention and envy:
 
-**13:14** But put ye on the Lord Jesus Christ, and make not provision for the flesh in its concupiscences. Epistle of St Paul to the Romans next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:14** But put ye on the Lord Jesus Christ, and make not provision for the flesh in its concupiscences.
 
 
 ## Chapter 14
@@ -785,7 +785,7 @@
 
 **14:22** Hast thou faith? Have it to thyself before God. Blessed is he that condemneth not himself in that which he alloweth.
 
-**14:23** But he that discerneth, if he eat, is condemned; because not of faith. For all that is not of faith is sin. Epistle of St Paul to the Romans next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:23** But he that discerneth, if he eat, is condemned; because not of faith. For all that is not of faith is sin.
 
 
 ## Chapter 15
@@ -854,7 +854,7 @@
 
 **15:32** That I may come to you with joy, by the will of God, and may be refreshed with you.
 
-**15:33** Now the God of peace be with you all. Amen. Epistle of St Paul to the Romans next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:33** Now the God of peace be with you all. Amen.
 
 
 ## Chapter 16
@@ -911,5 +911,5 @@
 
 **16:26** (Which now is made manifest by the scriptures of the prophets, according to the precept of the eternal God, for the obedience of faith,) known among all nations;
 
-**16:27** To God the only wise, through Jesus Christ, to whom be honour and glory for ever and ever. Amen. Epistle of St Paul to the Romans next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:27** To God the only wise, through Jesus Christ, to whom be honour and glory for ever and ever. Amen.
 

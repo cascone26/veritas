@@ -50,5 +50,5 @@
 
 **1:24** Mark, Aristarchus, Demas, and Luke my fellow labourers.
 
-**1:25** The grace of our Lord Jesus Christ be with your spirit. Amen. Epistle of St Paul to Philemon next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:25** The grace of our Lord Jesus Christ be with your spirit. Amen.
 

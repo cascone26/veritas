@@ -24,7 +24,7 @@
 
 **1:11** Wherefore also we pray always for you; that our God would make you worthy of his vocation, and fulfill all the good pleasure of his goodness and the work of faith in power;
 
-**1:12** That the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God, and of the Lord Jesus Christ. 2nd Epistle of St Paul to the Thessalonians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:12** That the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God, and of the Lord Jesus Christ. 2nd
 
 
 ## Chapter 2
@@ -59,7 +59,7 @@
 
 **2:15** Now our Lord Jesus Christ himself, and God and our Father, who hath loved us, and hath given us everlasting consolation, and good hope in grace,
 
-**2:16** Exhort your hearts, and confirm you in every good work and word. 2nd Epistle of St Paul to the Thessalonians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:16** Exhort your hearts, and confirm you in every good work and word. 2nd
 
 
 ## Chapter 3
@@ -98,5 +98,5 @@
 
 **3:17** The salutation of Paul with my own hand; which is the sign in every epistle. So I write.
 
-**3:18** The grace of our Lord Jesus Christ be with you all. Amen. 2nd Epistle of St Paul to the Thessalonians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:18** The grace of our Lord Jesus Christ be with you all. Amen. 2nd
 

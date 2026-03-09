@@ -90,7 +90,7 @@
 
 **1:44** And he saith to him: See thou tell no one; but go, shew thyself to the high priest, and offer for thy cleansing the things that Moses commanded, for a testimony to them.
 
-**1:45** But he being gone out, began to publish and to blaze abroad the word: so that he could not openly go into the city, but was without in desert places: and they flocked to him from all sides. Gospel According to St Mark next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:45** But he being gone out, began to publish and to blaze abroad the word: so that he could not openly go into the city, but was without in desert places: and they flocked to him from all sides.
 
 
 ## Chapter 2
@@ -149,7 +149,7 @@
 
 **2:27** And he said to them: The sabbath was made for man, and not man for the sabbath.
 
-**2:28** Therefore the Son of man is Lord of the sabbath also. Gospel According to St Mark next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:28** Therefore the Son of man is Lord of the sabbath also.
 
 
 ## Chapter 3
@@ -222,7 +222,7 @@
 
 **3:34** And looking round about on them who sat about him, he saith: Behold my mother and my brethren.
 
-**3:35** For whosoever shall do the will of God, he is my brother, and my sister, and mother. Gospel According to St Mark next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:35** For whosoever shall do the will of God, he is my brother, and my sister, and mother.
 
 
 ## Chapter 4
@@ -305,7 +305,7 @@
 
 **4:39** And rising up, he rebuked the wind, and said to the sea: Peace, be still. And the wind ceased: and there was made a great calm.
 
-**4:40** And he said to them: Why are you fearful? have you not faith yet? And they feared exceedingly: and they said one to another: Who is this (thinkest thou) that both wind and sea obey him? Gospel According to St Mark next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:40** And he said to them:
 
 
 ## Chapter 5
@@ -394,7 +394,7 @@
 
 **5:42** And immediately the damsel rose up, and walked: and she was twelve years old: and they were astonished with a great astonishment.
 
-**5:43** And he charged them strictly that no man should know it: and commanded that something should be given her to eat. Gospel According to St Mark next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:43** And he charged them strictly that no man should know it: and commanded that something should be given her to eat.
 
 
 ## Chapter 6
@@ -509,7 +509,7 @@
 
 **6:55** And running through that whole country, they began to carry about in beds those that were sick, where they heard he was.
 
-**6:56** And whithersoever he entered, into towns or into villages or cities, they laid the sick in the streets, and besought him that they might touch but the hem of his garment: and as many as touched him were made whole. Gospel According to St Mark next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:56** And whithersoever he entered, into towns or into villages or cities, they laid the sick in the streets, and besought him that they might touch but the hem of his garment: and as many as touched him were made whole.
 
 
 ## Chapter 7
@@ -586,7 +586,7 @@
 
 **7:36** And he charged them that they should tell no man. But the more he charged them, so much the more a great deal did they publish it.
 
-**7:37** And so much the more did they wonder, saying: He hath done all things well; he hath made both the deaf to hear, and the dumb to speak. Gospel According to St Mark next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:37** And so much the more did they wonder, saying: He hath done all things well; he hath made both the deaf to hear, and the dumb to speak.
 
 
 ## Chapter 8
@@ -667,7 +667,7 @@
 
 **8:38** For he that shall be ashamed of me, and of my words, in this adulterous and sinful generation: the Son of man also will be ashamed of him, when he shall come in the glory of his Father with the holy angels.
 
-**8:39** And he said to them: Amen I say to you, that there are some of them that stand here, who shall not taste death, till they see the kingdom of God coming in power. Gospel According to St Mark next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:39** And he said to them: Amen I say to you, that there are some of them that stand here, who shall not taste death, till they see the kingdom of God coming in power.
 
 
 ## Chapter 9
@@ -768,7 +768,7 @@
 
 **9:48** For every one shall be salted with fire: and every victim shall be salted with salt.
 
-**9:49** Salt is good. But if the salt became unsavoury; wherewith will you season it? Have salt in you, and have peace among you. Gospel According to St Mark next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:49** Salt is good. But if the salt became unsavoury; wherewith will you season it? Have salt in you, and have peace among you.
 
 
 ## Chapter 10
@@ -875,7 +875,7 @@
 
 **10:51** And Jesus answering, said to him: What wilt thou that I should do to thee? And the blind man said to him: Rabboni, that I may see.
 
-**10:52** And Jesus saith to him: Go thy way, thy faith hath made thee whole. And immediately he saw, and followed him in the way. Gospel According to St Mark next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:52** And Jesus saith to him: Go thy way, thy faith hath made thee whole. And immediately he saw, and followed him in the way.
 
 
 ## Chapter 11
@@ -944,7 +944,7 @@
 
 **11:32** If we say, From men, we fear the people. For all men counted John that he was a prophet indeed.
 
-**11:33** And they answering, say to Jesus: We know not. And Jesus answering, saith to them: Neither do I tell you by what authority I do these things. Gospel According to St Mark next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:33** And they answering, say to Jesus: We know not. And Jesus answering, saith to them: Neither do I tell you by what authority I do these things.
 
 
 ## Chapter 12
@@ -1035,7 +1035,7 @@
 
 **12:43** And calling his disciples together, he saith to them: Amen I say to you, this poor widow hath cast in more than all they who have cast into the treasury.
 
-**12:44** For all they did cast in of their abundance; but she of her want cast in all she had, even her whole living. Gospel According to St Mark next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:44** For all they did cast in of their abundance; but she of her want cast in all she had, even her whole living.
 
 
 ## Chapter 13
@@ -1112,7 +1112,7 @@
 
 **13:36** Lest coming on a sudden, he find you sleeping.
 
-**13:37** And what I say to you, I say to all: Watch. Gospel According to St Mark next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:37** And what I say to you, I say to all: Watch.
 
 
 ## Chapter 14
@@ -1259,7 +1259,7 @@
 
 **14:71** But he began to curse and to swear, saying; I know not this man of whom you speak.
 
-**14:72** And immediately the cock crew again. And Peter remembered the word that Jesus had said unto him: Before the cock crow twice, thou shalt thrice deny me. And he began to weep. Gospel According to St Mark next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:72** And immediately the cock crew again. And Peter remembered the word that Jesus had said unto him: Before the cock crow twice, thou shalt thrice deny me. And he began to weep.
 
 
 ## Chapter 15
@@ -1356,7 +1356,7 @@
 
 **15:46** And Joseph buying fine linen, and taking him down, wrapped him up in the fine linen, and laid him in a sepulchre which was hewed out of a rock. And he rolled a stone to the door of the sepulchre.
 
-**15:47** And Mary Magdalen, and Mary the mother of Joseph, beheld where he was laid. Gospel According to St Mark next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:47** And Mary Magdalen, and Mary the mother of Joseph, beheld where he was laid.
 
 
 ## Chapter 16
@@ -1399,5 +1399,5 @@
 
 **16:19** And the Lord Jesus, after he had spoken to them, was taken up into heaven, and sitteth on the right hand of God.
 
-**16:20** But they going forth preached everywhere: the Lord working withal, and confirming the word with signs that followed. Gospel According to St Mark next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:20** But they going forth preached everywhere: the Lord working withal, and confirming the word with signs that followed.
 

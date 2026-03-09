@@ -44,7 +44,7 @@
 
 **1:21** And because the midwives feared God, he built them houses.
 
-**1:22** Pharao therefore charged all his people, saying: Whatsoever shall be born of the male sex, ye shall cast into the river: whatsoever of the female, ye shall save alive. Book of Exodus next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:22** Pharao therefore charged all his people, saying: Whatsoever shall be born of the male sex, ye shall cast into the river: whatsoever of the female, ye shall save alive.
 
 
 ## Chapter 2
@@ -97,7 +97,7 @@
 
 **2:24** And he heard their groaning, and remembered the covenant which he made with Abraham, Isaac, and Jacob.
 
-**2:25** And the Lord looked upon the children of Israel, and he knew them. Book of Exodus next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:25** And the Lord looked upon the children of Israel, and he knew them.
 
 
 ## Chapter 3
@@ -144,7 +144,7 @@
 
 **3:21** And I will give favour to this people, in the sight of the Egyptians: and when you go forth, you shall not depart empty:
 
-**3:22** But every woman shall ask of her neighbour, and of her that is in her house, vessels of silver and of gold, and raiment: and you shall put them on your sons and daughters, and shall spoil Egypt. Book of Exodus next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:22** But every woman shall ask of her neighbour, and of her that is in her house, vessels of silver and of gold, and raiment: and you shall put them on your sons and daughters, and shall spoil Egypt.
 
 
 ## Chapter 4
@@ -209,7 +209,7 @@
 
 **4:30** And Aaron spoke all the words which the Lord had said to Moses: and he wrought the signs before the people,
 
-**4:31** And the people believed. And they heard that the Lord had visited the children of Israel: and that he had looked upon their affliction: and falling down they adored. Book of Exodus next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:31** And the people believed. And they heard that the Lord had visited the children of Israel: and that he had looked upon their affliction: and falling down they adored.
 
 
 ## Chapter 5
@@ -258,7 +258,7 @@
 
 **5:22** And Moses returned to the Lord, and said: Lord, why hast thou afflicted this people? wherefore hast thou sent me?
 
-**5:23** For since the time that I went in to Pharao to speak in thy name, he hath afflicted thy people: and thou hast not delivered them. Book of Exodus next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:23** For since the time that I went in to Pharao to speak in thy name, he hath afflicted thy people: and thou hast not delivered them.
 
 
 ## Chapter 6
@@ -321,7 +321,7 @@
 
 **6:29** And the Lord spoke to Moses, saying: I am the Lord: speak thou to Pharao king of Egypt all that I say to thee.
 
-**6:30** And Moses said before the Lord: Lo I am of uncircumcised lips, how will Pharao hear me? Book of Exodus next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:30** And Moses said before the Lord:
 
 
 ## Chapter 7
@@ -374,7 +374,7 @@
 
 **7:24** And all the Egyptians dug round about the river for water to drink: for they could not drink of the water of the river.
 
-**7:25** And seven days were fully ended, after that the Lord struck the river. Book of Exodus next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:25** And seven days were fully ended, after that the Lord struck the river.
 
 
 ## Chapter 8
@@ -441,7 +441,7 @@
 
 **8:31** And he did according to his word: and he took away the flies from Pharao, and from his servants, and from his people: there was not left so much as one.
 
-**8:32** And Pharao's heart was hardened, so that neither this time would he let the people go. Book of Exodus next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:32** And Pharao's heart was hardened, so that neither this time would he let the people go.
 
 
 ## Chapter 9
@@ -514,7 +514,7 @@
 
 **9:34** And Pharao seeing that the rain and the hail, and the thunders were ceased, increased his sin.
 
-**9:35** And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses. Book of Exodus next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:35** And his heart was hardened, and the heart of his servants, and it was made exceeding hard: neither did he let the children of Israel go, as the Lord had commanded by the hand of Moses.
 
 
 ## Chapter 10
@@ -575,7 +575,7 @@
 
 **10:28** And Pharao said to Moses: Get thee from me, and beware thou see not my face any more: in what day soever thou shalt come in my sight, thou shalt die.
 
-**10:29** Moses answered: So shall it be as thou hast spoken, I will not see thy face any more. Book of Exodus next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:29** Moses answered: So shall it be as thou hast spoken, I will not see thy face any more.
 
 
 ## Chapter 11
@@ -598,7 +598,7 @@
 
 **11:9** And he went out from Pharao exceeding angry. But the Lord said to Moses: Pharao will not hear you, that many signs may be done in the land of Egypt.
 
-**11:10** And Moses and Aaron did all the wonders that are written, before Pharao. And the Lord hardened Pharao's heart, neither did he let the children of Israel go out of his land. Book of Exodus next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:10** And Moses and Aaron did all the wonders that are written, before Pharao. And the Lord hardened Pharao's heart, neither did he let the children of Israel go out of his land.
 
 
 ## Chapter 12
@@ -703,7 +703,7 @@
 
 **12:50** And all the children of Israel did as the Lord had commanded Moses and Aaron.
 
-**12:51** And the same day the Lord brought forth the children of Israel out of the land of Egypt by their companies. Book of Exodus next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:51** And the same day the Lord brought forth the children of Israel out of the land of Egypt by their companies.
 
 
 ## Chapter 13
@@ -750,7 +750,7 @@
 
 **13:21** And the Lord went before them to shew the way by day in a pillar of a cloud, and by night in a pillar of fire: that he might be the guide of their journey at both times.
 
-**13:22** There never failed the pillar of the cloud by day, nor the pillar of fire by night, before the people. Book of Exodus next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:22** There never failed the pillar of the cloud by day, nor the pillar of fire by night, before the people.
 
 
 ## Chapter 14
@@ -815,7 +815,7 @@
 
 **14:30** And the Lord delivered Israel on that day out of the hands of the Egyptians.
 
-**14:31** And they saw the Egyptians dead upon the sea shore, and the mighty hand that the Lord had used against them: and the people feared the Lord, and they believed the Lord, and Moses his servant. Book of Exodus next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:31** And they saw the Egyptians dead upon the sea shore, and the mighty hand that the Lord had used against them: and the people feared the Lord, and they believed the Lord, and Moses his servant.
 
 
 ## Chapter 15
@@ -872,7 +872,7 @@
 
 **15:26** Saying: If thou wilt hear the voice of the Lord thy God, and do what is right before him, and obey his commandments, and keep all his precepts, none of the evils that I laid upon Egypt, will I bring upon thee: for I am the Lord thy healer.
 
-**15:27** And the children of Israel came into Elim, where there were twelve fountains of water, and seventy palm trees: and they encamped by the waters. Book of Exodus next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:27** And the children of Israel came into Elim, where there were twelve fountains of water, and seventy palm trees: and they encamped by the waters.
 
 
 ## Chapter 16
@@ -947,7 +947,7 @@
 
 **16:35** And the children of Israel ate manna forty years, till they came to a habitable land: with this meat were they fed, until they reached the borders of the land of Chanaan.
 
-**16:36** Now a gomor is the tenth part of an ephi. Book of Exodus next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:36** Now a gomor is the tenth part of an ephi.
 
 
 ## Chapter 17
@@ -982,7 +982,7 @@
 
 **17:15** And Moses built an altar: and called the name thereof, The Lord my exaltation, saying:
 
-**17:16** Because the hand of the throne of the Lord, and the war of the Lord shall be against Amalec, from generation to generation. Book of Exodus next > Chapter 17 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**17:16** Because the hand of the throne of the Lord, and the war of the Lord shall be against Amalec, from generation to generation.
 
 
 ## Chapter 18
@@ -1039,7 +1039,7 @@
 
 **18:26** And they judged the people at all times: and whatsoever was of greater difficulty they referred to him, and they judged the easier cases only.
 
-**18:27** And he let his kinsman depart: and he returned and went into his own country. Book of Exodus next > Chapter 18 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**18:27** And he let his kinsman depart: and he returned and went into his own country.
 
 
 ## Chapter 19
@@ -1092,7 +1092,7 @@
 
 **19:24** And the Lord said to him: Go, get thee down: and thou shalt come up, thou and Aaron with thee: but let not the priests and the people pass the limits, nor come up to the Lord, lest he kill them.
 
-**19:25** And Moses went down to the people and told them all. Book of Exodus next > Chapter 19 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**19:25** And Moses went down to the people and told them all.
 
 
 ## Chapter 20
@@ -1147,7 +1147,7 @@
 
 **20:25** And if thou make an altar of stone unto me, thou shalt not build it of hewn stones: for if thou lift up a tool upon it, it shall be defiled.
 
-**20:26** Thou shalt not go up by steps unto my altar, lest thy nakedness be discovered. Book of Exodus next > Chapter 20 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**20:26** Thou shalt not go up by steps unto my altar, lest thy nakedness be discovered.
 
 
 ## Chapter 21
@@ -1222,7 +1222,7 @@
 
 **21:35** If one man's ox gore another man's ox, and he die: they shall sell the live ox, and shall divide the price, and the carcass of that which died they shall part between them:
 
-**21:36** But if he knew that his ox was wont to push yesterday and the day before, and his master did not keep him in: he shall pay ox for ox, and shall take the whole carcass. Book of Exodus next > Chapter 21 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**21:36** But if he knew that his ox was wont to push yesterday and the day before, and his master did not keep him in: he shall pay ox for ox, and shall take the whole carcass.
 
 
 ## Chapter 22
@@ -1287,7 +1287,7 @@
 
 **22:30** Thou shalt do the same with the firstborn of thy oxen also and sheep: seven days let it be with its dam, the eighth day thou shalt give it to me.
 
-**22:31** You shall be holy men to me: the flesh that beasts have tasted of before, you shall not eat, but shall cast it to the dogs. Book of Exodus next > Chapter 22 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**22:31** You shall be holy men to me: the flesh that beasts have tasted of before, you shall not eat, but shall cast it to the dogs.
 
 
 ## Chapter 23
@@ -1356,7 +1356,7 @@
 
 **23:32** Thou shalt not enter into league with them, nor with their gods.
 
-**23:33** Let them not dwell in thy land, lest perhaps they make thee sin against me, if thou serve their gods: which undoubtedly will be a scandal to thee. Book of Exodus next > Chapter 23 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**23:33** Let them not dwell in thy land, lest perhaps they make thee sin against me, if thou serve their gods: which undoubtedly will be a scandal to thee.
 
 
 ## Chapter 24
@@ -1395,7 +1395,7 @@
 
 **24:17** And the sight of the glory of the Lord was like a burning fire upon the top of the mount, in the eyes of the children of Israel.
 
-**24:18** And Moses, entering into the midst of the cloud, went up into the mountain: and he was there forty days, and forty nights. Book of Exodus next > Chapter 24 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**24:18** And Moses, entering into the midst of the cloud, went up into the mountain: and he was there forty days, and forty nights.
 
 
 ## Chapter 25
@@ -1478,7 +1478,7 @@
 
 **25:39** The whole weight of the candlestick with all the furniture thereof shall be a talent of the purest gold.
 
-**25:40** Look and make it according to the pattern, that was shewn thee in the mount. Book of Exodus next > Chapter 25 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**25:40** Look and make it according to the pattern, that was shewn thee in the mount.
 
 
 ## Chapter 26
@@ -1555,7 +1555,7 @@
 
 **26:36** Thou shalt make also a hanging in the entrance of the tabernacle of violet and purple, and scarlet twice dyed, and fine twisted linen with embroidered work.
 
-**26:37** And thou shalt overlay with gold five pillars of setim wood, before which the hanging shall be drawn: their heads shall be of gold, and the sockets of brass. Book of Exodus next > Chapter 26 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**26:37** And thou shalt overlay with gold five pillars of setim wood, before which the hanging shall be drawn: their heads shall be of gold, and the sockets of brass.
 
 
 ## Chapter 27
@@ -1600,7 +1600,7 @@
 
 **27:20** Command the children of Israel that they bring thee the purest oil of the olives, and beaten with a pestle: that a lamp may burn always,
 
-**27:21** In the tabernacle of the testimony without the veil that hangs before the testimony. And Aaron and his sons shall order it, that it may give light before the Lord until the morning. It shall be a perpetual observance throughout their successions among the children of Israel. Book of Exodus next > Chapter 27 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**27:21** In the tabernacle of the testimony without the veil that hangs before the testimony. And Aaron and his sons shall order it, that it may give light before the Lord until the morning. It shall be a perpetual observance throughout their successions among the children of Israel.
 
 
 ## Chapter 28
@@ -1689,7 +1689,7 @@
 
 **28:42** Thou shalt make also linen breeches, to cover the flesh of their nakedness from the reins to the thighs:
 
-**28:43** And Aaron and his sons shall use them when they shall go in to the tabernacle of the testimony, or when they approach the altar to minister in the sanctuary, lest being guilty of iniquity they die. It shall be a law for ever to Aaron, and to his seed after him. Book of Exodus next > Chapter 28 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**28:43** And Aaron and his sons shall use them when they shall go in to the tabernacle of the testimony, or when they approach the altar to minister in the sanctuary, lest being guilty of iniquity they die. It shall be a law for ever to Aaron, and to his seed after him.
 
 
 ## Chapter 29
@@ -1784,7 +1784,7 @@
 
 **29:45** And I will dwell in the midst of the children of Israel, and will be their God:
 
-**29:46** And they shall know that I am the Lord their God, who have brought them out of the land of Egypt, that I might abide among them, I the Lord their God. Book of Exodus next > Chapter 29 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**29:46** And they shall know that I am the Lord their God, who have brought them out of the land of Egypt, that I might abide among them, I the Lord their God.
 
 
 ## Chapter 30
@@ -1863,7 +1863,7 @@
 
 **30:37** You shall not make such a composition for your own uses, because it is holy to the Lord.
 
-**30:38** What man soever shall make the like, to enjoy the smell thereof, he shall perish out of his people. Book of Exodus next > Chapter 30 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**30:38** What man soever shall make the like, to enjoy the smell thereof, he shall perish out of his people.
 
 
 ## Chapter 31
@@ -1902,7 +1902,7 @@
 
 **31:17** Between me and the children of Israel, and a perpetual sign. For in six days the Lord made heaven and earth, and in the seventh he ceased from work.
 
-**31:18** And the Lord, when he had ended these words in mount Sinai, gave to Moses two stone tables of testimony, written with the finger of God. Book of Exodus next > Chapter 31 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**31:18** And the Lord, when he had ended these words in mount Sinai, gave to Moses two stone tables of testimony, written with the finger of God.
 
 
 ## Chapter 32
@@ -1975,7 +1975,7 @@
 
 **32:34** But go thou, and lead this people whither I have told thee: my angel shall go before thee. And I in the day of revenge will visit this sin also of theirs.
 
-**32:35** The Lord therefore struck the people for the guilt on occasion of the calf which Aaron had made. Book of Exodus next > Chapter 32 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**32:35** The Lord therefore struck the people for the guilt on occasion of the calf which Aaron had made.
 
 
 ## Chapter 33
@@ -2024,7 +2024,7 @@
 
 **33:22** And when my glory shall pass, I will set thee in a hole of the rock, and protect thee with my right hand, till I pass:
 
-**33:23** And I will take away my hand, and thou shalt see my back parts: but my face thou canst not see. Book of Exodus next > Chapter 33 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**33:23** And I will take away my hand, and thou shalt see my back parts: but my face thou canst not see.
 
 
 ## Chapter 34
@@ -2097,7 +2097,7 @@
 
 **34:34** But when he went in to the Lord, and spoke with him, he took it away until he came forth, and then he spoke to the children of Israel all things that had been commanded him.
 
-**34:35** And they saw that the face of Moses when he came out was horned, but he covered his face again, if at any time he spoke to them. Book of Exodus next > Chapter 34 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**34:35** And they saw that the face of Moses when he came out was horned, but he covered his face again, if at any time he spoke to them.
 
 
 ## Chapter 35
@@ -2170,7 +2170,7 @@
 
 **35:34** He hath given in his heart: Ooliab also the son of Achisamech of the tribe of Dan:
 
-**35:35** Both of them hath he instructed with wisdom, to do carpenters' work and tapestry, and embroidery in blue and purple, and scarlet twice dyed, and fine linen, and to weave all things, and to invent all new things. Book of Exodus next > Chapter 35 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**35:35** Both of them hath he instructed with wisdom, to do carpenters' work and tapestry, and embroidery in blue and purple, and scarlet twice dyed, and fine linen, and to weave all things, and to invent all new things.
 
 
 ## Chapter 36
@@ -2249,7 +2249,7 @@
 
 **36:37** He made also a hanging in the entry of the tabernacle of violet, purple, scarlet, and fine twisted linen, with the work of an embroiderer.
 
-**36:38** And five pillars with their heads, which he covered with gold, and their sockets he cast of brass. Book of Exodus next > Chapter 36 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**36:38** And five pillars with their heads, which he covered with gold, and their sockets he cast of brass.
 
 
 ## Chapter 37
@@ -2310,7 +2310,7 @@
 
 **37:28** And the bars themselves he made also of setim wood, and overlaid them with plates of gold.
 
-**37:29** He compounded also the oil for the ointment of sanctification, and incense of the purest spices, according to the work of a perfumer. Book of Exodus next > Chapter 37 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**37:29** He compounded also the oil for the ointment of sanctification, and incense of the purest spices, according to the work of a perfumer.
 
 
 ## Chapter 38
@@ -2375,7 +2375,7 @@
 
 **38:30** Of which were cast the sockets in the entry of the tabernacle of the testimony, and the altar of brass with the grate thereof, and all the vessels that belong to the use thereof.
 
-**38:31** And the sockets of the court as well round about as in the entry thereof, and the pins of the tabernacle and of the court round about. Book of Exodus next > Chapter 38 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**38:31** And the sockets of the court as well round about as in the entry thereof, and the pins of the tabernacle and of the court round about.
 
 
 ## Chapter 39
@@ -2464,7 +2464,7 @@
 
 **39:42** The children of Israel offered as the Lord had commanded.
 
-**39:43** And when Moses saw all things finished, he blessed them. Book of Exodus next > Chapter 39 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**39:43** And when Moses saw all things finished, he blessed them.
 
 
 ## Chapter 40
@@ -2539,5 +2539,5 @@
 
 **40:35** If it hung over, they remained in the same place.
 
-**40:36** For the cloud of the Lord hung over the tabernacle by day, and a fire by night, in the sight of all the children of Israel throughout all their mansions. Book of Exodus next > Chapter 40 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**40:36** For the cloud of the Lord hung over the tabernacle by day, and a fire by night, in the sight of all the children of Israel throughout all their mansions.
 

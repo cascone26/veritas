@@ -50,5 +50,5 @@
 
 **1:24** Now to him who is able to preserve you without sin, and to present you spotless before the presence of his glory with exceeding joy, in the coming of our Lord Jesus Christ,
 
-**1:25** To the only God our Saviour through Jesus Christ our Lord, be glory and magnificence, empire and power, before all ages, and now, and for all ages of ages. Amen. Epistle of St Jude next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:25** To the only God our Saviour through Jesus Christ our Lord, be glory and magnificence, empire and power, before all ages, and now, and for all ages of ages. Amen.
 

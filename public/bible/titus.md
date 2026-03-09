@@ -32,7 +32,7 @@
 
 **1:15** All things are clean to the clean: but to them that are defiled, and to unbelievers, nothing is clean: but both their mind and their conscience are defiled.
 
-**1:16** They profess that they know God: but in their works they deny him; being abominable, and incredulous, and to every good work reprobate. Epistle of St Paul to Titus next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:16** They profess that they know God: but in their works they deny him; being abominable, and incredulous, and to every good work reprobate.
 
 
 ## Chapter 2
@@ -65,7 +65,7 @@
 
 **2:14** Who gave himself for us, that he might redeem us from all iniquity, and might cleanse to himself a people acceptable, a pursuer of good works.
 
-**2:15** These things speak, and exhort and rebuke with all authority. Let no man despise thee. Epistle of St Paul to Titus next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:15** These things speak, and exhort and rebuke with all authority. Let no man despise thee.
 
 
 ## Chapter 3
@@ -98,5 +98,5 @@
 
 **3:14** And let our men also learn to excel in good works for necessary uses: that they be not unfruitful.
 
-**3:15** All that are with me salute thee: salute them that love us in the faith. The grace of God be with you all. Amen. Epistle of St Paul to Titus next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:15** All that are with me salute thee: salute them that love us in the faith. The grace of God be with you all. Amen.
 

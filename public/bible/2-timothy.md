@@ -36,7 +36,7 @@
 
 **1:17** But when he was come to Rome, he carefully sought me, and found me.
 
-**1:18** The Lord grant unto him to find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou very well knowest. 2nd Epistle of St Paul to Timothy next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:18** The Lord grant unto him to find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou very well knowest. 2nd
 
 
 ## Chapter 2
@@ -91,7 +91,7 @@
 
 **2:25** With modesty admonishing them that resist the truth: if peradventure God may give them repentance to know the truth,
 
-**2:26** And they may recover themselves from the snares of the devil, by whom they are held captive at his will. 2nd Epistle of St Paul to Timothy next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:26** And they may recover themselves from the snares of the devil, by whom they are held captive at his will. 2nd
 
 
 ## Chapter 3
@@ -128,7 +128,7 @@
 
 **3:16** All scripture, inspired of God, is profitable to teach, to reprove, to correct, to instruct in justice,
 
-**3:17** That the man of God may be perfect, furnished to every good work. 2nd Epistle of St Paul to Timothy next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:17** That the man of God may be perfect, furnished to every good work. 2nd
 
 
 ## Chapter 4
@@ -175,5 +175,5 @@
 
 **4:21** Make haste to come before winter. Eubulus and Pudens, and Linus and Claudia, and all the brethren, salute thee.
 
-**4:22** The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. 2nd Epistle of St Paul to Timothy next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:22** The Lord Jesus Christ be with thy spirit. Grace be with you. Amen. 2nd
 

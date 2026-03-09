@@ -26,5 +26,5 @@
 
 **1:12** Having more things to write unto you, I would not by paper and ink: for I hope that I shall be with you, and speak face to face: that your joy may be full.
 
-**1:13** The children of thy sister Elect salute thee. 2nd Epistle of St John next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:13** The children of thy sister Elect salute thee. 2nd
 

@@ -58,7 +58,7 @@
 
 **1:28** Whom we preach, admonishing every man, and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus.
 
-**1:29** Wherein also I labour, striving according to his working which he worketh in me in power. Epistle of St Paul to the Colossians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:29** Wherein also I labour, striving according to his working which he worketh in me in power.
 
 
 ## Chapter 2
@@ -107,7 +107,7 @@
 
 **2:22** Which all are unto destruction by the very use, according to the precepts and doctrines of men.
 
-**2:23** Which things have indeed a shew of wisdom in superstition and humility, and not sparing the body; not in any honour to the filling of the flesh. Epistle of St Paul to the Colossians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:23** Which things have indeed a shew of wisdom in superstition and humility, and not sparing the body; not in any honour to the filling of the flesh.
 
 
 ## Chapter 3
@@ -160,7 +160,7 @@
 
 **3:24** Knowing that you shall receive of the Lord the reward of inheritance. Serve ye the Lord Christ.
 
-**3:25** For he that doth wrong, shall receive for that which he hath done wrongfully: and there is no respect of persons with God. Epistle of St Paul to the Colossians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:25** For he that doth wrong, shall receive for that which he hath done wrongfully: and there is no respect of persons with God.
 
 
 ## Chapter 4
@@ -199,5 +199,5 @@
 
 **4:17** And say to Archippus: Take heed to the ministry which thou hast received in the Lord, that thou fulfill it.
 
-**4:18** The salutation of Paul with my own hand. Be mindful of my bands. Grace be with you. Amen. Epistle of St Paul to the Colossians next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:18** The salutation of Paul with my own hand. Be mindful of my bands. Grace be with you. Amen.
 

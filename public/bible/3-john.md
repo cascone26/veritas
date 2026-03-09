@@ -28,5 +28,5 @@
 
 **1:13** I had many things to write unto thee: but I would not by ink and pen write to thee.
 
-**1:14** But I hope speedily to see thee, and we will speak mouth to mouth. Peace be to thee. Our friends salute thee. Salute the friends by name. 3rd Epistle of St John next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:14** But I hope speedily to see thee, and we will speak mouth to mouth. Peace be to thee. Our friends salute thee. Salute the friends by name. 3rd
 

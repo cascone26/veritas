@@ -26639,7 +26639,3 @@ another.
 
 
 The End
-
-
-End of the Project Gutenberg EBook of An Essay Concerning Humane
-Understanding, Volume II., by John Locke

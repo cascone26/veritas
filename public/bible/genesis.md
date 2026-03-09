@@ -62,7 +62,7 @@
 
 **1:30** And to all beasts of the earth, and to every fowl of the air, and to all that move upon the earth, and wherein there is life, that they may have to feed upon. And it was so done.
 
-**1:31** And God saw all the things that he had made, and they were very good. And the evening and morning were the sixth day. Book of Genesis next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:31** And God saw all the things that he had made, and they were very good. And the evening and morning were the sixth day.
 
 
 ## Chapter 2
@@ -115,7 +115,7 @@
 
 **2:24** Wherefore a man shall leave father and mother, and shall cleave to his wife: and they shall be two in one flesh.
 
-**2:25** And they were both naked: to wit, Adam and his wife: and were not ashamed. Book of Genesis next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:25** And they were both naked: to wit, Adam and his wife: and were not ashamed.
 
 
 ## Chapter 3
@@ -166,7 +166,7 @@
 
 **3:23** And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken.
 
-**3:24** And he cast out Adam; and placed before the paradise of pleasure Cherubims, and a flaming sword, turning every way, to keep the way of the tree of life. Book of Genesis next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:24** And he cast out Adam; and placed before the paradise of pleasure Cherubims, and a flaming sword, turning every way, to keep the way of the tree of life.
 
 
 ## Chapter 4
@@ -221,7 +221,7 @@
 
 **4:25** Adam also knew his wife again: and she brought forth a son, and called his name Seth, saying: God hath given me another seed, for Abel whom Cain slew.
 
-**4:26** But to Seth also was born a son, whom he called Enos; this man began to call upon the name of the Lord. Book of Genesis next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:26** But to Seth also was born a son, whom he called Enos; this man began to call upon the name of the Lord.
 
 
 ## Chapter 5
@@ -286,7 +286,7 @@
 
 **5:30** And Lamech lived after he begot Noe, five hundred and ninety-five years, and begot sons and daughters.
 
-**5:31** And all the days of Lamech came to seven hundred and seventy-seven years, and he died. And Noe, when he was five hundred years old, begot Sem, Cham, and Japheth. Book of Genesis next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:31** And all the days of Lamech came to seven hundred and seventy-seven years, and he died. And Noe, when he was five hundred years old, begot Sem, Cham, and Japheth.
 
 
 ## Chapter 6
@@ -333,7 +333,7 @@
 
 **6:21** Thou shalt take unto thee of all food that may be eaten, and thou shalt lay it up with thee: and it shall be food for thee and them.
 
-**6:22** And Noe did all things which God commanded him. Book of Genesis next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:22** And Noe did all things which God commanded him.
 
 
 ## Chapter 7
@@ -384,7 +384,7 @@
 
 **7:23** And he destroyed all the substance that was upon the earth, from man even to beast, and the creeping things and fowls of the air: and they were destroyed from the earth: and Noe only remained, and they that were with him in the ark.
 
-**7:24** And the waters prevailed upon the earth a hundred and fifty days. Book of Genesis next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:24** And the waters prevailed upon the earth a hundred and fifty days.
 
 
 ## Chapter 8
@@ -431,7 +431,7 @@
 
 **8:21** And the Lord smelled a sweet savour, and said: I will no more curse the earth for the sake of man: for the imagination and thought of man's heart are prone to evil from his youth: therefore I will no more destroy every living soul as I have done.
 
-**8:22** All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, shall not cease. Book of Genesis next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:22** All the days of the earth, seedtime and harvest, cold and heat, summer and winter, night and day, shall not cease.
 
 
 ## Chapter 9
@@ -492,7 +492,7 @@
 
 **9:28** And Noe lived after the flood three hundred and fifty years:
 
-**9:29** And all his days were in the whole nine hundred and fifty years: and he died. Book of Genesis next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:29** And all his days were in the whole nine hundred and fifty years: and he died.
 
 
 ## Chapter 10
@@ -559,7 +559,7 @@
 
 **10:31** These are the children of Sem according to their kindreds and tongues, and countries in their nations.
 
-**10:32** These are the families of Noe, according to their peoples and nations. By these were the nations divided on the earth after the flood. Book of Genesis next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:32** These are the families of Noe, according to their peoples and nations. By these were the nations divided on the earth after the flood.
 
 
 ## Chapter 11
@@ -626,7 +626,7 @@
 
 **11:31** And Thare took Abram, his son, and Lot the son of Aran, his son's son, and Sarai his daughter in law, the wife of Abram his son, and brought them out of Ur of the Chaldees, to go into the land of Chanaan: and they came as far as Haran, and dwelt there.
 
-**11:32** And the days of Thare were two hundred and five years, and he died in Haran. Book of Genesis next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:32** And the days of Thare were two hundred and five years, and he died in Haran.
 
 
 ## Chapter 12
@@ -669,7 +669,7 @@
 
 **12:19** For what cause didst thou say, she was thy sister, that I might take her to my wife? Now, therefore, there is thy wife, take her, and go thy way.
 
-**12:20** And Pharao gave his men orders concerning Abram: and they led him away, and his wife, and all that he had. Book of Genesis next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:20** And Pharao gave his men orders concerning Abram: and they led him away, and his wife, and all that he had.
 
 
 ## Chapter 13
@@ -708,7 +708,7 @@
 
 **13:17** Arise and walk through the land in the length, and in the breadth thereof: for I will give it to thee.
 
-**13:18** So Abram removing his tent came and dwelt by the vale of Mambre, which is in Hebron: and he built there an altar to the Lord. Book of Genesis next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:18** So Abram removing his tent came and dwelt by the vale of Mambre, which is in Hebron: and he built there an altar to the Lord.
 
 
 ## Chapter 14
@@ -759,7 +759,7 @@
 
 **14:23** That from the very woof thread unto the shoe latchet, I will not take of any things that are thine, lest thou say I have enriched Abram:
 
-**14:24** Except such things as the young men have eaten, and the shares of the men that came with me, Aner, Escol, and Mambre: these shall take their shares. Book of Genesis next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:24** Except such things as the young men have eaten, and the shares of the men that came with me, Aner, Escol, and Mambre: these shall take their shares.
 
 
 ## Chapter 15
@@ -804,7 +804,7 @@
 
 **15:20** And the Hethites, and the Pherezites, the Raphaim also,
 
-**15:21** And the Amorrhites, and the Chanaanites, and the Gergesites, and the Jebusites. Book of Genesis next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:21** And the Amorrhites, and the Chanaanites, and the Gergesites, and the Jebusites.
 
 
 ## Chapter 16
@@ -839,7 +839,7 @@
 
 **16:15** And Agar brought forth a son to Abram: who called his name Ismael.
 
-**16:16** Abram was four score and six years old when Agar brought him forth Ismael. Book of Genesis next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:16** Abram was four score and six years old when Agar brought him forth Ismael.
 
 
 ## Chapter 17
@@ -896,7 +896,7 @@
 
 **17:26** The selfsame day was Abraham circumcised and Ismael his son.
 
-**17:27** And all the men of his house, as well they that were born in his house, as the bought servants and strangers were circumcised with him. Book of Genesis next > Chapter 17 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**17:27** And all the men of his house, as well they that were born in his house, as the bought servants and strangers were circumcised with him.
 
 
 ## Chapter 18
@@ -965,7 +965,7 @@
 
 **18:32** I beseech thee, saith he, be not angry, Lord, if I speak yet once more: What if ten should be found there? And he said: I will not destroy it for the sake of ten.
 
-**18:33** And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place. Book of Genesis next > Chapter 18 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**18:33** And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place.
 
 
 ## Chapter 19
@@ -1044,7 +1044,7 @@
 
 **19:37** And the elder bore a son, and she called his name Moab: he is the father of the Moabites unto this day.
 
-**19:38** The younger also bore a son, and she called his name Ammon, that is, the son of my people: he is the father of the Ammonites unto this day. Book of Genesis next > Chapter 19 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**19:38** The younger also bore a son, and she called his name Ammon, that is, the son of my people: he is the father of the Ammonites unto this day.
 
 
 ## Chapter 20
@@ -1083,7 +1083,7 @@
 
 **20:17** And when Abraham prayed, God healed Abimelech and his wife, and his handmaids, and they bore children:
 
-**20:18** For the Lord had closed up every womb of the house of Abimelech on account of Sara, Abraham's wife. Book of Genesis next > Chapter 20 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**20:18** For the Lord had closed up every womb of the house of Abimelech on account of Sara, Abraham's wife.
 
 
 ## Chapter 21
@@ -1154,7 +1154,7 @@
 
 **21:33** And Abimelech, and Phicol the general of his army arose and returned to the land of the Palestines. But Abraham planted a grove in Bersabee, and there called upon the name of the Lord God eternal.
 
-**21:34** And he was a sojourner in the land of the Palestines many days. Book of Genesis next > Chapter 21 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**21:34** And he was a sojourner in the land of the Palestines many days.
 
 
 ## Chapter 22
@@ -1205,7 +1205,7 @@
 
 **22:23** And Bathuel, of whom was born Rebecca: These eight did Melcha bear to Nachor Abraham's brother.
 
-**22:24** And his concubine, named Roma, bore Tabee, and Gaham, and Tahas, and Maacha. Book of Genesis next > Chapter 22 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**22:24** And his concubine, named Roma, bore Tabee, and Gaham, and Tahas, and Maacha.
 
 
 ## Chapter 23
@@ -1248,7 +1248,7 @@
 
 **23:19** And so Abraham buried Sara his wife, in a double cave of the field, that looked towards Mambre, this is Hebron in the land of Chanaan.
 
-**23:20** And the field was made sure to Abraham, and the cave that was in it, for a possession to bury in, by the children of Heth. Book of Genesis next > Chapter 23 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**23:20** And the field was made sure to Abraham, and the cave that was in it, for a possession to bury in, by the children of Heth.
 
 
 ## Chapter 24
@@ -1385,7 +1385,7 @@
 
 **24:66** And the servant told Isaac all that he had done.
 
-**24:67** Who brought her into the tent of Sara his mother, and took her to wife: and he loved her so much, that it moderated the sorrow which was occasioned by his mother's death. Book of Genesis next > Chapter 24 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**24:67** Who brought her into the tent of Sara his mother, and took her to wife: and he loved her so much, that it moderated the sorrow which was occasioned by his mother's death.
 
 
 ## Chapter 25
@@ -1456,7 +1456,7 @@
 
 **25:33** Jacob said: Swear therefore to me. Esau swore to him, and sold his first birthright.
 
-**25:34** And so taking bread and the pottage of lentils, he ate, and drank, and went his way; making little account of having sold his first birthright. Book of Genesis next > Chapter 25 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**25:34** And so taking bread and the pottage of lentils, he ate, and drank, and went his way; making little account of having sold his first birthright.
 
 
 ## Chapter 26
@@ -1529,7 +1529,7 @@
 
 **26:34** And Esau being forty years old, married wives, Judith the daughter of Beeri the Hethite, and Basemath the daughter of Elon of the same place.
 
-**26:35** And they both offended the mind of Isaac and Rebecca. Book of Genesis next > Chapter 26 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**26:35** And they both offended the mind of Isaac and Rebecca.
 
 
 ## Chapter 27
@@ -1624,7 +1624,7 @@
 
 **27:45** And his indignation cease, and he forget the things thou hast done to him: afterwards I will send, and bring thee from thence hither. Why shall I be deprived of both my sons in one day?
 
-**27:46** And Rebecca said to Isaac: I am weary of my life because of the daughters of Heth: if Jacob take a wife of the stock of this land, I choose not to live. Book of Genesis next > Chapter 27 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**27:46** And Rebecca said to Isaac: I am weary of my life because of the daughters of Heth: if Jacob take a wife of the stock of this land, I choose not to live.
 
 
 ## Chapter 28
@@ -1671,7 +1671,7 @@
 
 **28:21** And I shall return prosperously to my father's house: the Lord shall be my God:
 
-**28:22** And this stone, which I have set up for a title, shall be called the house of God: and of all things that thou shalt give to me, I will offer tithes to thee. Book of Genesis next > Chapter 28 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**28:22** And this stone, which I have set up for a title, shall be called the house of God: and of all things that thou shalt give to me, I will offer tithes to thee.
 
 
 ## Chapter 29
@@ -1744,7 +1744,7 @@
 
 **29:34** And she conceived the third time, and bore another son: and said: Now also my husband will be joined to me, because I have borne him three sons: and therefore she called his name Levi.
 
-**29:35** The fourth time she conceived and bore a son, and said: now will I praise the Lord: and for this she called him Juda. And she left bearing. Book of Genesis next > Chapter 29 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**29:35** The fourth time she conceived and bore a son, and said: now will I praise the Lord: and for this she called him Juda. And she left bearing.
 
 
 ## Chapter 30
@@ -1833,7 +1833,7 @@
 
 **30:42** But when the latter coming was, and the last conceiving, he did not put them. And those that were lateward, became Laban's: and they of the first time, Jacob's.
 
-**30:43** And the man was enriched exceedingly, and he had many flocks, maid servants and men servants, camels and asses. Book of Genesis next > Chapter 30 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**30:43** And the man was enriched exceedingly, and he had many flocks, maid servants and men servants, camels and asses.
 
 
 ## Chapter 31
@@ -1946,7 +1946,7 @@
 
 **31:54** And after he had offered sacrifices in the mountain, he called his brethren to eat bread. And when they had eaten, they lodged there:
 
-**31:55** But Laban arose in the night, and kissed his sons, and daughters, and blessed them: and returned to his place. Book of Genesis next > Chapter 31 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**31:55** But Laban arose in the night, and kissed his sons, and daughters, and blessed them: and returned to his place.
 
 
 ## Chapter 32
@@ -2013,7 +2013,7 @@
 
 **32:31** And immediately the sun rose upon him, after he was past Phanuel; but he halted on his foot.
 
-**32:32** Therefore the children of Israel, unto this day, eat not the sinew, that shrank in Jacob's thigh: because he touched the sinew of his thigh and it shrank. Book of Genesis next > Chapter 32 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**32:32** Therefore the children of Israel, unto this day, eat not the sinew, that shrank in Jacob's thigh: because he touched the sinew of his thigh and it shrank.
 
 
 ## Chapter 33
@@ -2056,7 +2056,7 @@
 
 **33:19** And he bought that part of the field, in which he pitched his tents, of the children of Hemor, the father of Sichem for a hundred lambs.
 
-**33:20** And raising an altar there, he invoked upon it the most mighty God of Israel. Book of Genesis next > Chapter 33 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**33:20** And raising an altar there, he invoked upon it the most mighty God of Israel.
 
 
 ## Chapter 34
@@ -2121,7 +2121,7 @@
 
 **34:30** And when they had boldly perpetrated these things, Jacob said to Simeon and Levi: You have troubled me, and made me hateful to the Chanaanites and Pherezites, the inhabitants of this land: we are few: they will gather themselves together and kill me; and both I, and my house, shall be destroyed.
 
-**34:31** They answered: Should they abuse our sister as a strumpet? Book of Genesis next > Chapter 34 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**34:31** They answered:
 
 
 ## Chapter 35
@@ -2182,7 +2182,7 @@
 
 **35:28** And the days of Isaac were a hundred and eighty years.
 
-**35:29** And being spent with age he died, and was gathered to his people, being old and full of days: and his sons Esau and Jacob buried him. Book of Genesis next > Chapter 35 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**35:29** And being spent with age he died, and was gathered to his people, being old and full of days: and his sons Esau and Jacob buried him.
 
 
 ## Chapter 36
@@ -2271,7 +2271,7 @@
 
 **36:42** Duke Cenez, duke Theman, duke Mabsar,
 
-**36:43** Duke Magdiel, duke Hiram: these are the dukes of Edom dwelling in the land of their government; the same is Esau the father of the Edomites. Book of Genesis next > Chapter 36 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**36:43** Duke Magdiel, duke Hiram: these are the dukes of Edom dwelling in the land of their government; the same is Esau the father of the Edomites.
 
 
 ## Chapter 37
@@ -2346,7 +2346,7 @@
 
 **37:35** And all his children being gathered together to comfort their father in his sorrow, he would not receive comfort, but said: I will go down to my son into hell, mourning. And whilst he continued weeping,
 
-**37:36** The Madianites sold Joseph in Egypt to Putiphar, an eunuch of Pharao, captain of the soldiers. Book of Genesis next > Chapter 37 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**37:36** The Madianites sold Joseph in Egypt to Putiphar, an eunuch of Pharao, captain of the soldiers.
 
 
 ## Chapter 38
@@ -2409,7 +2409,7 @@
 
 **38:29** But he drawing back his hand, the other came forth: and the woman said: Why is the partition divided for thee? and therefore called his name Phares.
 
-**38:30** Afterwards his brother came out, on whose hand was the scarlet thread: and she called him Zara. Book of Genesis next > Chapter 38 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**38:30** Afterwards his brother came out, on whose hand was the scarlet thread: and she called him Zara.
 
 
 ## Chapter 39
@@ -2458,7 +2458,7 @@
 
 **39:22** Who delivered into his hand all the prisoners that were kept in custody: and whatsoever was done was under him.
 
-**39:23** Neither did he himself know any thing, having committed all things to him: for the Lord was with him, and made all that he did to prosper. Book of Genesis next > Chapter 39 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**39:23** Neither did he himself know any thing, having committed all things to him: for the Lord was with him, and made all that he did to prosper.
 
 
 ## Chapter 40
@@ -2507,7 +2507,7 @@
 
 **40:22** The other he hanged on a gibbet, that the truth of the interpreter might be shewn.
 
-**40:23** But the chief butler, when things prospered with him, forgot his interpreter. Book of Genesis next > Chapter 40 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**40:23** But the chief butler, when things prospered with him, forgot his interpreter.
 
 
 ## Chapter 41
@@ -2624,7 +2624,7 @@
 
 **41:56** And the famine increased daily in all the land: and Joseph opened all the barns, and sold to the Egyptians: for the famine had oppressed them also.
 
-**41:57** And all provinces came into Egypt, to buy food, and to seek some relief of their want. Book of Genesis next > Chapter 41 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**41:57** And all provinces came into Egypt, to buy food, and to seek some relief of their want.
 
 
 ## Chapter 42
@@ -2703,7 +2703,7 @@
 
 **42:37** And Ruben answered him: Kill my two sons if I bring him not again to thee: deliver him into my hand, and I will restore him to thee.
 
-**42:38** But he said: My son shall not go down with you: his brother is dead, and he is left alone: if any mischief befall him in the land to which you go, you will bring down my gray hairs with sorrow to hell. Book of Genesis next > Chapter 42 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**42:38** But he said: My son shall not go down with you: his brother is dead, and he is left alone: if any mischief befall him in the land to which you go, you will bring down my gray hairs with sorrow to hell.
 
 
 ## Chapter 43
@@ -2774,7 +2774,7 @@
 
 **43:33** They sat before him, the firstborn according to his birthright, and the youngest according to his age. And they wondered very much:
 
-**43:34** Taking the messes which they received of him: and the greater mess came to Benjamin, so that it exceeded by five parts. And they drank, and were merry with him. Book of Genesis next > Chapter 43 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**43:34** Taking the messes which they received of him: and the greater mess came to Benjamin, so that it exceeded by five parts. And they drank, and were merry with him.
 
 
 ## Chapter 44
@@ -2845,7 +2845,7 @@
 
 **44:33** Therefore I thy servant will stay instead of the boy in the service of my lord, and let the boy go up with his brethren.
 
-**44:34** For I cannot return to my father without the boy, lest I be a witness of the calamity that will oppress my father. Book of Genesis next > Chapter 44 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**44:34** For I cannot return to my father without the boy, lest I be a witness of the calamity that will oppress my father.
 
 
 ## Chapter 45
@@ -2904,7 +2904,7 @@
 
 **45:27** They, on the other side, told the whole order of the thing. And when he saw the wagons and all that he had sent his spirit revived,
 
-**45:28** And he said: It is enough for me, if Joseph my son be yet living: I will go and see him before I die. Book of Genesis next > Chapter 45 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**45:28** And he said: It is enough for me, if Joseph my son be yet living: I will go and see him before I die.
 
 
 ## Chapter 46
@@ -2975,7 +2975,7 @@
 
 **46:33** And when he shall call you, and shall say: What is your occupation?
 
-**46:34** You shall answer: We thy servants are shepherds, from our infancy until now, both we and our fathers. And this you shall say, that you may dwell in the land of Gessen, because the Egyptians have all shepherds in abomination. Book of Genesis next > Chapter 46 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**46:34** You shall answer: We thy servants are shepherds, from our infancy until now, both we and our fathers. And this you shall say, that you may dwell in the land of Gessen, because the Egyptians have all shepherds in abomination.
 
 
 ## Chapter 47
@@ -3040,7 +3040,7 @@
 
 **47:30** But I will sleep with my fathers, and thou shalt take me away out of this land, and bury me in the burying place of my ancestors. And Joseph answered him: I will do what thou hast commanded.
 
-**47:31** And he said: Swear then to me. And as he was swearing, Israel adored God, turning to the bed's head. Book of Genesis next > Chapter 47 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**47:31** And he said: Swear then to me. And as he was swearing, Israel adored God, turning to the bed's head.
 
 
 ## Chapter 48
@@ -3087,7 +3087,7 @@
 
 **48:21** And he said to Joseph his son: Behold I die, and God will be with you, and will bring you back into the land of your fathers.
 
-**48:22** I give thee a portion above thy brethren, which I took out of the hand of the Amorrhite with my sword and bow. Book of Genesis next > Chapter 48 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**48:22** I give thee a portion above thy brethren, which I took out of the hand of the Amorrhite with my sword and bow.
 
 
 ## Chapter 49
@@ -3154,7 +3154,7 @@
 
 **49:31** There they buried him, and Sara his wife: there was Isaac buried with Rebecca his wife: there also Lia doth lie buried.
 
-**49:32** And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people. Book of Genesis next > Chapter 49 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**49:32** And when he had ended the commandments, wherewith he instructed his sons, he drew up his feet upon the bed, and died: and he was gathered to his people.
 
 
 ## Chapter 50
@@ -3207,5 +3207,5 @@
 
 **50:24** And he made them swear to him, saying: God will visit you, carry my bones with you out of this place:
 
-**50:25** And he died being a hundred and ten years old. And being embalmed he was laid in a coffin in Egypt. Book of Genesis next > Chapter 50 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**50:25** And he died being a hundred and ten years old. And being embalmed he was laid in a coffin in Egypt.
 

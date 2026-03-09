@@ -20,7 +20,7 @@
 
 **1:9** If we confess our sins, he is faithful and just, to forgive us our sins, and to cleanse us from all iniquity.
 
-**1:10** If we say that we have not sinned, we make him a liar, and his word is not in us. 1st Epistle of St John next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:10** If we say that we have not sinned, we make him a liar, and his word is not in us. 1st
 
 
 ## Chapter 2
@@ -81,7 +81,7 @@
 
 **2:28** And now, little children, abide in him, that when he shall appear, we may have confidence, and not be confounded by him at his coming.
 
-**2:29** If you know, that he is just, know ye, that every one also, who doth justice, is born of him. 1st Epistle of St John next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:29** If you know, that he is just, know ye, that every one also, who doth justice, is born of him. 1st
 
 
 ## Chapter 3
@@ -132,7 +132,7 @@
 
 **3:23** And this is his commandment, that we should believe in the name of his Son Jesus Christ: and love one another, as he hath given commandment unto us.
 
-**3:24** And he that keepeth his commandments, abideth in him, and he in him. And in this we know that he abideth in us, by the Spirit which he hath given us. 1st Epistle of St John next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:24** And he that keepeth his commandments, abideth in him, and he in him. And in this we know that he abideth in us, by the Spirit which he hath given us. 1st
 
 
 ## Chapter 4
@@ -177,7 +177,7 @@
 
 **4:20** If any man say, I love God, and hateth his brother; he is a liar. For he that loveth not his brother, whom he seeth, how can he love God, whom he seeth not?
 
-**4:21** And this commandment we have from God, that he, who loveth God, love also his brother. 1st Epistle of St John next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:21** And this commandment we have from God, that he, who loveth God, love also his brother. 1st
 
 
 ## Chapter 5
@@ -222,5 +222,5 @@
 
 **5:20** And we know that the Son of God is come: and he hath given us understanding that we may know the true God, and may be in his true Son. This is the true God and life eternal.
 
-**5:21** Little children, keep yourselves from idols. Amen. 1st Epistle of St John next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:21** Little children, keep yourselves from idols. Amen. 1st
 

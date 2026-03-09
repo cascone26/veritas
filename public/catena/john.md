@@ -766,7 +766,6 @@ And Nathanael said unto him, Can there any good thing come out of Nazareth.
 
 **AUGUSTINE**. (Tr. vii. in Joan. c. 23) Good preachers, however, who preach Christ, are as angels of God; i. e. they ascend and descend upon the Son of man; as Paul, who ascended to the third heaven, and descended so far even as to give milk to babes. He saith, We shall see greater things than these: (2 Cor. 12:2. 1 Cor. 3:2) because it is a greater thing that our Lord has justified us, whom He hath called, than that He saw us lying under the shadow of death. For had we remained where He saw us, what profit would it have been? (c. 17.). It is asked why Nathanael, to whom our Lord bears such testimony, is not found among the twelve Apostles. We may believe, however, that it was because he was so learned, and versed in the law, that our Lord had not put him among the disciples. He chose the foolish, to confound the world. Intending to break the neck of the proud, He sought not to gain the fisherman through the orator, but by the fisherman the emperor. The great Cyprian was an orator; but Peter was a fisherman before him; and through him not only the orator, but the emperor, believed.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 2
 
@@ -1028,7 +1027,6 @@ Jesus saith unto them, Fill the waterpots with water. And they filled them up to
 
 **BEDE**. An admonition to us not to be confident of ourselves, but ever anxious and mistrustful; knowing that what escapes our own knowledge, cannot escape the eternal Judge.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 3
 
@@ -1396,7 +1394,6 @@ He that is of the earth is of the earth; i. e. is earthly, and speaketh of the e
 
 **AUGUSTINE**. (Tr. xiv. c. 13) Nor does He say, The wrath of God cometh to him, but, abideth on him. For all who are born, are under the wrath of God, which the first Adam incurred. The Son of God came without sin, and was clothed with mortality: He died that thou mightest live. Whosoever then will not believe on the Son, on him abideth the wrath of God, of which the Apostle speaks, We were by nature the children of wrath. (Eph. 2:3)
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 4
 
@@ -1846,7 +1843,6 @@ Now Jacob’s well was there.
 
 **THEOPHYLACT**. The little king stands for man generally; man not only deriving his soul from the King of the universe, but having Himself dominion over all things. His son, i. e. his mind, labours under a fever of evil passion and desires. He goes to Jesus and entreats Him to come down; i. e. to exercise the condescension of His pity, and pardon his sins, before it is too late. Our Lord answers; Go thy way, i. e. advance in holiness, and then thy son will live; but if thou stop short in thy course, thou wilt destroy the power of understanding and doing right.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 5
 
@@ -2230,7 +2226,6 @@ But if ye believe not his writings, how shall ye believe My words.
 
 **CHRYSOSTOM**. (Hom. xli. 2) Indeed had they attended to His words, they ought and would have tried to learn from Him, what the things were which Moses had written of Him. But they are silent. For it is the nature of wickedness to defy persuasion. Do what you will, it retains its venom to the last.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 6
 
@@ -2824,7 +2819,6 @@ And from that time many of the disciples went back, and walked no more with Him.
 
 **CHRYSOSTOM**. (Hom. xlvii. 4) Mark the wisdom of Christ: He neither, by exposing him, makes him shameless and contentious; nor again emboldens him, by allowing him to think himself concealed.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 7
 
@@ -3230,7 +3224,6 @@ And every man went unto his own house.
 
 **ALCUIN**. Having effected nothing, devoid of faith, and therefore incapable of being benefited, they returned to their home of unbelief and ungodliness.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 8
 
@@ -3840,7 +3833,6 @@ When he speaketh a lie, he speaketh of his own: for he is a liar, and the father
 
 **GREGORY**. (ut sup.) What does our Lord mean by hiding Himself, but that the truth is hidden to them, who despise His words. The truth flies the company of an unhumbled soul. His example shews us, that we should in all humility rather retreat from the wrath of the proud, when it rises, than resist it, even though we might be able,
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 9
 
@@ -4094,7 +4086,6 @@ Then they reviled him, and said, Thou art His disciple.
 
 **THEOPHYLACT**. Or, if ye were blind, i. e. ignorant of the Scriptures, your offence would be by no means so heavy a one, as erring out of ignorance: but now, seeing ye call yourselves wise and understanding in the law, your own selves condemn you.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 10
 
@@ -4456,7 +4447,6 @@ All that ever came before Me are thieves and robbers.
 
 **THEOPHYLACT**. We may observe that our Lord often brings out the people into solitary places, thus ridding them of the society of the unbelieving, for their furtherance in the faith: just as He led the people into the wilderness, when He gave them the old Law. Mystically, Christ departs from Jerusalem, i. e. from the Jewish people; and goes to a place where are springs of water, i. e. to the Gentile Church, that hath the waters of baptism. And many resort unto Him, passing over the Jordan, i. e. through baptism.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 11
 
@@ -4916,7 +4906,6 @@ Then they took away the stone.
 
 **AUGUSTINE**. (Tr. l. 4) Let us at least shew the Jews where He is; O that they would hear, that they would come to the Church, and take hold of Him for themselves!
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 12
 
@@ -5280,7 +5269,6 @@ And I know that His commandment is life everlasting.
 
 **AUGUSTINE**. (Tr. liv) If life everlasting is the Son Himself, and the commandment is life everlasting, what is this but saying, I am the commandment of the Father? And in the same way in the following; Whatsoever I speak therefore, even as the Father said unto Me, so I speak, we must not understand, said unto Me, as if words were spoken to the Only Word. The Father spoke to the Son, as He gave life to the Son; not that the Son knew not, or had not, but that He was the Son. What is meant by, as He said unto Me, so I speak, but that I am the Word who speaks. The Father is true, the Son is truth: the True, begat the Truth. What then could He say to the Truth, if the Truth was perfect from the beginning, and no new truth could be added to Him? That He spake to the Truth then, means that He begat the Truth.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 13
 
@@ -5634,7 +5622,6 @@ Then said Jesus unto him, That thou doest, do quickly.
 
 **AUGUSTINE**. (de Con. Evang. iii. c. 2. [5.]) This speech, The cock shall not crow, occurs in all the Evangelists, but not at the same time in all. Matthew and Mark introduce it after they have left the house, in which they were eating; Luke and John before. We may suppose either that the two former are recurring to what had passed, or the two latter anticipating what is coming. Or the great difference not only of the words, but of the subjects which precede the speech, and which excite Peter to the presumption of offering to die, for or with our Lord, may lead us to conclude that he made this offer three times, and that our Lord three times replied, Before the cock crow, thou shalt deny Me thrice.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 14
 
@@ -5960,7 +5947,6 @@ Because I live, ye shall live also.
 
 **CHRYSOSTOM**. (Hom. lxxvi. 1) Arise, let us go hence, is the beginning of the sentence which follows. The time and the place (they were in the midst of a town, and it was night time) had excited the disciples’ fears to such a degree, that they could not attend to any thing that was said, but rolled their eyes about, expecting persons to enter and assault them; especially when they heard our Lord say, Yet a little while I am with you; and, The prince of this world cometh. To quiet their alarm then, He takes them to another place, where they imagine themselves safe, and would be able to attend to the great doctrines which He was going to set before them.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 15
 
@@ -6186,7 +6172,6 @@ But I have called you friends, for all things that I have heard of My Father, I 
 
 **AUGUSTINE**. (Tr. xcix. 6, et sq.) If it be asked here whether the Holy Ghost proceeds from the Son also, we may answer thus: The Son is the Son of the Father alone, and the Father is the Father of the Son only; but the Holy Spirit is not the Spirit of one, but of both; since Christ Himself saith, The Spirit of your Father which speaketh in you. (Matt. 10:20) And the Apostle says, God hath sent the Spirit of His Son into your hearts. (Gal. 4:6) This indeed, I think, is the reason why He is called peculiarly the Spirit. For both of the Father and the Son separately we may pronounce, that each is a Spirit. But what each is separately in a general sense, He who is not either one separately, but the union of both, is spiritually. But if the Holy Spirit is the Spirit of the Son, why should we not believe that He proceeds from the Son? Indeed if He did not proceed from the Son, Christ would not after the resurrection have breathed on His disciples, and said, Receive ye the Holy Ghost. (John 20:29) This too is what is meant by the virtue which went out of Him, and healed all. (Luke 6.) If the Holy Ghost then proceeds both from the Father and the Son, why does Christ say, Who proceedeth from the Father? He says it in accordance with His general way of referring all that He has to Him from whom He is; as where He says, My doctrine is not Mine, but His that sent Me. If the doctrine was His, which He says was not His own, but the Father’s, much more does the Holy Spirit proceed from Him, consistently with His proceeding from the Father. From whom the Son hath His Godhead, from Him He hath it that the Holy Ghost proceedeth from Him. And this explains why the Holy Ghost is not said to be born, but to proceed. For if He were born, He would be the Son of both Father and Son, an absurd supposition; for if two together have a Son, those two must be father and mother. But to imagine any such relation as this between God the Father, and God the Son, is monstrous. Even the human offspring does not proceed from father or mother at the same time; when it proceeds from the father, it does not proceed from the mother. Whereas the Holy Spirit does not proceed from the Father into the Son, and from the Son into the creature to be sanctified; but proceeds from Father and Son at once. And if the Father is life, and the Son is life, so the Holy Ghost is life also. Just then as the Father when He had life in Himself, gave also to the Son to have life in Himself; so He gave to the Son also that life should proceed from Him, even as it proceeded from Himself.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 16
 
@@ -6452,7 +6437,6 @@ But I have called you friends, for all things that I have heard of My Father, I 
 
 **AUGUSTINE**. When the Holy Spirit was given them, they were of good cheer, and, in His strength, victorious. For He would not have overcome the world, had the world overcome His members. When He says, These things have I spoken to you, that in Me ye might have peace, He refers not only to what He has just said, but to what He had said all along, either from the time that He first had disciples, or since the supper, when He began this long and wonderful discourse. He declares this to be the object of His whole discourse, viz. that in Him they might have peace. And this peace shall have no end, but is itself the end of every pious action and intention.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 17
 
@@ -6692,7 +6676,6 @@ But I have called you friends, for all things that I have heard of My Father, I 
 
 **AUGUSTINE**. (Tr. cxi. 5) Or thus; What is to know Him, but eternal life, which He gave not to a condemned but to a reconciled world? For this reason the world hath not known Thee; because Thou art just, and hast punished them with this ignorance of Thee, in reward for their misdeeds. And for this reason the reconciled world knows Thee, because Thou art merciful, and hast vouchsafed this knowledge, not in consequence of their merits, but of thy grace. It follows: But I have known Thee. He is God the fountain of grace by nature, man of the Holy Ghost and Virgin by grace ineffable. Then because the grace of God is through Jesus Christ, He says, And they have known Me, i. e. the reconciled world have known Me, by grace, forasmuch as Thou hast sent Me. And I have made known Thy name to them by faith, and will make it known by sight: that the love wherewith Thou hast loved Me may be in them. (2 Tim. 4:7) The Apostle uses a like phrase, I have fought a good fight, by a good fight being the more common form. The love wherewith the Father loveth the Son in us, can only be in us because we are His members, and we are loved in Him when He is loved wholly, i. e. both head and body. And therefore He adds, And I in them; He is in us, as in His temple, we in Him as our Head.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 18
 
@@ -7060,7 +7043,6 @@ And saith unto them, I find no fault in Him.
 
 **ALCUIN**. The name Barabbas signifies, The son of their master, i. e. the devil; his master in his wickedness, the Jews’ in their perfidy.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 19
 
@@ -7424,7 +7406,6 @@ And he knoweth that he saith true, that ye might believe.
 
 **THEOPHYLACT**. Even now in a certain sense Christ is put to death by the avaritious, in the person of the poor man suffering famine. Be therefore a Joseph, and cover Christ’s nakedness, and, not once, but continually by contemplation, embalm Him in thy spiritual tomb, cover Him, and mix myrrh and bitter aloes; considering that bitterest sentence of all, Depart, ye cursed, into everlasting fire. (Matt. 25:41)
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 20
 
@@ -7702,7 +7683,6 @@ Jesus saith unto him, Because thou hast seen Me, thou hast believed.
 
 **CHRYSOSTOM**. (Hom. lxxxvii) John having related less than the other Evangelists, adds, And many other signs truly did Jesus in the presence of His disciples, which are not written in this book. Yet neither did the others relate all, but only what was sufficient for the purpose of convincing men. He probably here refers to the miracles which our Lord did after His resurrection, and therefore says, In the presence of His disciples, and they being the only persons with whom He conversed after His resurrection. Then to let you understand, that the miracles were not done for the sake of the disciples only, He adds, But these are written, that ye might believe that Jesus is the Christ, the Son of God; addressing Himself to mankind generally. And, this belief, he then says, profits ourselves, not Him in Whom we believe. And that believing ye might have life through His name, i. e. through Jesus, which is life.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 21
 
@@ -7915,6 +7895,3 @@ He saith to him again the second time, Simon, son of Jonas, lovest thou Me? He s
 **AUGUSTINE**. (Tract. cxxiv. 8) The which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written; meaning not the world had not space for them, but that the capacity of readers was not large enough to hold them: though sometimes words themselves may exceed the truth, and yet the thing they express be true; a mode of speech which is used not to explain an obscure and doubtful, but to magnify or estimate a plain, thing: nor does it involve any departure from the path of truth; inasmuch as the excess of the word over the truth is evidently only a figure of speech, and not a deception. This way of speaking the Greeks call hyperbole, and it is found in other parts of Scripture.
 
 **CHRYSOSTOM**. (Hom. lxxxviii) This is said to shew the power of Him Who did the miracles; i. e. that it was as easy for Him to do them, as it is for us to speak of them, seeing He is God over all, blessed for ever.
-
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
-

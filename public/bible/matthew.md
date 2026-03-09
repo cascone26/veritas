@@ -50,7 +50,7 @@
 
 **1:24** And Joseph rising up from sleep, did as the angel of the Lord had commanded him, and took unto him his wife.
 
-**1:25** And he knew her not till she brought forth her firstborn son: and he called his name JESUS. Gospel According to St Matthew next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:25** And he knew her not till she brought forth her firstborn son: and he called his name JESUS.
 
 
 ## Chapter 2
@@ -99,7 +99,7 @@
 
 **2:22** But hearing that Archelaus reigned in Judea in the room of Herod his father, he was afraid to go thither: and being warned in sleep retired into the quarters of Galilee.
 
-**2:23** And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by prophets: That he shall be called a Nazarene. Gospel According to St Matthew next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:23** And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by prophets: That he shall be called a Nazarene.
 
 
 ## Chapter 3
@@ -136,7 +136,7 @@
 
 **3:16** And Jesus being baptized, forthwith came out of the water: and lo, the heavens were opened to him: and he saw the Spirit of God descending as a dove, and coming upon him.
 
-**3:17** And behold a voice from heaven, saying: This is my beloved Son, in whom I am well pleased. Gospel According to St Matthew next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:17** And behold a voice from heaven, saying: This is my beloved Son, in whom I am well pleased.
 
 
 ## Chapter 4
@@ -189,7 +189,7 @@
 
 **4:24** And his fame went throughout all Syria, and they presented to him all sick people that were taken with divers diseases and torments, and such as were possessed by devils, and lunatics, and those that had palsy, and he cured them:
 
-**4:25** And much people followed him from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond the Jordan. Gospel According to St Matthew next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:25** And much people followed him from Galilee, and from Decapolis, and from Jerusalem, and from Judea, and from beyond the Jordan.
 
 
 ## Chapter 5
@@ -288,7 +288,7 @@
 
 **5:47** And if you salute your brethren only, what do you more? do not also the heathens this?
 
-**5:48** Be you therefore perfect, as also your heavenly Father is perfect. Gospel According to St Matthew next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:48** Be you therefore perfect, as also your heavenly Father is perfect.
 
 
 ## Chapter 6
@@ -359,7 +359,7 @@
 
 **6:33** Seek ye therefore first the kingdom of God, and his justice, and all these things shall be added unto you.
 
-**6:34** Be not therefore solicitous for tomorrow; for the morrow will be solicitous for itself. Sufficient for the day is the evil thereof. Gospel According to St Matthew next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:34** Be not therefore solicitous for tomorrow; for the morrow will be solicitous for itself. Sufficient for the day is the evil thereof.
 
 
 ## Chapter 7
@@ -420,7 +420,7 @@
 
 **7:28** And it came to pass when Jesus had fully ended these words, the people were in admiration at his doctrine.
 
-**7:29** For he was teaching them as one having power, and not as the scribes and Pharisees. Gospel According to St Matthew next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:29** For he was teaching them as one having power, and not as the scribes and Pharisees.
 
 
 ## Chapter 8
@@ -491,7 +491,7 @@
 
 **8:33** And they that kept them fled: and coming into the city, told every thing, and concerning them that had been possessed by the devils.
 
-**8:34** And behold the whole city went out to meet Jesus, and when they saw him, they besought him that he would depart from their coasts. Gospel According to St Matthew next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:34** And behold the whole city went out to meet Jesus, and when they saw him, they besought him that he would depart from their coasts.
 
 
 ## Chapter 9
@@ -570,7 +570,7 @@
 
 **9:37** Then he saith to his disciples, The harvest indeed is great, but the labourers are few.
 
-**9:38** Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest. Gospel According to St Matthew next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:38** Pray ye therefore the Lord of the harvest, that he send forth labourers into his harvest.
 
 
 ## Chapter 10
@@ -657,7 +657,7 @@
 
 **10:41** He that receiveth a prophet in the name of a prophet, shall receive the reward of a prophet: and he that receiveth a just man in the name of a just man, shall receive the reward of a just man.
 
-**10:42** And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you, he shall not lose his reward. Gospel According to St Matthew next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:42** And whosoever shall give to drink to one of these little ones a cup of cold water only in the name of a disciple, amen I say to you, he shall not lose his reward.
 
 
 ## Chapter 11
@@ -720,7 +720,7 @@
 
 **11:29** Take up my yoke upon you, and learn of me, because I am meek, and humble of heart: and you shall find rest to your souls.
 
-**11:30** For my yoke is sweet and my burden light. Gospel According to St Matthew next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:30** For my yoke is sweet and my burden light.
 
 
 ## Chapter 12
@@ -823,7 +823,7 @@
 
 **12:49** And stretching forth his hand towards his disciples, he said: Behold my mother and my brethren.
 
-**12:50** For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother. Gospel According to St Matthew next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:50** For whosoever shall do the will of my Father, that is in heaven, he is my brother, and sister, and mother.
 
 
 ## Chapter 13
@@ -942,7 +942,7 @@
 
 **13:57** And they were scandalized in his regard. But Jesus said to them: A prophet is not without honour, save in his own country, and in his own house.
 
-**13:58** And he wrought not many miracles there, because of their unbelief. Gospel According to St Matthew next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:58** And he wrought not many miracles there, because of their unbelief.
 
 
 ## Chapter 14
@@ -1017,7 +1017,7 @@
 
 **14:35** And when the men of that place had knowledge of him, they sent into all that country, and brought to him all that were diseased.
 
-**14:36** And they besought him that they might touch but the hem of his garment. And as many as touched, were made whole. Gospel According to St Matthew next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:36** And they besought him that they might touch but the hem of his garment. And as many as touched, were made whole.
 
 
 ## Chapter 15
@@ -1098,7 +1098,7 @@
 
 **15:38** And they that did eat, were four thousand men, beside children and women.
 
-**15:39** And having dismissed the multitude, he went up into a boat, and came into the coasts of Magedan. Gospel According to St Matthew next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:39** And having dismissed the multitude, he went up into a boat, and came into the coasts of Magedan.
 
 
 ## Chapter 16
@@ -1157,7 +1157,7 @@
 
 **16:27** For the Son of man shall come in the glory of his Father with his angels: and then will he render to every man according to his works.
 
-**16:28** Amen I say to you, there are some of them that stand here, that shall not taste death, till they see the Son of man coming in his kingdom. Gospel According to St Matthew next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:28** Amen I say to you, there are some of them that stand here, that shall not taste death, till they see the Son of man coming in his kingdom.
 
 
 ## Chapter 17
@@ -1212,7 +1212,7 @@
 
 **17:25** And he said: Of strangers. Jesus said to him: Then the children are free.
 
-**17:26** But that we may not scandalize them, go to the sea, and cast in a hook: and that fish which shall first come up, take: and when thou hast opened its mouth, thou shalt find a stater: take that, and give it to them for me and thee. Gospel According to St Matthew next > Chapter 17 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**17:26** But that we may not scandalize them, go to the sea, and cast in a hook: and that fish which shall first come up, take: and when thou hast opened its mouth, thou shalt find a stater: take that, and give it to them for me and thee.
 
 
 ## Chapter 18
@@ -1285,7 +1285,7 @@
 
 **18:34** And his lord being angry, delivered him to the torturers until he paid all the debt.
 
-**18:35** So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts. Gospel According to St Matthew next > Chapter 18 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**18:35** So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts.
 
 
 ## Chapter 19
@@ -1348,7 +1348,7 @@
 
 **19:29** And every one that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands for my name's sake, shall receive an hundredfold, and shall possess life everlasting.
 
-**19:30** And many that are first, shall be last: and the last shall be first. Gospel According to St Matthew next > Chapter 19 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**19:30** And many that are first, shall be last: and the last shall be first.
 
 
 ## Chapter 20
@@ -1419,7 +1419,7 @@
 
 **20:33** They say to him: Lord, that our eyes be opened.
 
-**20:34** And Jesus having compassion on them, touched their eyes. And immediately they saw, and followed him. Gospel According to St Matthew next > Chapter 20 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**20:34** And Jesus having compassion on them, touched their eyes. And immediately they saw, and followed him.
 
 
 ## Chapter 21
@@ -1514,7 +1514,7 @@
 
 **21:45** And when the chief priests and Pharisees had heard his parables, they knew that he spoke of them.
 
-**21:46** And seeking to lay hands on him, they feared the multitudes: because they held him as a prophet. Gospel According to St Matthew next > Chapter 21 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**21:46** And seeking to lay hands on him, they feared the multitudes: because they held him as a prophet.
 
 
 ## Chapter 22
@@ -1609,7 +1609,7 @@
 
 **22:45** If David then call him Lord, how is he his son?
 
-**22:46** And no man was able to answer him a word; neither durst any man from that day forth ask him any more questions. Gospel According to St Matthew next > Chapter 22 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**22:46** And no man was able to answer him a word; neither durst any man from that day forth ask him any more questions.
 
 
 ## Chapter 23
@@ -1690,7 +1690,7 @@
 
 **23:38** Behold, your house shall be left to you, desolate.
 
-**23:39** For I say to you, you shall not see me henceforth till you say: Blessed is he that cometh in the name of the Lord. Gospel According to St Matthew next > Chapter 23 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**23:39** For I say to you, you shall not see me henceforth till you say: Blessed is he that cometh in the name of the Lord.
 
 
 ## Chapter 24
@@ -1795,7 +1795,7 @@
 
 **24:50** The lord of that servant shall come in a day that he hopeth not, and at an hour that he knoweth not:
 
-**24:51** And shall separate him, and appoint his portion with the hypocrites. There shall be weeping and gnashing of teeth. Gospel According to St Matthew next > Chapter 24 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**24:51** And shall separate him, and appoint his portion with the hypocrites. There shall be weeping and gnashing of teeth.
 
 
 ## Chapter 25
@@ -1890,7 +1890,7 @@
 
 **25:45** Then he shall answer them, saying: Amen I say to you, as long as you did it not to one of these least, neither did you do it to me.
 
-**25:46** And these shall go into everlasting punishment: but the just, into life everlasting. Gospel According to St Matthew next > Chapter 25 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**25:46** And these shall go into everlasting punishment: but the just, into life everlasting.
 
 
 ## Chapter 26
@@ -2043,7 +2043,7 @@
 
 **26:74** Then he began to curse and to swear that he knew not the man. And immediately the cock crew.
 
-**26:75** And Peter remembered the word of Jesus which he had said: Before the cock crow, thou wilt deny me thrice. And going forth, he wept bitterly. Gospel According to St Matthew next > Chapter 26 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**26:75** And Peter remembered the word of Jesus which he had said: Before the cock crow, thou wilt deny me thrice. And going forth, he wept bitterly.
 
 
 ## Chapter 27
@@ -2178,7 +2178,7 @@
 
 **27:65** Pilate saith to them: You have a guard; go, guard it as you know.
 
-**27:66** And they departing, made the sepulchre sure, sealing the stone, and setting guards. Gospel According to St Matthew next > Chapter 27 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**27:66** And they departing, made the sepulchre sure, sealing the stone, and setting guards.
 
 
 ## Chapter 28
@@ -2221,5 +2221,5 @@
 
 **28:19** Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.
 
-**28:20** Teaching them to observe all things whatsoever I have commanded you: and behold I am with you all days, even to the consummation of the world. Gospel According to St Matthew next > Chapter 28 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**28:20** Teaching them to observe all things whatsoever I have commanded you: and behold I am with you all days, even to the consummation of the world.
 

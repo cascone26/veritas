@@ -160,7 +160,7 @@
 
 **1:79** To enlighten them that sit in darkness, and in the shadow of death: to direct our feet into the way of peace.
 
-**1:80** And the child grew, and was strengthened in spirit; and was in the deserts until the day of his manifestation to Israel. Gospel According to St Luke next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:80** And the child grew, and was strengthened in spirit; and was in the deserts until the day of his manifestation to Israel.
 
 
 ## Chapter 2
@@ -267,7 +267,7 @@
 
 **2:51** And he went down with them, and came to Nazareth, and was subject to them. And his mother kept all these words in her heart.
 
-**2:52** And Jesus advanced in wisdom, and age, and grace with God and men. Gospel According to St Luke next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:52** And Jesus advanced in wisdom, and age, and grace with God and men.
 
 
 ## Chapter 3
@@ -346,7 +346,7 @@
 
 **3:37** Who was of Mathusale, who was of Henoch, who was of Jared, who was of Malaleel, who was of Cainan,
 
-**3:38** Who was of Henos, who was of Seth, who was of Adam, who was of God. Gospel According to St Luke next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:38** Who was of Henos, who was of Seth, who was of Adam, who was of God.
 
 
 ## Chapter 4
@@ -437,7 +437,7 @@
 
 **4:43** To whom he said: To other cities also I must preach the kingdom of God: for therefore am I sent.
 
-**4:44** And he was preaching in the synagogues of Galilee. Gospel According to St Luke next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:44** And he was preaching in the synagogues of Galilee.
 
 
 ## Chapter 5
@@ -518,7 +518,7 @@
 
 **5:38** But new wine must be put into new bottles; and both are preserved.
 
-**5:39** And no man drinking old, hath presently a mind to new: for he saith, The old is better. Gospel According to St Luke next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:39** And no man drinking old, hath presently a mind to new: for he saith, The old is better.
 
 
 ## Chapter 6
@@ -619,7 +619,7 @@
 
 **6:48** He is like to a man building a house, who digged deep, and laid the foundation upon a rock. And when a flood came, the stream beat vehemently upon that house, and it could not shake it; for it was founded on a rock.
 
-**6:49** But he that heareth, and doth not, is like to a man building his house upon the earth without a foundation: against which the stream beat vehemently, and immediately it fell, and the ruin of that house was great. Gospel According to St Luke next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:49** But he that heareth, and doth not, is like to a man building his house upon the earth without a foundation: against which the stream beat vehemently, and immediately it fell, and the ruin of that house was great.
 
 
 ## Chapter 7
@@ -722,7 +722,7 @@
 
 **7:49** And they that sat at meat with him began to say within themselves: Who is this that forgiveth sins also?
 
-**7:50** And he said to the woman: Thy faith hath made thee safe, go in peace. Gospel According to St Luke next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:50** And he said to the woman: Thy faith hath made thee safe, go in peace.
 
 
 ## Chapter 8
@@ -837,7 +837,7 @@
 
 **8:55** And her spirit returned, and she arose immediately. And he bid them give her to eat.
 
-**8:56** And her parents were astonished, whom he charged to tell no man what was done. Gospel According to St Luke next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:56** And her parents were astonished, whom he charged to tell no man what was done.
 
 
 ## Chapter 9
@@ -964,7 +964,7 @@
 
 **9:61** And another said: I will follow thee, Lord; but let me first take my leave of them that are at my house.
 
-**9:62** Jesus said to him: No man putting his hand to the plough, and looking back, is fit for the kingdom of God. Gospel According to St Luke next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:62** Jesus said to him: No man putting his hand to the plough, and looking back, is fit for the kingdom of God.
 
 
 ## Chapter 10
@@ -1051,7 +1051,7 @@
 
 **10:41** And the Lord answering, said to her: Martha, Martha, thou art careful, and art troubled about many things:
 
-**10:42** But one thing is necessary. Mary hath chosen the best part, which shall not be taken away from her. Gospel According to St Luke next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:42** But one thing is necessary. Mary hath chosen the best part, which shall not be taken away from her.
 
 
 ## Chapter 11
@@ -1162,7 +1162,7 @@
 
 **11:53** And as he was saying these things to them, the Pharisees and the lawyers began violently to urge him, and to oppress his mouth about many things,
 
-**11:54** Lying in wait for him, and seeking to catch something from his mouth, that they might accuse him. Gospel According to St Luke next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:54** Lying in wait for him, and seeking to catch something from his mouth, that they might accuse him.
 
 
 ## Chapter 12
@@ -1283,7 +1283,7 @@
 
 **12:58** And when thou goest with thy adversary to the prince, whilst thou art in the way, endeavour to be delivered from him: lest perhaps he draw thee to the judge, and the judge deliver thee to the exacter, and the exacter cast thee into prison.
 
-**12:59** I say to thee, thou shalt not go out thence, until thou pay the very last mite. Gospel According to St Luke next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:59** I say to thee, thou shalt not go out thence, until thou pay the very last mite.
 
 
 ## Chapter 13
@@ -1356,7 +1356,7 @@
 
 **13:34** Jerusalem, Jerusalem, that killest the prophets, and stonest them that are sent to thee, how often would I have gathered thy children as the bird doth her brood under her wings, and thou wouldest not?
 
-**13:35** Behold your house shall be left to you desolate. And I say to you, that you shall not see me till the time come, when you shall say: Blessed is he that cometh in the name of the Lord. Gospel According to St Luke next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:35** Behold your house shall be left to you desolate. And I say to you, that you shall not see me till the time come, when you shall say: Blessed is he that cometh in the name of the Lord.
 
 
 ## Chapter 14
@@ -1429,7 +1429,7 @@
 
 **14:34** Salt is good. But if the salt shall lose its savour, wherewith shall it be seasoned?
 
-**14:35** It is neither profitable for the land nor for the dunghill, but shall be cast out. He that hath ears to hear, let him hear. Gospel According to St Luke next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:35** It is neither profitable for the land nor for the dunghill, but shall be cast out. He that hath ears to hear, let him hear.
 
 
 ## Chapter 15
@@ -1496,7 +1496,7 @@
 
 **15:31** But he said to him: Son, thou art always with me, and all I have is thine.
 
-**15:32** But it was fit that we should make merry and be glad, for this thy brother was dead and is come to life again; he was lost, and is found. Gospel According to St Luke next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:32** But it was fit that we should make merry and be glad, for this thy brother was dead and is come to life again; he was lost, and is found.
 
 
 ## Chapter 16
@@ -1561,7 +1561,7 @@
 
 **16:30** But he said: No, father Abraham: but if one went to them from the dead, they will do penance.
 
-**16:31** And he said to him: If they hear not Moses and the prophets, neither will they believe, if one rise again from the dead. Gospel According to St Luke next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:31** And he said to him: If they hear not Moses and the prophets, neither will they believe, if one rise again from the dead.
 
 
 ## Chapter 17
@@ -1638,7 +1638,7 @@
 
 **17:36** They answering, say to him: Where, Lord?
 
-**17:37** Who said to them: Wheresoever the body shall be, thither will the eagles also be gathered together. Gospel According to St Luke next > Chapter 17 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**17:37** Who said to them: Wheresoever the body shall be, thither will the eagles also be gathered together.
 
 
 ## Chapter 18
@@ -1727,7 +1727,7 @@
 
 **18:42** And Jesus said to him: Receive thy sight: thy faith hath made thee whole.
 
-**18:43** And immediately he saw, and followed him, glorifying God. And all the people, when they saw it, gave praise to God. Gospel According to St Luke next > Chapter 18 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**18:43** And immediately he saw, and followed him, glorifying God. And all the people, when they saw it, gave praise to God.
 
 
 ## Chapter 19
@@ -1826,7 +1826,7 @@
 
 **19:47** And he was teaching daily in the temple. And the chief priests and the scribes and the rulers of the people sought to destroy him:
 
-**19:48** And they found not what to do to him: for all the people were very attentive to hear him. Gospel According to St Luke next > Chapter 19 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**19:48** And they found not what to do to him: for all the people were very attentive to hear him.
 
 
 ## Chapter 20
@@ -1923,7 +1923,7 @@
 
 **20:46** Beware of the scribes, who desire to walk in long robes, and love salutations in the marketplace, and the first chairs in the synagogues, and the chief rooms at feasts:
 
-**20:47** Who devour the houses of widows, feigning long prayer. These shall receive greater damnation. Gospel According to St Luke next > Chapter 20 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**20:47** Who devour the houses of widows, feigning long prayer. These shall receive greater damnation.
 
 
 ## Chapter 21
@@ -2002,7 +2002,7 @@
 
 **21:37** And in the daytime, he was teaching in the temple; but at night, going out, he abode in the mount that is called Olivet.
 
-**21:38** And all the people came early in the morning to him in the temple, to hear him. Gospel According to St Luke next > Chapter 21 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**21:38** And all the people came early in the morning to him in the temple, to hear him.
 
 
 ## Chapter 22
@@ -2147,7 +2147,7 @@
 
 **22:70** Then said they all: Art thou then the Son of God? Who said: You say that I am.
 
-**22:71** And they said: What need we any further testimony? for we ourselves have heard it from his own mouth. Gospel According to St Luke next > Chapter 22 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**22:71** And they said: What need we any further testimony? for we ourselves have heard it from his own mouth.
 
 
 ## Chapter 23
@@ -2262,7 +2262,7 @@
 
 **23:55** And the women that were come with him from Galilee, following after, saw the sepulchre, and how his body was laid.
 
-**23:56** And returning, they prepared spices and ointments; and on the sabbath day they rested, according to the commandment. Gospel According to St Luke next > Chapter 23 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**23:56** And returning, they prepared spices and ointments; and on the sabbath day they rested, according to the commandment.
 
 
 ## Chapter 24
@@ -2371,5 +2371,5 @@
 
 **24:52** And they adoring went back into Jerusalem with great joy.
 
-**24:53** And they were always in the temple, praising and blessing God. Amen. Gospel According to St Luke next > Chapter 24 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**24:53** And they were always in the temple, praising and blessing God. Amen.
 

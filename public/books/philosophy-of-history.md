@@ -17978,27 +17978,3 @@ realization of Spirit — this is the true Theodiccca, the justification of God 
 with the History of the World — viz., that what has happened,
 and is happening every day, is not only not " without God/' but
 is essentially His Work.
-
-
-.J ^
-
-
-4k
-
-
-i^'^
-
-
-^
-
-
-Hegel D
-
-^ 16.8
-
-The philosophy of history.H46^
-
-
-Ill
-
-

@@ -60,7 +60,7 @@
 
 **1:29** For unto you it is given for Christ, not only to believe in him, but also to suffer for him.
 
-**1:30** Having the same conflict as that which you have seen in me, and now have heard of me. Epistle of St Paul to the Philippians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:30** Having the same conflict as that which you have seen in me, and now have heard of me.
 
 
 ## Chapter 2
@@ -123,7 +123,7 @@
 
 **2:29** Receive him therefore with all joy in the Lord; and treat with honour such as he is.
 
-**2:30** Because for the work of Christ he came to the point of death: delivering his life, that he might fulfill that which on your part was wanting towards my service. Epistle of St Paul to the Philippians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:30** Because for the work of Christ he came to the point of death: delivering his life, that he might fulfill that which on your part was wanting towards my service.
 
 
 ## Chapter 3
@@ -168,7 +168,7 @@
 
 **3:20** But our conversation is in heaven; from whence also we look for the Saviour, our Lord Jesus Christ,
 
-**3:21** Who will reform the body of our lowness, made like to the body of his glory, according to the operation whereby also he is able to subdue all things unto himself. Epistle of St Paul to the Philippians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:21** Who will reform the body of our lowness, made like to the body of his glory, according to the operation whereby also he is able to subdue all things unto himself.
 
 
 ## Chapter 4
@@ -217,5 +217,5 @@
 
 **4:22** The brethren who are with me, salute you. All the saints salute you; especially they that are of Caesar's household.
 
-**4:23** The grace of our Lord Jesus Christ be with your spirit. Amen. Epistle of St Paul to the Philippians next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:23** The grace of our Lord Jesus Christ be with your spirit. Amen.
 

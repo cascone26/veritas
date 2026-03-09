@@ -402,7 +402,6 @@ The next word is, Repent.
 
 **BEDE**. (in Marc. i. 10) Even after working a miracle in that city, the Lord retires into the desert, to shew that He loves best a quiet life, and one far removed from the cares of the world, and that it is on account of this desire, He applied Himself to the healing of the body.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 2
 
@@ -590,7 +589,6 @@ The next word is, Repent.
 
 **BEDE**. (ubi sup) Again, they walk through the corn fields with the Lord, who rejoice in meditating upon His sacred words. They hunger, when they desire to find in them the bread of life; and they hunger on sabbath days, as soon as their minds are in a soothing rest, and they rejoice in freedom from troubled thoughts; they pluck the ears of corn, and by rubbing, cleanse them, till they come to what is fit to eat, when by meditation they take to themselves the witness of the Scriptures, to which they arrive by reading, and discuss them continually, until they find in them the marrow of love; this refreshment of the mind is truly unpleasing to fools, but is approved by the Lord.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 3
 
@@ -800,7 +798,6 @@ The next word is, Repent.
 
 **BEDE**. (ubi sup.) But mystically, the mother and brother of Jesus means the synagogue, (from which according to the flesh He sprung,) and the Jewish people who, while the Saviour is teaching within, come to Him, and are not able to enter, because they cannot understand spiritual things. But the crowd eagerly enter, because when the Jews delayed, the Gentiles flocked to Christ; but His kindred, who stand without wishing to see the Lord, are the Jews who obstinately remained without, guarding the letter, and would rather compel the Lord to go forth to them to teach carnal things, than consent to enter in to learn spiritual things of Him. (Ambr in Luc. 6, 37.). If therefore not even His parents when standing without are acknowledged, how shall we be acknowledged, if we stand without? For the word is within and the light within.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 4
 
@@ -1052,7 +1049,6 @@ The next word is, Repent.
 
 **BEDE**. (ubi sup.) Or else the ship into which He embarked, is taken to mean the tree of His passion, by which the faithful attain to the security of the safe shore. The other ships which are said to have been with the Lord, signify those, who are imbued with faith in the cross of Christ, and are not beaten about by the whirlwind of tribulation; or who, after the storms of temptation, are enjoying the serenity of peace. And whilst His disciples are sailing on, Christ is asleep, because the time of our Lord’s Passion came on His faithful ones, when they were meditating on the rest of His future reign. Wherefore it is related, that it took place late, that not only the sleep of our Lord, but the hour itself of departing light, might signify the setting of the true Sun. Again, when He ascended the cross, of which the stern of the ship was a type, His blaspheming persecutors rose like the waves against Him, driven on by the storms of the devils, by which, however, His own patience is not disturbed, but His foolish disciples are struck with amazement. The disciples awake the Lord, because they sought, with most earnest wishes, the resurrection of Him whom they had seen die. Rising up, He threatened the wind, because when He had triumphed in His resurrection, He prostrated the pride of the devil. He ordered the sea to be still, that is, in rising again, He cast down the rage of the Jews. The disciples are blamed, because after His resurrection, He chid them for their unbelief. And we also when being marked with the sign of the Lord’s cross, we determine to quit the world, embark in the ship with Christ; we attempt to cross the sea; but, He goes to sleep, as we are sailing amidst the roaring of the waters, when amidst the strivings of our virtues, or amidst the attacks of evil spirits, of wicked men, or of our own thoughts, the flame of our love grows cold. Amongst storms of this sort, let us diligently strive to awake Him; He will soon restrain the tempest, pour down peace upon us, give us the harbour of salvation.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 5
 
@@ -1280,7 +1276,6 @@ The next word is, Repent.
 
 **BEDE**. (ubi sup.) And we may remark, that lighter and daily errors may be cured by the remedy of a lighter penance. Wherefore the Lord raises the damsel, lying in the inner chamber with a very easy cry, saying, Damsel, arise; but that he who had been four days dead might quit the prison of the tomb, He groaned in spirit, He was troubled, He shed tears. In proportion, then, as the death of the soul presses the more heavily, so much the more ardently must the fervour of the penitent press forward. But this too must be observed, that a public crime requires a public reparation; wherefore Lazarus, when called from the sepulchre, was placed before the eyes of the people: but slight sins require to be washed out by a secret penance, wherefore the damsel lying in the house is raised up before few witnesses, and those are desired to tell no man. The crowd also is cast out before the damsel is raised; for if a crowd of worldly thoughts be not first cast out from the hidden parts of the heart, the soul, which lies dead within, cannot rise. Well too did she arise and walk, for the soul, raised from sin, ought not only to rise from the filth of its crimes, but also to make advances in good works, and soon it is necessary that it should be filled with heavenly bread, that is, made partaker of the Divine Word, and of the Altar.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 6
 
@@ -1622,7 +1617,6 @@ The next word is, Repent.
 
 **PSEUDO-JEROME**. Furthermore that which is said, And as many as touched him were made whole, shall be fulfilled, when grief and mourning shall fly away.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 7
 
@@ -1834,7 +1828,6 @@ The next word is, Repent.
 
 **PSEUDO-JEROME**. Further, he who obtains healing is always drawn aside from turbulent thoughts, disorderly actions, and incoherent speeches. And the fingers which are put into the ears are the words and the gifts of the Holy Ghost, of whom it is said, This is the finger of God. (Exod. 8:19) The spittle is heavenly wisdom, which loosens the sealed lips of the human race, so that it can say, I believe in God, the Father Almighty, and the rest of the Creed. And looking up to heaven, he groaned, (Cf. Mat. 12:20. Luke 11:20) that is, He taught us to groan, and to raise up the treasures of our hearts to the heavens; because by the groaning of hearty compunction, the silly joy of the flesh is purged away. But the ears are opened to hymns, and songs, and psalms; and He looses the tongue, that it may pour forth the good word, which neither threats nor stripes can restrain.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 8
 
@@ -2098,7 +2091,6 @@ The next word is, Repent.
 
 **PSEUDO-CHRYSOSTOM**. (Orig. in Matt. tom. xii. 33, 35) But in a mystical sense, Christ is life, and the devil is death, and he tastes of death, who dwells in sin; even now every one, according as he has good or evil doctrines, tastes the bread either of life or of death. And indeed, it is a less evil to see death, a greater to taste of it, still worse to follow it, worst of all to be subject to it.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 9
 
@@ -2462,7 +2454,6 @@ The next word is, Repent.
 
 **AUGUSTINE**. (de Con. 4. 6) Mark relates that the Lord said these things consecutively, and has put down some things omitted by every other Evangelist, some which Matthew has also related, others which both Matthew and Luke relate, but on other occasions, and in a different series of events. Wherefore it seems to me that our Lord repeated in this place discourses which He had used in other places, because they were pertinent enough to this saying of His, by which He prevented their forbidding miracles to be wrought in His name, even by him who followed Him not together with His disciples.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 10
 
@@ -2796,7 +2787,6 @@ The next word is, Repent.
 
 **PSEUDO-JEROME**. Or, this is the way of which He said, I am the Way, the Truth, and the Life. This is the narrow way, which leads to the heights of Jerusalem, and Bethany, to the mount of Olives, which is the mount of light and consolation.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 11
 
@@ -3024,7 +3014,6 @@ The next word is, Repent.
 
 **BEDE**. (ubi sup.) As if He had said, I will not tell you what I know, since ye will not confess what ye know. Further, we must observe that knowledge is hidden from those who seek it, principally for two reasons, namely, when he who seeks for it either has not sufficient capacity to understand what he seeks for, or when through contempt for the truth, or some other reason, he is unworthy of having that for which he seeks opened to him.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 12
 
@@ -3278,7 +3267,6 @@ The next word is, Repent.
 
 **BEDE**. (ubi sup) Again, in an allegorical way, the rich men, who cast gifts into the treasury, point out the Jews puffed up with the righteousness of the law; the poor widow is the simplicity of the Church: poor indeed, because she has cast away the spirit of pride and of the desires of worldly things; and a widow, because Jesus her husband has suffered death for her. She casts two mites into the treasury, because she brings the love of God and of her neighbour, or the gifts of faith and prayer; which are looked upon as mites in their own insignificance, but measured by the merit of a devout intention are superior to all the proud works of the Jews. The Jew sends of his abundance into the treasury, because he presumes on his own righteousness; but the Church sends her whole living into God’s treasury, because she understands that even her very living is not of her own desert, but of Divine grace.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 13
 
@@ -3524,7 +3512,6 @@ The next word is, Repent.
 
 **AUGUSTINE**. (Epist. 199, 3) For He not only speaks to those in whose hearing He then spake, but even to all who came after them, before our time, and even to us, and to all after us, even to His last coming. But shall that day find all living, or will any man say that He speaks also to the dead, when He says, Watch, lest when he cometh he find you sleeping? Why then does He say to all, what only belongs to those who shall then be alive, if it be not that it belongs to all, as I have said? For that day comes to each man when his day comes for departing from this life such as he is to be, when judged in that day, and for this reason every Christian ought to watch, lest the Advent of the Lord find him unprepared; but that day shall find him unprepared, whom the last day of his life shall find unprepared.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 14
 
@@ -4036,7 +4023,6 @@ The next word is, Repent.
 
 **PSEUDO-JEROME**. But in a mystical sense, the first maid means the wavering, the second, the assent, the third man is the act. This is the threefold denial which the remebrance of the word of the Lord washes away through tears. The cock then crows for us when some preacher up our hearts by repentance to compunction. We then begin to weep, when we are set on fire within by the spark of knowledge, and we go forth, when we cast out what we were within.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 15
 
@@ -4332,7 +4318,6 @@ The next word is, Repent.
 
 **PSEUDO-JEROME**. These things also fit the Jewish people, which finally is believing, which is ennobled by faith to become the child of Abraham. It lays aside its despair, it waits for the kingdom of God, it goes in to the Christians, that it may be baptized; which is implied by the name of Pilate, which is interpreted, ‘One who works with a hammer,’ that is, he who subdues the iron nations, that he may rule them with a rod of iron. It seeks for the sacrifice, that is, the viaticum, which is given to penitents at their last end, and wraps it up in a heart clean and dead to sin; it makes it firm in the safeguard of faith, and shuts it up with the covering of hope, through works of charity; (for the end of the commandment is charity;) (1 Tim. 1:5) whilst the elect, who are the stars of the sea, are looking on from afar, for, if it be possible, the very elect shall be offended.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 16
 
@@ -4537,6 +4522,3 @@ The next word is, Repent.
 **AUGUSTINE**. (Epist. cxcix. 12.) (Acts 1:8) But how was this preaching fulfilled by the Apostles, since there are many nations in which it has just begun, and others in which it has not yet begun to be fulfilled? Truly then this precept was not so laid upon the Apostles by our Lord, as though they alone to whom He then spoke were to fulfil so great a charge; in the same way as He says, Behold, I am with you always, even unto the end of the world, apparently to them alone; but who does not understand that the promise is made to the Catholic Church, which though some are dying, others are born, shall be here unto the end of the world?
 
 **THEOPHYLACT**. But we must also know from this that words are confirmed by deeds as then in the Apostles works confirmed their words, for signs followed. Grant then, O Christ, that the good words which we speak may be confirmed by works and deeds, so that at the last, Thou working with us in word and in deed, we may be perfect, for Thine as is fitting is the glory both of word and deed. Amen.
-
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
-

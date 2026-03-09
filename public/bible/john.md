@@ -102,7 +102,7 @@
 
 **1:50** Jesus answered, and said to him: Because I said unto thee, I saw thee under the fig tree, thou believest: greater things than these shalt thou see.
 
-**1:51** And he saith to him: Amen, amen I say to you, you shall see the heaven opened, and the angels of God ascending and descending upon the Son of man. Gospel According to St John next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:51** And he saith to him: Amen, amen I say to you, you shall see the heaven opened, and the angels of God ascending and descending upon the Son of man.
 
 
 ## Chapter 2
@@ -155,7 +155,7 @@
 
 **2:24** But Jesus did not trust himself unto them, for that he knew all men,
 
-**2:25** And because he needed not that any should give testimony of man: for he knew what was in man. Gospel According to St John next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:25** And because he needed not that any should give testimony of man: for he knew what was in man.
 
 
 ## Chapter 3
@@ -230,7 +230,7 @@
 
 **3:35** The Father loveth the Son: and he hath given all things into his hand.
 
-**3:36** He that believeth in the Son, hath life everlasting; but he that believeth not the Son, shall not see life; but the wrath of God abideth on him. Gospel According to St John next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:36** He that believeth in the Son, hath life everlasting; but he that believeth not the Son, shall not see life; but the wrath of God abideth on him.
 
 
 ## Chapter 4
@@ -341,7 +341,7 @@
 
 **4:53** The father therefore knew, that it was at the same hour that Jesus said to him, Thy son liveth; and himself believed, and his whole house.
 
-**4:54** This is again the second miracle that Jesus did, when he was come out of Judea into Galilee. Gospel According to St John next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:54** This is again the second miracle that Jesus did, when he was come out of Judea into Galilee.
 
 
 ## Chapter 5
@@ -438,7 +438,7 @@
 
 **5:46** For if you did believe Moses, you would perhaps believe me also; for he wrote of me.
 
-**5:47** But if you do not believe his writings, how will you believe my words? Gospel According to St John next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:47** But if you do not believe his writings, how will you believe my words?
 
 
 ## Chapter 6
@@ -585,7 +585,7 @@
 
 **6:71** Jesus answered them: Have not I chosen you twelve; and one of you is a devil?
 
-**6:72** Now he meant Judas Iscariot, the son of Simon: for this same was about to betray him, whereas he was one of the twelve. Gospel According to St John next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:72** Now he meant Judas Iscariot, the son of Simon: for this same was about to betray him, whereas he was one of the twelve.
 
 
 ## Chapter 7
@@ -694,7 +694,7 @@
 
 **7:52** They answered, and said to him: Art thou also a Galilean? Search the scriptures, and see, that out of Galilee a prophet riseth not.
 
-**7:53** And every man returned to his own house. Gospel According to St John next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:53** And every man returned to his own house.
 
 
 ## Chapter 8
@@ -815,7 +815,7 @@
 
 **8:58** Jesus said to them: Amen, amen I say to you, before Abraham was made, I am.
 
-**8:59** They took up stones therefore to cast at him. But Jesus hid himself, and went out of the temple. Gospel According to St John next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:59** They took up stones therefore to cast at him. But Jesus hid himself, and went out of the temple.
 
 
 ## Chapter 9
@@ -900,7 +900,7 @@
 
 **9:40** And some of the Pharisees, who were with him, heard: and they said unto him: Are we also blind?
 
-**9:41** Jesus said to them: If you were blind, you should not have sin: but now you say: We see. Your sin remaineth. Gospel According to St John next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:41** Jesus said to them: If you were blind, you should not have sin: but now you say: We see. Your sin remaineth.
 
 
 ## Chapter 10
@@ -987,7 +987,7 @@
 
 **10:41** And many resorted to him, and they said: John indeed did no sign.
 
-**10:42** But all things whatsoever John said of this man, were true. And many believed in him. Gospel According to St John next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:42** But all things whatsoever John said of this man, were true. And many believed in him.
 
 
 ## Chapter 11
@@ -1102,7 +1102,7 @@
 
 **11:55** And the pasch of the Jews was at hand; and many from the country went up to Jerusalem, before the pasch to purify themselves.
 
-**11:56** They sought therefore for Jesus; and they discoursed one with another, standing in the temple: What think you that he is not come to the festival day? And the chief priests and Pharisees had given a commandment, that if any man knew where he was, he should tell, that they might apprehend him. Gospel According to St John next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:56** They sought therefore for Jesus; and they discoursed one with another, standing in the temple: What think you that he is not come to the festival day? And the chief priests and Pharisees had given a commandment, that if any man knew where he was, he should tell, that they might apprehend him.
 
 
 ## Chapter 12
@@ -1205,7 +1205,7 @@
 
 **12:49** For I have not spoken of myself; but the Father who sent me, he gave me commandment what I should say, and what I should speak.
 
-**12:50** And I know that his commandment is life everlasting. The things therefore that I speak, even as the Father said unto me, so do I speak. Gospel According to St John next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:50** And I know that his commandment is life everlasting. The things therefore that I speak, even as the Father said unto me, so do I speak.
 
 
 ## Chapter 13
@@ -1284,7 +1284,7 @@
 
 **13:37** Peter saith to him: Why cannot I follow thee now? I will lay down my life for thee.
 
-**13:38** Jesus answered him: Wilt thou lay down thy life for me? Amen, amen I say to thee, the cock shall not crow, till thou deny me thrice. Gospel According to St John next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:38** Jesus answered him: Wilt thou lay down thy life for me? Amen, amen I say to thee, the cock shall not crow, till thou deny me thrice.
 
 
 ## Chapter 14
@@ -1349,7 +1349,7 @@
 
 **14:30** I will not now speak many things with you. For the prince of this world cometh, and in me he hath not any thing.
 
-**14:31** But that the world may know, that I love the Father: and as the Father hath given me commandment, so do I: Arise, let us go hence. Gospel According to St John next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:31** But that the world may know, that I love the Father: and as the Father hath given me commandment, so do I: Arise, let us go hence.
 
 
 ## Chapter 15
@@ -1406,7 +1406,7 @@
 
 **15:26** But when the Paraclete cometh, whom I will send you from the Father, the Spirit of truth, who proceedeth from the Father, he shall give testimony of me.
 
-**15:27** And you shall give testimony, because you are with me from the beginning. Gospel According to St John next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:27** And you shall give testimony, because you are with me from the beginning.
 
 
 ## Chapter 16
@@ -1475,7 +1475,7 @@
 
 **16:32** Behold, the hour cometh, and it is now come, that you shall be scattered every man to his own, and shall leave me alone; and yet I am not alone, because the Father is with me.
 
-**16:33** These things I have spoken to you, that in me you may have peace. In the world you shall have distress: but have confidence, I have overcome the world. Gospel According to St John next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:33** These things I have spoken to you, that in me you may have peace. In the world you shall have distress: but have confidence, I have overcome the world.
 
 
 ## Chapter 17
@@ -1530,7 +1530,7 @@
 
 **17:25** Just Father, the world hath not known thee; but I have known thee: and these have known that thou hast sent me.
 
-**17:26** And I have made known thy name to them, and will make it known; that the love wherewith thou hast loved me, may be in them, and I in them. Gospel According to St John next > Chapter 17 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**17:26** And I have made known thy name to them, and will make it known; that the love wherewith thou hast loved me, may be in them, and I in them.
 
 
 ## Chapter 18
@@ -1613,7 +1613,7 @@
 
 **18:39** But you have a custom that I should release one unto you at the pasch: will you, therefore, that I release unto you the king of the Jews?
 
-**18:40** Then cried they all again, saying: Not this man, but Barabbas. Now Barabbas was a robber. Gospel According to St John next > Chapter 18 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**18:40** Then cried they all again, saying: Not this man, but Barabbas. Now Barabbas was a robber.
 
 
 ## Chapter 19
@@ -1700,7 +1700,7 @@
 
 **19:41** Now there was in the place where he was crucified, a garden; and in the garden a new sepulchre, wherein no man yet had been laid.
 
-**19:42** There, therefore, because of the parasceve of the Jews, they laid Jesus, because the sepulchre was nigh at hand. Gospel According to St John next > Chapter 19 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**19:42** There, therefore, because of the parasceve of the Jews, they laid Jesus, because the sepulchre was nigh at hand.
 
 
 ## Chapter 20
@@ -1765,7 +1765,7 @@
 
 **20:30** Many other signs also did Jesus in the sight of his disciples, which are not written in this book.
 
-**20:31** But these are written, that you may believe that Jesus is the Christ, the Son of God: and that believing, you may have life in his name. Gospel According to St John next > Chapter 20 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**20:31** But these are written, that you may believe that Jesus is the Christ, the Son of God: and that believing, you may have life in his name.
 
 
 ## Chapter 21
@@ -1818,5 +1818,5 @@
 
 **21:24** This is that disciple who giveth testimony of these things, and hath written these things; and we know that his testimony is true.
 
-**21:25** But there are also many other things which Jesus did; which, if they were written every one, the world itself, I think, would not be able to contain the books that should be written. Gospel According to St John next > Chapter 21 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**21:25** But there are also many other things which Jesus did; which, if they were written every one, the world itself, I think, would not be able to contain the books that should be written.
 

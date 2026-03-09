@@ -48,7 +48,7 @@
 
 **1:23** But they had heard only: He, who persecuted us in times past, doth now preach the faith which once he impugned:
 
-**1:24** And they glorified God in me. Epistle of St Paul to the Galatians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:24** And they glorified God in me.
 
 
 ## Chapter 2
@@ -93,7 +93,7 @@
 
 **2:20** And I live, now not I; but Christ liveth in me. And that I live now in the flesh: I live in the faith of the Son of God, who loved me, and delivered himself for me.
 
-**2:21** I cast not away the grace of God. For if justice be by the law, then Christ died in vain. Epistle of St Paul to the Galatians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:21** I cast not away the grace of God. For if justice be by the law, then Christ died in vain.
 
 
 ## Chapter 3
@@ -154,7 +154,7 @@
 
 **3:28** There is neither Jew nor Greek: there is neither bond nor free: there is neither male nor female. For you are all one in Christ Jesus.
 
-**3:29** And if you be Christ's, then are you the seed of Abraham, heirs according to the promise. Epistle of St Paul to the Galatians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:29** And if you be Christ's, then are you the seed of Abraham, heirs according to the promise.
 
 
 ## Chapter 4
@@ -219,7 +219,7 @@
 
 **4:30** But what saith the scripture? Cast out the bondwoman and her son; for the son of the bondwoman shall not be heir with the son of the free woman.
 
-**4:31** So then, brethren, we are not the children of the bondwoman, but of the free: by the freedom wherewith Christ has made us free. Epistle of St Paul to the Galatians next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:31** So then, brethren, we are not the children of the bondwoman, but of the free: by the freedom wherewith Christ has made us free.
 
 
 ## Chapter 5
@@ -274,7 +274,7 @@
 
 **5:25** If we live in the Spirit, let us also walk in the Spirit.
 
-**5:26** Let us not be made desirous of vain glory, provoking one another, envying one another. Epistle of St Paul to the Galatians next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:26** Let us not be made desirous of vain glory, provoking one another, envying one another.
 
 
 ## Chapter 6
@@ -313,5 +313,5 @@
 
 **6:17** From henceforth let no man be troublesome to me; for I bear the marks of the Lord Jesus in my body.
 
-**6:18** The grace of our Lord Jesus Christ be with your spirit, brethren. Amen. Epistle of St Paul to the Galatians next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:18** The grace of our Lord Jesus Christ be with your spirit, brethren. Amen.
 

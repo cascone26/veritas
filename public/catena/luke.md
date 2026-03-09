@@ -864,7 +864,6 @@ When the angel saw that she was troubled at this unusual salutation, calling her
 
 **AMBROSE**. And rightly is the time noted during which the prophet was in the womb, in order that the presence of Mary might not be passed over, while they are silent about the time of his childhood, because being strengthened in the womb by the presence of the Mother of the Lord, he knew not the struggles of childhood.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 2
 
@@ -1446,7 +1445,6 @@ When the angel saw that she was troubled at this unusual salutation, calling her
 
 **GREGORY OF NYSSA**. (Hom. 3. in Cant.) The word also increases in different degrees in those who receive it; and according to the measure of its increase a man appears either an infant, grown up, or a perfect man.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 3
 
@@ -1868,7 +1866,6 @@ It follows, Who was the son of Adam.
 
 **AUGUSTINE**. (Quæst. Ev. lib. ii. qu. 6.) But most fitly with regard to our baptized Lord does Luke reckon the generations through seventy-seven persons. For both the ascent to God is expressed, to whom we are reconciled by the abolition of sins, and by baptism is brought to man the remission of all his sins, which are signified by that number. For eleven times seven are seventy-seven. But by the tenth number is meant perfect happiness. Hence it is plain that the going beyond the tenth marks the sin of one through pride coveting to have more. But this is said to be seven times to signify that the transgression was caused by the moving of man. For by the third number the immortal part of man is represented, but by the fourth the body. But motion is not expressed in numbers, as when we say, one, two, three; but when we say, once, twice, thrice. And so by seven times eleven, is signified a transgression wrought by man’s action.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 4
 
@@ -2312,7 +2309,6 @@ It follows, And to preach deliverance to the captives.
 
 **BEDE**. But if the sun-setting mystically expresses the death of our Lord, the returning day denotes His resurrection, (the light of which being made manifest, He is sought for by the multitudes of believers, and being found in the desert of the Gentiles He is held back by them, lest He should depart;) especially as this took place on the first day of the week, on which day the Resurrection was celebrated.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 5
 
@@ -2660,7 +2656,6 @@ It follows, And to preach deliverance to the captives.
 
 **BEDE**. But to every soul which is not yet renewed, but goes on still in the old way of wickedness, the sacraments of new mysteries ought not to be given. They also who wish to mix the precepts of the Law with the Gospel, as the Galatians did, put new wine into old bottles. It follows, No man also having drank old wine straightway desireth new, for he saith, the old is better. For the Jews, imbued with the taste of their old life, despised the precepts of the new grace, and being defiled with the traditions of their ancestors, were not able to perceive the sweetness of spiritual words.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 6
 
@@ -3118,7 +3113,6 @@ It follows, And of him that taketh away thy goods, ask them not again.
 
 **AUGUSTINE**. (de Con. Ev. ii. 19.) Now this long discourse of our Lord, Luke begins in the same way as Matthew; for each says, Blessed are the poor. Then many things which follow in the narration of each are like, and finally the conclusion of the discourse is found to be altogether the same, I mean with respect to the men who build upon the rock and the sand. It might then easily be supposed that Luke has inserted the same discourse of our Lord, and yet has left out some sentences which Matthew has kept, and likewise put in others which Matthew has not; were it not that Matthew says the discourse was spoken by our Lord on the mountain, but Luke on the plain by our Lord standing. It is not however thought likely from this that these two discourses are separated by a long course of time, because both before and after both have related some things like, or the same. It may however have happened that our Lord was at first on a higher part of the mountain with His disciples alone, and that then he descended with them from the mount, that is, from the summit of the mountain to the flat place, that is, to some level ground, which was on the side of the mountain, and was able to hold large multitudes, and that there He stood until the crowds were gathered together to Him, and afterwards when He sat down His disciples came nearer, and to them, and the rest of the multitude who were present, He held the same discourse.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 7
 
@@ -3510,7 +3504,6 @@ It follows, And of him that taketh away thy goods, ask them not again.
 
 **AMBROSE**. Blessed is he even who can anoint with oil the feet of Christ, but more blessed is he who anoints with ointment, for the essence of many flowers blended into one, scatters the sweets of various odours. And perhaps no other than the Church alone can bring that ointment which has innumerable flowers of different perfumes, and therefore no one can love so much as she who loves in many individuals. But in the Pharisee’s house, that is, in the house of the Law and the Prophets, not the Pharisee, but the Church is justified. For the Pharisee believed not, the Church believed. The Law has no mystery by which secret faults are cleansed, and therefore that which is wanting in the Law is made up in the Gospel. But the two debtors are the two nations who are responsible for payment to the usurer of the heavenly treasury. But we do not owe to this usurer material money, but the balance of our good deeds, the coin of our virtues, the merits of which are estimated by the weight of sorrow, the stamp of righteousness, the sound of confession. But that denarius is of no slight value on which the image of the king is found. Woe to me if I shall not have what I received. Or because there is hardly any one who can pay the whole debt to the usurer, woe to me if I shall not seek the debt to be forgiven me. But what nation is it that owes most, if not we to whom most is lent? To them were entrusted the oracles of God, to us is entrusted the Virgin’s offspring, Immanuel, i. e. God with us, the cross of our Lord, His death, His resurrection. It cannot then be doubted that he owes most who receives most. Among men he perhaps offends most who is most in debt. By the mercy of the Lord the case is reversed, so that he loves most who owes most, if so be that he obtains grace. And therefore since there is nothing which we can worthily return to the Lord, woe be to me also if I shall not have loved. Let us then offer our love for the debt, for he loves most to whom most is given.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 8
 
@@ -3982,7 +3975,6 @@ But allegorically, the sea or lake is the dark and bitter tide of the world, the
 
 **BEDE**. Now the maid arose straightway, because when Christ strengthens the hand, man revives from the death of the soul. For there are some, who only by the secret thought of sin are conscious of bringing death to themselves. The Lord signifying that such He brings to life again, raised the daughter of the ruler of the synagogue. But others, by committing the very evil in which they delight, carry their dead as it were without the gates, and to shew that He raises these, He raised the widow’s son without the gates. But some also, by habits of sin, bury themselves, as it were, and become corrupt; and to raise these also the grace of the Saviour is not wanting; to intimate which He raised from the dead Lazarus, who had been four days in the grave. But the deeper the death of the soul, so much the more intense should be the fervour of penitence. Hence He raises with a gentle voice the maid who lay dead in the room, the youth who was carried out He strengthens with many words, but to raise him who had been dead four days, He groaned in His spirit, He poured forth tears, and cried with a loud voice. But here also we must observe, that a public calamity needs a public remedy. Slight offences seek to be blotted out by secret penitence. The maid lying in the house rises again with few witnesses; the youth without the house is raised in the presence of a great crowd who accompanied him. Lazarus summoned from the tomb was known to many nations.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 9
 
@@ -4558,7 +4550,6 @@ It follows, And Jesus says to him, The foxes have holes, &c.
 
 **BEDE**. But if the disciple about to follow our Lord is reproved for wishing even to bid farewell at home, what will be done to such as for no advantage-sake frequently visit the houses of those whom they have left in the world?
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 10
 
@@ -5048,7 +5039,6 @@ It follows, And he sent them two and two.
 
 **GREGORY**. (6. Mor. c. 18.) Or by Mary who sat and heard our Lord’s words, is signified the contemplative life; by Martha engaged in more outward services, the active life. Now Martha’s care is not blamed, but Mary is praised, for great are the rewards of an active life, but those of a contemplative are far better. Hence Mary’s part it is said will never be taken away from her, for the works of an active life pass away with the body, but the joys of the contemplative life the rather begin to increase from the end.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 11
 
@@ -5578,7 +5568,6 @@ It follows, Woe to you, lawyers, for ye have taken away the key of knowledge.
 
 **THEOPHYLACT**. For when several are questioning a man on different subjects, since he can not reply to all at once, foolish people think he is doubting. This also was part of their wicked design against Him; but they sought also in another way to control His power of speech, namely, by provoking Him to say something by which He might be condemned; whence it follows, Laying in wait for him, and seeking to catch something out of his mouth, that they might accuse him. Having first spoken of “forcing,” Luke now says to catch or seize something from His mouth; at one time indeed they asked Him concerning the Law, that they might convict as a blasphemer Him who accused Moses; but at another time concerning Cæsar, that they might accuse Him as a traitor and rebel against the majesty of Cæsar.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 12
 
@@ -6156,7 +6145,6 @@ PSEUDO-DIONYSIUS. (Dion. in Ep. ad Tit.) The “sitting down” is taken to be t
 
 **BEDE**. Or else, our adversary in the way is the word of God, which opposes our carnal desires in this life; from which he is delivered who is subject to its precepts. Else he will be delivered to the judge, for of contempt of God’s word the sinner will be accounted guilty in the judgment of the judge. The judge will deliver him to the officer, that is, the evil spirit for punishment. He will then be cast into prison, that is, to hell, where because he will ever have to pay the penalty by suffering, but never by paying it obtain pardon, he will never come out from thence, but with that most terrible serpent the devil, will expiate everlasting punishment.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 13
 
@@ -6454,7 +6442,6 @@ He next likens the kingdom of God to leaven, for it follows, And again he says, 
 
 **BEDE**. Ye shall not see, that is, unless ye have worked repentance, and confessed Me to be the Son of the Father Almighty, ye shall not see My face at the second coming.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 14
 
@@ -6730,7 +6717,6 @@ Because then the proud refuse to come, the poor (Greg. Hom. 36.) are chosen, sin
 
 **BEDE**. Let him hear also not by despising, but by doing what he has learnt.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 15
 
@@ -7036,7 +7022,6 @@ And how could he feast upon that kid which is Antichrist who did not believe in 
 
 **AMBROSE**. Or else, This brother is described so as to be said to come from the farm, that is, engaged in worldly occupations, so ignorant of the things of the Spirit of God, as at last to complain that a kid had never been slain for him. For not for envy, but for the pardon of the world, was the Lamb sacrificed. The envious seeks a kid, the innocent a lamb, to be sacrificed for it. Therefore also is he called the elder, because a man soon grows old through envy. Therefore too he stands without, because his malice excludes him; therefore could he not hear the dancing and music, that is, not the wanton fascinations of the stage, but the harmonious song of a people, resounding with the sweet pleasantness of joy for a sinner saved. For they who seem to themselves righteous are angry when pardon is granted to one confessing his sins. Who art thou that speakest against thy Lord, that he should not, for example, forgive a fault, when thou pardonest whom thou wilt? But we ought to favour forgiving sin after repentance, lest while grudging pardon to another, we ourselves obtain it not from our Lord. Let us not envy those who return from a distant country, seeing that we ourselves also were afar off.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 16
 
@@ -7366,7 +7351,6 @@ PSEUDO-BASIL. (In Esai. 5.) Hell is a certain common place in the interior of th
 
 **AUGUSTINE**. (ubi sup.) Again also that story may be so understood, as that we should take Lazarus to mean our Lord; lying at the gate of the rich man, because he condescended to the proud ears of the Jews in the lowliness of His incarnation; desiring to be fed from the crumbs which fell from the rich man’s table, that is, seeking from them even the least works of righteousness, which through pride they would not use for their own table, (that is, their own power,) which works, although very slight and without the discipline of perseverance in a good life, sometimes at least they might do by chance, as crumbs frequently fall from the table. The wounds are the sufferings of our Lord, the dogs who licked them are the Gentiles, whom the Jews called unclean, and yet, with the sweetest odour of devotion, they lick the sufferings of our Lord in the Sacraments of His Body and Blood throughout the whole world. Abraham’s bosom is understood to be the hiding place of the Father, whither after His Passion our Lord rising again was taken up, whither He was said to be carried by the angels, as it seems to me, because that reception by which Christ reached the Father’s secret place the angels announced to the disciples. The rest may be taken according to the former explanation, because that is well understood to be the Father’s secret place, where even before the resurrection the souls of the righteous live with God.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 17
 
@@ -7644,7 +7628,6 @@ It follows, And he was a Samaritan.
 
 **AUGUSTINE**. (de Con. Ev. l. ii. c. 7.) these things which Luke has given us in a different place from Matthew, he either relates by anticipation, so as to mention beforehand what was afterwards spoken by our Lord, or he means us to understand that they were twice uttered by Him.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 18
 
@@ -7966,7 +7949,6 @@ Now for this reason He asks what the blind man wished, that He might stir up his
 
 **AUGUSTINE**. (de Quæst. Ev. l. ii. qu. 48.) If we interpret Jericho to mean the moon, and therefore death, our Lord when approaching His death commanded the light of the Gospel to be preached to the Jews only, who are signified by that one blind man whom Luke speaks of, but rising again from the dead and ascending to heaven, to both Jews and Gentiles; and these two nations seem to be denoted by the two blind men whom Matthew mentions.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 19
 
@@ -8328,7 +8310,6 @@ But money or silver is the preaching of the Gospel and the word of God, for the 
 
 **GREGORY**. (ut sup.) And these make the house of God a den of thieves, because when corrupt men hold religious offices, they slay with the sword of their wickedness their neighbours, whom they ought to raise to life by the intercession of their prayers. The temple also is the soul of the faithful, which if it put forth corrupt thoughts to the injury of a neighbour, then is it become as it were a lurking place of thieves. But when the soul of the faithful is wisely instructed to shun evil, truth teaches daily in the temple.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 20
 
@@ -8624,7 +8605,6 @@ It follows, And the chief seats in synagogues.
 
 **BEDE**. Or because they seek from men praise and money, they are punished with the greater damnation.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 21
 
@@ -8946,7 +8926,6 @@ It follows, And it shall turn to you for a testimony. In the Greek it is εἰς
 
 **BEDE**. Now mystically, we also when amid our prosperity we behave ourselves soberly, piously, and honestly, teach by day time in the temple, for we hold up to the faithful the model of a good work; but at night we abide on mount Olivet, when in the darkness of anguish we are refreshed with spiritual consolation; and to us also the people come early in the morning, when either having shaken off the works of darkness, or scattered all the clouds of sorrow, they follow our example.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 22
 
@@ -9550,7 +9529,6 @@ It follows, Then said Jesus unto them, Are ye come out as against a thief with s
 
 **THEOPHYLACT**. Whereby it is manifest, that the disobedient reap no advantage, when the more secret mysteries are revealed to them, but rather incur the heavier punishment. Wherefore such things ought to be concealed from them.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 23
 
@@ -9952,7 +9930,6 @@ PSEUDO-DIONYSIUS. (Dion. Areop. ad Polye.) When we were both at Heliopolis toget
 
 **BEDE**. Now that the Lord is crucified on the sixth day and rests on the seventh, signifies that in the sixth age of the world we must of necessity suffer for Christ, and as it were be crucified to the world. (Gal. 6:14.) But in the seventh age, that is, after death, our bodies indeed rest in the tombs, but our souls with the Lord. But even at the present time also holy women, (that is, humble souls,) fervent in love, diligently wait upon the Passion of Christ, and if perchance they may be able to imitate Him, with anxious carefulness ponder each step in order, by which this Passion is fulfilled. And having read, heard, and called to mind all these, they next apply themselves to make ready the works of virtue, by which Christ may be pleased, in order that having finished the preparation of this present life, in a blessed rest they may at the time of the resurrection meet Christ with the frankincence of spiritual actions.
 
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
 
 ## CHAP. 24
 
@@ -10317,6 +10294,3 @@ But let us see what mystery it was for the sake of which, according to Matthew a
 **BEDE**. And observe that among the four beasts in heaven, (Ezek. 1:10. Rev. 4:7) Luke is said to be represented by the calf, for by the sacrifice of a calf, they were ordered to be initiated who were chosen to the priesthood; (Exod. 29:1.) and Luke has undertaken to explain more fully than the rest the priesthood of Christ; and his Gospel, which he commenced with the ministry of the temple in the priesthood of Zacharias, he has finished with the devotion in the temple. And he has placed the Apostles there, about to be the ministers of a new priesthood, not in the blood of sacrifices, but in the praises of God and in blessing, that in the place of prayer and amidst the praises of their devotion, they might wait with prepared hearts for the promise of the Spirit.
 
 **THEOPHYLACT**. Whom imitating, may we ever dwell in a holy life, praising and blessing God; to Whom be glory and blessing and power, for ever and ever. Amen.
-
-            Copyright ©1999-2023 Wildfire Fellowship, Inc all rights reserved
-

@@ -46,7 +46,7 @@
 
 **1:22** Who also hath sealed us, and given the pledge of the Spirit in our hearts.
 
-**1:23** But I call God to witness upon my soul, that to spare you, I came not any more to Corinth: not because we exercise dominion over your faith: but we are helpers of your joy: for in faith you stand. 2nd Epistle of St Paul to the Corinthians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:23** But I call God to witness upon my soul, that to spare you, I came not any more to Corinth: not because we exercise dominion over your faith: but we are helpers of your joy: for in faith you stand. 2nd
 
 
 ## Chapter 2
@@ -83,7 +83,7 @@
 
 **2:16** To the one indeed the odour of death unto death: but to the others the odour of life unto life. And for these things who is so sufficient?
 
-**2:17** For we are not as many, adulterating the word of God; but with sincerity, but as from God, before God, in Christ we speak. 2nd Epistle of St Paul to the Corinthians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:17** For we are not as many, adulterating the word of God; but with sincerity, but as from God, before God, in Christ we speak. 2nd
 
 
 ## Chapter 3
@@ -122,7 +122,7 @@
 
 **3:17** Now the Lord is a Spirit. And where the Spirit of the Lord is, there is liberty.
 
-**3:18** But we all beholding the glory of the Lord with open face, are transformed into the same image from glory to glory, as by the Spirit of the Lord. 2nd Epistle of St Paul to the Corinthians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:18** But we all beholding the glory of the Lord with open face, are transformed into the same image from glory to glory, as by the Spirit of the Lord. 2nd
 
 
 ## Chapter 4
@@ -161,7 +161,7 @@
 
 **4:17** For that which is at present momentary and light of our tribulation, worketh for us above measure exceedingly an eternal weight of glory.
 
-**4:18** While we look not at the things which are seen, but at the things which are not seen. For the things which are seen, are temporal; but the things which are not seen, are eternal. 2nd Epistle of St Paul to the Corinthians next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:18** While we look not at the things which are seen, but at the things which are not seen. For the things which are seen, are temporal; but the things which are not seen, are eternal. 2nd
 
 
 ## Chapter 5
@@ -206,7 +206,7 @@
 
 **5:20** For Christ therefore we are ambassadors, God as it were exhorting by us. For Christ, we beseech you, be reconciled to God.
 
-**5:21** Him, who knew no sin, he hath made sin for us, that we might be made the justice of God in him. 2nd Epistle of St Paul to the Corinthians next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:21** Him, who knew no sin, he hath made sin for us, that we might be made the justice of God in him. 2nd
 
 
 ## Chapter 6
@@ -245,7 +245,7 @@
 
 **6:17** Wherefore, Go out from among them, and be ye separate, saith the Lord, and touch not the unclean thing:
 
-**6:18** And I will receive you; and I will be a Father to you; and you shall be my sons and daughters, saith the Lord Almighty. 2nd Epistle of St Paul to the Corinthians next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:18** And I will receive you; and I will be a Father to you; and you shall be my sons and daughters, saith the Lord Almighty. 2nd
 
 
 ## Chapter 7
@@ -280,7 +280,7 @@
 
 **7:15** And his bowels are more abundantly towards you; remembering the obedience of you all, how with fear and trembling you have received him.
 
-**7:16** I rejoice that in all things I have confidence in you. 2nd Epistle of St Paul to the Corinthians next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:16** I rejoice that in all things I have confidence in you. 2nd
 
 
 ## Chapter 8
@@ -331,7 +331,7 @@
 
 **8:23** Either for Titus, who is my companion and fellow labourer towards you, or our brethren, the apostles of the churches, the glory of Christ.
 
-**8:24** Wherefore shew ye to them, in the sight of the churches, the evidence of your charity, and of our boasting on your behalf. 2nd Epistle of St Paul to the Corinthians next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:24** Wherefore shew ye to them, in the sight of the churches, the evidence of your charity, and of our boasting on your behalf. 2nd
 
 
 ## Chapter 9
@@ -364,7 +364,7 @@
 
 **9:14** And in their praying for you, being desirous of you, because of the excellent grace of God in you.
 
-**9:15** Thanks be to God for his unspeakable gift. 2nd Epistle of St Paul to the Corinthians next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:15** Thanks be to God for his unspeakable gift. 2nd
 
 
 ## Chapter 10
@@ -403,7 +403,7 @@
 
 **10:17** But he that glorieth, let him glory in the Lord.
 
-**10:18** For not he who commendeth himself, is approved, but he, whom God commendeth. 2nd Epistle of St Paul to the Corinthians next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:18** For not he who commendeth himself, is approved, but he, whom God commendeth. 2nd
 
 
 ## Chapter 11
@@ -472,7 +472,7 @@
 
 **11:32** At Damascus, the governor of the nation under Aretas the king, guarded the city of the Damascenes, to apprehend me.
 
-**11:33** And through a window in a basket was I let down by the wall, and so escaped his hands. 2nd Epistle of St Paul to the Corinthians next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:33** And through a window in a basket was I let down by the wall, and so escaped his hands. 2nd
 
 
 ## Chapter 12
@@ -517,7 +517,7 @@
 
 **12:20** For I fear lest perhaps when I come I shall not find you such as I would, and that I shall be found by you such as you would not. Lest perhaps contentions, envyings, animosities, dissensions, detractions, whisperings, swellings, seditions, be among you.
 
-**12:21** Lest again, when I come, God humble me among you: and I mourn many of them that sinned before, and have not done penance for the uncleanness, and fornication, and lasciviousness, that they have committed. 2nd Epistle of St Paul to the Corinthians next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:21** Lest again, when I come, God humble me among you: and I mourn many of them that sinned before, and have not done penance for the uncleanness, and fornication, and lasciviousness, that they have committed. 2nd
 
 
 ## Chapter 13
@@ -546,5 +546,5 @@
 
 **13:12** Salute one another with a holy kiss. All the saints salute you.
 
-**13:13** The grace of our Lord Jesus Christ, and the charity of God, and the communication of the Holy Ghost be with you all. Amen. 2nd Epistle of St Paul to the Corinthians next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:13** The grace of our Lord Jesus Christ, and the charity of God, and the communication of the Holy Ghost be with you all. Amen. 2nd
 

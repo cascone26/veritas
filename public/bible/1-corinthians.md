@@ -62,7 +62,7 @@
 
 **1:30** But of him are you in Christ Jesus, who of God is made unto us wisdom, and justice, and sanctification, and redemption:
 
-**1:31** That, as it is written: He that glorieth, may glory in the Lord. 1st Epistle of St Paul to the Corinthians next > Chapter 1 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**1:31** That, as it is written: He that glorieth, may glory in the Lord. 1st
 
 
 ## Chapter 2
@@ -97,7 +97,7 @@
 
 **2:15** But the spiritual man judgeth all things; and he himself is judged of no man.
 
-**2:16** For who hath known the mind of the Lord, that we may instruct him? But we have the mind of Christ. 1st Epistle of St Paul to the Corinthians next > Chapter 2 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**2:16** For who hath known the mind of the Lord, that we may instruct him? But we have the mind of Christ. 1st
 
 
 ## Chapter 3
@@ -146,7 +146,7 @@
 
 **3:22** For all things are yours, whether it be Paul, or Apollo, or Cephas, or the world, or life, or death, or things present, or things to come; for all are yours;
 
-**3:23** And you are Christ's; and Christ is God's. 1st Epistle of St Paul to the Corinthians next > Chapter 3 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**3:23** And you are Christ's; and Christ is God's. 1st
 
 
 ## Chapter 4
@@ -191,7 +191,7 @@
 
 **4:20** For the kingdom of God is not in speech, but in power.
 
-**4:21** What will you? shall I come to you with a rod; or in charity, and in the spirit of meekness? 1st Epistle of St Paul to the Corinthians next > Chapter 4 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**4:21** What will you? shall I come to you with a rod; or in charity, and in the spirit of meekness? 1st
 
 
 ## Chapter 5
@@ -220,7 +220,7 @@
 
 **5:12** For what have I to do to judge them that are without? Do not you judge them that are within?
 
-**5:13** For them that are without, God will judge. Put away the evil one from among yourselves. 1st Epistle of St Paul to the Corinthians next > Chapter 5 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**5:13** For them that are without, God will judge. Put away the evil one from among yourselves. 1st
 
 
 ## Chapter 6
@@ -263,7 +263,7 @@
 
 **6:19** Or know you not, that your members are the temple of the Holy Ghost, who is in you, whom you have from God; and you are not your own?
 
-**6:20** For you are bought with a great price. Glorify and bear God in your body. 1st Epistle of St Paul to the Corinthians next > Chapter 6 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**6:20** For you are bought with a great price. Glorify and bear God in your body. 1st
 
 
 ## Chapter 7
@@ -346,7 +346,7 @@
 
 **7:39** A woman is bound by the law as long as her husband liveth; but if her husband die, she is at liberty: let her marry to whom she will; only in the Lord.
 
-**7:40** But more blessed shall she be, if she so remain, according to my counsel; and I think that I also have the spirit of God. 1st Epistle of St Paul to the Corinthians next > Chapter 7 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**7:40** But more blessed shall she be, if she so remain, according to my counsel; and I think that I also have the spirit of God. 1st
 
 
 ## Chapter 8
@@ -375,7 +375,7 @@
 
 **8:12** Now when you sin thus against the brethren, and wound their weak conscience, you sin against Christ.
 
-**8:13** Wherefore, if meat scandalize my brother, I will never eat flesh, lest I should scandalize my brother. 1st Epistle of St Paul to the Corinthians next > Chapter 8 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**8:13** Wherefore, if meat scandalize my brother, I will never eat flesh, lest I should scandalize my brother. 1st
 
 
 ## Chapter 9
@@ -432,7 +432,7 @@
 
 **9:26** I therefore so run, not as at an uncertainty: I so fight, not as one beating the air:
 
-**9:27** But I chastise my body, and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway. 1st Epistle of St Paul to the Corinthians next > Chapter 9 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**9:27** But I chastise my body, and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway. 1st
 
 
 ## Chapter 10
@@ -501,7 +501,7 @@
 
 **10:32** Be without offence to the Jews, and to the Gentiles, and to the church of God:
 
-**10:33** As I also in all things please all men, not seeking that which is profitable to myself, but to many, that may be saved. 1st Epistle of St Paul to the Corinthians next > Chapter 10 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**10:33** As I also in all things please all men, not seeking that which is profitable to myself, but to many, that may be saved. 1st
 
 
 ## Chapter 11
@@ -572,7 +572,7 @@
 
 **11:33** Wherefore, my brethren, when you come together to eat, wait for one another.
 
-**11:34** If any man be hungry, let him eat at home; that you come not together unto judgment. And the rest I will set in order, when I come. 1st Epistle of St Paul to the Corinthians next > Chapter 11 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**11:34** If any man be hungry, let him eat at home; that you come not together unto judgment. And the rest I will set in order, when I come. 1st
 
 
 ## Chapter 12
@@ -637,7 +637,7 @@
 
 **12:30** Are all workers of miracles? Have all the grace of healing? Do all speak with tongues? Do all interpret?
 
-**12:31** But be zealous for the better gifts. And I shew unto you yet a more excellent way. 1st Epistle of St Paul to the Corinthians next > Chapter 12 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**12:31** But be zealous for the better gifts. And I shew unto you yet a more excellent way. 1st
 
 
 ## Chapter 13
@@ -666,7 +666,7 @@
 
 **13:12** We see now through a glass in a dark manner; but then face to face. Now I know in part; but then I shall know even as I am known.
 
-**13:13** And now there remain faith, hope, and charity, these three: but the greatest of these is charity. 1st Epistle of St Paul to the Corinthians next > Chapter 13 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**13:13** And now there remain faith, hope, and charity, these three: but the greatest of these is charity. 1st
 
 
 ## Chapter 14
@@ -749,7 +749,7 @@
 
 **14:39** Wherefore, brethren, be zealous to prophesy; and forbid not to speak with tongues.
 
-**14:40** But let all things be done decently, and according to order. 1st Epistle of St Paul to the Corinthians next > Chapter 14 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**14:40** But let all things be done decently, and according to order. 1st
 
 
 ## Chapter 15
@@ -868,7 +868,7 @@
 
 **15:57** But thanks be to God, who hath given us the victory through our Lord Jesus Christ.
 
-**15:58** Therefore, my beloved brethren, be ye steadfast and unmoveable; always abounding in the work of the Lord, knowing that your labour is not in vain in the Lord. 1st Epistle of St Paul to the Corinthians next > Chapter 15 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**15:58** Therefore, my beloved brethren, be ye steadfast and unmoveable; always abounding in the work of the Lord, knowing that your labour is not in vain in the Lord. 1st
 
 
 ## Chapter 16
@@ -919,5 +919,5 @@
 
 **16:23** The grace of our Lord Jesus Christ be with you.
 
-**16:24** My charity be with you all in Christ Jesus. Amen. 1st Epistle of St Paul to the Corinthians next > Chapter 16 next > TOP OF PAGE side_ads("../") var sc_project = 12672635; var sc_invisible = 1; var sc_security = "b8696459";
+**16:24** My charity be with you all in Christ Jesus. Amen. 1st
 
