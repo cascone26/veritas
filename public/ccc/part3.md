@@ -1356,11 +1356,9 @@ commandment, that you love one another as I have loved you."
 
 **2075.** *"What good deed must I do, to have eternal life?" - "If you would enter into life, keep the commandments" (Mt 19:16-17).*
 
-**2076.** *By his life and by his preaching Jesus attested to the permanent validity of the Decalogue. 2077 The*
+**2076.** *By his life and by his preaching Jesus attested to the permanent validity of the Decalogue.
 
-*gift of the Decalogue is bestowed from within the covenant concluded by God with his people. God's*
-
-*commandments take on their true meaning in and through this covenant.*
+**2077.** *The gift of the Decalogue is bestowed from within the covenant concluded by God with his people. God's commandments take on their true meaning in and through this covenant.*
 
 **2078.** *In fidelity to Scripture and in conformity with Jesus' example, the tradition of the Church has always*
 
@@ -2414,7 +2412,9 @@ Any system in which social relationships are determined entirely by economic fac
 
 **2434.** A just wage is the legitimate fruit of work. To refuse or withhold it can be a grave injustice. In determining fair pay both the needs and the contributions of each person must be taken into account. "Remuneration for work should guarantee man the opportunity to provide a dignified livelihood for himself and his family on the material, social, cultural and spiritual level, taking into account the role and the productivity of each, the state of the business, and the common good." Agreement between the parties is not sufficient to justify morally the amount to be received in wages.
 
-**2435.** Recourse to a strike is morally legitimate when it cannot be avoided, or at least when it is necessary to obtain a proportionate benefit. It becomes morally unacceptable when accompanied by violence, or when objectives are included that are not directly linked to working conditions or are contrary to the common good. 2436 Unemployment almost always wounds its victim's dignity and threatens the equilibrium of his life. Besides the harm done to him personally, it entails many risks for his family.
+**2435.** Recourse to a strike is morally legitimate when it cannot be avoided, or at least when it is necessary to obtain a proportionate benefit. It becomes morally unacceptable when accompanied by violence, or when objectives are included that are not directly linked to working conditions or are contrary to the common good.
+
+**2436.** Unemployment almost always wounds its victim's dignity and threatens the equilibrium of his life. Besides the harm done to him personally, it entails many risks for his family.
 
 #### V. Justice and Solidarity Among Nations
 
