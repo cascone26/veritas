@@ -367,15 +367,31 @@ The foundation of everything. All AI features, study tools, and apologetics refe
 
 ---
 
+## Recent Additions (Mar 9, 2026)
+
+- **Summa Full Text Reader** — `/summa/[part]/[question]` reads actual Summa articles with color-coded sections (objections, sed contra, respondeo, replies). Article navigation, reading progress, deep-link anchors.
+- **Full Summa Text** — III (90q) + Supplement (99q) complete. I, I-II, II-II in progress (~400/512 questions fetched so far from newadvent.org).
+- **12 Full Books on Site** — Confessions, Introduction to the Devout Life, Story of a Soul, Imitation of Christ, Interior Castle, Dark Night of the Soul, Orthodoxy, Everlasting Man, City of God, True Devotion to Mary, Way of Perfection, Practice of the Presence of God. ~1.29M words total in `/public/books/`.
+- **Clickable Citations** — ST, SCG, CCC, and Scripture references are now clickable links. ST citations deep-link to the actual Summa article on site.
+- **Inline Glossary Tooltips** — Theological terms show popup definitions when clicked. Applied to Daily Question, Flashcards, Chat welcome message.
+- **Expanded Glossary** — 100+ terms covering Catholic theology, Islam, Judaism, Protestantism, Eastern Orthodoxy, philosophy, atheism, biblical, liturgical, patristic, canon law, mysticism, apologetics.
+- **Interactive Timeline** — 349 events from 624 BC to 2020, with zoom levels (overview/detailed/everything), search, category filters, era markers.
+- **Monstrance Favicon** — Gold monstrance SVG as site icon.
+- **Mobile Overhaul** — Bottom nav bar, proper sidebar overlay, safe-area support, `h-app` utility class.
+- **"Ask Aquinas" Rebrand** — Renamed from "Ask Thomas" everywhere.
+- **API Key Fix** — Anthropic client init moved inside handlers, key guard added.
+
 ## Next Steps
 
-1. Set up Next.js project with Supabase
-2. Design database schema for the knowledge base
-3. Build the knowledge base ingestion pipeline (Aquinas's works are public domain)
-4. Build Ask Aquinas (core AI chat with knowledge base grounding)
-5. Build Summa Browser
-6. Build Apologetics Quick-Draw
-7. Layer in remaining features
+1. **Complete Summa Fetch** — Fill remaining ~100 questions (mostly Prima Pars + I-II gaps)
+2. **Summa Contra Gentiles Full Text** — 4 books, 463 chapters (public domain, newadvent.org/summa2/)
+3. **Bible Full Text** — Douay-Rheims (public domain) for Scripture citation links
+4. **CCC Full Text** — Cross-referenced to Aquinas
+5. **Church Father Key Works** — At minimum: Augustine's City of God, Confessions; Damascene's De Fide Orthodoxa; Chrysostom's homilies
+6. **Ecumenical Council Documents** — Key canons/decrees from all 21 councils
+7. **Major Encyclicals Full Text** — Aeterni Patris, Fides et Ratio, Humanae Vitae, etc.
+8. **Supabase Integration** — Move from localStorage to proper database for notes, progress, saved arguments
+9. **RAG Pipeline** — Embed Summa + sources for AI-grounded responses with real citations
 
 ---
 
@@ -385,5 +401,8 @@ The foundation of everything. All AI features, study tools, and apologetics refe
 - Major digital sources: corpusthomisticum.org, newadvent.org (Summa), dhspriory.org (English translations)
 - Summa alone is ~1.5M words Latin, similar in English
 - Total corpus ~8-9M words
-- Will need chunked embeddings for RAG (retrieval-augmented generation)
 - Citation format: ST I, q.2, a.3 (standard Thomistic citation)
+- Summa text stored as markdown in `public/summa/{part}/q{N}.md`
+- Book text stored as markdown in `public/books/{slug}.md`
+- Client-side markdown parsing (split on `##` headings)
+- Citation parser in `src/lib/citations.ts` using regex
