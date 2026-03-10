@@ -104,6 +104,9 @@ export const NAV_SECTIONS = [
     items: [
       { name: "Summa Browser", href: "/summa", icon: "book" },
       { name: "SCG Browser", href: "/scg", icon: "book" },
+      { name: "Bible (Douay-Rheims)", href: "/bible", icon: "scroll" },
+      { name: "Catechism (CCC)", href: "/ccc", icon: "book" },
+      { name: "Catena Aurea", href: "/catena", icon: "book" },
       { name: "Library", href: "/spiritual-reading", icon: "library" },
       { name: "Flashcards", href: "/flashcards", icon: "cards" },
       { name: "Daily Question", href: "/daily", icon: "sun" },

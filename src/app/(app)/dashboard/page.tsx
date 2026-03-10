@@ -13,13 +13,13 @@ interface ReadingProgress {
 
 const QUICK_LINKS = [
   { name: "Ask Aquinas", href: "/ask", desc: "AI theology chat", color: "amber" },
-  { name: "Summa Browser", href: "/summa", desc: "512 questions", color: "amber" },
+  { name: "Summa Browser", href: "/summa", desc: "611 questions", color: "amber" },
   { name: "SCG Browser", href: "/scg", desc: "463 chapters", color: "amber" },
-  { name: "Library", href: "/spiritual-reading", desc: "100+ books", color: "emerald" },
+  { name: "Bible", href: "/bible", desc: "73 books (Douay-Rheims)", color: "amber" },
+  { name: "Catechism", href: "/ccc", desc: "2,865 paragraphs", color: "amber" },
+  { name: "Catena Aurea", href: "/catena", desc: "4 Gospels", color: "amber" },
+  { name: "Library", href: "/spiritual-reading", desc: "130+ books", color: "emerald" },
   { name: "Objection Handler", href: "/objection", desc: "Refute arguments", color: "red" },
-  { name: "Debate Simulator", href: "/simulator", desc: "Practice debates", color: "blue" },
-  { name: "Glossary", href: "/glossary", desc: "342 terms", color: "violet" },
-  { name: "Timeline", href: "/timeline", desc: "349 events", color: "orange" },
 ];
 
 const DAILY_QUOTES = [
