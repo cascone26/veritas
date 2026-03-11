@@ -110,6 +110,7 @@ export const NAV_SECTIONS = [
       { name: "Library", href: "/spiritual-reading", icon: "library" },
       { name: "Flashcards", href: "/flashcards", icon: "cards" },
       { name: "Daily Question", href: "/daily", icon: "sun" },
+      { name: "Courses", href: "/courses", icon: "route" },
       { name: "Reading Plans", href: "/plans", icon: "route" },
       { name: "Weakness Tracker", href: "/weakness", icon: "target-weak" },
     ],
