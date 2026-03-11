@@ -152,9 +152,9 @@ export default function Sidebar() {
         <div className="flex items-center justify-around">
           {[
             { name: "Ask", href: "/ask", icon: "💬" },
-            { name: "Objection", href: "/objection", icon: "🛡️" },
             { name: "Summa", href: "/summa", icon: "📖" },
-            { name: "Encyclopedia", href: "/encyclopedia", icon: "🏛️" },
+            { name: "Courses", href: "/courses", icon: "🗺️" },
+            { name: "Bible", href: "/bible", icon: "📜" },
             { name: "More", href: "#menu", icon: "☰" },
           ].map((item) => {
             if (item.href === "#menu") {
