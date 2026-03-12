@@ -11,7 +11,7 @@ const iconMap: Record<string, string> = {
   zap: "⚡", scroll: "📜", glossary: "📚", lightbulb: "💡", scale: "⚖️",
   library: "🏛️", flame: "🔥", users: "👥", star: "⭐", map: "🗂️",
   document: "📄", clock: "⏳", tree: "🌳",
-  pencil: "✏️", bookmark: "🔖", check: "✅", pray: "🙏", settings: "⚙️",
+  pencil: "✏️", bookmark: "🔖", check: "✅", pray: "🙏", settings: "⚙️", highlight: "🖍️",
 };
 
 export default function Sidebar() {

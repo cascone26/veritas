@@ -1,8 +1,5 @@
 # On Nature and Grace (St. Augustine)
 
-
-******
-
 **Extract from Augustine's Retractions (Book II, Chapter 42):**At that time also there came into my hands a certain book of Pelagius', in which he defends, with all the argumentative skill he could muster, the nature of man, in opposition to the grace of God whereby the unrighteous is justified and we become Christians. The treatise which contains my reply to him, and in which I defend grace, not indeed as in opposition to nature, but as that which liberates and controls nature, I have entitled*On Nature and Grace*. In this work sundry short passages, which were quoted by Pelagius as the words of the Roman bishop and martyr, Xystus, were vindicated by myself  as if they really were the words of this Sixtus. For this I thought them at the time; but I afterwards discovered, that Sextus the heathen philosopher, and not Xystus the Christian bishop, was their author. This treatise of mine begins with the words: 'The book which you sent me.'"
 
 ## Chapter 1 [I.]— The Occasion of Publishing This Work; What God's Righteousness is
@@ -346,7 +343,3 @@ But "the precepts of the law are very good," if we use them lawfully.  Indeed, b
 ## Chapter 84 [LXX.]— The Degrees of Love are Also Degrees of Holiness
 
 Inchoate love, therefore, is inchoate holiness; advanced love is advanced holiness; great love is great holiness; "perfect love is perfect holiness,"— but this "love is out of a pure heart, and of a good conscience, and of faith unfeigned," 1 Timothy 1:5 "which in this life is then the greatest, when life itself is contemned in comparison with it."  I wonder, however, whether it has not a soil in which to grow after it has quitted this mortal life! But in what place and at what time soever it shall reach that state of absolute perfection, which shall admit of no increase, it is certainly not "shed abroad in our hearts" by any energies either of the nature or the volition that are within us, but "by the Holy Ghost which is given unto us," Romans 5:5 and which both helps our infirmity and co-operates with our strength. For it is itself indeed the grace of God, through our Lord Jesus Christ, to whom, with the Father and the Holy Spirit, appertains eternity, and all goodness, for ever and ever. Amen.
-
-## About this page
-
-**Source.**

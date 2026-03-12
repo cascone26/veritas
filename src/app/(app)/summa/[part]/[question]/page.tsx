@@ -4,6 +4,8 @@ import { useState, useEffect, useRef, use } from "react";
 import Link from "next/link";
 import PageHeader from "@/components/PageHeader";
 import { SUMMA_STRUCTURE } from "@/data/summa";
+import ReaderSettings, { useReaderSettings, themeClasses } from "@/components/ReaderSettings";
+import HighlightManager from "@/components/HighlightManager";
 
 const PART_URL_TO_DATA: Record<string, string> = {
   I: "prima-pars",
@@ -109,35 +111,37 @@ function parseMarkdown(md: string): { questionTitle: string; articles: Article[]
   return { questionTitle, articles };
 }
 
-function SectionBlock({ section }: { section: ArticleSection }) {
+function SectionBlock({ section, theme }: { section: ArticleSection; theme: ReturnType<typeof themeClasses> }) {
   const trimmed = section.content.trim();
   if (!trimmed) return null;
+
+  const isDark = !theme.text; // dark theme has empty text class
 
   const typeStyles: Record<ArticleSection["type"], { label: string; labelClass: string; textClass: string }> = {
     objection: {
       label: section.heading,
-      labelClass: "text-stone-500",
-      textClass: "text-stone-400",
+      labelClass: isDark ? "text-stone-500" : "text-stone-500",
+      textClass: isDark ? "text-stone-400" : theme.text,
     },
     "on-the-contrary": {
       label: section.heading,
       labelClass: "text-emerald-500",
-      textClass: "text-emerald-400/80",
+      textClass: isDark ? "text-emerald-400/80" : "text-emerald-700",
     },
     "i-answer-that": {
       label: section.heading,
       labelClass: "text-amber-400 text-base",
-      textClass: "text-stone-200",
+      textClass: isDark ? "text-stone-200" : theme.text,
     },
     reply: {
       label: section.heading,
-      labelClass: "text-stone-500",
-      textClass: "text-stone-300",
+      labelClass: isDark ? "text-stone-500" : "text-stone-500",
+      textClass: isDark ? "text-stone-300" : theme.text,
     },
     other: {
       label: section.heading,
-      labelClass: "text-stone-400",
-      textClass: "text-stone-300",
+      labelClass: isDark ? "text-stone-400" : "text-stone-500",
+      textClass: isDark ? "text-stone-300" : theme.text,
     },
   };
 
@@ -167,6 +171,8 @@ export default function SummaReader({
   const [activeArticle, setActiveArticle] = useState(1);
   const [progress, setProgress] = useState(0);
   const contentRef = useRef<HTMLDivElement>(null);
+  const { settings, update: updateSettings } = useReaderSettings();
+  const theme = themeClasses(settings.theme);
 
   const qNum = parseInt(question);
   const partLabel = PART_LABELS[part] || part;
@@ -266,7 +272,7 @@ export default function SummaReader({
   }
 
   return (
-    <div className="flex h-app flex-col">
+    <div className={`flex h-app flex-col ${theme.bg || ""}`}>
       {/* Progress bar */}
       <div className="h-0.5 w-full bg-stone-900">
         <div
@@ -338,20 +344,23 @@ export default function SummaReader({
       )}
 
       {/* Content */}
-      <div ref={contentRef} className="flex-1 overflow-y-auto px-6 py-6">
-        <div className="mx-auto max-w-3xl space-y-12">
+      <div ref={contentRef} className={`flex-1 overflow-y-auto px-6 py-6 ${theme.bg || ""}`}>
+        <div
+          className="mx-auto space-y-12"
+          style={{ maxWidth: `${settings.lineWidth}px`, fontSize: `${settings.fontSize}px` }}
+        >
           {parsed.articles.map((article) => (
             <article
               key={article.number}
               id={`article-${article.number}`}
               data-article={article.number}
             >
-              <h3 className="mb-4 text-lg font-semibold text-amber-400">
+              <h3 className={`mb-4 text-lg font-semibold text-amber-400`}>
                 {article.title}
               </h3>
               <div className="space-y-4">
                 {article.sections.map((section, i) => (
-                  <SectionBlock key={i} section={section} />
+                  <SectionBlock key={i} section={section} theme={theme} />
                 ))}
               </div>
               {article.number < parsed.articles.length && (
@@ -362,7 +371,10 @@ export default function SummaReader({
         </div>
 
         {/* Bottom nav */}
-        <div className="mx-auto mt-12 flex max-w-3xl items-center justify-between border-t border-stone-800 pt-6">
+        <div
+          className="mx-auto mt-12 flex items-center justify-between border-t border-stone-800 pt-6"
+          style={{ maxWidth: `${settings.lineWidth}px` }}
+        >
           {qNum > minQ ? (
             <Link
               href={`/summa/${part}/${qNum - 1}`}
@@ -395,6 +407,9 @@ export default function SummaReader({
           )}
         </div>
       </div>
+
+      <ReaderSettings settings={settings} onUpdate={updateSettings} />
+      <HighlightManager contentRef={contentRef} />
     </div>
   );
 }

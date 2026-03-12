@@ -168,6 +168,7 @@ export const NAV_SECTIONS = [
     title: "Personal",
     items: [
       { name: "Notes & Journal", href: "/notes", icon: "pencil" },
+      { name: "My Highlights", href: "/highlights", icon: "highlight" },
       { name: "Saved Arguments", href: "/saved", icon: "bookmark" },
       { name: "Reading Tracker", href: "/reading", icon: "check" },
       { name: "Prayer Corner", href: "/prayers", icon: "pray" },

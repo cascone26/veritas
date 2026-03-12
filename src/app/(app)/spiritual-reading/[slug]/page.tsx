@@ -4,6 +4,8 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import { useParams } from "next/navigation";
 import Link from "next/link";
 import { SPIRITUAL_BOOKS } from "@/data/spiritual-reading";
+import ReaderSettings, { useReaderSettings, themeClasses } from "@/components/ReaderSettings";
+import HighlightManager from "@/components/HighlightManager";
 
 interface Chapter {
   title: string;
@@ -75,6 +77,8 @@ export default function BookReaderPage() {
   const [progress, setProgress] = useState(0);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const contentRef = useRef<HTMLDivElement>(null);
+  const { settings, update: updateSettings } = useReaderSettings();
+  const theme = themeClasses(settings.theme);
 
   const storageKey = `veritas-reading-progress-${slug}`;
 
@@ -198,7 +202,7 @@ export default function BookReaderPage() {
   const chapter = chapters[currentChapter];
 
   return (
-    <div className="flex h-app flex-col bg-stone-950">
+    <div className={`flex h-app flex-col ${theme.bg || "bg-stone-950"}`}>
       {/* Progress bar */}
       <div className="h-1 w-full bg-stone-900 shrink-0">
         <div
@@ -213,13 +217,13 @@ export default function BookReaderPage() {
           href="/spiritual-reading"
           className="text-xs text-stone-500 hover:text-stone-300 transition-colors"
         >
-          ← Back
+          &larr; Back
         </Link>
         <div className="text-center">
-          <p className="text-xs font-semibold text-stone-300 truncate max-w-[200px] sm:max-w-none">
+          <p className={`text-xs font-semibold truncate max-w-[200px] sm:max-w-none ${theme.text || "text-stone-300"}`}>
             {book.title}
           </p>
-          <p className="text-[10px] text-stone-600">{book.author}</p>
+          <p className={`text-[10px] ${theme.mutedText || "text-stone-600"}`}>{book.author}</p>
         </div>
         <button
           onClick={() => setSidebarOpen(!sidebarOpen)}
@@ -271,19 +275,23 @@ export default function BookReaderPage() {
         {/* Content */}
         <div
           ref={contentRef}
-          className="flex-1 overflow-y-auto"
+          className={`flex-1 overflow-y-auto ${theme.bg || ""}`}
         >
-          <div className="mx-auto max-w-2xl px-6 py-8">
-            <h2 className="text-xl font-semibold text-stone-100 mb-2">
+          <div
+            className="mx-auto px-6 py-8"
+            style={{ maxWidth: `${settings.lineWidth}px` }}
+          >
+            <h2 className={`text-xl font-semibold mb-2 ${theme.text || "text-stone-100"}`}>
               {chapter.title}
             </h2>
-            <div className="flex items-center gap-3 text-[11px] text-stone-600 mb-8">
+            <div className={`flex items-center gap-3 text-[11px] mb-8 ${theme.mutedText || "text-stone-600"}`}>
               <span>{chapter.wordCount.toLocaleString()} words</span>
               <span>|</span>
               <span>{chapter.readingMinutes} min read</span>
             </div>
             <div
-              className="prose-veritas text-stone-300 text-[15px] leading-[1.8]"
+              className={`prose-veritas leading-[1.8] ${theme.text || "text-stone-300"}`}
+              style={{ fontSize: `${settings.fontSize}px` }}
               dangerouslySetInnerHTML={{
                 __html: `<p class="mb-4 leading-relaxed">${renderMarkdown(chapter.content)}</p>`,
               }}
@@ -291,14 +299,17 @@ export default function BookReaderPage() {
           </div>
 
           {/* Chapter navigation */}
-          <div className="mx-auto max-w-2xl px-6 pb-12">
+          <div
+            className="mx-auto px-6 pb-12"
+            style={{ maxWidth: `${settings.lineWidth}px` }}
+          >
             <div className="flex items-center justify-between border-t border-stone-800 pt-6">
               {currentChapter > 0 ? (
                 <button
                   onClick={() => goToChapter(currentChapter - 1)}
                   className="text-sm text-stone-500 hover:text-stone-300 transition-colors"
                 >
-                  ← {chapters[currentChapter - 1].title}
+                  &larr; {chapters[currentChapter - 1].title}
                 </button>
               ) : (
                 <div />
@@ -308,7 +319,7 @@ export default function BookReaderPage() {
                   onClick={() => goToChapter(currentChapter + 1)}
                   className="text-sm text-amber-500 hover:text-amber-400 transition-colors"
                 >
-                  {chapters[currentChapter + 1].title} →
+                  {chapters[currentChapter + 1].title} &rarr;
                 </button>
               ) : (
                 <Link
@@ -322,6 +333,9 @@ export default function BookReaderPage() {
           </div>
         </div>
       </div>
+
+      <ReaderSettings settings={settings} onUpdate={updateSettings} />
+      <HighlightManager contentRef={contentRef} />
     </div>
   );
 }

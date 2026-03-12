@@ -13,6 +13,14 @@ interface DailyQuestion {
   relatedTopics: string[];
 }
 
+interface WeakArea {
+  id: string;
+  topic: string;
+  confidence: number;
+  lastReviewed: string;
+  notes: string;
+}
+
 const FALLBACK: DailyQuestion = {
   question:
     "If God is simple (having no parts), how can He possess multiple attributes like justice, mercy, and wisdom without being composed of parts?",
@@ -28,11 +36,37 @@ export default function DailyPage() {
   const [loading, setLoading] = useState(true);
   const [showHint, setShowHint] = useState(false);
   const [showAnswer, setShowAnswer] = useState(false);
+  const [targetedTopic, setTargetedTopic] = useState<string | null>(null);
 
   useEffect(() => {
     const fetchDaily = async () => {
       try {
-        const res = await fetch("/api/daily");
+        // Read weakness tracker data
+        let weakTopics: string[] = [];
+        const stored = localStorage.getItem("veritas-weakness");
+        if (stored) {
+          try {
+            const areas: WeakArea[] = JSON.parse(stored);
+            weakTopics = areas
+              .filter((a) => a.confidence <= 2)
+              .sort((a, b) => a.confidence - b.confidence)
+              .map((a) => a.topic);
+          } catch {}
+        }
+
+        // 60% chance to target a weak area if any exist
+        let targetTopic: string | null = null;
+        if (weakTopics.length > 0 && Math.random() < 0.6) {
+          targetTopic = weakTopics[Math.floor(Math.random() * weakTopics.length)];
+          setTargetedTopic(targetTopic);
+        }
+
+        // Build the URL with optional weak topic param
+        const url = targetTopic
+          ? `/api/daily?weakTopic=${encodeURIComponent(targetTopic)}`
+          : "/api/daily";
+
+        const res = await fetch(url);
         if (!res.ok) throw new Error("Failed");
         const data = await res.json();
         setQuestion(data);
@@ -60,6 +94,15 @@ export default function DailyPage() {
             </div>
           ) : question ? (
             <div className="w-full max-w-2xl space-y-6">
+              {targetedTopic && (
+                <div className="flex items-center gap-2 rounded-lg border border-amber-900/40 bg-amber-950/20 px-3 py-2">
+                  <span className="text-xs text-amber-600">Targeting your weak area:</span>
+                  <span className="rounded-full bg-amber-900/30 px-2 py-0.5 text-xs font-medium text-amber-400">
+                    {targetedTopic}
+                  </span>
+                </div>
+              )}
+
               <div className="rounded-xl border border-stone-800 bg-stone-900/30 p-6">
                 <p className="text-[10px] font-semibold uppercase tracking-wider text-amber-600 mb-3">
                   Today&apos;s Question

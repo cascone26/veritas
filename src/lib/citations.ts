@@ -258,3 +258,108 @@ export function escapeHtml(text: string): string {
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#039;");
 }
+
+// ── Structured citation parser ──────────────────────────────────────
+
+export interface ParsedCitation {
+  type: "summa" | "scg" | "scripture" | "ccc";
+  text: string;
+  href: string;
+  start: number;
+  end: number;
+}
+
+function cccPart(paragraph: number): number {
+  if (paragraph <= 1065) return 1;
+  if (paragraph <= 1690) return 2;
+  if (paragraph <= 2557) return 3;
+  return 4;
+}
+
+/**
+ * Parse a text string and return structured citation info for each match.
+ * Uses internal routes: /summa, /scg, /bible, /ccc
+ */
+export function parseCitations(text: string): ParsedCitation[] {
+  const citations: ParsedCitation[] = [];
+  const used = new Set<string>(); // track ranges to avoid overlaps
+
+  const markRange = (start: number, end: number): boolean => {
+    const key = `${start}-${end}`;
+    if (used.has(key)) return false;
+    used.add(key);
+    return true;
+  };
+
+  // 1) Summa Theologiae
+  const stPattern =
+    /\b(?:ST|Summa Theologica|Summa Theologiae)\s+(I{1,3}(?:-I{1,2})?),?\s*q\.?\s*(\d+)(?:,?\s*a\.?\s*(\d+))?\b/g;
+  let m: RegExpExecArray | null;
+  while ((m = stPattern.exec(text)) !== null) {
+    if (!markRange(m.index, m.index + m[0].length)) continue;
+    const part = m[1];
+    const q = m[2];
+    const a = m[3];
+    let href = `/summa?part=${encodeURIComponent(part)}&q=${q}`;
+    if (a) href += `&a=${a}`;
+    citations.push({
+      type: "summa",
+      text: m[0],
+      href,
+      start: m.index,
+      end: m.index + m[0].length,
+    });
+  }
+
+  // 2) Summa Contra Gentiles
+  const scgPattern =
+    /\b(?:SCG|Contra Gentiles)\s+(I{1,4}|[1-4]),?\s*c\.?\s*(\d+)\b/g;
+  while ((m = scgPattern.exec(text)) !== null) {
+    if (!markRange(m.index, m.index + m[0].length)) continue;
+    const bookRaw = m[1];
+    const book = /^\d$/.test(bookRaw) ? bookRaw : ({ I: "1", II: "2", III: "3", IV: "4" }[bookRaw] || bookRaw);
+    citations.push({
+      type: "scg",
+      text: m[0],
+      href: `/scg?book=${book}&chapter=${m[2]}`,
+      start: m.index,
+      end: m.index + m[0].length,
+    });
+  }
+
+  // 3) CCC
+  const cccPattern = /\b(?:CCC|Catechism)\s+(\d{1,4})(?:\s*[-–]\s*\d{1,4})?\b/g;
+  while ((m = cccPattern.exec(text)) !== null) {
+    if (!markRange(m.index, m.index + m[0].length)) continue;
+    const para = parseInt(m[1], 10);
+    citations.push({
+      type: "ccc",
+      text: m[0],
+      href: `/ccc?part=${cccPart(para)}`,
+      start: m.index,
+      end: m.index + m[0].length,
+    });
+  }
+
+  // 4) Scripture
+  const scripturePattern = new RegExp(
+    `\\b((?:[123]\\s+)?(?:${BIBLE_BOOKS}))\\s+(\\d{1,3}):(\\d{1,3}(?:\\s*[-–]\\s*\\d{1,3})?)\\b`,
+    "g"
+  );
+  while ((m = scripturePattern.exec(text)) !== null) {
+    if (!markRange(m.index, m.index + m[0].length)) continue;
+    const book = m[1];
+    const chapter = m[2];
+    citations.push({
+      type: "scripture",
+      text: m[0],
+      href: `/bible?book=${encodeURIComponent(book)}&chapter=${chapter}`,
+      start: m.index,
+      end: m.index + m[0].length,
+    });
+  }
+
+  // Sort by position
+  citations.sort((a, b) => a.start - b.start);
+  return citations;
+}

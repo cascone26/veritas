@@ -1,8 +1,5 @@
 # On Grace and Free Will (St. Augustine)
 
-
-******
-
 **Written by St. Augustine of Hippo in A.D. 426 or 427**
 
 **Extract from Augustine's Retractions (Book II, Chapter 66):**There are some persons who suppose that the freedom of the will is denied whenever God's grace is maintained, and who on their side defend their liberty of will so peremptorily as to deny the grace of God. This grace, as they assert, is bestowed according to our own merits. It is in consequence of their opinions that I wrote the book entitled*On Grace and Free Will.*This work I addressed to the monks of Adrumetum,  in whose monastry first arose the controversy on that subject, and that in such a manner that some of them were obliged to consult me thereon. The work begins with these words: "With reference to those persons who so preach the liberty of the human will."
@@ -192,7 +189,3 @@ You must refer the matter, then, to the hidden determinations of God, when you s
 ## Chapter 46 [XXIV.]— Understanding and Wisdom Must Be Sought from God.
 
 Peruse attentively this treatise, and if you understand it, give God the praise; but where you fail to understand it, pray for understanding, for God will give you understanding. Remember what the Scriptures say: "If any of you lack wisdom, let him ask of God, who gives to all men liberally, and upbraids not; and it shall be given to him." James 1:5 Wisdom itself comes down from above, as the Apostle James himself tells us.  There is, however, another wisdom, which you must repel from you, and pray against its remaining in you; this the same apostle expressed his detestation of when he said, "But if you have bitter envying and strife in your hearts, . . . this is not the wisdom which descends from above, but is earthly, sensual, devilish. For wherever there is envying and strife, there is also confusion, and every evil work. But the wisdom which is from above is first pure, then peaceable, gentle, and easy to be entreated, full of mercy and good works, without partiality, and without hypocrisy." James 3:14-17 What blessing, then, will that man not have who has prayed for this wisdom and obtained it of the Lord? And from this you may understand what grace is; because if this wisdom were of ourselves, it would not be from above; nor would it be an object to be asked for of the God who created us. Brethren, pray ye for us also, that we may live "soberly, righteously, and godly in this present world; looking for that blessed hope, and the glorious appearing of our Lord and Saviour Jesus Christ," Titus 2:12 to whom belong the honour, and the glory, and the kingdom, with the Father and the Holy Ghost, for ever and ever. Amen.
-
-## About this page
-
-**Source.**

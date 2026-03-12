@@ -1,5 +1,6 @@
 // Activity tracking — records page visits and topic affinities
 // Used to power personalized course recommendations
+import { recordActivity } from "./streaks";
 
 export interface ActivityData {
   pageVisits: Record<string, number>;
@@ -95,6 +96,11 @@ export function recordPageVisit(path: string): void {
 
   data.pageVisits[cleanPath] = (data.pageVisits[cleanPath] || 0) + 1;
   data.totalVisits = (data.totalVisits || 0) + 1;
+
+  // Record streak activity for any content page visit
+  if (matchedKey) {
+    recordActivity();
+  }
 
   const topics = TOPIC_MAP[matchedKey] || [];
   topics.forEach((topic) => {

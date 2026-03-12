@@ -102,7 +102,7 @@ export default function FlashcardsPage() {
         break;
     }
 
-    updated.nextReview = Date.now() + updated.interval * 60 * 1000;
+    updated.nextReview = Date.now() + updated.interval * 24 * 60 * 60 * 1000;
     const newDeck = deck.map((c) => (c.id === card.id ? updated : c));
     saveDeck(newDeck);
     setReviewFlipped(false);

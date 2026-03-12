@@ -1,10 +1,5 @@
 # The Enchiridion: On Faith, Hope, and Charity (St. Augustine)
 
-
-******
-
-""****"
-
 ## Introduction
 
 ### Chapter 1. The Author Desires the Gift of True Wisdom for Laurentius.
@@ -500,7 +495,3 @@ All the commandments of God, then, are embraced in love, of which the apostle sa
 ### Chapter 122. Conclusion.
 
 But now there must be an end at last to this volume. And it is for yourself to judge whether you should call it a hand-book, or should use it as such. I, however, thinking that your zeal in Christ ought not to be despised, and believing and hoping all good of you in dependence on our Redeemer's help, and loving you very much as one of the members of His body, have, to the best of my ability, written this book for you on*Faith, Hope, and Love*. May its value be equal to its length.
-
-## About this page
-
-**Source.**

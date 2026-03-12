@@ -1,17 +1,32 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import PageHeader from "@/components/PageHeader";
 
 export default function SettingsPage() {
   const [apiKey, setApiKey] = useState("");
   const [saved, setSaved] = useState(false);
-  const [darkMode, setDarkMode] = useState(true);
+  const [theme, setTheme] = useState<"dark" | "light" | "sepia">("dark");
+  const [lastExport, setLastExport] = useState<string | null>(null);
+  const [importStatus, setImportStatus] = useState<string | null>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     const stored = localStorage.getItem("veritas-api-key");
     if (stored) setApiKey(stored);
+    const storedTheme = localStorage.getItem("veritas-theme") as "dark" | "light" | "sepia" | null;
+    if (storedTheme) setTheme(storedTheme);
+    const storedExport = localStorage.getItem("veritas-last-export");
+    if (storedExport) setLastExport(storedExport);
   }, []);
+
+  const applyTheme = (t: "dark" | "light" | "sepia") => {
+    setTheme(t);
+    localStorage.setItem("veritas-theme", t);
+    const root = document.documentElement;
+    root.classList.remove("theme-dark", "theme-light", "theme-sepia");
+    root.classList.add(`theme-${t}`);
+  };
 
   const saveApiKey = () => {
     localStorage.setItem("veritas-api-key", apiKey);
@@ -29,10 +44,93 @@ export default function SettingsPage() {
       "veritas-reading",
       "veritas-plans",
       "veritas-weakness",
+      "veritas-theme",
+      "veritas-recent-searches",
     ];
     keys.forEach((k) => localStorage.removeItem(k));
+    document.documentElement.className = document.documentElement.className.replace(/theme-\w+/, "theme-dark");
     setApiKey("");
     alert("All data cleared.");
+  };
+
+  const exportData = () => {
+    const data: Record<string, unknown> = {};
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith("veritas-")) {
+        const val = localStorage.getItem(key);
+        if (val !== null) {
+          try {
+            data[key] = JSON.parse(val);
+          } catch {
+            data[key] = val;
+          }
+        }
+      }
+    }
+
+    const dateStr = new Date().toISOString().split("T")[0];
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `veritas-backup-${dateStr}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+
+    localStorage.setItem("veritas-last-export", dateStr);
+    setLastExport(dateStr);
+  };
+
+  const handleImport = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = (ev) => {
+      try {
+        const raw = ev.target?.result as string;
+        const data = JSON.parse(raw);
+
+        if (typeof data !== "object" || data === null || Array.isArray(data)) {
+          setImportStatus("Invalid file format.");
+          return;
+        }
+
+        const veritasKeys = Object.keys(data).filter((k) => k.startsWith("veritas-"));
+        if (veritasKeys.length === 0) {
+          setImportStatus("No veritas data found in file.");
+          return;
+        }
+
+        if (!confirm(`This will merge ${veritasKeys.length} item${veritasKeys.length === 1 ? "" : "s"}. Continue?`)) {
+          setImportStatus(null);
+          return;
+        }
+
+        veritasKeys.forEach((key) => {
+          const val = data[key];
+          localStorage.setItem(key, typeof val === "string" ? val : JSON.stringify(val));
+        });
+
+        setImportStatus(`Imported ${veritasKeys.length} items successfully.`);
+        // Refresh displayed state
+        const stored = localStorage.getItem("veritas-api-key");
+        if (stored) setApiKey(stored);
+        const storedTheme = localStorage.getItem("veritas-theme") as "dark" | "light" | "sepia" | null;
+        if (storedTheme) setTheme(storedTheme);
+
+        setTimeout(() => setImportStatus(null), 4000);
+      } catch {
+        setImportStatus("Failed to parse file. Make sure it is valid JSON.");
+      }
+    };
+    reader.readAsText(file);
+
+    // Reset file input so the same file can be re-selected
+    if (fileInputRef.current) fileInputRef.current.value = "";
   };
 
   return (
@@ -79,26 +177,65 @@ export default function SettingsPage() {
             <h2 className="text-sm font-semibold text-stone-200">
               Appearance
             </h2>
-            <div className="flex items-center justify-between rounded-lg border border-stone-800 bg-stone-900 px-4 py-3">
-              <div>
-                <p className="text-sm text-stone-300">Dark Mode</p>
-                <p className="text-xs text-stone-600">
-                  Always on. Veritas is designed for dark mode.
-                </p>
-              </div>
-              <button
-                onClick={() => setDarkMode(!darkMode)}
-                className={`relative h-6 w-11 rounded-full transition-colors ${
-                  darkMode ? "bg-amber-700" : "bg-stone-700"
-                }`}
-              >
-                <span
-                  className={`absolute top-0.5 h-5 w-5 rounded-full bg-white transition-transform ${
-                    darkMode ? "left-5" : "left-0.5"
+            <p className="text-xs text-stone-500">
+              Choose your reading theme. Dark is the default.
+            </p>
+            <div className="flex gap-2">
+              {(["dark", "light", "sepia"] as const).map((t) => (
+                <button
+                  key={t}
+                  onClick={() => applyTheme(t)}
+                  className={`flex-1 rounded-lg border px-4 py-3 text-sm capitalize transition-colors ${
+                    theme === t
+                      ? "border-amber-700 bg-amber-900/30 text-amber-400"
+                      : "border-stone-800 bg-stone-900 text-stone-500 hover:border-stone-700"
                   }`}
-                />
-              </button>
+                >
+                  {t}
+                </button>
+              ))}
             </div>
+          </div>
+
+          {/* Export / Import */}
+          <div className="space-y-3">
+            <h2 className="text-sm font-semibold text-stone-200">
+              Export / Import
+            </h2>
+            <p className="text-xs text-stone-500">
+              Back up all your Veritas data or restore from a previous backup.
+            </p>
+            <div className="flex gap-2">
+              <button
+                onClick={exportData}
+                className="rounded-lg border border-stone-800 bg-stone-900 px-4 py-2 text-sm text-stone-300 hover:border-stone-700 transition-colors"
+              >
+                Export All Data
+              </button>
+              <button
+                onClick={() => fileInputRef.current?.click()}
+                className="rounded-lg border border-stone-800 bg-stone-900 px-4 py-2 text-sm text-stone-300 hover:border-stone-700 transition-colors"
+              >
+                Import Data
+              </button>
+              <input
+                ref={fileInputRef}
+                type="file"
+                accept=".json"
+                onChange={handleImport}
+                className="hidden"
+              />
+            </div>
+            {lastExport && (
+              <p className="text-[10px] text-stone-600">
+                Last export: {lastExport}
+              </p>
+            )}
+            {importStatus && (
+              <p className={`text-xs ${importStatus.includes("success") ? "text-emerald-500" : "text-red-400"}`}>
+                {importStatus}
+              </p>
+            )}
           </div>
 
           {/* Data Management */}
