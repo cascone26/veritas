@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import InstallPrompt from "@/components/InstallPrompt";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -10,6 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Veritas — Catholic Theology & Apologetics",
   description: "Personal AI-powered Catholic theology and apologetics platform built on the complete works of St. Thomas Aquinas.",
+  manifest: '/manifest.json',
   icons: {
     icon: '/icon.svg',
     apple: '/apple-touch-icon.svg',
@@ -35,6 +37,12 @@ export default function RootLayout({
       </head>
       <body className={`${inter.variable} antialiased`}>
         {children}
+        <InstallPrompt />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `if("serviceWorker"in navigator){window.addEventListener("load",function(){navigator.serviceWorker.register("/sw.js")})}`,
+          }}
+        />
       </body>
     </html>
   );
