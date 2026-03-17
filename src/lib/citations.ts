@@ -16,10 +16,6 @@
 
 const LINK_CLASS = "text-amber-500 hover:underline";
 
-// Book abbreviations that can start with a number (1/2/3)
-const NUMBERED_BOOKS =
-  "Cor|Thess|Tim|Pet|John|Jn|Sam|Kgs|Kings|Chr|Chron|Macc|Esd";
-
 // All recognisable Bible book names / abbreviations
 const BIBLE_BOOKS = [
   // Old Testament
