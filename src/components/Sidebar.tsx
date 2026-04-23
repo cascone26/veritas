@@ -151,10 +151,10 @@ export default function Sidebar() {
       <div className="fixed bottom-0 left-0 right-0 z-40 border-t border-stone-800 bg-stone-950/95 backdrop-blur-sm px-2 py-1.5 lg:hidden safe-bottom">
         <div className="flex items-center justify-around">
           {[
+            { name: "Daily", href: "/practice", icon: "☀️" },
             { name: "Ask", href: "/ask", icon: "💬" },
+            { name: "Doubt", href: "/doubt", icon: "🔥" },
             { name: "Summa", href: "/summa", icon: "📖" },
-            { name: "Courses", href: "/courses", icon: "🗺️" },
-            { name: "Bible", href: "/bible", icon: "📜" },
             { name: "More", href: "#menu", icon: "☰" },
           ].map((item) => {
             if (item.href === "#menu") {

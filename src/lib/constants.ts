@@ -91,6 +91,14 @@ Opponent types and their styles:
 
 export const NAV_SECTIONS = [
   {
+    title: "Daily",
+    items: [
+      { name: "Morning Practice", href: "/practice", icon: "sun" },
+      { name: "When Struggling", href: "/doubt", icon: "flame" },
+      { name: "Ground to Stand On", href: "/grounding", icon: "library" },
+    ],
+  },
+  {
     title: "AI Tools",
     items: [
       { name: "Ask Aquinas", href: "/ask", icon: "chat" },
